@@ -1,6 +1,6 @@
 # 
 # EDGAR_fetch
-## File to download history from SEC.gov filings
+## Node JS Process to download indexed history from SEC.gov filings, unzip indexes, store in Database, and query for filings.
 
 #### *Created by Yaniv Alfasy*
 
