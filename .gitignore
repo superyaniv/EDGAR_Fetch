@@ -1,0 +1,11 @@
+#ignore all gz files
+*.gz
+
+#ignore all idx files
+*.idx
+
+#ignore all db files
+*.db
+
+#ignore mac db_store files
+*.DB_Store
