@@ -2,6 +2,7 @@
 // ========
 const http = require('https');
 const fs = require('fs');
+const zlib = require('zlib');
 
 function fetch_file(url, filepath) {
 	try{
@@ -13,6 +14,15 @@ function fetch_file(url, filepath) {
 		console.error(e);
 	}
 };
+function unzip_file(gzFile, target) {
+	try{
+		const fileContents = fs.createReadStream(gzFile);
+		const writeStream = fs.createWriteStream(target);
+		const unzip = zlib.createGunzip();
+		fileContents.pipe(unzip).pipe(writeStream);
+	}catch(e){
+		console.error(e);
+	}
+}
 
-
-module.exports = {fetch_file};
+module.exports = {fetch_file,unzip_file};
