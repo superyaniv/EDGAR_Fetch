@@ -8,4 +8,4 @@
 *.db
 
 #ignore mac db_store files
-*..DS_Store
+*.DS_Store
