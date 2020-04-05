@@ -6,7 +6,7 @@
 
 ### Download Git and Requirements
 
-    git clone https://github.com/superyaniv/Geo_Spatial_Grouper.git
+    git clone https://github.com/superyaniv/EDGAR_fetch.git
 
 ### Input Data into Data Folders
 * Directory files will contain all the files downloaded and unzipped
