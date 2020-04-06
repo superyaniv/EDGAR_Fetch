@@ -7,5 +7,11 @@
 #ignore all db files
 *.db
 
+#ignore all db files
+*.db
+
 #ignore mac db_store files
 *.DS_Store
+
+#ignore all files in filing folder
+/filings/*
