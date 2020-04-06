@@ -1,0 +1,391 @@
+<SEC-DOCUMENT>0001553350-20-000184.txt : 20200227
+<SEC-HEADER>0001553350-20-000184.hdr.sgml : 20200227
+<ACCEPTANCE-DATETIME>20200227165409
+ACCESSION NUMBER:		0001553350-20-000184
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200227
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Submission of Matters to a Vote of Security Holders
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20200227
+DATE AS OF CHANGE:		20200227
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HEAT BIOLOGICS, INC.
+		CENTRAL INDEX KEY:			0001476963
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				262844103
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35994
+		FILM NUMBER:		20663221
+
+	BUSINESS ADDRESS:	
+		STREET 1:		627 DAVIS DRIVE
+		STREET 2:		SUITE 400
+		CITY:			MORRISVILLE
+		STATE:			NC
+		ZIP:			27560
+		BUSINESS PHONE:		919-240-7133
+
+	MAIL ADDRESS:	
+		STREET 1:		627 DAVIS DRIVE
+		STREET 2:		SUITE 400
+		CITY:			MORRISVILLE
+		STATE:			NC
+		ZIP:			27560
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>htbx_8k.htm
+<DESCRIPTION>CURRENT REPORT
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Current Report</TITLE>
+<META NAME="author" CONTENT="Patrick Egan">
+<META NAME="date" CONTENT="01/02/2020">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; color:#000000">
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="line-height:1pt; margin:0px; font-size:11pt">&nbsp;<FONT style="font-size:10pt">&nbsp;</FONT></P>
+<P style="margin-top:0px; margin-bottom:2.267px; padding-bottom:4px; font-family:Calibri,Times New Roman; font-size:11pt; border-bottom:4px solid #000000" align=right>&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9px; padding-top:4px; font-family:Calibri,Times New Roman; font-size:11pt; border-top:1.333px solid #000000" align=right>&nbsp;</P>
+<P style="margin:0px" align=center><B>UNITED STATES</B></P>
+<P style="margin:0px" align=center><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+<P style="margin:0px" align=center><B>WASHINGTON, D.C. 20549</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>FORM 8-K</B></P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px" align=center><B>CURRENT REPORT</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center>Date of Report (date of earliest event reported): <B>February 27, 2020</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; font-size:14pt" align=center><B>Heat Biologics, Inc.</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(Exact name of registrant as specified in charter)</I></P>
+<A NAME="FIS_UNIDENTIFIED_TABLE"></A><P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>Delaware</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(State or other jurisdiction of incorporation)</I></P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=322 /><TD width=322 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=322><P style="margin:0px" align=center><B>001-35994</B></P>
+</TD><TD style="margin-top:0px" valign=top width=322><P style="margin:0px" align=center><B>26-2844103</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=322><P style="margin:0px; font-size:8pt" align=center><I>(Commission File Number)</I></P>
+</TD><TD style="margin-top:0px" valign=top width=322><P style="margin:0px; font-size:8pt" align=center><I>(IRS Employer Identification No.)</I></P>
+</TD></TR>
+</TABLE>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<P style="line-height:11pt; margin:0px" align=center><B>627 Davis Drive, Suite 400</B></P>
+<P style="margin:0px" align=center><B>Morrisville, North Carolina 27560</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>&nbsp;(Address of principal executive offices and zip code)</I></P>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>(919) 240-7133</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(Registrant&#146;s telephone number including area code)</I></P>
+<P style="line-height:10pt; margin:0px">&nbsp;</P>
+<P style="margin:0px" align=center><B>N/A</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(Former Name and Former Address)</I></P>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<P style="margin:0px">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of registrant under any of the following provisions:</P>
+<P style="line-height:10pt; margin:0px">&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD width=43 /><TD width=29 /><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=43><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=29><P style="margin:0px; font-family:Wingdings">&#168;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=43><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=29><P style="margin:0px; font-family:Wingdings">&#168;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=43><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=29><P style="margin:0px; font-family:Wingdings">&#168;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=43><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=29><P style="margin:0px; font-family:Wingdings">&#168;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</P>
+</TD></TR>
+</TABLE>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<P style="margin:0px">Securities registered pursuant to Section 12(b) of the Act:</P>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=258 /><TD width=143 /><TD width=282 /></TR>
+<TR><TD style="margin-top:0px; border:1px solid #000000" valign=top width=258><P style="margin:0px; font-size:8pt" align=center><B>Title of each class</B></P>
+</TD><TD style="margin-top:0px; border-top:1px solid #000000; border-right:1px solid #000000; border-bottom:1px solid #000000" valign=top width=143><P style="margin:0px; font-size:8pt" align=center><B>Trading Symbol(s)</B></P>
+</TD><TD style="margin-top:0px; border-top:1px solid #000000; border-right:1px solid #000000; border-bottom:1px solid #000000" valign=top width=282><P style="margin:0px; font-size:8pt" align=center><B>Name of each exchange on which registered</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; border-left:1px solid #000000; border-right:1px solid #000000; border-bottom:1px solid #000000" valign=top width=258><P style="margin:0px" align=center>Common Stock, $0.0002 par value per share</P>
+</TD><TD style="margin-top:0px; border-right:1px solid #000000; border-bottom:1px solid #000000" valign=top width=143><P style="margin:0px" align=center>HTBX</P>
+</TD><TD style="margin-top:0px; border-right:1px solid #000000; border-bottom:1px solid #000000" valign=top width=282><P style="margin:0px" align=center>The Nasdaq Capital Market</P>
+</TD></TR>
+</TABLE>
+<P style="line-height:8pt; margin:0px"><BR></P>
+<P style="margin:0px" align=justify>Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (&#167;230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (&#167;240.12b-2 of this chapter).</P>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0><TR height=0 style="font-size:0"><TD width=320 /><TD width=320 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=320><P style="margin:0px; text-indent:48px">Emerging growth company&nbsp; <FONT style="font-family:Wingdings">&#168;</FONT></P>
+</TD><TD style="margin-top:0px" valign=top width=320><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+</TABLE>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<P style="margin:0px" align=justify>If an emerging growth company, indicate by checkmark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.&nbsp;&nbsp;<FONT style="font-family:Wingdings">&#168;</FONT></P>
+<P style="margin-top:0px; margin-bottom:2.467px; padding-bottom:4px; font-family:Calibri,Times New Roman; font-size:11pt; border-bottom:1.333px solid #000000">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px; padding-top:4px; font-family:Calibri,Times New Roman; font-size:11pt; border-top:4px solid #000000">&nbsp;</P>
+<A NAME="FIS_SECTION_1_BUSINESS_AND_OPERATIONS"></A><A NAME="FIS_ENTRY_MATERIAL_AGREEMENT"></A><P style="margin-top:0px; margin-bottom:8.867px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px"><B>Item 5.02.</B> &nbsp;<B>Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>On February 27, 2020, Heat Biologics, Inc. (the <font style='font-family:Arial Unicode MS,Times New Roman'>&#8220;</font>Company<font style='font-family:Arial Unicode MS,Times New Roman'>&#8221;</font>) held a 2020 Special Meeting of Stockholders (the &#147;Special Meeting&#148;). At the Special Meeting, the Company&#146;s stockholders approved an amendment to the Company&#146;s 2018 Stock Incentive Plan (the &#147;2018 Stock Incentive Plan&#148; or the &#147;Plan&#148;) to increase the number of shares of common stock, $0.0002 par value per share (the &#147;Common Stock&#148;), that the Company will have authority to grant under the Plan by an additional 4,000,000 shares of Common Stock. A description of the Plan and the amendment to the Plan approved at the Special Meeting is set forth in the Company&#146;s definitive proxy statement on Schedule 14A for the Special Meeting, which was filed on January 24, 2020 (the &#147;Definitive Proxy Statement&#148;) with the Securities and Exchange Commission in the section <A NAME="HTBX_8K_HTM_HTBX_8K_HTM_T23AO"></A>entitled &#147;Proposal 4&#151;Approval of an Amendment to our 2018 Stock Incentive Plan to Increase the Number of Shares of Common Stock That We Will Have Authority to Grant Under the Plan by an Additional 4,000,000 Shares of Common Stock,&#148; which is incorporated herein by reference. <FONT style="background-color:#FFFFFF">The description is qualified in its entirety by reference to the full text of Amendment No. 2 to the 2018 Stock Incentive Plan, the form of which is included as Exhibit 10.1 hereto and attached to the Definitive Proxy Statement as </FONT><U>Appendix D</U><FONT style="background-color:#FFFFFF">.</FONT> &nbsp;</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><B>Item 5.07. &nbsp;Submission of Matters to a Vote of Security Holders.</B> &nbsp;</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>On February 27, 2020, at the Special Meeting, the Company&#146;s stockholders voted on the following five (5) proposals and cast their votes as described below. &nbsp;These matters are described in detail in the Definitive Proxy Statement.</P>
+<P style="margin:0px" align=justify><BR></P>
+<A NAME="FIS_UNIDENTIFIED_TABLE_2"></A><P style="margin:0px" align=justify>Proposal 1 &#151; To approve an amendment to the Company&#146;s third amended and restated certificate of incorporation, as amended (the &#147;Restated Certificate of Incorporation&#148;), to effect a reverse stock split of the Company&#146;s issued and outstanding shares of Common Stock at a ratio to be determined in the discretion of our Board of Directors within a range of one (1) share of Common Stock for every two (2) to fifty (50) shares of Common Stock.</P>
+<P style="margin:0px"><BR></P>
+<A NAME="_Hlk33695980"></A><P style="margin:0px">The Company&#146;s stockholders approved Proposal 1. &nbsp;The votes cast were as follows:</P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=153.867 /><TD width=18.267 /><TD width=144.067 /><TD width=18.267 /><TD width=141.067 /><TD width=18.267 /><TD width=142.267 /><TD width=10.267 /></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=153.867><P style="margin:0px; padding-right:2.2px" align=center><B>Votes&nbsp;For</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:2.2px" align=center><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=144.067><P style="margin:0px; padding-right:2.2px" align=center><B>Votes&nbsp;Against</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:2.2px" align=center><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=141.067><P style="margin:0px; padding-right:2.2px" align=center><B>Abstentions</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:2.2px" align=center><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=142.267><P style="margin:0px; padding-right:2.2px" align=center><B>Broker&nbsp;Non-Votes</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=10.267><P style="margin:0px; padding-right:2.2px" align=center><B>&nbsp;</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=153.867><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=144.067><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=141.067><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=142.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=10.267><P style="margin:0px; padding-right:2.2px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=153.867><P style="margin:0px; padding-right:2.2px" align=center>31,302,402</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=18.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=144.067><P style="margin:0px; padding-right:2.2px" align=center>2,830,824</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=18.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=141.067><P style="margin:0px; padding-right:2.2px" align=center>54,619</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=18.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=142.267><P style="margin:0px; padding-right:2.2px" align=center>0</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=10.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">Proposal 2 &#151; To approve an amendment to the Restated Certificate of Incorporation to increase the number of authorized shares of Common Stock from 100,000,000 to 250,000,000.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">The Company&#146;s stockholders approved Proposal 2. &nbsp;The votes cast were as follows:</P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=153.867 /><TD width=18.267 /><TD width=144.067 /><TD width=18.267 /><TD width=141.067 /><TD width=18.267 /><TD width=142.267 /><TD width=10.267 /></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=153.867><P style="margin:0px; padding-right:2.2px" align=center><B>Votes&nbsp;For</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:2.2px" align=center><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=144.067><P style="margin:0px; padding-right:2.2px" align=center><B>Votes&nbsp;Against</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:2.2px" align=center><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=141.067><P style="margin:0px; padding-right:2.2px" align=center><B>Abstentions</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:2.2px" align=center><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=142.267><P style="margin:0px; padding-right:2.2px" align=center><B>Broker&nbsp;Non-Votes</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=10.267><P style="margin:0px; padding-right:2.2px" align=center><B>&nbsp;</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=153.867><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=144.067><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=141.067><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=142.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=10.267><P style="margin:0px; padding-right:2.2px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=153.867><P style="margin:0px; padding-right:2.2px" align=center>29,573,147</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=18.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=144.067><P style="margin:0px; padding-right:2.2px" align=center>4,426,816</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=18.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=141.067><P style="margin:0px; padding-right:2.2px" align=center>187,882</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=18.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=142.267><P style="margin:0px; padding-right:2.2px" align=center>0</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=10.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>Proposal 3 &#151; To approve an amendment to the Restated Certificate of Incorporation to authorize the Board of Directors to issue (and set the terms of) undesignated preferred stock.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">The Company&#146;s stockholders did not approve Proposal 3. &nbsp;The votes cast were as follows:</P>
+<P style="margin:0px">&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=153.867 /><TD width=18.267 /><TD width=144.067 /><TD width=18.267 /><TD width=141.067 /><TD width=18.267 /><TD width=142.267 /><TD width=10.267 /></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=153.867><P style="margin:0px; padding-right:2.2px" align=center><B>Votes&nbsp;For</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:2.2px" align=center><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=144.067><P style="margin:0px; padding-right:2.2px" align=center><B>Votes&nbsp;Against</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:2.2px" align=center><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=141.067><P style="margin:0px; padding-right:2.2px" align=center><B>Abstentions</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:2.2px" align=center><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=142.267><P style="margin:0px; padding-right:2.2px" align=center><B>Broker&nbsp;Non-Votes</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=10.267><P style="margin:0px; padding-right:2.2px" align=center><B>&nbsp;</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=153.867><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=144.067><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=141.067><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=142.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=10.267><P style="margin:0px; padding-right:2.2px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=153.867><P style="margin:0px; padding-right:2.2px" align=center>15,300,367</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=18.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=144.067><P style="margin:0px; padding-right:2.2px" align=center>2,917,260</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=18.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=141.067><P style="margin:0px; padding-right:2.2px" align=center>3,691,273</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=18.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=142.267><P style="margin:0px; padding-right:2.2px" align=center>12,278,945</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=10.267><P style="margin:0px; padding-right:2.2px">&nbsp;</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px">Proposal 4 &#151; To approve an amendment to 2018 Stock Incentive Plan to increase the number of shares of Common Stock that the Company will have authority to grant under the Plan by an additional 4,000,000 shares of Common Stock.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">The Company&#146;s stockholders approved Proposal 4. &nbsp;The votes cast were as follows:</P>
+<P style="margin:0px">&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=153.867 /><TD width=18.267 /><TD width=144.067 /><TD width=18.267 /><TD width=141.067 /><TD width=18.267 /><TD width=142.267 /><TD width=10.267 /></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=153.867><P style="margin:0px; padding-right:2.2px" align=center><B>Votes&nbsp;For</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:2.2px" align=center><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=144.067><P style="margin:0px; padding-right:2.2px" align=center><B>Votes&nbsp;Against</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:2.2px" align=center><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=141.067><P style="margin:0px; padding-right:2.2px" align=center><B>Abstentions</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:2.2px" align=center><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=142.267><P style="margin:0px; padding-right:2.2px" align=center><B>Broker&nbsp;Non-Votes</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=10.267><P style="margin:0px; padding-right:2.2px" align=center><B>&nbsp;</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=153.867><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=144.067><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=141.067><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=142.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=10.267><P style="margin:0px; padding-right:2.2px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=153.867><P style="margin:0px; padding-right:2.2px" align=center>16,026,415</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=18.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=144.067><P style="margin:0px; padding-right:2.2px" align=center>2,221,559</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=18.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=141.067><P style="margin:0px; padding-right:2.2px" align=center>3,660,926</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=18.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=142.267><P style="margin:0px; padding-right:2.2px" align=center>12,278,945</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=10.267><P style="margin:0px; padding-right:2.2px">&nbsp;</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">Proposal 5 &#151; To approve an adjournment of the Special Meeting, if the Board of Directors determines it to be necessary or appropriate, if a quorum is present, to solicit additional proxies if there are not sufficient votes in favor of Proposal 1, Proposal 2, Proposal 3 and/or Proposal 4.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">The Company&#146;s stockholders approved Proposal 5. &nbsp;The votes cast were as follows:</P>
+<P style="margin:0px">&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=153.867 /><TD width=18.267 /><TD width=144.067 /><TD width=18.267 /><TD width=141.067 /><TD width=18.267 /><TD width=142.267 /><TD width=10.267 /></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=153.867><P style="margin:0px; padding-right:2.2px" align=center><B>Votes&nbsp;For</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:2.2px" align=center><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=144.067><P style="margin:0px; padding-right:2.2px" align=center><B>Votes&nbsp;Against</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:2.2px" align=center><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=141.067><P style="margin:0px; padding-right:2.2px" align=center><B>Abstentions</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:2.2px" align=center><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=142.267><P style="margin:0px; padding-right:2.2px" align=center><B>Broker&nbsp;Non-Votes</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=10.267><P style="margin:0px; padding-right:2.2px" align=center><B>&nbsp;</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=153.867><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=144.067><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=141.067><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=18.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=142.267><P style="margin:0px; padding-right:1.067px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=10.267><P style="margin:0px; padding-right:2.2px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=153.867><P style="margin:0px; padding-right:2.2px" align=center>24,127,897</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=18.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=144.067><P style="margin:0px; padding-right:2.2px" align=center>4,572,161</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=18.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=141.067><P style="margin:0px; padding-right:2.2px" align=center>5,487,787</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=18.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=142.267><P style="margin:0px; padding-right:2.2px" align=center>0</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=10.267><P style="margin:0px; padding-right:2.2px">&nbsp;</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">The Board of Directors has determined not to adjourn the Special Meeting to solicit additional proxies. &nbsp;</P>
+<P style="margin:0px"><BR></P>
+<A NAME="eolPage4"></A><A NAME="FIS_SECTION_9_FINANCIAL_STATEMENTS_AND_E"></A><A NAME="FIS_FINANCIAL_STATEMENTS_AND_EXHIBITS"></A><P style="margin:0px"><B>Item 9.01. &nbsp;Financial Statements and Exhibits.</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px">(d) Exhibits.</P>
+<A NAME="FIS_UNIDENTIFIED_TABLE_3"></A><P style="margin:0px"><BR></P>
+<A NAME="eolPage3"></A><TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD width=72 /><TD width=15.867 /><TD /></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=72><P style="margin:0px; font-size:8pt" align=center><B>Exhibit No.</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=15.867><P style="margin:0px; font-size:8pt">&nbsp;</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom><P style="margin:0px; font-size:8pt"><B>Description</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=72><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=72><P style="margin:0px">10.1</P>
+</TD><TD style="margin-top:0px" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000622/htbx_14a.htm">Amendment No. 2 to the Heat Biologics, Inc. 2018 Stock Incentive Plan (incorporated by reference to Appendix D to the Definitive Proxy Statement on Schedule 14A filed with the Securities and Exchange Commission on January 24, 2020)</A></P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin-top:0px; margin-bottom:13.333px"><BR></P>
+<A NAME="eolPage5"></A><A NAME="FIS_SIGNATURES"></A><P style="margin:0px" align=center><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><B>SIGNATURES</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD /><TD width=49 /><TD width=245 /></TR>
+<TR><TD style="margin-top:0px"><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" width=49><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" width=245><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">Dated:&nbsp;&nbsp;February 27, 2020</P>
+</TD><TD style="margin-top:0px" valign=top width=294 colspan=2><P style="margin:0px">HEAT BIOLOGICS, INC.</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=294 colspan=2><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=49><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=245><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=49><P style="margin:0px">By:</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=245><P style="margin:0px">/s/ Jeffrey Wolf</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=49><P style="margin:0px">Name:</P>
+</TD><TD style="margin-top:0px" valign=top width=245><P style="margin:0px">Jeffrey Wolf</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=49><P style="margin:0px">Title:</P>
+</TD><TD style="margin-top:0px" valign=top width=245><P style="margin:0px">Chairman, President and<BR>
+Chief Executive Officer</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR>
+<BR></P>
+</BODY>
+<!-- EDGAR Validation Code: 780B8392 -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,439 @@
+<SEC-DOCUMENT>0001553350-20-000196.txt : 20200303
+<SEC-HEADER>0001553350-20-000196.hdr.sgml : 20200303
+<ACCEPTANCE-DATETIME>20200303085931
+ACCESSION NUMBER:		0001553350-20-000196
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20200302
+ITEM INFORMATION:		Unregistered Sales of Equity Securities
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20200303
+DATE AS OF CHANGE:		20200303
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HEAT BIOLOGICS, INC.
+		CENTRAL INDEX KEY:			0001476963
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				262844103
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35994
+		FILM NUMBER:		20680173
+
+	BUSINESS ADDRESS:	
+		STREET 1:		627 DAVIS DRIVE
+		STREET 2:		SUITE 400
+		CITY:			MORRISVILLE
+		STATE:			NC
+		ZIP:			27560
+		BUSINESS PHONE:		919-240-7133
+
+	MAIL ADDRESS:	
+		STREET 1:		627 DAVIS DRIVE
+		STREET 2:		SUITE 400
+		CITY:			MORRISVILLE
+		STATE:			NC
+		ZIP:			27560
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>htbx_8k.htm
+<DESCRIPTION>CURRENT REPORT
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Current Report</TITLE>
+<META NAME="author" CONTENT="Patrick Egan">
+<META NAME="date" CONTENT="03/03/2020">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; color:#000000">
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="line-height:1pt; margin:0px; font-size:11pt">&nbsp;<FONT style="font-size:10pt">&nbsp;</FONT></P>
+<P style="margin-top:0px; margin-bottom:2.267px; padding-bottom:4px; font-family:Calibri,Times New Roman; font-size:11pt; border-bottom:4px solid #000000" align=right>&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9px; padding-top:4px; font-family:Calibri,Times New Roman; font-size:11pt; border-top:1.333px solid #000000" align=right>&nbsp;</P>
+<P style="margin:0px" align=center><B>UNITED STATES</B></P>
+<P style="margin:0px" align=center><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+<P style="margin:0px" align=center><B>WASHINGTON, D.C. 20549</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>FORM 8-K</B></P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px" align=center><B>CURRENT REPORT</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center>Date of Report (date of earliest event reported): <B>March 2, 2020</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; font-size:14pt" align=center><B>Heat Biologics, Inc.</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(Exact name of registrant as specified in charter)</I></P>
+<A NAME="FIS_UNIDENTIFIED_TABLE"></A><P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>Delaware</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(State or other jurisdiction of incorporation)</I></P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=322 /><TD width=322 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=322><P style="margin:0px" align=center><B>001-35994</B></P>
+</TD><TD style="margin-top:0px" valign=top width=322><P style="margin:0px" align=center><B>26-2844103</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=322><P style="margin:0px; font-size:8pt" align=center><I>(Commission File Number)</I></P>
+</TD><TD style="margin-top:0px" valign=top width=322><P style="margin:0px; font-size:8pt" align=center><I>(IRS Employer Identification No.)</I></P>
+</TD></TR>
+</TABLE>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<P style="line-height:11pt; margin:0px" align=center><B>627 Davis Drive, Suite 400</B></P>
+<P style="margin:0px" align=center><B>Morrisville, North Carolina 27560</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>&nbsp;(Address of principal executive offices and zip code)</I></P>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>(919) 240-7133</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(Registrant&#146;s telephone number including area code)</I></P>
+<P style="line-height:10pt; margin:0px">&nbsp;</P>
+<P style="margin:0px" align=center><B>N/A</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(Former Name and Former Address)</I></P>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<P style="margin:0px">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of registrant under any of the following provisions:</P>
+<P style="line-height:10pt; margin:0px">&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD width=43 /><TD width=29 /><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=43><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=29><P style="margin:0px; font-family:Wingdings">&#168;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=43><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=29><P style="margin:0px; font-family:Wingdings">&#168;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=43><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=29><P style="margin:0px; font-family:Wingdings">&#168;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=43><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=29><P style="margin:0px; font-family:Wingdings">&#168;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</P>
+</TD></TR>
+</TABLE>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<P style="margin:0px">Securities registered pursuant to Section 12(b) of the Act:</P>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=258 /><TD width=143 /><TD width=282 /></TR>
+<TR><TD style="margin-top:0px; border:1px solid #000000" valign=top width=258><P style="margin:0px; font-size:8pt" align=center><B>Title of each class</B></P>
+</TD><TD style="margin-top:0px; border-top:1px solid #000000; border-right:1px solid #000000; border-bottom:1px solid #000000" valign=top width=143><P style="margin:0px; font-size:8pt" align=center><B>Trading Symbol(s)</B></P>
+</TD><TD style="margin-top:0px; border-top:1px solid #000000; border-right:1px solid #000000; border-bottom:1px solid #000000" valign=top width=282><P style="margin:0px; font-size:8pt" align=center><B>Name of each exchange on which registered</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; border-left:1px solid #000000; border-right:1px solid #000000; border-bottom:1px solid #000000" valign=top width=258><P style="margin:0px" align=center>Common Stock, $0.0002 par value per share</P>
+</TD><TD style="margin-top:0px; border-right:1px solid #000000; border-bottom:1px solid #000000" valign=top width=143><P style="margin:0px" align=center>HTBX</P>
+</TD><TD style="margin-top:0px; border-right:1px solid #000000; border-bottom:1px solid #000000" valign=top width=282><P style="margin:0px" align=center>The Nasdaq Capital Market</P>
+</TD></TR>
+</TABLE>
+<P style="line-height:8pt; margin:0px"><BR></P>
+<P style="margin:0px" align=justify>Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (&#167;230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (&#167;240.12b-2 of this chapter).</P>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0><TR height=0 style="font-size:0"><TD width=320 /><TD width=320 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=320><P style="margin:0px; text-indent:48px">Emerging growth company&nbsp; <FONT style="font-family:Wingdings">&#168;</FONT></P>
+</TD><TD style="margin-top:0px" valign=top width=320><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+</TABLE>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<P style="margin:0px" align=justify>If an emerging growth company, indicate by checkmark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.&nbsp;&nbsp;<FONT style="font-family:Wingdings">&#168;</FONT></P>
+<P style="margin-top:0px; margin-bottom:2.467px; padding-bottom:4px; font-family:Calibri,Times New Roman; font-size:11pt; border-bottom:1.333px solid #000000">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px; padding-top:4px; font-family:Calibri,Times New Roman; font-size:11pt; border-top:4px solid #000000">&nbsp;</P>
+<A NAME="FIS_SECTION_1_BUSINESS_AND_OPERATIONS"></A><A NAME="FIS_ENTRY_MATERIAL_AGREEMENT"></A><P style="margin-top:0px; margin-bottom:8.867px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px"><B>Item 3.02. &nbsp;Unregistered Sale of Equity Securities.</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">On March 2, 2020 and March 3, 2020, Heat Biologics, Inc. (the <font style='font-family:Arial Unicode MS,Times New Roman'>&#8220;</font>Company<font style='font-family:Arial Unicode MS,Times New Roman'>&#8221;</font>) entered into exchange agreements with six holders of its warrants issued in 2018 extinguishing warrants to purchase 3,166,666 &nbsp;shares of its common stock through the issuance of 2,153,332 shares of common stock.<B> &nbsp;</B>The issuance was made without registration, in reliance on the exemptions provided by Section 3(a)(9) of the Securities Act of 1933, as amended. The Company&#146;s outstanding number of shares of common stock after taking into account warrant exercises and the exchanges will be 65,292,265.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">The form of exchange agreement is attached as an exhibit to this Current Report on Form 8-K and is incorporated herein by reference.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><B>Item 8.01.</B>&nbsp;&nbsp;<B>Other Events.</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">On March 3, 2020, the Company issued a press release announcing that the Company has formally launched a program to develop a vaccine using its immune activating gp96 vaccine platform for treating or preventing infection from the SARS-CoV-2 coronavirus that causes COVID-19. </P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">A copy of the press release is attached as an exhibit to this Current Report on Form 8-K and is incorporated herein by reference.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><B>Item 9.01. &nbsp;&nbsp;Financial Statements and Exhibits.</B></P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD width=26 /><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=26><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P style="margin:0px">(d) Exhibits.</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">The following exhibit is being filed as part of this Report.</P>
+<P style="margin:0px">&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD width=75 /><TD width=24 /><TD /></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=75><P style="margin:0px" align=center><B>Exhibit</B></P>
+<P style="margin:0px" align=center><B>Number</B></P>
+</TD><TD style="margin-top:0px" valign=top width=24><P style="margin:0px"><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom><P style="margin:0px"><B>Description</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=75><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=24><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=75><P style="margin:0px" align=center>10.1</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=24><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top><P style="margin:0px; color:#0000FF"><A HREF="htbx_ex10z1.htm"><U>Form of Exchange Agreement</U></A><FONT style="color:#000000"></FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=75><P style="margin:0px" align=center>99.1</P>
+</TD><TD style="margin-top:0px" valign=bottom width=24><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; color:#0000FF"><A HREF="htbx_ex99z1.htm"><U>Press Release of Heat Biologics, Inc. dated March 3, 2020</U></A><U></U></P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin-top:0px; margin-bottom:13.333px"><BR></P>
+<A NAME="eolPage5"></A><A NAME="FIS_SIGNATURES"></A><P style="margin:0px" align=center><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><B>SIGNATURES</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD /><TD width=49 /><TD width=245 /></TR>
+<TR><TD style="margin-top:0px"><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" width=49><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" width=245><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">Dated:&nbsp;&nbsp;March 3, 2020</P>
+</TD><TD style="margin-top:0px" valign=top width=294 colspan=2><P style="margin:0px">HEAT BIOLOGICS, INC.</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=294 colspan=2><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=49><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=245><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=49><P style="margin:0px">By:</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=245><P style="margin:0px">/s/ Jeffrey Wolf</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=49><P style="margin:0px">Name:</P>
+</TD><TD style="margin-top:0px" valign=top width=245><P style="margin:0px">Jeffrey Wolf</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=49><P style="margin:0px">Title:</P>
+</TD><TD style="margin-top:0px" valign=top width=245><P style="margin:0px">Chairman, President and<BR>
+Chief Executive Officer</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR>
+<BR></P>
+</BODY>
+<!-- EDGAR Validation Code: 7C5D2A93 -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>htbx_ex10z1.htm
+<DESCRIPTION>FORM OF EXCHANGE AGREEMENT
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Form of Exchange Agreement</TITLE>
+<META NAME="date" CONTENT="03/03/2020">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; color:#000000">
+<P style="margin:0px; font-family:Garamond,Times New Roman; font-size:11pt">&nbsp;</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; font-size:11pt" align=right><B>EXHIBIT 10.1</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; font-size:11pt" align=center><B><U>EXCHANGE AGREEMENT</U></B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify><B>THIS EXCHANGE AGREEMENT </B>(this &#147;Agreement&#148;), dated as of March &nbsp;&nbsp;&nbsp;&nbsp;, 2020, is entered into by and between Heat Biologics, Inc., a Delaware corporation (the &#147;Company&#148;), and ____________ (the &#147;Investor&#148;).</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; font-size:11pt" align=center><B>WITNESSETH:</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify><B>WHEREAS,</B> on or about _____, 2018, in connection with a public offering by the Company under a registration statement on [Form S-3 (333-221201)] [Form S-1 (333-224039)] filed with the Securities and Exchange Commission, the Investor purchased from the Company a warrant (the &#147;Warrant&#148;) to purchase ____ shares of the Company&#146;s common stock, $.0002 par value per share (the &#147;Common Stock&#148;); and</P>
+<P style="margin:0px" align=justify><BR></P>
+<A NAME="_Hlk34034161"></A><P style="margin:0px; text-indent:48px; font-size:11pt" align=justify><B>WHEREAS</B>, the Company and Investor desire to exchange the Warrant for _____ shares of Common Stock (the &#147;Shares&#148;); and</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify><B>WHEREAS</B>, the exchange of the Warrant for the Shares is being made in reliance upon the exemption from registration provided by Section 3(a)(9) of the Securities Act of 1933, as amended (the &#147;Securities Act&#148;).</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify><B>NOW, THEREFORE,</B> in consideration of the release set forth below and of the mutual covenants and agreements contained herein, the parties hereto agree as follows:</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:48px; width:96px; font-size:11pt; float:left">1.</P>
+<P style="margin:0px; text-indent:-2px; font-size:11pt" align=justify>The Company and Investor hereby agree to exchange the Warrant for the Shares. &nbsp;Upon execution of this Agreement, the Company shall deliver to Investor the Shares and Investor shall deliver to the Company the Warrant for cancellation.</P>
+<P style="margin:0px; clear:left" align=justify><BR></P>
+<A NAME="_Hlk34035564"></A><P style="margin-top:0px; margin-bottom:-2px; text-indent:48px; width:96px; font-size:11pt; float:left">2.</P>
+<P style="margin:0px; text-indent:-2px; font-size:12pt" align=justify><U>Company Representations and Warranties.</U></P>
+<P style="margin:0px; clear:left" align=justify><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:96px; width:144px; font-size:11pt; float:left">2.1 &nbsp;&nbsp;&nbsp;</P>
+<P style="margin:0px; text-indent:-2px; font-size:11pt" align=justify><U>Securities Law Exemptions</U>. &nbsp;Assuming the accuracy of the representations and warranties of the Investor contained herein, the offer and issuance by the Company of the Shares is exempt from registration under the Securities Act. &nbsp;The offer and issuance of the Shares is exempt from registration under the Securities Act pursuant to the exemption provided by Section 3(a)(9) thereof.</P>
+<P style="margin:0px; text-indent:96px; font-size:11pt; clear:left" align=justify>&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:96px; width:144px; font-size:11pt; float:left">2.2 &nbsp;&nbsp;</P>
+<P style="margin:0px; text-indent:-2px; font-size:11pt" align=justify><U>Issuance of Securities</U>. &nbsp;The issuance of the Shares has been duly authorized and upon issuance in accordance with the terms hereof shall be validly issued, fully paid and nonassessable and free from all preemptive or similar rights, taxes, liens, charges and other encumbrances with respect to the issue thereof, with the holders being entitled to all rights accorded to a holder of Common Stock.</P>
+<P style="margin:0px; text-indent:96px; font-size:11pt; clear:left" align=justify>&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:96px; width:144px; font-size:11pt; float:left">2.3 &nbsp;&nbsp;&nbsp;</P>
+<P style="margin:0px; text-indent:-2px; font-size:11pt" align=justify><U>Disclosure</U>. &nbsp;The Company confirms that neither it nor any other person acting on its behalf has provided the Investor or its agents or counsel with any information that constitutes or could reasonably be expected to constitute material, non-public information concerning the Company or any of its subsidiaries, other than the existence of the transaction contemplated by this Agreement.</P>
+<P style="margin:0px; clear:left" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify>3. &nbsp;&nbsp;&nbsp;<U>Investor Representations and Warranties</U>. As a material inducement to the Company to enter into this Agreement and consummate the Exchange, Investor represents, warrants and covenants with and to the Company as follows:</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; font-family:Garamond,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin:0px"><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:96px; width:144px; font-size:11pt; float:left">3.1</P>
+<P style="margin:0px; text-indent:-2px; font-size:11pt" align=justify><U>Ownership of Warrant</U>. &nbsp;The Investor owns the Warrant and the underlying shares of Common Stock free and clear of any liens (other than the obligations pursuant to this Agreement and applicable securities laws).</P>
+<P style="margin:0px; clear:left" align=justify><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:96px; width:144px; font-size:11pt; float:left">3.2 &nbsp;&nbsp;</P>
+<P style="margin:0px; text-indent:-2px; font-size:11pt" align=justify><U>Reliance on Exemptions</U>. &nbsp;The Investor understands that the Shares are being offered and exchanged in reliance on a specific exemption from the registration requirements of United States federal and state securities laws and that the Company is relying in part upon the truth and accuracy of, and the Investor&#146;s compliance with, the representations, warranties, agreements, acknowledgments and understandings of the Investor set forth herein in order to determine the availability of such exemptions and the eligibility of the Investor to acquire the Shares.</P>
+<P style="margin:0px; clear:left" align=justify><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:96px; width:144px; font-size:11pt; float:left">3.3 &nbsp;</P>
+<P style="margin:0px; text-indent:-2px; font-size:11pt" align=justify><U>No Governmental Review</U>. &nbsp;The Investor understands that no United States federal or state agency or any other government or governmental agency has passed on or made any recommendation or endorsement of the Shares or the fairness or suitability of the investment in the Shares nor have such authorities passed upon or endorsed the merits of the offering of the Shares.</P>
+<P style="margin:0px; clear:left" align=justify><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:96px; width:144px; font-size:11pt; float:left">3.4 &nbsp;&nbsp;</P>
+<P style="margin:0px; text-indent:-2px; font-size:11pt" align=justify><U>Validity; Enforcement</U>. &nbsp;This Agreement has been duly and validly authorized, executed and delivered on behalf of the Investor and shall constitutes the legal, valid and binding obligation of the Investor enforceable against the Investor in accordance with its terms, except as such enforceability may be limited by general principles of equity or to applicable bankruptcy, insolvency, reorganization, moratorium, liquidation and other similar laws relating to, or affecting generally, the enforcement of applicable creditors&#146; rights and remedies.</P>
+<P style="margin:0px; text-indent:96px; font-size:11pt; clear:left" align=justify>&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:96px; width:144px; font-size:11pt; float:left">3.5 &nbsp;&nbsp;</P>
+<P style="margin:0px; text-indent:-2px; font-size:11pt" align=justify><U>No Conflicts</U>. &nbsp;The execution, delivery and performance by the Investor of this Agreement, and the consummation by the Investor of the transactions contemplated hereby will not (i) result in a violation of the organizational documents of the Investor or (ii) conflict with, or constitute a default (or an event which with notice or lapse of time or both would become a default) under, or give to others any rights of termination, amendment, acceleration or cancellation of, any agreement, indenture or instrument to which the Investor is a party, or (iii) result in a violation of any law, rule, regulation, order, judgment or decree (including federal and state securities laws) applicable to the Investor, except in the case of clauses (ii) and (iii) above, for such conflicts, defaults, rights or violations which would not, individually or in the aggregate, reasonably be expected to have a material adverse effect on the ability of the Investor to perform its obligations hereunder.</P>
+<P style="margin:0px; clear:left" align=justify><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:48px; width:96px; font-size:11pt; float:left">4.</P>
+<P style="margin:0px; text-indent:-2px; font-size:11pt" align=justify><U>Rule 144</U>. &nbsp;For the purposes of Rule 144, the Company acknowledges that the holding period of the Warrants may be tacked onto the holding period of the Shares, as such no restrictive legends shall be placed on the certificates representing the Shares.</P>
+<P style=margin-top:14.667px;margin-bottom:-1pt;font-size:1pt /><P style="margin-top:0px; margin-bottom:-2px; width:48px; font-size:11pt; clear:left; float:left">&nbsp;&nbsp;&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:-2px; width:48px; font-size:11pt; float:left">5. </P>
+<P style="margin:0px; text-indent:-2px; font-size:11pt"><U>Investor Acknowledgement</U>. &nbsp;&nbsp;The Investor acknowledges that Investor&#146;s investment decision to invest in the Company&#146;s public offering in January 2020 (the &#147;Offering&#148;) was a wholly independent act, made separate and apart from <A NAME="_Hlk34045317"></A>Investor&#146;s investment decision to enter into this Agreement and effect the exchange of the Warrant for the Shares as provided herein, was not contingent upon or influenced by said exchange and that t<FONT style="background-color:#FFFFFF">he Investor is not exchanging the Warrant for the Shares as a result of any statement or other communication made by the Company in the Offering regarding the Warrant, including, without limitation, any statement made or information contained in the Company&#146;s Common Stock Purchase Warrant issued on January 21, 2020.</FONT></P>
+<P style="margin:0px; clear:left" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px; font-size:11pt" align=center>2</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; font-family:Garamond,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin:0px"><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:48px; width:96px; font-size:11pt; float:left">6.</P>
+<P style="margin:0px; text-indent:-2px; font-size:11pt" align=justify><U>Miscellaneous</U>. This Agreement shall be governed by and interpreted in accordance with the laws of the State of New York. This Agreement may be signed in one or more counterparts, each of which shall be deemed an original. &nbsp;The headings of this Agreement are for convenience of reference and shall not form part of, or affect the interpretation of, this Agreement. &nbsp;If any provision of this Agreement shall be invalid or unenforceable in any jurisdiction, such invalidity or unenforceability shall not affect the validity or enforceability of the remainder of this Agreement or the validity or enforceability of this Agreement in any other jurisdiction. &nbsp;This Agreement may be amended only by an instrument in writing signed by the party to be charged with enforcement. &nbsp;This Agreement contains the entire agreement of the parties with respect to the subject matter hereto, superseding all prior agreements, understandings or discussions.</P>
+<P style="margin:0px; clear:left"><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt"><B>IN WITNESS WHEREOF,</B> the Company and Investor have caused this Agreement to be executed by their duly authorized representatives on the date as first written above.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD /><TD width=57.533 /><TD width=204.867 /></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=262.4 colspan=2><P style="margin:0px; font-size:11pt"><B>HEAT BIOLOGICS, INC.</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=57.533><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=204.867><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=57.533><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=204.867><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=57.533><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=204.867><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=57.533><P style="margin:0px; font-size:11pt">By:</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=204.867><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=57.533><P style="margin:0px; font-size:11pt">Name: </P>
+</TD><TD style="margin-top:0px" valign=top width=204.867><P style="margin:0px; font-size:11pt">Jeff Wolf</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=57.533><P style="margin:0px; font-size:11pt">Title: &nbsp;&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=204.867><P style="margin:0px; font-size:11pt">Chief Executive Officer</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=57.533><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=204.867><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=57.533><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=204.867><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=57.533><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=204.867><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=262.4 colspan=2><P style="margin:0px; font-size:11pt"><B>INVESTOR:</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=57.533><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=204.867><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=57.533><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=204.867><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=57.533><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=204.867><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=57.533><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=204.867><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=57.533><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=204.867><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=57.533><P style="margin:0px; font-size:11pt">By:</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=204.867><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=57.533><P style="margin:0px; font-size:11pt">Name:</P>
+</TD><TD style="margin-top:0px" valign=top width=204.867><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=57.533><P style="margin:0px; font-size:11pt">Title:</P>
+</TD><TD style="margin-top:0px" valign=top width=204.867><P style="margin:0px; padding:0px; font-size:11pt">&nbsp;</P></TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+<P style="margin:0px; font-size:11pt" align=center>3</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+</BODY>
+<!-- EDGAR Validation Code: 067F3F3D -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>htbx_ex99z1.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Press Release</TITLE>
+<META NAME="author" CONTENT="EDGAR FILING LLC">
+<META NAME="date" CONTENT="03/03/2020">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; color:#000000">
+<P style="margin:0px">&nbsp;</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=right><FONT style="background-color:#FFFFFF"><B>EXHIBIT 99.1</B></FONT></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; font-size:12pt" align=center><FONT style="background-color:#FFFFFF"><B>Heat Biologics Launches Program to Develop Vaccine Designed to Protect Against COVID-19 Coronavirus</B></FONT></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><FONT style="background-color:#FFFFFF"><B>Utilizes Heat's gp96 vaccine platform to treat or prevent infection</B></FONT></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><FONT style="background-color:#FFFFFF"><B>Potent immune response and induction of mucosal immunity in SIV/HIV, malaria, zika and other infectious diseases demonstrated in prior NIH and DOD-funded pre-clinical studies utilizing Heat's gp96 platform</B></FONT></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px"><FONT style="background-color:#FFFFFF"><B>DURHAM, NC / ACCESSWIRE / March 3, 2020 /&nbsp;</B></FONT><FONT style="background-color:#FFFFFF">Heat Biologics, Inc. (HTBX), a clinical-stage biopharmaceutical company specialized in the development of therapeutic vaccines, announced today that the Company has formally launched a program within its wholly-owned subsidiary, Zolovax, Inc., to develop a vaccine using its immune activating gp96 vaccine platform for treating or preventing infection from the SARS-CoV-2 coronavirus that causes COVID-19. The Company also announced that it has filed a provisional patent for use of its technology platform for treating or preventing infection with the&nbsp;SARS-CoV-2&nbsp;virus that causes coronavirus disease 2019 (COVID-19).</FONT></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><FONT style="background-color:#FFFFFF">Heat shock protein gp96 is a versatile and ubiquitous protein found in all human cells. It has been called the immune system's swiss army knife* due to its function as a potent immune adjuvant that has the role of &quot;molecular warning system&quot; to induce immunity against necrotic cells. gp96 is naturally tethered to the cell and is normally released only during necrosis or cell death.</FONT></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><FONT style="background-color:#FFFFFF">Heat's proprietary gp96 vaccine platform reprograms live cells to continually secrete antigens of interest bound to the gp96, thus activating a robust T-cell response against those antigens. Heat's gp96 platform has undergone rigorous testing in numerous National Institutes of Health (NIH) and U.S. Department of Defense (DOD)-funded mice and primate trials as a vaccine against SIV/HIV, malaria, zika and other infectious diseases, and has been tested in over 250 patients in multiple NIH and Heat-funded oncology trials.</FONT></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><FONT style="background-color:#FFFFFF">Jeff Wolf, CEO of Heat, commented, &quot;gp96 is a powerful vaccine platform that has been shown to induce a potent immune response and effectiveness in the induction of mucosal immunity in several infectious disease models. We believe this platform has the potential to provide broad protection against COVID-19, and possible future mutations of COVID-19 or other coronaviruses. We look forward to providing further updates on our progress as developments unfold.&quot;</FONT></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><FONT style="background-color:#FFFFFF">*Schild, H., &amp; Rammensee, H.G., gp96 - The Immune System' s Swiss Army Knife. Nature Immunology&nbsp;2000 Aug;1(2):100-1.</FONT></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><FONT style="background-color:#FFFFFF"><B>About Heat Biologics, Inc.</B></FONT></P>
+<P style="margin:0px"><FONT style="background-color:#FFFFFF">Heat Biologics is a biopharmaceutical company developing immunotherapies designed to activate a patient's immune system against cancer and other diseases using its proprietary gp96 platform to activate CD8+ &quot;Killer&quot; T-cells. Heat has completed enrollment in its Phase 2 clinical trial for advanced non-small cell lung cancer with its gp96-based HS-110 therapeutic vaccine. HS-110 is the company's first biologic product candidate in a series of proprietary immunotherapies designed to stimulate a patient's own T-cells. Heat also has numerous pre-clinical programs at various stages of development. For more information, please visit&nbsp;www.heatbio.com.</FONT></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always">&nbsp;</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><FONT style="background-color:#FFFFFF"><B>Forward Looking Statements</B></FONT></P>
+<P style="margin:0px"><FONT style="background-color:#FFFFFF">This press release includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 on our current expectations and projections about future events. In some cases, forward-looking statements can be identified by terminology such as &quot;may,&quot; &quot;should,&quot; &quot;potential,&quot; &quot;continue,&quot; &quot;expects,&quot; &quot;anticipates,&quot; &quot;intends,&quot; &quot;plans,&quot; &quot;believes,&quot; &quot;estimates,&quot; and similar expressions. These statements are based upon current beliefs, expectation, and assumptions and include statements regarding the&nbsp;platform having the potential to provide broad protection against COVID-19, and possible future mutations of COVID-19 or other coronaviruses.&nbsp;These statements are subject to a number of risks and uncertainties, many of which are difficult to predict, including the ability of Heat's platform to provide broad protection against COVID-19, and possible future mutations of COVID-19 or other coronaviruses, the issuance of a patent to Heat for use of Heat's technology platform for treating or preventing infection with the SARS-CoV-2 virus that causes coronavirus disease 2019 (COVID-19), the ability of Heat's therapies to&nbsp;perform as designed, to demonstrate safety and efficacy, as well as results that are consistent with prior results, the ability to enroll patients and complete the clinical trials on time and achieve desired results and benefits, Heat's ability to obtain regulatory approvals for commercialization of product candidates or to comply with ongoing regulatory requirements, regulatory limitations relating to Heat's ability to promote or commercialize its product candidates for specific indications, acceptance of its product candidates in the marketplace and the successful development, marketing or sale of products, Heat's ability to maintain its license agreements, the continued maintenance and growth of its patent estate, its ability to establish and maintain collaborations, its ability to obtain or maintain the capital or grants necessary to fund its research and development activities, its ability to continue to maintain its listing on the Nasdaq Capital Market and its ability to retain its key scientists or management personnel, and the other factors described in Heat's most recent annual report on Form 10-K for the year ended December 31, 2018 filed with the SEC, and other subsequent&nbsp;filings with the SEC. The information in this release is provided only as of the date of this release, and Heat undertakes no obligation to update any forward-looking statements contained in this release based on new information, future events, or otherwise, except as required by law.</FONT></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><FONT style="background-color:#FFFFFF">Media and Investor Relations Contact</FONT></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><FONT style="background-color:#FFFFFF">David Waldman</FONT></P>
+<P style="margin:0px"><FONT style="background-color:#FFFFFF">+1 919 289 4017</FONT></P>
+<P style="margin:0px"><FONT style="background-color:#FFFFFF">investorrelations@heatbio.com</FONT></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+</BODY>
+<!-- EDGAR Validation Code: E966CE2F -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

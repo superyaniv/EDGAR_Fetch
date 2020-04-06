@@ -1,0 +1,1081 @@
+<SEC-DOCUMENT>0001553350-20-000209.txt : 20200312
+<SEC-HEADER>0001553350-20-000209.hdr.sgml : 20200312
+<ACCEPTANCE-DATETIME>20200312172153
+ACCESSION NUMBER:		0001553350-20-000209
+CONFORMED SUBMISSION TYPE:	S-8
+PUBLIC DOCUMENT COUNT:		5
+FILED AS OF DATE:		20200312
+DATE AS OF CHANGE:		20200312
+EFFECTIVENESS DATE:		20200312
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HEAT BIOLOGICS, INC.
+		CENTRAL INDEX KEY:			0001476963
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				262844103
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		S-8
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	333-237137
+		FILM NUMBER:		20709829
+
+	BUSINESS ADDRESS:	
+		STREET 1:		627 DAVIS DRIVE
+		STREET 2:		SUITE 400
+		CITY:			MORRISVILLE
+		STATE:			NC
+		ZIP:			27560
+		BUSINESS PHONE:		919-240-7133
+
+	MAIL ADDRESS:	
+		STREET 1:		627 DAVIS DRIVE
+		STREET 2:		SUITE 400
+		CITY:			MORRISVILLE
+		STATE:			NC
+		ZIP:			27560
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>S-8
+<SEQUENCE>1
+<FILENAME>htbx_s8.htm
+<DESCRIPTION>REGISTRATION STATEMENT
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Registration Statement</TITLE>
+<META NAME="author" CONTENT="Patrick Egan">
+<META NAME="date" CONTENT="03/12/2020">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; color:#000000">
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px" align=center><B>As filed with the Securities and Exchange Commission on March 12, 2020</B></P>
+<A NAME="eolPage1"></A><A NAME="FIS_TOP_OF_DOCUMENT"></A><A NAME="HTBX_S8_HTM"></A><A NAME="FIS_FORM"></A><P style="margin:0px" align=right><BR></P>
+<P style="margin:0px" align=right><B>Registration No. 333-</B></P>
+<P style="margin-top:0px; margin-bottom:2.067px; padding-bottom:4px; font-family:Calibri,Times New Roman; border-bottom:4px solid #000000" align=right>&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:8.2px; padding-top:4px; font-family:Calibri,Times New Roman; border-top:1.333px solid #000000" align=right>&nbsp;</P>
+<P style="margin:0px" align=center><B>UNITED STATES</B></P>
+<P style="margin:0px" align=center><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+<P style="margin:0px" align=center><B>WASHINGTON, D.C. 20549</B></P>
+<P style="line-height:7pt; margin:0px">&nbsp;</P>
+<P style="margin:0px" align=center><B>FORM S-8</B></P>
+<P style="margin:0px" align=center><B>REGISTRATION STATEMENT</B></P>
+<P style="margin:0px" align=center><B>UNDER</B></P>
+<P style="margin:0px" align=center><B>THE SECURITIES ACT OF 1933</B></P>
+<P style="line-height:7pt; margin:0px">&nbsp;</P>
+<P style="margin:0px; font-size:14pt" align=center><B>HEAT BIOLOGICS, INC.</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(Exact name of registrant as specified in its charter)</I></P>
+<P style="line-height:7pt; margin:0px">&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=312 /><TD width=311 /></TR>
+<TR><TD style="margin-top:0px" width=312><P style="margin:0px" align=center><B>Delaware</B></P>
+</TD><TD style="margin-top:0px" width=311><P style="margin:0px" align=center><B>26-2844103</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" width=312><P style="margin:0px; font-size:8pt" align=center><I>(State or other jurisdiction</I></P>
+<P style="margin:0px; font-size:8pt" align=center><I>of incorporation or organization)</I></P>
+</TD><TD style="margin-top:0px" width=311><P style="margin:0px; font-size:8pt" align=center><I>(I.R.S. Employer</I></P>
+<P style="margin:0px; font-size:8pt" align=center><I>Identification Number)</I></P>
+</TD></TR>
+</TABLE>
+<P style="line-height:7pt; margin:0px">&nbsp;</P>
+<P style="line-height:11pt; margin:0px" align=center><B>627 Davis Drive, Suite 400</B></P>
+<P style="margin:0px" align=center><B>Morrisville, North Carolina 27560</B></P>
+<P style="margin:0px" align=center><B>&nbsp;(919) 240-7133</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(Address, including ZIP code, and telephone number, including</I></P>
+<P style="margin:0px; font-size:8pt" align=center><I>area code, of registrant's principal executive office)</I></P>
+<P style="line-height:7pt; margin:0px">&nbsp;&nbsp;<A NAME="FIS_STOCK_PLANS"></A></P>
+<P style="margin:0px" align=center><B>HEAT BIOLOGICS, INC. 2018 STOCK INCENTIVE PLAN</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(Full title of the Plan)</I></P>
+<P style="line-height:7pt; margin:0px">&nbsp;</P>
+<P style="margin:0px" align=center><B>Jeffrey Wolf</B></P>
+<P style="margin:0px" align=center><B>Chief Executive Officer and</B></P>
+<P style="margin:0px" align=center><B>Chairman of the Board of Directors</B></P>
+<P style="margin:0px" align=center><B>Heat Biologics, Inc.</B></P>
+<P style="line-height:11pt; margin:0px" align=center><B>627 Davis Drive, Suite 400</B></P>
+<P style="margin:0px" align=center><B>Morrisville, North Carolina 27560</B></P>
+<P style="margin:0px" align=center><B>&nbsp;(919) 240-7133</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(Name, address and telephone number of agent of services)</I></P>
+<P style="line-height:7pt; margin:0px">&nbsp;</P>
+<P style="margin:0px" align=center><B><I>WITH COPIES TO:</I></B></P>
+<P style="line-height:7pt; margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>Leslie Marlow, Esq.</B></P>
+<P style="margin:0px" align=center><B>Hank Gracin, Esq</B></P>
+<P style="margin:0px" align=center><B>Patrick J. Egan, Esq.</B></P>
+<P style="margin:0px" align=center><B>Gracin &amp; Marlow, LLP</B></P>
+<P style="margin:0px" align=center><B>The Chrysler Building</B></P>
+<P style="margin:0px" align=center><B>405 Lexington Avenue, 26<SUP>th</SUP></B> <B>Floor</B></P>
+<P style="margin:0px" align=center><B>New York, New York 10174</B></P>
+<P style="margin:0px" align=center><B>(212) 907-6457</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(Name, address and telephone number)</I></P>
+<P style="line-height:7pt; margin:0px">&nbsp;</P>
+<P style="margin:0px">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of &#147;large accelerated filer,&#148; &#147;accelerated filer&#148; &#147;smaller reporting company&#148; and &#147;emerging growth company&#148; in Rule 12b-2 of the Exchange Act.:</P>
+<P style="line-height:7pt; margin:0px">&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=319 /><TD width=184 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=319><P style="margin:0px">Large accelerated filer &nbsp;&nbsp;<FONT style="font-family:Wingdings">&#168;</FONT></P>
+</TD><TD style="margin-top:0px" valign=top width=184><P style="margin:0px">Accelerated filer &nbsp;&nbsp;<FONT style="font-family:Wingdings">&#168;</FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=319><P style="margin:0px">Non-accelerated filer &nbsp;&nbsp;&nbsp;&nbsp;<FONT style="font-family:Wingdings">&#254; </FONT></P>
+</TD><TD style="margin-top:0px" valign=top width=184><P style="margin:0px">Smaller reporting company &nbsp;<FONT style="font-family:Wingdings">&#254;</FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=319><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=184><P style="margin:0px">Emerging growth company &nbsp;<FONT style="font-family:Wingdings">&#168;</FONT></P>
+</TD></TR>
+</TABLE>
+<P style="line-height:7pt; margin:0px"><BR></P>
+<P style="margin:0px" align=justify>If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.&nbsp;&nbsp;<FONT style="font-family:Wingdings">&#168;</FONT> </P>
+<P style="margin-top:0px; margin-bottom:2.2px; padding-bottom:4px; font-family:Calibri,Times New Roman; border-bottom:1.333px solid #000000">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:8.867px; padding-top:4px; font-family:Calibri,Times New Roman; border-top:4px solid #000000">&nbsp;</P>
+<P style="margin:0px" align=center><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px" align=center><B>CALCULATION OF REGISTRATION FEE</B></P>
+<P style="margin:0px" align=center><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD /><TD width=10 /><TD width=100 /><TD width=4 /><TD width=6.667 /><TD width=116.667 /><TD width=10 /><TD width=100 /><TD width=4 /><TD width=6.667 /><TD width=100 /><TD width=4 /></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom><P style="margin:0px; font-size:8pt"><B>Title&nbsp;of Securities to be Registered</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=10><P style="margin:0px; font-size:8pt"><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=100><P style="margin:0px; font-size:8pt" align=center><B>Amount&nbsp;to&nbsp;be</B></P>
+<P style="margin:0px; font-size:8pt" align=center><B>Registered</B></P>
+<P style="margin:0px; font-size:8pt" align=center><B>(1)(2)</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=4><P style="margin:0px; font-size:8pt"><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=6.667><P style="margin:0px; font-size:8pt"><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=116.667><P style="margin:0px; font-size:8pt" align=center><B>Proposed&nbsp;Maximum</B></P>
+<P style="margin:0px; font-size:8pt" align=center><B>Offering&nbsp;Price</B></P>
+<P style="margin:0px; font-size:8pt" align=center><B>Per&nbsp;Share(3)</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=10><P style="margin:0px; font-size:8pt"><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=100><P style="margin:0px; font-size:8pt" align=center><B>Proposed Maximum</B></P>
+<P style="margin:0px; font-size:8pt" align=center><B>Aggregate</B></P>
+<P style="margin:0px; font-size:8pt" align=center><B>Offering&nbsp;Price(3)(4)</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=4><P style="margin:0px; font-size:8pt"><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=6.667><P style="margin:0px; font-size:8pt"><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=100><P style="margin:0px; font-size:8pt" align=center><B>Amount&nbsp;of</B></P>
+<P style="margin:0px; font-size:8pt" align=center><B>Registration&nbsp;Fee(5)</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=4><P style="margin:0px; font-size:8pt"><B>&nbsp;</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=10><P style="margin:0px">&nbsp;&nbsp;&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=100><P style="margin:0px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=4><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=6.667><P style="margin:0px">&nbsp;&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=116.667><P style="margin:0px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=10><P style="margin:0px">&nbsp;&nbsp;&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=100><P style="margin:0px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=4><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=6.667><P style="margin:0px">&nbsp;&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=100><P style="margin:0px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=4><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom><P style="margin:0px; text-indent:-8px">&nbsp;&nbsp;&nbsp;Common Stock, par value &nbsp;$0.0002 per share, under the &nbsp;2018 Stock Incentive Plan</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=10><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=100><P style="margin:0px" align=center>4,000,000 shares</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=4><P style="margin:0px; font-size:12pt">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=6.667><P style="margin:0px; font-size:12pt">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=116.667><P style="margin:0px" align=center>$0.6757</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=10><P style="margin:0px; font-size:12pt">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=100><P style="margin:0px" align=center>$2,702,800</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=4><P style="margin:0px; font-size:12pt">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=6.667><P style="margin:0px; font-size:12pt">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=100><P style="margin:0px" align=center>$350.82</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=4><P style="margin:0px; font-size:12pt">&nbsp;</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD width=26 /><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=26><P style="margin:0px" align=justify>(1)</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" align=justify>The securities to be registered include options and other rights to acquire the common stock of Heat Biologics, Inc. (the &#147;Registrant&#148;).</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=26><P style="margin:0px; font-size:12pt" align=justify>&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:12pt" align=justify>&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=26><P style="margin:0px" align=justify>(2)</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" align=justify>Pursuant to Rule 416(a) under the Securities Act of 1933, as amended (the &#147;Securities Act&#148;), this registration statement also covers any additional securities that may be offered or issued in connection with any stock split, stock dividend or similar transaction.</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=26><P style="margin:0px; font-size:12pt" align=justify>&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:12pt" align=justify>&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=26><P style="margin:0px" align=justify>(3)</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" align=justify>Calculated pursuant to Rule 457(c) and 457(h) of the Securities Act solely for purposes of calculating the registration fee. The price for the shares under the plan is based upon the average of the high and low sale prices of the Registrant&#146;s common stock reported on the NASDAQ Capital Market on March 10, 2020.</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=26><P style="margin:0px" align=justify>&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; text-indent:3px" align=justify>&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=26><P style="margin:0px" align=justify>(4)</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" align=justify>This registration statement also covers the common stock purchase rights issuable in accordance with the rights agreement, dated as of March 11, 2018, as amended by Amendment No. 1 thereto dated March 8, 2019, between the Registrant and Continental Stock Transfer &amp; Trust Company, as Rights Agent, which are presently attached to and trade with the Registrant&#146;s common stock.</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=26><P style="margin:0px" align=justify>&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" align=justify>&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=26><P style="margin:0px" align=justify>(5)</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" align=justify>Calculated under Section 6(b) of the Securities Act as .00012980 of the proposed maximum aggregate offering price.</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; font-size:8pt">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:5.533px"><BR></P>
+<P style="margin-top:0px; margin-bottom:11.133px" align=center><BR></P>
+<P style="margin-top:0px; margin-bottom:6.267px"><BR></P>
+<P style="margin:0px" align=center><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px" align=center><B>EXPLANATORY NOTE</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>Heat Biologics, Inc. (the &#147;Registrant&#148; or the &#147;Company&#148;) filed with the Securities and Exchange Commission (the &#147;Commission&#148;) its Registration Statement on <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335018001095/htbx_s8.htm"><FONT style="color:#0000FF"><U>Form S-8</U></FONT></A> (Registration No. 333-227699) on October 4, 2018 (the &#147;2018 Registration Statement&#148;) pursuant to and in accordance with the requirements of General Instruction E to Form S-8 for the purpose of registering under the Securities Act of 1933, as amended (the &#147;Securities Act&#148;), 4,000,000 shares of common stock, par value $0.0002 per share (the &#147;Common Stock&#148;), to be offered and sold under the Registrant&#146;s 2018 Stock Incentive Plan, as it may be amended (hereinafter referred to as the &#147;Plan&#148;).&nbsp;&nbsp;Pursuant to General Instruction E to Form S-8, the contents of the 2018 Registration Statement are incorporated into this Registration Statement by reference.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify><FONT style="background-color:#FFFFFF">The Registrant also filed with the Commission its Registration Statement on </FONT><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000856/htbx_s8.htm"><FONT style="color:#0000FF; background-color:#FFFFFF"><U>Form S-8</U></FONT></A><FONT style="background-color:#FFFFFF"> (Registration No. 333-233352) on August 16, 2019 (the &#147;2019 Registration Statement&#148;) pursuant to and in accordance with the requirements of General Instruction E to Form S-8 for the purpose of registering under the Securities Act an additional 4,000,000 shares of Common Stock to be offered and sold under the Plan.&nbsp;&nbsp;These additional 4,000,000 shares of Common Stock were added pursuant to the adoption of Amendment No. 1 to the Plan. &nbsp;Pursuant to General Instruction E to Form S-8, the contents of the 2019 Registration Statement are incorporated into this Registration Statement by reference.</FONT> </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>The Registrant is filing this Registration Statement on Form S-8 (the &#147;Registration Statement&#148;) to register an additional 4,000,000 shares of Common Stock that were added to the Plan by a vote of the Registrant&#146;s stockholders at the Registrant&#146;s 2020 Special Meeting of Stockholders that was held on February 27, 2020 (the &#147;2020 Special Meeting&#148;), whereby the stockholders approved Amendment No. 2 to the Plan. &nbsp;A<FONT style="background-color:#FFFFFF">mendment No. 2 to the Plan increased the number of shares of Common Stock with respect to which awards may be granted under the Plan to an aggregate of 12,000,000 shares of Common Stock. </FONT></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin-top:0px; margin-bottom:13.333px"><BR></P>
+<P style="margin-top:0px; margin-bottom:8px"><BR></P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px; font-size:11pt" align=center><B>PART I</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><B>INFORMATION REQUIRED IN THE SECTION 10(a) PROSPECTUS</B></P>
+<P style="margin:0px">&nbsp;</P>
+<A NAME="FIS_PART_II"></A><A NAME="eolPage4"></A><P style="margin:0px"><B>Item&nbsp;1. Plan Information* </B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><B>Item&nbsp;2. Registrant Information and Employee Plan Annual Information* </B></P>
+<P style="margin:0px">&nbsp;</P>
+<P style="margin:0px; text-indent:48px" align=justify>*The information specified in Item 1 and Item 2 of Part I of this Registration Statement on Form S-8 is omitted from this filing in accordance with the provisions of Rule 428 under the Securities Act of 1933, as amended (the &#147;Securities Act&#148;), and the introductory note to Part I of Form S-8. The documents containing the information specified in Part I will be delivered to the participants in the Plan as required by Rule 428. Such documents and the documents incorporated by reference in this Registration Statement pursuant to Item 3 of Part II of this Registration Statement, taken together, constitute a prospectus that meets the requirements of Section 10(a) of the Securities Act.</P>
+<P style="margin-top:0px; margin-bottom:6.267px"><BR></P>
+<P style="margin:0px" align=center><B>PART II</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><B>INFORMATION REQUIRED IN THE REGISTRATION STATEMENT</B></P>
+<P style="margin:0px">&nbsp;&nbsp;<A NAME="FIS_DOCUMENTS_BY_REFERENCE"></A></P>
+<P style="margin:0px"><B>Item 3. Incorporation of Documents by Reference</B></P>
+<P style="line-height:8pt; margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>The Securities and Exchange Commission (the &#147;Commission&#148;) allows us to &#147;incorporate by reference&#148; the information we file with it which means that we can disclose important information to you by referring you to those documents instead of having to repeat the information in this prospectus. The information incorporated by reference is considered to be part of this prospectus, and later information that we file with the Commission will automatically update and supersede this information. We incorporate by reference the documents listed below and any future filings made with the Commission under Sections&nbsp;13(a), 13(c), 14 or 15(d) of the Securities Exchange Act of 1934, as amended (the <font style='font-family:Arial Unicode MS,Times New Roman'>&#8220;</font>Exchange Act<font style='font-family:Arial Unicode MS,Times New Roman'>&#8221;</font>), between the date of this prospectus and the termination of the offering:</P>
+<P style="line-height:8pt; margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD width=32.333 /><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=32.333><P style="margin:0px; font-family:Symbol">&#183;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" align=justify>Our Annual Report on <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000267/htbx_10k.htm">Form 10-K</A> and Form<A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000432/htbx_10k.htm">10-K/A</A> for the year ended December 31, 2018 (Commission File No. 001-35994) filed with the Commission on March 28, 2019, and April 24, 2019, respectively;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=32.333><P style="margin:0px; font-family:Symbol">&#183;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" align=justify>Our Quarterly Report on <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000526/htbx_10q.htm">Form 10-Q</A> for the quarter ended March 31, 2019 (File No. 001-35994) filed with the Commission on May 15, 2019;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=32.333><P style="margin:0px; font-family:Symbol">&#183;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" align=justify>Our Quarterly Report on <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000813/htbx_10q.htm">Form 10-Q</A> for the quarter ended June 30, 2019 (File No. 001-35994) filed with the Commission on August 14, 2019;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=32.333><P style="margin:0px; font-family:Symbol">&#183;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" align=justify>Our Quarterly Report on <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019001190/htbx_10q.htm">Form 10-Q</A> for the quarter ended September 30, 2019 (File No. 001-35994) filed with the Commission on November 14, 2019;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=32.333><P style="margin:0px; font-family:Symbol">&#183;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" align=justify>Our Current Reports on Form 8-K (Commission File No. 001-35994) filed with the Commission on <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000005/htbx_8k.htm">January 3, 2019</A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000017/htbx_8k.htm">January 8, 2019</A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000022/htbx_8k.htm">January 8, 2019</A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000025/htbx_8k.htm">January 10, 2019</A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000044/htbx_8k.htm">January 14, 2019</A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000171/htbx_8k.htm">February 25, 2019</A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000185/htbx_8k.htm">February 28, 2019</A> (disclosure under Item 8.01 and Item 9.01), <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000202/htbx_8k.htm">March 12, 2019</A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000312/htbx_8k.htm">April 2, 2019</A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000326/htbx_8k.htm">April 4, 2019</A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000413/htbx_8k.htm">April 18, 2019</A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000414/htbx_8k.htm">April 18, 2019</A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000525/htbx_8k.htm">May 7, 2019</A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000615/htbx_8k.htm">June 3, 2019</A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000612/htbx_8k.htm"><FONT style="color:#0000FF"><U>June 3, 2019</U></FONT></A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000663/htbx_8k.htm">June 21, 2019</A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000665/htbx_8k.htm">June 24, 2019</A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000701/htbx_8k.htm">July 9, 2019</A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000747/htbx_8k.htm">July 24, 2019</A> (as amended on <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000887/htbx_8k.htm">Form 8-K/A on August 22, 2019</A>), <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000994/htbx_8k.htm">September 24, 2019</A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019001070/htbx_8k.htm">October 18, 2019</A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019001123/htbx_8k.htm">November 5, 2019</A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019001218/htbx_8k.htm">November 19, 2019,</A> <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019001222/htbx_8k.htm">November 22, 2019,</A> <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019001235/htbx_8k.htm">November 29, 2019,</A> <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019001298/htbx_8k.htm">December 20, 2019</A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335020000008/htbx_8k.htm"><FONT style="color:#0000FF"><U>January 3, 2020</U></FONT></A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335020000080/htbx_8k.htm"><FONT style="color:#0000FF"><U>January 21, 2020</U></FONT></A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335020000125/htbx_8k.htm"><FONT style="color:#0000FF"><U>February 5, 2020</U></FONT></A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335020000174/htbx_8k.htm"><FONT style="color:#0000FF"><U>February 21, 2020</U></FONT></A>; <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335020000184/htbx_8k.htm"><FONT style="color:#0000FF"><U>February 27, 2020</U></FONT></A>, <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335020000189/htbx_8k.htm"><FONT style="color:#0000FF"><U>March 2, 2020</U></FONT></A>,<FONT style="font-size:12pt"> </FONT><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335020000196/htbx_8k.htm"><FONT style="color:#0000FF"><U>March 3, 2020</U></FONT></A>,<FONT style="font-size:12pt"> </FONT><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335020000198/htbx_8k.htm"><FONT style="color:#0000FF"><U>March 5, 2020</U></FONT></A>,<FONT style="font-size:12pt"> and </FONT><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335020000203/htbx_8k.htm"><FONT style="color:#0000FF"><U>March 11, 2020</U></FONT></A>;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=32.333><P style="margin:0px; font-family:Symbol">&#183;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" align=justify><FONT style="background-color:#FFFFFF">Our </FONT><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335020000089/htbx_14a.htm"><FONT style="color:#0000FF; background-color:#FFFFFF"><U>Definitive Proxy Statement</U></FONT></A><FONT style="background-color:#FFFFFF"> on Schedule 14A filed with the SEC on January 24, 2020;</FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=32.333><P style="margin:0px; font-family:Symbol">&#183;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" align=justify>The description of our common stock set forth in our registration statement on <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335013000353/heat_8a.htm">Form 8-A</A>, filed with the Commission on July 8, 2013 (Commission File No. 001-35994); and</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=32.333><P style="margin:0px; font-family:Symbol">&#183;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" align=justify>The description of our common stock purchase rights set forth in our registration statement on <A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000208/htbx_8a.htm">Form 8-A</A>, filed with the Commission on March 13, 2019 (Commission File No. 001-35994).</P>
+</TD></TR>
+</TABLE>
+<P style="line-height:8pt; margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>All other reports and documents subsequently filed by the Company pursuant to Sections&nbsp;13(a), 13(c), 14 or 15(d) of the Exchange Act (other than Current Reports furnished under Item 2.02 or Item 7.01 of Form 8-K and exhibits furnished on such form that relate to such items) shall be deemed to be incorporated by reference in this Registration Statement and to be a part of this Registration Statement from the respective date of filing of each of those reports or documents until the filing of a post-effective amendment to this Registration Statement which indicates either that all securities offered by this Registration Statement have been sold or which deregisters all of the securities under this Registration Statement then remaining unsold.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; width:48px; float:left">&nbsp;</P>
+<P style="margin:0px; text-indent:-2px" align=justify>Any statement contained in this Registration Statement or in a document incorporated or deemed to be incorporated by reference in this Registration Statement shall be deemed to be modified or superseded for purposes of this Registration Statement to the extent that a statement contained in this Registration Statement or in any other subsequently filed document which also is or is deemed to be incorporated by reference in this Registration Statement modifies or supersedes that statement. Any statement so modified or superseded shall not be deemed, except as so modified or superseded, to constitute a part of this Registration Statement.<A NAME="HTBX_S8_HTM_EOLPAGE3"></A></P>
+<P style="line-height:10pt; margin:0px; text-indent:48px; clear:left">&nbsp;&nbsp;<A NAME="FIS_SECURITIES_DESCRIPTION"></A></P>
+<P style="margin:0px"><B>Item 4. Description of Securities</B></P>
+<P style="line-height:10pt; margin:0px; text-indent:48px">&nbsp;</P>
+<P style="margin:0px; text-indent:48px">Not applicable.</P>
+<P style="line-height:10pt; margin:0px; text-indent:48px">&nbsp;&nbsp;<A NAME="FIS_EXPERTS"></A></P>
+<P style="margin:0px"><B>Item 5. Interests of Named Experts and Counsel</B></P>
+<P style="line-height:10pt; margin:0px; text-indent:48px">&nbsp;</P>
+<P style="margin:0px; text-indent:48px">Not applicable.</P>
+<P style="line-height:10pt; margin:0px; text-indent:48px">&nbsp;&nbsp;<A NAME="FIS_INDEMNIFICATION"></A></P>
+<P style="margin:0px"><B>Item 6. Indemnification of Directors and Officers</B></P>
+<P style="line-height:10pt; margin:0px; text-indent:48px">&nbsp;<A NAME="HTBX_S8_HTM_EOLPAGE4"></A></P>
+<P style="margin:0px; text-indent:48px" align=justify>Section&nbsp;145 of the Delaware General Corporation Law authorizes a court to award, or a corporation&#146;s board of directors to grant, indemnity to directors and officers in terms sufficiently broad to permit such indemnification under certain circumstances for liabilities, including reimbursement for expenses incurred, arising under the Securities Act.</P>
+<P style="line-height:10pt; margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>Our amended and restated certificate of incorporation, as amended, provides for indemnification of our directors and executive officers to the maximum extent permitted by the Delaware General Corporation Law, and our amended and restated bylaws provide for indemnification of our directors and executive officers to the maximum extent permitted by the Delaware General Corporation Law.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>As permitted by the Delaware General Corporation Law, the Registrant has entered into indemnity agreements with each of its directors that require the Registrant to indemnify such persons against any and all costs and expenses (including attorneys&#146;, witness or other professional fees) actually and reasonably incurred by such persons in connection with any action, suit or proceeding (including derivative actions), whether actual or threatened, to which any such person may be made a party by reason of the fact that such person is or was a director or officer or is or was acting or serving as an officer, director, employee or agent of the Registrant or any of its affiliated enterprises, provided that such person acted in good faith and in a manner such person reasonably believed to be in or not opposed to the Registrant&#146;s best interests and, with respect to any criminal proceeding, had no reasonable cause to believe his or her conduct was unlawful. The indemnification agreements also set forth certain procedures that will apply in the event of a claim for indemnification thereunder<FONT style="font-family:Calibri,Times New Roman">.</FONT></P>
+<P style="margin:0px">&nbsp;&nbsp;<A NAME="FIS_EXEMPTION_FROM_REGISTRATION"></A></P>
+<P style="margin:0px"><B>Item 7. Exemption from Registration Claimed</B></P>
+<P style="margin:0px">&nbsp;</P>
+<P style="margin:0px; text-indent:48px">Not applicable.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px"><B>Item 8. Exhibits</B></P>
+<P style="margin:0px">&nbsp;&nbsp;<A NAME="FIS_UNIDENTIFIED_TABLE_2"></A></P>
+<A NAME="FIS_UNDERTAKINGS"></A><TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD width=104.533 /><TD width=15.867 /><TD /></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=104.533><P style="margin:0px; font-size:8pt" align=center><B>Exhibit&nbsp;No.</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=15.867><P style="margin:0px; font-size:8pt"><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom><P style="margin:0px; font-size:8pt"><B>Description&nbsp;of&nbsp;Document</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=104.533><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=15.867><P style="margin:0px">&nbsp;&nbsp;&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=104.533><P style="margin:0px" align=center>3.1</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335013000103/heat_ex3z1.htm"><U>Third Amended and Restated Certificate of Incorporation (1)</U></A><U></U></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=104.533><P style="margin:0px" align=center>3.2</P>
+</TD><TD style="margin-top:0px" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335013000237/heat_ex3z6.htm"><U>Certificate of Amendment to the Third Amended and Restated Certificate of Incorporation (2)</U></A><U></U></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=104.533><P style="margin:0px" align=center>3.3</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335018000833/htbx_3z1.htm"><U>Amended and Restated Bylaws (3)</U></A><U></U></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=104.533><P style="margin:0px" align=center>3.4</P>
+</TD><TD style="margin-top:0px" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335018000059/htbx_ex3z1.htm"><U>Certificate of Amendment to the Third Amended and Restated Certificate of Incorporation (4)</U></A><U></U></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=104.533><P style="margin:0px" align=center>3.5</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335017000845/htbx_ex3z1.htm"><U>Certificate of Amendment to the Third Amended and Restated Certificate of Incorporation (5)</U></A><U></U></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=104.533><P style="margin:0px" align=center>4.1</P>
+</TD><TD style="margin-top:0px" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335018001095/htbx_ex4z1.htm"><U>Heat Biologics, Inc. 2018 Stock Incentive Plan (6)</U></A><U></U></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=104.533><P style="margin:0px" align=center>4.2</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000622/htbx_14a.htm"><U>Amendment No. 1 to the Heat Biologics, Inc. 2018 Stock Incentive Plan (7</U><FONT style="font-size:11pt"><U>)</U></FONT></A><FONT style="color:#000000"></FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=104.533><P style="margin:0px" align=center>4.3</P>
+</TD><TD style="margin-top:0px" valign=top width=15.867><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P style="margin:0px; color:#0000FF"><A HREF="htbx_ex4z3.htm"><U>Amendment No. 2 to the Heat Biologics, Inc. 2018 Stock Incentive Plan (9</U><FONT style="font-size:11pt"><U>)</U></FONT></A><FONT style="color:#000000"></FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=104.533><P style="margin:0px" align=center>4.4</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335018001095/htbx_ex4z2.htm"><U>Form of Incentive Stock Option Agreement and Notice of Exercise (6)</U></A><U></U></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=104.533><P style="margin:0px" align=center>4.5</P>
+</TD><TD style="margin-top:0px" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335018001095/htbx_ex4z3.htm"><U>Form of Non-Statutory Stock Option Agreement and Notice of Exercise (6)</U></A><U></U></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=104.533><P style="margin:0px" align=center>4.6</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335018001095/htbx_ex4z4.htm"><U>Form of Notice of Award of Restricted Stock Units and Restricted Stock Unit Award Agreement (6)</U></A><U></U></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=104.533><P style="margin:0px" align=center>4.7</P>
+</TD><TD style="margin-top:0px" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000005/htbx_ex10z2.htm"><U>Form of Restricted Stock Agreement (8)</U></A><FONT style="color:#000000"></FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=104.533><P style="margin:0px" align=center>5.1</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top><P style="margin:0px; color:#0000FF"><A HREF="htbx_ex5z1.htm"><U>Opinion of Gracin &amp; Marlow, LLP regarding Legality of Shares (9)</U></A><FONT style="color:#000000"></FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=104.533><P style="margin:0px" align=center>23.1</P>
+</TD><TD style="margin-top:0px" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; color:#0000FF"><A HREF="htbx_ex23z1.htm"><U>Consent of BDO USA, LLP, Independent Registered Public Accounting Firm (9)</U></A><FONT style="color:#000000"></FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=104.533><P style="margin:0px" align=center>23.2</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top><P style="margin:0px; color:#0000FF"><A HREF="htbx_ex5z1.htm"><U>Consent of Gracin &amp; Marlow, LLP (contained in Exhibit 5.1) (9)</U></A><FONT style="color:#000000"></FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=104.533><P style="margin:0px" align=center>24.1</P>
+</TD><TD style="margin-top:0px" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; color:#0000FF"><A HREF="#poa"><U>Power of Attorney (included as part of the signature page to this Registration Statement and incorporated herein by reference) (9)</U></A><FONT style="color:#000000"></FONT></P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px; padding-left:24px; text-indent:-24px" align=justify>___________________</P>
+<P style="margin-top:0px; margin-bottom:-2px; width:24px; float:left">(1)</P>
+<P style="margin:0px; padding-left:24px; text-indent:-2px" align=justify>Incorporated by reference to the Registrant&#146;s Registration Statement on Form S-1 filed with the Securities and Exchange Commission on May 6, 2013 (File No. 001-35994).</P>
+<P style="margin:0px; clear:left" align=justify><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; width:24px; float:left">(2)</P>
+<P style="margin:0px; padding-left:24px; text-indent:-2px" align=justify>Incorporated by reference to the Registrant&#146;s Registration Statement on Form S-1 filed with the Securities and Exchange Commission on May 30, 2013 (File No. 001-35994).</P>
+<P style="margin:0px; clear:left"><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; width:24px; float:left">(3)</P>
+<P style="margin:0px; padding-left:24px; text-indent:-2px" align=justify>Incorporated by reference to the Registrant&#146;s Form 8-K filed with the Securities and Exchange Commission on July 20, 2018 (File No. 001-35994).</P>
+<P style="margin:0px; clear:left"><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; width:24px; float:left">(4)</P>
+<P style="margin:0px; padding-left:24px; text-indent:-2px" align=justify>Incorporated by reference to the Registrant&#146;s Form 8-K filed with the Securities and Exchange Commission on January 19, 2018 (File No. 001-35994).</P>
+<P style="margin:0px; clear:left"><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; width:24px; float:left">(5)</P>
+<P style="margin:0px; padding-left:24px; text-indent:-2px" align=justify>Incorporated by reference to the Registrant&#146;s Form 8-K filed with the Securities and Exchange Commission on July 17, 2017 (File No. 001-35994).</P>
+<P style="margin:0px; clear:left"><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; width:24px; float:left">(6)</P>
+<P style="margin:0px; padding-left:24px; text-indent:-2px" align=justify>Incorporated by reference to the Registrant&#146;s Registration Statement on Form S-8 filed with the Securities and Exchange Commission on October 4, 2018 (File No. 333-227699).</P>
+<P style="margin:0px; clear:left"><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; width:24px; float:left">(7)</P>
+<P style="margin:0px; padding-left:24px; text-indent:-2px" align=justify>Incorporated by reference to Appendix A to the Registrant&#146;s Definitive Proxy Statement on Schedule 14A filed with the Securities and Exchange Commission on June 4, 2019 (File No. 001-35994).</P>
+<P style="margin:0px; clear:left" align=justify><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; width:24px; float:left">(8)</P>
+<P style="margin:0px; padding-left:24px; text-indent:-2px" align=justify>Incorporated by reference to the Registrant&#146;s Form 8-K filed with the Securities and Exchange Commission on January 3, 2019 (File No. 001-35994).</P>
+<P style="margin:0px; clear:left" align=justify><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; width:24px; float:left">(9)</P>
+<P style="margin:0px; padding-left:24px; text-indent:-2px" align=justify>Filed herewith.</P>
+<P style="margin:0px; clear:left"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px"><B>Item 9. Undertakings</B></P>
+<P style="margin:0px">&nbsp;</P>
+<P style="margin:0px">The undersigned Registrant hereby undertakes:</P>
+<P style="margin:0px">&nbsp;</P>
+<P style="margin:0px">1. To file, during any period in which offers or sales are being made, a post-effective amendment to this registration statement:</P>
+<P style="margin:0px">&nbsp;</P>
+<P style="margin:0px; text-indent:48px">i. To include any prospectus required by Section 10(a)(3) of the Securities Act of 1933, as amended;</P>
+<P style="margin:0px; text-indent:48px">&nbsp;</P>
+<P style="margin:0px; text-indent:48px" align=justify>ii. To reflect in the prospectus any facts or events arising after the effective date of this registration statement (or the most recent post-effective amendment thereof) which, individually or in the aggregate, represent a fundamental change in the information set forth in this Registration Statement;</P>
+<P style="margin:0px; text-indent:48px" align=justify>&nbsp;</P>
+<P style="margin:0px; text-indent:48px" align=justify>iii. To include any material information with respect to the plan of distribution not previously disclosed in this registration statement or any material change to such information in the registration statement; provided, however, that paragraphs (a)(1)(i) and (a)(1)(ii) do not apply if the information required to be included in a post-effective amendment by those paragraphs is contained in periodic reports filed by the Registrant pursuant to Section 13 or Section 15(d) of the Securities Exchange Act of 1934 that are incorporated by reference in this Registration Statement.</P>
+<P style="margin:0px" align=justify>&nbsp;</P>
+<P style="margin:0px" align=justify>2. That, for the purpose of determining any liability under the Securities Act of 1933, each such post-effective amendment shall be deemed to be a new registration statement relating to the securities offered therein, and the offering of such securities at that time shall be deemed to be the initial bona fide offering thereof.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>3. To remove from registration by means of a post-effective amendment any of the securities being registered that remain unsold at the termination of the offering.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>4. That, for purposes of determining any liability under the Securities Act of 1933, each filing of the Registrant's annual report pursuant to section 13(a) or section 15(d) of the Securities Exchange Act of 1934 (and, where applicable, each filing of an employee benefit plan's annual report pursuant to section 15(d) of the Securities Exchange Act of 1934) that is incorporated by reference in the registration statement shall be deemed to be a new registration statement relating to the securities offered therein, and the offering of such securities at that time shall be deemed to be the initial bona fide offering thereof.</P>
+<P style="margin:0px; font-size:8pt" align=justify>&nbsp;&nbsp;<A NAME="HTBX_S8_HTM_EOLPAGE5"></A></P>
+<P style="margin:0px" align=justify>5. Insofar as indemnification for liabilities arising under the Securities Act of 1933 may be permitted to directors, officers and controlling persons of the Registrant, the Registrant has been advised that in the opinion of the Commission such indemnification is against public policy as expressed in the Securities Act and is, therefore, unenforceable. In the event that a claim for indemnification against such liabilities (other than the payment by the Registrant of expenses incurred or paid by a director, officer or controlling person of the Registrant in the successful defense of any action, suit or proceeding) is asserted by such director, officer or controlling person in connection with the securities being registered, the Registrant will, unless in the opinion of its counsel the matter has been settled by controlling precedent, submit to a court of appropriate jurisdiction the question whether such indemnification by it is against public policy as expressed in the Securities Act and will be governed by the final adjudication of such issue.<A NAME="HTBX_S8_HTM_EOLPAGE6"></A></P>
+<P style="margin-top:0px; margin-bottom:9.067px"><BR></P>
+<A NAME="eolPage6"></A><A NAME="FIS_SIGNATURES"></A><P style="margin:0px" align=center><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px" align=center><B>SIGNATURES</B></P>
+<P style="margin:0px">&nbsp;</P>
+<P style="margin:0px; text-indent:48px" align=justify>Pursuant to the requirements of the Securities Act of 1933, the Registrant certifies that it has reasonable grounds to believe that it meets all of the requirements for filing on Form S-8 and has duly caused this registration statement to be signed on its behalf by the undersigned, thereunto duly authorized, in <FONT style="background-color:#FFFFFF">Morrisville</FONT>, North Carolina, on the 12th day of March, 2020.</P>
+<P style="margin:0px">&nbsp;</P>
+<P style="margin:0px"><BR></P>
+<A NAME="FIS_POWER_OF_ATTORNEY"></A><TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD /><TD width=50 /><TD width=242 /></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=292 colspan=2><P style="margin:0px"><B>HEAT BIOLOGICS, INC.</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=50><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=242><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=50><P style="margin:0px">By:</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=242><P style="margin:0px">/s/ Jeffrey Wolf</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=50><P style="margin:0px">Name:</P>
+</TD><TD style="margin-top:0px" valign=top width=242><P style="margin:0px">Jeffrey Wolf</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=50><P style="margin:0px">Title:</P>
+</TD><TD style="margin-top:0px" valign=top width=242><P style="margin:0px">Chief Executive Officer and </P>
+<P style="margin:0px">Chairman of the Board</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=50><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=242><P style="margin:0px">(Principal Executive Officer)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=50><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=242><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+</TABLE>
+<P style="margin-top:18.067px; margin-bottom:0px" align=center><B>POWER OF ATTORNEY AND SIGNATURES<A NAME="HTBX_S8_HTM_POA"></A><A NAME="poa"></A></B></P>
+<P style="margin-top:7.667px; margin-bottom:0px; text-indent:48px" align=justify>Each of the undersigned, whose signature appears below, hereby constitutes and appoints Jeffrey Wolf as his true and lawful attorney-in-fact and agent, with full power of substitution and resubstitution for him and in his name, place and stead, in any and all capacities, to sign any or all amendments to this Registration Statement, whether pre-effective or post-effective, and to file the same with all exhibits thereto and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorney-in-fact and agent, or his substitute, full power and authority to do and perform each and every act and thing necessary or appropriate to be done with respect to this Registration Statement or any amendments hereto in the premises, as fully to all intents and purposes as he might or could do in person, hereby ratifying and confirming all that said attorney-in-fact and agent, or his substitute may lawfully do or cause to be done by virtue thereof. </P>
+<P style="margin-top:9.067px; margin-bottom:0px; text-indent:48px" align=justify>Pursuant to the requirements of the Securities Act of 1933, as amended, this registration statement on Form S-8 has been signed by the following persons in the capacities and on the dates indicated.</P>
+<P style="margin:0px">&nbsp;&nbsp;</P>
+<A NAME="HTBX_S8_HTM_EOLPAGE7"></A><A NAME="eolPage7"></A><A NAME="FIS_UNIDENTIFIED_TABLE_3"></A><A NAME="FIS_EXHIBIT_INDEX"></A><TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD width=218 /><TD width=14 /><TD /><TD width=14 /><TD width=111 /></TR>
+<TR><TD style="margin-top:0px" width=218><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" width=14><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px"><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" width=14><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" width=111><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" width=218><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px"><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" width=111><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=218><P style="margin:0px; font-size:8pt" align=center><B>Signature</B></P>
+</TD><TD style="margin-top:0px" valign=top width=14><P style="margin:0px; font-size:8pt">&nbsp;</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom><P style="margin:0px; font-size:8pt" align=center><B>Title</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=14><P style="margin:0px; font-size:8pt">&nbsp;</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=111><P style="margin:0px; font-size:8pt" align=center><B>Date</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=218><P style="margin:0px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=14><P style="margin:0px">&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14><P style="margin:0px">&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=111><P style="margin:0px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=218><P style="margin:0px">/s/ Jeffrey Wolf</P>
+</TD><TD style="margin-top:0px" valign=top width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top rowspan=2><P style="margin:0px" align=center>Chief Executive Officer,</P>
+<P style="margin:0px" align=center>President and Chairman </P>
+<P style="margin:0px" align=center>(Principal Executive Officer)</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=111><P style="margin:0px" align=center>March 12, 2020</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=218><P style="margin:0px">Jeffrey Wolf</P>
+<P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=111><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=218><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=14><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px"><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom width=14><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom width=111><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=218><P style="margin:0px">/s/ William Ostrander</P>
+</TD><TD style="margin-top:0px" valign=top width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top rowspan=2><P style="margin:0px" align=center>Vice President of Finance</P>
+<P style="margin:0px" align=center>(Principal Financial Officer and Principal Accounting Officer)</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=111><P style="margin:0px" align=center>March 12, 2020</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=218><P style="margin:0px">William Ostrander</P>
+<P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=111><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=218><P style="margin:0px">/s/ John Monahan</P>
+</TD><TD style="margin-top:0px" valign=top width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom><P style="margin:0px" align=center>Director</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=111><P style="margin:0px" align=center>March 12, 2020</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=218><P style="margin:0px">John Monahan, Ph.D.</P>
+<P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=111><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=218><P style="margin:0px">/s/ John Prendergast</P>
+</TD><TD style="margin-top:0px" valign=top width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom><P style="margin:0px" align=center>Director</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=111><P style="margin:0px" align=center>March 12, 2020</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=218><P style="margin:0px">John Prendergast, Ph.D.</P>
+<P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=111><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=218><P style="margin:0px">/s/ Edward B. Smith, III</P>
+</TD><TD style="margin-top:0px" valign=top width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom><P style="margin:0px" align=center>Director</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=111><P style="margin:0px" align=center>March 12, 2020</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=218><P style="margin:0px">Edward B. Smith, III</P>
+<P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=111><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=218><P style="margin:0px; font-size:12pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=14><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=111><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD></TR>
+</TABLE>
+<P style="margin-top:0px; margin-bottom:6.267px"><BR></P>
+<P style="margin-top:0px; margin-bottom:4.867px" align=center><BR></P>
+<P style="margin-top:0px; margin-bottom:13.333px"><BR></P>
+<P style="margin-top:0px; margin-bottom:4.867px" align=center><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px" align=center><B>EXHIBIT INDEX</B></P>
+<P style="margin:0px" align=center><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD width=104.533 /><TD width=15.867 /><TD /></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=104.533><P style="margin:0px; font-size:8pt" align=center><B>Exhibit&nbsp;No.</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=15.867><P style="margin:0px; font-size:8pt"><B>&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom><P style="margin:0px; font-size:8pt"><B>Description&nbsp;of&nbsp;Document</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=104.533><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=15.867><P style="margin:0px">&nbsp;&nbsp;&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=104.533><P style="margin:0px" align=center>3.1</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335013000103/heat_ex3z1.htm"><U>Third Amended and Restated Certificate of Incorporation (1)</U></A><U></U></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=104.533><P style="margin:0px" align=center>3.2</P>
+</TD><TD style="margin-top:0px" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335013000237/heat_ex3z6.htm"><U>Certificate of Amendment to the Third Amended and Restated Certificate of Incorporation (2)</U></A><U></U></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=104.533><P style="margin:0px" align=center>3.3</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335018000833/htbx_3z1.htm"><U>Amended and Restated Bylaws (3)</U></A><U></U></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=104.533><P style="margin:0px" align=center>3.4</P>
+</TD><TD style="margin-top:0px" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335018000059/htbx_ex3z1.htm"><U>Certificate of Amendment to the Third Amended and Restated Certificate of Incorporation (4)</U></A><U></U></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=104.533><P style="margin:0px" align=center>3.5</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335017000845/htbx_ex3z1.htm"><U>Certificate of Amendment to the Third Amended and Restated Certificate of Incorporation (5)</U></A><U></U></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=104.533><P style="margin:0px" align=center>4.1</P>
+</TD><TD style="margin-top:0px" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335018001095/htbx_ex4z1.htm"><U>Heat Biologics, Inc. 2018 Stock Incentive Plan (6)</U></A><U></U></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=104.533><P style="margin:0px" align=center>4.2</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000622/htbx_14a.htm"><U>Amendment No. 1 to the Heat Biologics, Inc. 2018 Stock Incentive Plan (7</U><FONT style="font-size:11pt"><U>)</U></FONT></A><FONT style="color:#000000"></FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=104.533><P style="margin:0px" align=center>4.3</P>
+</TD><TD style="margin-top:0px" valign=top width=15.867><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P style="margin:0px; color:#0000FF"><A HREF="htbx_ex4z3.htm"><U>Amendment No. 2 to the Heat Biologics, Inc. 2018 Stock Incentive Plan (9</U><FONT style="font-size:11pt"><U>)</U></FONT></A><FONT style="color:#000000"></FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=104.533><P style="margin:0px" align=center>4.4</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335018001095/htbx_ex4z2.htm"><U>Form of Incentive Stock Option Agreement and Notice of Exercise (6)</U></A><U></U></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=104.533><P style="margin:0px" align=center>4.5</P>
+</TD><TD style="margin-top:0px" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335018001095/htbx_ex4z3.htm"><U>Form of Non-Statutory Stock Option Agreement and Notice of Exercise (6)</U></A><U></U></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=104.533><P style="margin:0px" align=center>4.6</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335018001095/htbx_ex4z4.htm"><U>Form of Notice of Award of Restricted Stock Units and Restricted Stock Unit Award Agreement (6)</U></A><U></U></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=104.533><P style="margin:0px" align=center>4.7</P>
+</TD><TD style="margin-top:0px" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; color:#0000FF"><A HREF="http://www.sec.gov/Archives/edgar/data/1476963/000155335019000005/htbx_ex10z2.htm"><U>Form of Restricted Stock Agreement (8)</U></A><FONT style="color:#000000"></FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=104.533><P style="margin:0px" align=center>5.1</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top><P style="margin:0px; color:#0000FF"><A HREF="htbx_ex5z1.htm"><U>Opinion of Gracin &amp; Marlow, LLP regarding Legality of Shares (9)</U></A><FONT style="color:#000000"></FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=104.533><P style="margin:0px" align=center>23.1</P>
+</TD><TD style="margin-top:0px" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; color:#0000FF"><A HREF="htbx_ex23z1.htm"><U>Consent of BDO USA, LLP, Independent Registered Public Accounting Firm (9)</U></A><FONT style="color:#000000"></FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=104.533><P style="margin:0px" align=center>23.2</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top><P style="margin:0px; color:#0000FF"><A HREF="htbx_ex5z1.htm"><U>Consent of Gracin &amp; Marlow, LLP (contained in Exhibit 5.1) (9)</U></A><FONT style="color:#000000"></FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=104.533><P style="margin:0px" align=center>24.1</P>
+</TD><TD style="margin-top:0px" valign=top width=15.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; color:#0000FF"><A HREF="#poa"><U>Power of Attorney (included as part of the signature page to this Registration Statement and incorporated herein by reference) (9)</U></A><FONT style="color:#000000"></FONT></P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px; padding-left:24px; text-indent:-24px" align=justify>___________________</P>
+<P style="margin-top:0px; margin-bottom:-2px; width:24px; float:left">(1)</P>
+<P style="margin:0px; padding-left:24px; text-indent:-2px" align=justify>Incorporated by reference to the Registrant&#146;s Registration Statement on Form S-1 filed with the Securities and Exchange Commission on May 6, 2013 (File No. 001-35994).</P>
+<P style="margin:0px; clear:left" align=justify><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; width:24px; float:left">(2)</P>
+<P style="margin:0px; padding-left:24px; text-indent:-2px" align=justify>Incorporated by reference to the Registrant&#146;s Registration Statement on Form S-1 filed with the Securities and Exchange Commission on May 30, 2013 (File No. 001-35994).</P>
+<P style="margin:0px; clear:left"><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; width:24px; float:left">(3)</P>
+<P style="margin:0px; padding-left:24px; text-indent:-2px" align=justify>Incorporated by reference to the Registrant&#146;s Form 8-K filed with the Securities and Exchange Commission on July 20, 2018 (File No. 001-35994).</P>
+<P style="margin:0px; clear:left"><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; width:24px; float:left">(4)</P>
+<P style="margin:0px; padding-left:24px; text-indent:-2px" align=justify>Incorporated by reference to the Registrant&#146;s Form 8-K filed with the Securities and Exchange Commission on January 19, 2018 (File No. 001-35994).</P>
+<P style="margin:0px; clear:left"><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; width:24px; float:left">(5)</P>
+<P style="margin:0px; padding-left:24px; text-indent:-2px" align=justify>Incorporated by reference to the Registrant&#146;s Form 8-K filed with the Securities and Exchange Commission on July 17, 2017 (File No. 001-35994).</P>
+<P style="margin:0px; clear:left"><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; width:24px; float:left">(6)</P>
+<P style="margin:0px; padding-left:24px; text-indent:-2px" align=justify>Incorporated by reference to the Registrant&#146;s Registration Statement on Form S-8 filed with the Securities and Exchange Commission on October 4, 2018 (File No. 333-227699).</P>
+<P style="margin:0px; clear:left"><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; width:24px; float:left">(7)</P>
+<P style="margin:0px; padding-left:24px; text-indent:-2px" align=justify>Incorporated by reference to Appendix A to the Registrant&#146;s Definitive Proxy Statement on Schedule 14A filed with the Securities and Exchange Commission on June 4, 2019 (File No. 001-35994).</P>
+<P style="margin:0px; clear:left" align=justify><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; width:24px; float:left">(8)</P>
+<P style="margin:0px; padding-left:24px; text-indent:-2px" align=justify>Incorporated by reference to the Registrant&#146;s Form 8-K filed with the Securities and Exchange Commission on January 3, 2019 (File No. 001-35994).</P>
+<P style="margin:0px; clear:left" align=justify><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; width:24px; float:left">(9)</P>
+<P style="margin:0px; padding-left:24px; text-indent:-2px" align=justify>Filed herewith.</P>
+<P style="margin:0px; clear:left"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+</BODY>
+<!-- EDGAR Validation Code: 7B94285B -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4.3
+<SEQUENCE>2
+<FILENAME>htbx_ex4z3.htm
+<DESCRIPTION>AMENDMENT NO. 2 TO STOCK INCENTIVE PLAN
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Amendment No. 2 to Stock Incentive Plan</TITLE>
+<META NAME="author" CONTENT="Patrick Egan">
+<META NAME="date" CONTENT="03/12/2020">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; color:#000000">
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px" align=right><B>Exhibit 4.3</B></P>
+<P style="margin:0px" align=center><B>AMENDMENT NO. 2 TO THE</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><B>HEAT BIOLOGICS, INC.</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><B>2018 STOCK INCENTIVE PLAN</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px; text-indent:24px" align=justify>This amendment No. 2 (the &#147;<B>Amendment</B>&#148;) to the Heat Biologics, Inc. 2018 Stock Incentive Plan (the &#147;<B>Plan</B>&#148;), is hereby adopted this 27<SUP>th</SUP> day of February, 2020, by the Board of Directors (the &#147;<B>Board</B>&#148;) of Heat Biologics, Inc. (the &#147;<B>Company</B>&#148;). All capitalized terms used in this Amendment and not otherwise defined herein shall have the meanings set forth in the Plan.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=center><B>WITNESSETH:</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:24px" align=justify><B>WHEREAS</B>, the Company adopted the Plan for the purposes set forth therein; and</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:24px" align=justify><B>WHEREAS</B>, pursuant to Section 15 of the Plan, the Board has the right to amend the Plan with respect to certain matters, provided that any material increase in the number of Shares available under the Plan shall be subject to stockholder approval; and</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:24px" align=justify><B>WHEREAS</B>, the Board has approved and authorized this Amendment to the Plan and has recommended that the stockholders of the Company approve this Amendment;</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:24px" align=justify><B>NOW, THEREFORE, BE IT RESOLVED</B>, that the Plan is hereby amended, subject to and effective as of the date of stockholder approval hereof, in the following particulars:</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:24px; width:48px; float:left">1.</P>
+<P style="margin:0px; padding-left:48px; text-indent:-2px" align=justify>Section 4(a) of the Plan is hereby amended by increasing the share references in such section by an additional 4,000,000 shares of common stock to 12,000,000 shares of common stock, so that Section 4(a) reads in its entirety as follows:</P>
+<P style="margin:0px; clear:left" align=justify><BR></P>
+<P style="margin:0px" align=justify>&#147;(a) <U>Shares Available for Awards</U>. The maximum aggregate number of shares of Company Stock reserved for issuance under the Plan (all of which may be granted as Incentive Stock Options) shall be Twelve Million (12,000,000) shares. Shares reserved under the Plan may be authorized but unissued Company Stock or authorized and issued Company Stock held in the Company&#146;s treasury. The Compensation Committee may direct that any stock certificate evidencing shares issued pursuant to the Plan shall bear a legend setting forth such restrictions on transferability as may apply to such shares pursuant to the Plan.&#148;</P>
+<P style="margin:0px" align=justify>&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:24px; width:48px; float:left">2.</P>
+<P style="margin:0px; padding-left:48px; text-indent:-2px" align=justify>Except as specifically set forth herein, the terms of the Plan shall be and remain unchanged, and the Plan as amended shall remain in full force and effect.</P>
+<P style="margin:0px; clear:left" align=justify><BR></P>
+<P style="margin:0px; text-indent:24px" align=justify>The foregoing is hereby acknowledged as being Amendment No. 2 to the Heat Biologics, Inc. 2018 Stock Incentive Plan, as adopted by the Board on October 3, 2019, and approved by the Company&#146;s stockholders on February 27, 2020.</P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD /><TD width=52 /><TD width=206 /></TR>
+<TR><TD style="margin-top:0px"><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" width=52><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" width=206><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px"><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" width=52><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" width=206><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=258 colspan=2><P style="margin:0px"><B>HEAT BIOLOGICS, INC.</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=258 colspan=2><P style="margin:0px"><B>&nbsp;</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=52><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=206><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=52><P style="margin:0px">By:</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=206><P style="margin:0px">/s/ Jeffrey Wolf</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=52><P style="margin:0px">Name:</P>
+</TD><TD style="margin-top:0px" valign=top width=206><P style="margin:0px">Jeffrey Wolf</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=52><P style="margin:0px">Title:</P>
+</TD><TD style="margin-top:0px" valign=top width=206><P style="margin:0px">Chairman, President and<BR>
+Chief Executive Officer</P>
+</TD></TR>
+</TABLE>
+<P style="margin-top:0px; margin-bottom:7.4px" align=right><BR></P>
+<P style="margin-top:0px; margin-bottom:7.4px" align=right><BR>
+<BR></P>
+</BODY>
+<!-- EDGAR Validation Code: 0F170A59 -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-5.1
+<SEQUENCE>3
+<FILENAME>htbx_ex5z1.htm
+<DESCRIPTION>LEGAL OPINION
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Legal Opinion</TITLE>
+<META NAME="author" CONTENT="Patrick Egan">
+<META NAME="date" CONTENT="03/12/2020">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; color:#000000">
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin-top:0px; margin-bottom:7.4px" align=right><B>Exhibit 5.1</B></P>
+<P style="margin-top:7.733px; margin-bottom:0px" align=center><img src="htbx_ex5z1001.jpg" alt="[htbx_ex5z1001.jpg]" align=middle height=90.267 width=292.2></P>
+<P style="margin:0px" align=center>The Chrysler Building</P>
+<P style="margin:0px" align=center>405 Lexington Avenue, 26<SUP>th</SUP> Floor</P>
+<P style="margin:0px" align=center>New York, New York 10174</P>
+<P style="margin:0px" align=center>Telephone: (212) 907-6457</P>
+<P style="margin:0px" align=center>Facsimile: (212) 208-4657</P>
+<P style="margin:0px">&nbsp;</P>
+<P style="margin:0px" align=center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;March 12, 2020</P>
+<P style="margin:0px">The Board of Directors</P>
+<A NAME="HTBX_EX5Z1_HTM_HTBX_EX5Z1_HTM_HANGINGIND"></A><P style="margin:0px">Heat Biologics, Inc.</P>
+<A NAME="_Hlk22025095"></A><P style="margin:0px"><FONT style="background-color:#FFFFFF">627 Davis Drive, Suite 400</FONT></P>
+<P style="margin:0px"><FONT style="background-color:#FFFFFF">Morrisville, North Carolina 27560</FONT></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0><TR height=0 style="font-size:0"><TD width=50 /><TD width=35 /><TD width=537 /></TR>
+<TR><TD style="margin-top:0px" width=50><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" width=35><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" width=537><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" width=50><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" width=35><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" width=537><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=50><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=35><P style="margin:0px">Re:</P>
+</TD><TD style="margin-top:0px" valign=top width=537><P style="margin:0px"><U>Registration Statement on Form S-8</U></P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px">&nbsp;</P>
+<P style="margin:0px">Gentlemen:</P>
+<P style="margin:0px">&nbsp;</P>
+<P style="margin:0px" align=justify>We refer to the Registration Statement on Form S-8 (the &#147;<U>Registration Statement</U>&#148;) filed on the date hereof by Heat Biologics, Inc., a Delaware corporation (the &#147;<U>Company</U>&#148;), with the Securities and Exchange Commission with respect to the registration of up to an aggregate of 4,000,000 shares of the Company&#146;s common stock, par value $0.0002 per share (the &#147;<U>Shares</U>&#148;), to be issued in connection with the Company&#146;s 2018 Stock Incentive Plan, as amended by Amendment No. 1 thereto, dated May 21, 2019, and Amendment No. 2 thereto, dated February 27, 2020 (collectively, the &#147;Plan&#148;).</P>
+<P style="margin:0px" align=justify>&nbsp;</P>
+<P style="margin:0px" align=justify>In connection with rendering this opinion, we have examined or are familiar with the charter documents of the Company, the Plan, the corporate proceedings with respect to the authorization of the Registration Statement and the Plan, and such other certificates, instruments and documents as we have considered necessary or appropriate for purposes of this opinion. In such examination, we have assumed the genuineness of all signatures, the authenticity of all documents submitted to us as originals, conformity to the original documents of all documents submitted to us as copies and the authenticity of the originals of such latter documents.&nbsp;As to any facts material to our opinion, we have, when relevant facts were not independently established, relied upon the Registration Statement and the aforesaid records, certificates and documents. We have made such examination as we have deemed necessary for the purpose of this opinion.&nbsp;&nbsp;</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Based upon such examination, it is our opinion, that, the Shares have been duly and validly authorized and when issued against receipt of the consideration therefore in accordance with the provisions of the Plan and the Registration Statement, will be validly issued, fully paid and non-assessable.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>We are members of the bar of the State of New York, and do not express any opinion herein concerning any law other than the Delaware General Corporation Law and applicable reported judicial decisions. This opinion letter has been prepared for use in connection with the Registration Statement. We assume no obligations to advise you of any change in the foregoing subsequent to the delivery of this opinion letter.<A NAME="eolPage23"></A></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>We hereby consent to the filing of this opinion letter as Exhibit 5.1 to the Registration Statement. In giving such consent, we do not thereby admit that we are in the category of persons whose consent is required under Section&nbsp;7 of the Securities Act, and the rules and regulations of the Securities and Exchange Commission promulgated thereunder.</P>
+<A NAME="HTBX_EX5Z1_HTM_HTBX_EX5Z1_HTM_PN"></A><A NAME="HTBX_EX5Z1_HTM_HTBX_EX5Z1_HTM_PGBRK"></A><TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=308 /><TD width=315 /></TR>
+<TR><TD style="margin-top:0px" width=308><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" width=315><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" width=308><P style="margin:0px; padding:0px; font-size:5pt">&nbsp;</P></TD><TD style="margin-top:0px" width=315><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=308><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=315><P style="margin:0px">Very truly yours,</P>
+<P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=308><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=315><P style="margin:0px">/s/ Gracin &amp; Marlow, LLP</P>
+</TD></TR>
+</TABLE>
+<P style="margin-top:6.867px; margin-bottom:0px" align=right><BR></P>
+<P style="margin-top:6.867px; margin-bottom:0px" align=right><BR>
+<BR></P>
+</BODY>
+<!-- EDGAR Validation Code: AA8E71B4 -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>4
+<FILENAME>htbx_ex23z1.htm
+<DESCRIPTION>AUDITOR CONSENT
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Auditor Consent</TITLE>
+<META NAME="author" CONTENT="Patrick Egan">
+<META NAME="date" CONTENT="03/12/2020">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; color:#000000">
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin-top:5.733px; margin-bottom:0px" align=right><B>Exhibit 23.1</B></P>
+<A NAME="FIS_EXPERTS_CONSENT"></A><P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><U>Consent of Independent Registered Public Accounting Firm</U></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin-top:7.733px; margin-bottom:0px; text-indent:48px" align=justify>We hereby consent to the incorporation by reference in this Registration Statement of our report dated March&nbsp;28, 2019, relating to the consolidated financial statements of Heat Biologics, Inc. appearing in the Company&#146;s Annual Report on Form 10-K/A for the year ended December&nbsp;31, 2018. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>/s/ BDO USA, LLP</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Raleigh, North Carolina</P>
+<P style="margin:0px" align=justify>March 12, 2020</P>
+<P style="margin-top:8.2px; margin-bottom:0px" align=right><BR></P>
+<P style="margin-top:8.2px; margin-bottom:16px" align=right><BR></P>
+<P style="margin-top:0px; margin-bottom:13.333px"><BR></P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR>
+<BR></P>
+</BODY>
+<!-- EDGAR Validation Code: F10733F6 -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>htbx_ex5z1001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 htbx_ex5z1001.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_X0-&17AI9@  34T *@    @ !%$   0
+M   !     %$!  ,    !  $  %$"  $   ,     /E$#  $    !
+M         #,  &8  )D  ,P  /\ ,P  ,S, ,V8 ,YD ,\P ,_\ 9@  9C,
+M9F8 9ID 9LP 9O\ F0  F3, F68 F9D F<P F?\ S   S#, S&8 S)D S,P
+MS/\ _P  _S, _V8 _YD _\P __\S   S #,S &8S )DS ,PS /\S,P S,S,S
+M,V8S,YDS,\PS,_\S9@ S9C,S9F8S9IDS9LPS9O\SF0 SF3,SF68SF9DSF<PS
+MF?\SS  SS#,SS&8SS)DSS,PSS/\S_P S_S,S_V8S_YDS_\PS__]F  !F #-F
+M &9F )EF ,QF /]F,P!F,S-F,V9F,YEF,\QF,_]F9@!F9C-F9F9F9IEF9LQF
+M9O]FF0!FF3-FF69FF9EFF<QFF?]FS !FS#-FS&9FS)EFS,QFS/]F_P!F_S-F
+M_V9F_YEF_\QF__^9  "9 #.9 &:9 )F9 ,R9 /^9,P"9,S.9,V:9,YF9,\R9
+M,_^99@"99C.99F:99IF99LR99O^9F0"9F3.9F6:9F9F9F<R9F?^9S "9S#.9
+MS&:9S)F9S,R9S/^9_P"9_S.9_V:9_YF9_\R9___,  #, #/, &;, )G, ,S,
+M /_,,P#,,S/,,V;,,YG,,\S,,__,9@#,9C/,9F;,9IG,9LS,9O_,F0#,F3/,
+MF6;,F9G,F<S,F?_,S #,S#/,S&;,S)G,S,S,S/_,_P#,_S/,_V;,_YG,_\S,
+M____  #_ #/_ &;_ )G_ ,S_ /__,P#_,S/_,V;_,YG_,\S_,___9@#_9C/_
+M9F;_9IG_9LS_9O__F0#_F3/_F6;_F9G_F<S_F?__S #_S#/_S&;_S)G_S,S_
+MS/___P#__S/__V;__YG__\S___\    0$! @(" P,#! 0$!04%!@8&!P<'"
+M@("0D)"@H*"PL+# P,#0T-#@X.#P\/#___\
+M
+M      #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+#!D2$P\4'1H?'AT:'!P@
+M)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_VP!# 0D)"0P+#!@-#1@R
+M(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C+_P  1" !X 8,# 2(  A$! Q$!_\0 'P   04! 0$! 0$
+M      $" P0%!@<("0H+_\0 M1   @$# P($ P4%! 0   %] 0(#  01!1(A
+M,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*%A<8&1HE)B<H*2HT-38W
+M.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U=G=X>7J#A(6&AXB)BI*3
+ME)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76U]C9VN'B
+MX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$! 0$! 0        $" P0%
+M!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $" Q$$!2$Q!A)!40=A<1,B
+M,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF)R@I*C4V-S@Y.D-$149'
+M2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$A8:'B(F*DI.4E9:7F)F:
+MHJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7V-G:XN/DY>;GZ.GJ
+M\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#W^BBB@ HHHH ***09R<@8SQS0 M(
+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
+M*0G&/KZT +2# PH_ 48P1CIC&,48 7' 4#MZ4 +1110 4444 %%%% !1110
+M445SGB7QEIWAU6A9A/?%<K;J?N^[G^$?J>PJH0E-\L5=DSG&"O)FW>WUKIMH
+M]U>3I! @RSN>!7DWBWQ8WB*5;>"-XM/B9B%<\RD?Q,.P ['W[X%.EL==\41S
+MZSK$YM=.@1I%=EP%&.D:=<]/F//%8&E6,NKZK;6,65>XDVYZ[ ,[F_  _P#Z
+ML5ZF&P].G>3=VON1Y>)Q$ZEHQ5D_Q-_PIX4E\03&YG9XK%25=E.&D(.=H/Z$
+M_EBO5[.SMK"U6ULX4AAC&%15P!_C]:6VMH+"SAM856.")1&B]L=!4]<%?$2J
+MOR['=A\/&C'S[A7/:]X:;Q%>VC7%X\5E I/DHOS,Q[DGV]N.:Z&BLX3E!\T=
+MS6<(S7++8J6.FVNFV@M;&%8(0. @YSZDGJ>G6K0!!Y)/N:6FLI)&"!@]<<_A
+M4MMN[*225D.I#TZX]Z.<X-!SCBD,X[QGX;U'7+RRDLA$5161][XVY.0?>K_A
+MGPG;Z$GGR,L]\XPTN.$'HOM[]371TTC!7 )YZ@]..];O$5/9JG?0YEA*7M76
+M:U8OI1W^OO1W _&EK Z0J"\M8KZSFM9UW0S*4<9QD&IO<GI1SCWIIM.Z$TFK
+M,IZ9I-EH]K]GL8%B3JQ'5CZD]S5VBD/IZT.3D[L48QBN6*LA:***104444 )
+MW[4M%)GIP>3CI0 =_I[TM)@,.1GG/(_*EH ***0_C0 <=3V[T#I1S]*6@ HH
+MHH **** "BBB@ HHHH :RG*[21@\G/;^M*>!D4M% !1110 4444 %%%,FFBM
+MX7FGE2*)!EG=@JJ/<FC<!],EEC@B:6:18XU&69C@"N.?QS)J^HG3/"MF+Z88
+M\R\FRD$(_O'NWT&,]JZ:QM9X+9(KRX-W.,.TS* -_LO8>G6M)4G#X]/(SC44
+MW[OW]#%OKO7M;W6^BPFPM"<-J%R,.X_Z9H>1_O'';'J%T7P+I.D/Y\H>_O"V
+MXSW/S'=Z@=,^_)XZUTI/W3GC/;O2@8&*?MI)<L=$+V46^:6K.&^)NJ>1I-OI
+M:.%:\?,G.,1K@\_B1^1K.^%^FF2XO-6D'"@01Y49R0"W/J.!^?3I7->-=6_M
+M+Q7=R(Q,<!%O'@YSL/./JQ_SR1ZOX7TLZ-X9LK,J%E6,/*#_ 'SRW^%=M3]S
+MAE'K+^O^ <=/]]B7+HC8) (!(!)P/>EIIY(7)!/.0/2G5YIZ(4=**Y*1#K_C
+M:^T^]+'3],AA=+8-M$TKY.]@/O!0  .F<]\4 =;2$!A@@$9SS7,6T6DZ3XO2
+MWM+J6":>W,;6&R0QM@[@Z?PKCG)''(Z'KNZI)-#I5U-;N$FCB9T)7<,@9Z?A
+M0!:.<CZ\T'M]:X^R\07LHT=X;^VOYKLQ?:;2*+YH%=068E2=NW_:QD9[UV"K
+MM4#KZGU]Z %I#G'! .>XKG],UV6[\13VDIB^RSPF:Q*]65&V29]><$>Q%:^I
+M7\6EZ9=7\_\ JK:%I6YP2%!./TH LGI2U@)_PD3Z?#?+-;-/(%=[+RP%"G&5
+M5\_> SR<@GM6XX;RV"$AB,*>N/>@!P ' SW/)H P,#/7/)S6/X7O;K4M#CO+
+MR99)9'D'RQ[  KE<8R?3K5/7-8O]'U>.?>DFEQQ>;=Q^7\\:9"EP1V7.XC'0
+M'TH Z-L*I.TD#DXZ_E2@ #@8Y]*S-'GNKA[\W-Q',D=R4AV1[<+M!]3G[W7T
+MQ]:U* "BO,;V5+B^N-4#-_9\^I1>3KASFV"L%\M5'\!8,H?[N7.<XR>[T;59
+MM5AGE>PEM5CD:-3)(K>85)!(VD\9'6MJE%PC<QA54G8TZ*0'(!P1GU%<#< :
+M+X_DU.$LEM)<0V=T@;Y,2J2KXZ9$@49_VJQ-COCUST/2CO7!W@35/B'I<TQ,
+MEND]Q;11-]T^5&&9L=SYG'MLKNQ\P!!.TCN,'_ZU #J3/X<]^]8%MK<[>*&L
+M9?)%E.LBVI'#F2(CS ?7.[(P/X36ZR?*^PA'8?>QT..OOV_*@!]( %&  !G/
+M%<+;>)]2;1[>[2^MKS4'EV'34A^9P)"G4'*'&6R>..E=R1OR 64J>HX[?D>M
+M "_7J/:EK&\-7EW?Z;)/>3+))]IEC&R/8 JL5 [^F<^]6]7U./1]'N]1F0LE
+MM$9-H(!;'09/ SQ^= %ZBN:O+S6])T<ZQ=S03"%?,N+1(2 (\\[&SG<!Z]<8
+MP.M="7\R$&-R/,7Y&"YQD<'_ /70!)17$3^(M5M='6>XN81<6^K&RN\6QQY>
+M[AER>,(5?)XQGVKHK&ZN+C5-29YT-A;N(HQM (< %\G/09 Z#O0!JT4@SM&X
+M ''(!S6/XHO;O3M$DN[*:.*5)(U)DCWKAG53Q^.: -FBFQAUC42.'8#E@,9_
+M"L>RN[V7Q3J5E+<(UK;0Q2(@BPV7+]3GD#;Q@>OI0!M4AY&*S];FFM-%O[R!
+MU6:W@>6-BF?NC=@^QQ6-IVO73ZCH]O\ ;+:_6_B=YA$F&M\(&SP2-N3MYYY'
+M7F@#JJ*** "BBN+\=^/(?"T"VEHJW&K3+N2+/$:_WV_H._T%73IRJ2Y8[D5*
+MD:<>:6QJ^)_%^F>%K4/>2;[B3_56T9^=_?V7U)KS6U'B+XGZG_I,OV;2XF^<
+M(/W<?? !^^_3KT]JP?#6A:EXZ\1R/<W$KJ2LMY>GGY>RCMDX( '0#->^Z?86
+MNEV,5C90)!;0KMC1.@'^-=]3DPBY8ZS[]CBASXIWEI#MW(-&T:RT*P2SL+<1
+M1*.2>7<_WF/<GUK1IH!W,Q/7I[#_ #FG5YS;D[L[TDE9"9!. >1U%9OB'5%T
+M70+W4"0&BB)3/=SPH_/%:7.X'/&*\V^*FK'_ $'1XF)W-]HF ] 0$'YDG\*U
+MP]/VE11,J]3V=-R.2\(Z8VK^)[*VE >-7::?)."%YQ^)(X]_K7N]>=?"K2S'
+M8W>JR#F=A!$<]43J?;G^5>BUMCJG-5MV,L%3Y*=WU"BBBN,ZPK"U#0KC^V5U
+MK2;E;>^,8AGCE4M%<)D$!@.01S@CU([UNT4 <_!HVI2^([76;^ZMRT$$D @@
+M0A0&*G.3R3E:U]1@EN=-N;> QB26-D4R [1D8YQS5FB@#FK;P]>V*:9/:W,*
+M7UK EK<'#>5=1*,#<O4,.2IYQDCD&MS4$NI=/N([*2.*Z>,K%)("55B."<<\
+M59HH YR?PZT TF;35LK6XL&#2N(2?-3859/E(/.<\YY XK;NK:/4+2:UG3=;
+MS(T;@Y!(/''Z\_2K%% &!9:;KEM:Q:>VHP-:Q (MR$/VAHQC /\ "&QP6Q^&
+M:W6#B-MA!?!V[NF>W3M3J* ,GP]IUYI&BQV=U-#/)&7*M&"H^9BV.<],X_#\
+M*<^GW,FO_:Y#;-9FV,#1E#O;)!Y[$>U:E% &1H&B?V)8W%F)VEA:=WBR3N2,
+M@!5S[ 8!],5J[<J5?# YR,<8IU% ''P>%M1M=)F\.1WUF^BRJZ1^="3/'$W5
+M!SM;&<!B...#4_ASPO=Z/?1SW-Y'*MO:"RB\H,OFHK95I!G&\#(R!SDGTQU-
+M%:NO-IKN9JE%-/L( 03R3D_E7,W?AV_U!M;2YN+80ZC&HC\M6#PL@^0Y/!P<
+M'M^'?IZ*R-#E_P#A'+^&]T*:VN;<QZ6KAUF#,\[.N';?GCN>AY_3HKI;EK>0
+M6KQI,5(1I%) /8\'Z\5-10!S$WAB5=.TP62V-OJ%G*DSS^62)& (89&#ALG.
+M>F>]=*?,\H[2IDV\$C S_A3J* .4L_"]]9:58F"ZMH]6LF<1SJC>7)$[%FB<
+M9R1SU[%0?45U'[WR/X/.V^^W=C^6:?10!R]IHNMV=G]C6]LTMS<M--)%$_FL
+MI?>57G /.,\].F3QNW]C!JVGW-E<@FWG0QL!E6'N#^6/I5NB@#G+G1-6U/3A
+MI.HW\#V1VK--&A$MP@(RK#.%W8.XCU. *Z!05(4*JH.!@_3MCZ_D*?10!S]U
+MX9%SJ^I7339MKZU\IH",8EQM+Y]U"CVQ6CHUA)IFDV]K/<&YN%7,TY7!E<\L
+MQ^IJ_10!4C^W'5)C)Y:V*QJ(@.6=^2Q/H!P,?C57Q#IMSJ^E-96\D,9=T9FE
+M4L,*X;& 1UQCK6K10!EV5MJK7TD^I7-LT(C"Q06Z,%#9R68D\G@ >GXU2?3M
+M:35=1U"PN=/47D<:1^8CMMV!MK<'G[W3VKH:* ,J[TV[G\,S:8+H274ML86N
+M)EX)889L#ZD@?059TRS-CI\$#B(S)&J.\:[0V.,U<HH **** *&MZK#HFB7F
+MIS_<MXB^,?>/8?B<#\:^8+W4;G4M1GO[QS-<SN96.,\G. .V,8 Z<5[9\9+A
+MHO!*1*3B:\C1N#@@!C_,#CO7C?ANV2[\5Z3;R?ZN2^B4Y[X<?F?Q_P ![>6P
+M4:3J/^K'CYA-SJ*DCZ#\$>'5\->%[2T9 +MU$UTV.6E(Y!^G0?2NCHHKQIS<
+MY.3ZGK0BH145T"BBBI*$9E12S$!0,DD\"OGW6;^;Q/XJGGA#.]W,(K9".0GW
+M4X^F3U[YKTKXF>(AIFB?V7 Q^UWZE3C^&+^(_CT_/TKG/A9H/VK4)=:F7,%K
+MF*W!'!D(Y;\!Q]2?2O2PJ5&E*M+Y?UZGGXENK55&/S_KT/3])L(=*TJUL+?'
+MEV\8C!'<CJ?SS5VBBO.;;=V=Z22L@HHHI#"BBB@ HHHH **** "BBB@ HHHH
+M **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@
+MHHHH *0*J\*,9YX%+2=^G:@!:*** ./^)VCR:SX'NU@4M-:L+I% SNVYW#'?
+MY2W'>O M'OUTW7-/U!ONV]U',><_*&4GI[9[]OR^K:\5\=?"VYMKB;4O#UN9
+MK5R6DLXQEXR3SL'\2G/W>WN !7JY?B813I3V9YN.P\I256'0]H1DE5948,K+
+ME64Y!![^].KQ7P-\41H]K'H^OI(;>#$<5RH):)>?E=>N!P <=!7HR>/_  G)
+M$LBZ]9;6Z9?!_(\BN.KA*M.5K77<ZJ6)IU(WO8Z2LS7M=LO#NE2W]Z^$081!
+MRTC=E4=S_P#KKCM9^+VC6L;)H\4NI7!'RL%,<0SZL>?P KSH'Q%\0]<W#-W,
+MAVA@-L%LO?V'ZD\5M1P4G[U7W8HRK8R*]VGK(>@U3QYXMY(^T739/]R",?T7
+M\R3ZFO>M*TRVT?2[?3[1-L,"!%]3ZD^Y/-9?A3PG9^%=/,,+>==2X-Q<LN#(
+M1Z#)PH["N@K/%8A5&HP^%%X:@Z:YI_$Q -J@#. ,<G-+117(=04444 %%%%
+M!1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %
+M%%% !1110 4444 %%%% !1110 4444 %%%% !1110!CZOX5T+7CNU+3()Y!R
+M),;7_P"^A@_K7+2_!SPQ(^Y)-1B']U;@$>O\2DT45M#$58*T9,RG1ISUE$LV
+M7PG\+6C[I(;J[XQBXG)!^H7 KLK6TMK&W6WM((X(4&%2-0H'X"BBIG5J5/C=
+MQPI0A\*L34445F:!1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%
+M%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 444
+(4 %%%% '_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

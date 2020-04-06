@@ -1,0 +1,203 @@
+<SEC-DOCUMENT>0001553350-20-000174.txt : 20200221
+<SEC-HEADER>0001553350-20-000174.hdr.sgml : 20200221
+<ACCEPTANCE-DATETIME>20200221165948
+ACCESSION NUMBER:		0001553350-20-000174
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200220
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20200221
+DATE AS OF CHANGE:		20200221
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HEAT BIOLOGICS, INC.
+		CENTRAL INDEX KEY:			0001476963
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				262844103
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35994
+		FILM NUMBER:		20640912
+
+	BUSINESS ADDRESS:	
+		STREET 1:		627 DAVIS DRIVE
+		STREET 2:		SUITE 400
+		CITY:			MORRISVILLE
+		STATE:			NC
+		ZIP:			27560
+		BUSINESS PHONE:		919-240-7133
+
+	MAIL ADDRESS:	
+		STREET 1:		627 DAVIS DRIVE
+		STREET 2:		SUITE 400
+		CITY:			MORRISVILLE
+		STATE:			NC
+		ZIP:			27560
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>htbx_8k.htm
+<DESCRIPTION>CURRENT REPORT
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Current Report</TITLE>
+<META NAME="author" CONTENT="Patrick Egan">
+<META NAME="date" CONTENT="01/02/2020">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; color:#000000">
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="line-height:1pt; margin:0px; font-size:11pt">&nbsp;<FONT style="font-size:10pt">&nbsp;</FONT></P>
+<P style="margin-top:0px; margin-bottom:2.267px; padding-bottom:4px; font-family:Calibri,Times New Roman; font-size:11pt; border-bottom:4px solid #000000" align=right>&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9px; padding-top:4px; font-family:Calibri,Times New Roman; font-size:11pt; border-top:1.333px solid #000000" align=right>&nbsp;</P>
+<P style="margin:0px" align=center><B>UNITED STATES</B></P>
+<P style="margin:0px" align=center><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+<P style="margin:0px" align=center><B>WASHINGTON, D.C. 20549</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>FORM 8-K</B></P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px" align=center><B>CURRENT REPORT</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center>Date of Report (date of earliest event reported): <B>February 20, 2020</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; font-size:14pt" align=center><B>Heat Biologics, Inc.</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(Exact name of registrant as specified in charter)</I></P>
+<A NAME="FIS_UNIDENTIFIED_TABLE"></A><P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>Delaware</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(State or other jurisdiction of incorporation)</I></P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=322 /><TD width=322 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=322><P style="margin:0px" align=center><B>001-35994</B></P>
+</TD><TD style="margin-top:0px" valign=top width=322><P style="margin:0px" align=center><B>26-2844103</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=322><P style="margin:0px; font-size:8pt" align=center><I>(Commission File Number)</I></P>
+</TD><TD style="margin-top:0px" valign=top width=322><P style="margin:0px; font-size:8pt" align=center><I>(IRS Employer Identification No.)</I></P>
+</TD></TR>
+</TABLE>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<P style="line-height:11pt; margin:0px" align=center><B>627 Davis Drive, Suite 400</B></P>
+<P style="margin:0px" align=center><B>Morrisville, North Carolina 27560</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>&nbsp;(Address of principal executive offices and zip code)</I></P>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>(919) 240-7133</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(Registrant&#146;s telephone number including area code)</I></P>
+<P style="line-height:10pt; margin:0px">&nbsp;</P>
+<P style="margin:0px" align=center><B>N/A</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(Former Name and Former Address)</I></P>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<P style="margin:0px">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of registrant under any of the following provisions:</P>
+<P style="line-height:10pt; margin:0px">&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD width=43 /><TD width=29 /><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=43><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=29><P style="margin:0px; font-family:Wingdings">&#168;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=43><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=29><P style="margin:0px; font-family:Wingdings">&#168;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=43><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=29><P style="margin:0px; font-family:Wingdings">&#168;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=43><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=29><P style="margin:0px; font-family:Wingdings">&#168;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</P>
+</TD></TR>
+</TABLE>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<P style="margin:0px">Securities registered pursuant to Section 12(b) of the Act:</P>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=258 /><TD width=143 /><TD width=282 /></TR>
+<TR><TD style="margin-top:0px; border:1px solid #000000" valign=top width=258><P style="margin:0px; font-size:8pt" align=center><B>Title of each class</B></P>
+</TD><TD style="margin-top:0px; border-top:1px solid #000000; border-right:1px solid #000000; border-bottom:1px solid #000000" valign=top width=143><P style="margin:0px; font-size:8pt" align=center><B>Trading Symbol(s)</B></P>
+</TD><TD style="margin-top:0px; border-top:1px solid #000000; border-right:1px solid #000000; border-bottom:1px solid #000000" valign=top width=282><P style="margin:0px; font-size:8pt" align=center><B>Name of each exchange on which registered</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; border-left:1px solid #000000; border-right:1px solid #000000; border-bottom:1px solid #000000" valign=top width=258><P style="margin:0px" align=center>Common Stock, $0.0002 par value per share</P>
+</TD><TD style="margin-top:0px; border-right:1px solid #000000; border-bottom:1px solid #000000" valign=top width=143><P style="margin:0px" align=center>HTBX</P>
+</TD><TD style="margin-top:0px; border-right:1px solid #000000; border-bottom:1px solid #000000" valign=top width=282><P style="margin:0px" align=center>The Nasdaq Capital Market</P>
+</TD></TR>
+</TABLE>
+<P style="line-height:8pt; margin:0px"><BR></P>
+<P style="margin:0px" align=justify>Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (&#167;230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (&#167;240.12b-2 of this chapter).</P>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0><TR height=0 style="font-size:0"><TD width=320 /><TD width=320 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=320><P style="margin:0px; text-indent:48px">Emerging growth company&nbsp; <FONT style="font-family:Wingdings">&#168;</FONT></P>
+</TD><TD style="margin-top:0px" valign=top width=320><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+</TABLE>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<P style="margin:0px" align=justify>If an emerging growth company, indicate by checkmark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.&nbsp;&nbsp;<FONT style="font-family:Wingdings">&#168;</FONT></P>
+<P style="margin-top:0px; margin-bottom:2.467px; padding-bottom:4px; font-family:Calibri,Times New Roman; font-size:11pt; border-bottom:1.333px solid #000000">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px; padding-top:4px; font-family:Calibri,Times New Roman; font-size:11pt; border-top:4px solid #000000">&nbsp;</P>
+<A NAME="FIS_SECTION_1_BUSINESS_AND_OPERATIONS"></A><A NAME="FIS_ENTRY_MATERIAL_AGREEMENT"></A><P style="margin-top:0px; margin-bottom:8.867px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>Item 8.01. &nbsp;Other Events.</B></P>
+<P style="margin:0px" align=justify>&nbsp;</P>
+<P style="margin:0px" align=justify>As of February 20, 2020, Heat Biologics, Inc. (the <FONT style="font-family:Arial"><font style='font-family:Arial Unicode MS,Arial'>&#8220;</font></FONT>Company<FONT style="font-family:Arial"><font style='font-family:Arial Unicode MS,Arial'>&#8221;</font></FONT>) has an aggregate of 61,245,183 shares of its common stock, par value $0.0002 per share (the <FONT style="font-family:Arial"><font style='font-family:Arial Unicode MS,Arial'>&#8220;</font></FONT>Common Stock<FONT style="font-family:Arial"><font style='font-family:Arial Unicode MS,Arial'>&#8221;</font></FONT>), issued and outstanding. The recent increase in the number of the Company<FONT style="font-family:Arial"><font style='font-family:Arial Unicode MS,Arial'>&#8217;</font></FONT>s issued and outstanding shares of Common Stock is due primarily to the exercise of warrants issued in the Company<FONT style="font-family:Arial"><font style='font-family:Arial Unicode MS,Arial'>&#8217;</font></FONT>s underwritten public offering that closed on January 21, 2020.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin-top:0px; margin-bottom:13.333px"><BR></P>
+<A NAME="eolPage5"></A><A NAME="FIS_SIGNATURES"></A><P style="margin:0px" align=center><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><B>SIGNATURES</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD /><TD width=49 /><TD width=245 /></TR>
+<TR><TD style="margin-top:0px"><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" width=49><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" width=245><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">Dated:&nbsp;&nbsp;February 21, 2020</P>
+</TD><TD style="margin-top:0px" valign=top width=294 colspan=2><P style="margin:0px">HEAT BIOLOGICS, INC.</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=294 colspan=2><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=49><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=245><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=49><P style="margin:0px">By:</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=245><P style="margin:0px">/s/ Jeffrey Wolf</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=49><P style="margin:0px">Name:</P>
+</TD><TD style="margin-top:0px" valign=top width=245><P style="margin:0px">Jeffrey Wolf</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=49><P style="margin:0px">Title:</P>
+</TD><TD style="margin-top:0px" valign=top width=245><P style="margin:0px">Chairman, President and<BR>
+Chief Executive Officer</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR>
+<BR></P>
+</BODY>
+<!-- EDGAR Validation Code: 56B34419 -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

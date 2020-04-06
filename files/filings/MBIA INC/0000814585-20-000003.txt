@@ -1,0 +1,154 @@
+<SEC-DOCUMENT>0000814585-20-000003.txt : 20200302
+<SEC-HEADER>0000814585-20-000003.hdr.sgml : 20200302
+<ACCEPTANCE-DATETIME>20200302124949
+ACCESSION NUMBER:		0000814585-20-000003
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200227
+FILED AS OF DATE:		20200302
+DATE AS OF CHANGE:		20200302
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Fallon William C
+		CENTRAL INDEX KEY:			0001334233
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09583
+		FILM NUMBER:		20675709
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O MBIA
+		STREET 2:		113 KING STREET
+		CITY:			ARMONK
+		STATE:			NY
+		ZIP:			10504
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MBIA INC
+		CENTRAL INDEX KEY:			0000814585
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURETY INSURANCE [6351]
+		IRS NUMBER:				061185706
+		STATE OF INCORPORATION:			CT
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 MANHATTANVILLE ROAD
+		STREET 2:		SUITE 301
+		CITY:			PURCHASE
+		STATE:			NY
+		ZIP:			10577
+		BUSINESS PHONE:		914-273-4545
+
+	MAIL ADDRESS:	
+		STREET 1:		1 MANHATTANVILLE ROAD
+		STREET 2:		SUITE 301
+		CITY:			PURCHASE
+		STATE:			NY
+		ZIP:			10577
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-02-27</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000814585</issuerCik>
+        <issuerName>MBIA INC</issuerName>
+        <issuerTradingSymbol>MBI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001334233</rptOwnerCik>
+            <rptOwnerName>Fallon William C</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O MBIA</rptOwnerStreet1>
+            <rptOwnerStreet2>1 MANHATTANVILLE ROAD, SUITE 301</rptOwnerStreet2>
+            <rptOwnerCity>PURCHASE</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10577</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President &amp; COO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-02-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>28706</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2076480</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents forfeiture of previously granted restricted stock award due to non-achievement of performance criteria.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jonathan C. Harris, Attorney-in-Fact</signatureName>
+        <signatureDate>2020-03-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

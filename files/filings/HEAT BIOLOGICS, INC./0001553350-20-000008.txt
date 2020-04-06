@@ -1,0 +1,2409 @@
+<SEC-DOCUMENT>0001553350-20-000008.txt : 20200103
+<SEC-HEADER>0001553350-20-000008.hdr.sgml : 20200103
+<ACCEPTANCE-DATETIME>20200103070016
+ACCESSION NUMBER:		0001553350-20-000008
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20191230
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20200103
+DATE AS OF CHANGE:		20200103
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HEAT BIOLOGICS, INC.
+		CENTRAL INDEX KEY:			0001476963
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				262844103
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35994
+		FILM NUMBER:		20503324
+
+	BUSINESS ADDRESS:	
+		STREET 1:		801 CAPITOLA DRIVE
+		CITY:			DURHAM
+		STATE:			NC
+		ZIP:			27713
+		BUSINESS PHONE:		919-240-7133
+
+	MAIL ADDRESS:	
+		STREET 1:		801 CAPITOLA DRIVE
+		CITY:			DURHAM
+		STATE:			NC
+		ZIP:			27713
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>htbx_8k.htm
+<DESCRIPTION>AMENDED CURRENT REPORT
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Current Report</TITLE>
+<META NAME="author" CONTENT="Patrick Egan">
+<META NAME="date" CONTENT="01/02/2020">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; color:#000000">
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="line-height:1pt; margin:0px; font-size:11pt">&nbsp;<FONT style="font-size:10pt">&nbsp;</FONT></P>
+<P style="margin-top:0px; margin-bottom:2.267px; padding-bottom:4px; font-family:Calibri,Times New Roman; font-size:11pt; border-bottom:4px solid #000000" align=right>&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9px; padding-top:4px; font-family:Calibri,Times New Roman; font-size:11pt; border-top:1.333px solid #000000" align=right>&nbsp;</P>
+<P style="margin:0px" align=center><B>UNITED STATES</B></P>
+<P style="margin:0px" align=center><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+<P style="margin:0px" align=center><B>WASHINGTON, D.C. 20549</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>FORM 8-K</B></P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px" align=center><B>CURRENT REPORT</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center>Date of Report (date of earliest event reported): <B>December 30, 2019</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; font-size:14pt" align=center><B>Heat Biologics, Inc.</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(Exact name of registrant as specified in charter)</I></P>
+<A NAME="FIS_UNIDENTIFIED_TABLE"></A><P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>Delaware</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(State or other jurisdiction of incorporation)</I></P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=322 /><TD width=322 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=322><P style="margin:0px" align=center><B>001-35994</B></P>
+</TD><TD style="margin-top:0px" valign=top width=322><P style="margin:0px" align=center><B>26-2844103</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=322><P style="margin:0px; font-size:8pt" align=center><I>(Commission File Number)</I></P>
+</TD><TD style="margin-top:0px" valign=top width=322><P style="margin:0px; font-size:8pt" align=center><I>(IRS Employer Identification No.)</I></P>
+</TD></TR>
+</TABLE>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<P style="line-height:11pt; margin:0px" align=center><B>627 Davis Drive</B></P>
+<P style="margin:0px" align=center><B>Morrisville, North Carolina 27560</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>&nbsp;(Address of principal executive offices and zip code)</I></P>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>(919) 240-7133</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(Registrant&#146;s telephone number including area code)</I></P>
+<P style="line-height:10pt; margin:0px">&nbsp;</P>
+<P style="margin:0px" align=center><B>N/A</B></P>
+<P style="margin:0px; font-size:8pt" align=center><I>(Former Name and Former Address)</I></P>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<P style="margin:0px">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of registrant under any of the following provisions:</P>
+<P style="line-height:10pt; margin:0px">&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD width=43 /><TD width=29 /><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=43><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=29><P style="margin:0px; font-family:Wingdings">&#168;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=43><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=29><P style="margin:0px; font-family:Wingdings">&#168;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=43><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=29><P style="margin:0px; font-family:Wingdings">&#168;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=43><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=29><P style="margin:0px; font-family:Wingdings">&#168;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</P>
+</TD></TR>
+</TABLE>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<P style="margin:0px">Securities registered pursuant to Section 12(b) of the Act:</P>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=258 /><TD width=143 /><TD width=282 /></TR>
+<TR><TD style="margin-top:0px; border:1px solid #000000" valign=top width=258><P style="margin:0px; font-size:8pt" align=center><B>Title of each class</B></P>
+</TD><TD style="margin-top:0px; border-top:1px solid #000000; border-right:1px solid #000000; border-bottom:1px solid #000000" valign=top width=143><P style="margin:0px; font-size:8pt" align=center><B>Trading Symbol(s)</B></P>
+</TD><TD style="margin-top:0px; border-top:1px solid #000000; border-right:1px solid #000000; border-bottom:1px solid #000000" valign=top width=282><P style="margin:0px; font-size:8pt" align=center><B>Name of each exchange on which registered</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; border-left:1px solid #000000; border-right:1px solid #000000; border-bottom:1px solid #000000" valign=top width=258><P style="margin:0px" align=center>Common Stock, $0.0002 par value per share</P>
+</TD><TD style="margin-top:0px; border-right:1px solid #000000; border-bottom:1px solid #000000" valign=top width=143><P style="margin:0px" align=center>HTBX</P>
+</TD><TD style="margin-top:0px; border-right:1px solid #000000; border-bottom:1px solid #000000" valign=top width=282><P style="margin:0px" align=center>The Nasdaq Capital Market</P>
+</TD></TR>
+</TABLE>
+<P style="line-height:8pt; margin:0px"><BR></P>
+<P style="margin:0px" align=justify>Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (&#167;230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (&#167;240.12b-2 of this chapter).</P>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0><TR height=0 style="font-size:0"><TD width=320 /><TD width=320 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=320><P style="margin:0px; text-indent:48px">Emerging growth company&nbsp; <FONT style="font-family:Wingdings">&#168;</FONT></P>
+</TD><TD style="margin-top:0px" valign=top width=320><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+</TABLE>
+<P style="line-height:10pt; margin:0px"><BR></P>
+<P style="margin:0px" align=justify>If an emerging growth company, indicate by checkmark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.&nbsp;&nbsp;<FONT style="font-family:Wingdings">&#168;</FONT></P>
+<P style="margin-top:0px; margin-bottom:2.467px; padding-bottom:4px; font-family:Calibri,Times New Roman; font-size:11pt; border-bottom:1.333px solid #000000">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px; padding-top:4px; font-family:Calibri,Times New Roman; font-size:11pt; border-top:4px solid #000000">&nbsp;</P>
+<A NAME="FIS_SECTION_1_BUSINESS_AND_OPERATIONS"></A><A NAME="FIS_ENTRY_MATERIAL_AGREEMENT"></A><P style="margin-top:0px; margin-bottom:8.867px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px"><B>Item 5.02.</B>&nbsp;&nbsp;&nbsp;<B>Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>On December 30, 2019 and January 2, 2019, the Board of Directors (the <font style='font-family:Arial Unicode MS,Times New Roman'>&#8220;</font>Board<font style='font-family:Arial Unicode MS,Times New Roman'>&#8221;</font>) of Heat Biologics, Inc. (the &#147;Company&#148;), in an effort to better align the Company&#146;s Chief Executive Officer&#146;s equity ownership interest in the Company with that of other chief executive officers of similarly situated public companies,<FONT style="font-size:12pt"> </FONT>and based upon the recommendations and guidance of the independent third party compensation consultant retained by the Compensation Committee of the Board, awarded Jeffrey Wolf, the Company&#146;s Chief Executive Officer, restricted stock awards and other compensation as described in this Current Report on Form 8-K. On December 30, 2019, the Board awarded Mr. Wolf, 900,000 shares of restricted common stock of the Company together with a gross up cash payment of $166,864 to cover the estimated taxes with respect to such equity award, which was in addition to his annual cash bonus for 2019 that was awarded pursuant to the terms of Mr. Wolf&#146;s employment agreement with the Company. On January 2, 2020, the Board granted to Mr. Wolf 1,980,000 shares of restricted common stock together with a gross up cash payment of $369,514 to cover the estimated taxes with respect to such equity award. The equity awards described above were granted pursuant to the Company&#146;s 2018 Stock Incentive Plan. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>In addition, on January 2, 2020, the Board approved an amendment, effective January 1, 2020, to the Company&#146;s employment agreements with each of Mr. Wolf and Dr. Hutchins and the offer letter with Mr. Ostrander to increase their respective annual base salaries by 3%. Copies of the amendments to Mr. Wolf&#146;s and Dr. Hutchins&#146; employment agreements and Mr. Ostrander&#146;s offer letter are attached hereto as Exhibits 10.1, 10.2 and 10.3 and are incorporated herein by reference. The increases were in addition to the annual cash bonuses for 2019, which were awarded pursuant to the terms of their applicable agreements with the Company.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>On January 2, 2020, based upon the recommendations and guidance of the independent third party compensation consultant retained by the Compensation Committee, the Board also awarded the following equity compensation to the non-executive members of the Board and its Committees: John K.A. Prendergast, Ph.D., the lead independent director, was awarded 400,000 shares of restricted common stock; John Monahan, Ph.D., was awarded an option to purchase 150,000 shares of common stock, and Edward B. Smith, III was awarded an option to purchase 150,000 shares of common stock. The annual cash compensation for directors is to remain the same as it was for the prior year as disclosed in the Company&#146;s 2019 proxy statement.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>The shares of restricted stock and the shares of common stock underlying the option awards vest as follows: 50% vest immediately, 30% vest on the one-year anniversary of the date of grant, 10% vest on the two-year anniversary of the date of grant and 10% vest on the three-year anniversary of the date of grant, subject to the executive officer&#146;s or director&#146;s continuous service to the Company on each applicable vesting date. Each option is exercisable for a period of ten years from the date of grant and has an exercise price of $0.464 per share, the closing price of the Company&#146;s common stock on the Nasdaq Capital Market on the date of the grant. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>The restricted stock was issued pursuant to the terms of a restricted stock agreement that was entered into between the Company and each of Mr. Wolf and Dr. Prendergast, the form of which is incorporated by reference hereto and attached hereto as Exhibit 10.4. The restricted stock agreements, among other things, prohibit transfers of the restricted stock prior to the two year anniversary of the grant date other than by will, laws of descent and distribution and in the event of death. In addition, sales or transfers made after the two year anniversary of the grant date are subject to the right of the Company to buy back the stock at any time that the holder desires to sell the restricted stock at a price equal to the lower of the closing price per share on the date of notice and 32 times the closing price per share on the date of grant. </P>
+<P style="margin:0px" align=justify>&nbsp;</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px"><B>Item 9.01. &nbsp;Financial Statements and Exhibits.</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px">(d) Exhibits.</P>
+<A NAME="FIS_UNIDENTIFIED_TABLE_3"></A><P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD width=52 /><TD width=14 /><TD /></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=52><P style="margin:0px; font-size:8pt" align=center><B>Exhibit Number</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=14><P style="margin:0px; font-size:8pt">&nbsp;</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom><P style="margin:0px; font-size:8pt"><B>Description</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=52><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=52><P style="margin:0px" align=center>10.1</P>
+</TD><TD style="margin-top:0px" valign=top width=14><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P style="margin:0px"><A HREF="htbx_ex10z1.htm">Amendment to Employment Agreement between Heat Biologics, Inc. and Jeffrey Wolf, effective as of January 1, 2020</A></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=52><P style="margin:0px" align=center>10.2</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=14><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top><P style="margin:0px"><A HREF="htbx_ex10z2.htm">Amendment to Employment Agreement between Heat Biologics, Inc. and Jeffrey T. Hutchins, effective as of January 1, 2020</A></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=52><P style="margin:0px" align=center>10.3</P>
+</TD><TD style="margin-top:0px" valign=top width=14><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P style="margin:0px"><A HREF="htbx_ex10z3.htm">Amendment to Offer Letter between Heat Biologics, Inc. and William Ostrander, effective as of January 1, 2020</A></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=52><P style="margin:0px" align=center>10.4</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=14><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=top><P style="margin:0px; color:#0000FF"><A HREF="htbx_ex10z4.htm"><U>Form of Heat Biologics, Inc. Restricted Stock Agreement</U></A><FONT style="color:#000000"></FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=52><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=14><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=52><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=14><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin-top:0px; margin-bottom:13.333px"><BR></P>
+<A NAME="eolPage5"></A><A NAME="FIS_SIGNATURES"></A><P style="margin:0px" align=center><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><B>SIGNATURES</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD /><TD width=49 /><TD width=245 /></TR>
+<TR><TD style="margin-top:0px"><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" width=49><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" width=245><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">Dated:&nbsp;&nbsp;January 3, 2020</P>
+</TD><TD style="margin-top:0px" valign=top width=294 colspan=2><P style="margin:0px">HEAT BIOLOGICS, INC.</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=294 colspan=2><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=49><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=245><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=49><P style="margin:0px">By:</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=245><P style="margin:0px">/s/ Jeffrey Wolf</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=49><P style="margin:0px">Name:</P>
+</TD><TD style="margin-top:0px" valign=top width=245><P style="margin:0px">Jeffrey Wolf</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=49><P style="margin:0px">Title:</P>
+</TD><TD style="margin-top:0px" valign=top width=245><P style="margin:0px">Chairman, President and<BR>
+Chief Executive Officer</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR>
+<BR></P>
+</BODY>
+<!-- EDGAR Validation Code: DB76FA69 -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>htbx_ex10z1.htm
+<DESCRIPTION>AMENDMENT TO EMPLOYMENT AGREEMENT
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>AMENDMENT TO EMPLOYMENT AGREEMENT</TITLE>
+<META NAME="author" CONTENT="Patrick Egan">
+<META NAME="date" CONTENT="01/02/2020">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; color:#000000">
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px; font-size:11pt" align=right><B>EXHIBIT 10.1</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px; font-size:11pt" align=center><B><U>AMENDMENT TO EMPLOYMENT AGREEMENT</U></B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify>This Amendment (this &#147;Amendment&#148;) effective as of January 1, 2020 to the Employment Agreement, dated December 18, 2009, as amended on January 1, 2011, January 20, 2014, January 11, 2016, April 1, 2016 and January 1, 2017 (the &#147;Employment Agreement&#148;), by and between Heat Biologics, Inc. (the &#147;Company&#148;) and Jeffrey Wolf (&#147;Executive&#148;). Capitalized terms used herein without definition shall have the meanings assigned in the Employment Agreement. &nbsp;</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify><B>WHEREAS</B>, Executive was retained under the Employment Agreement by the Corporation to serve as its President and Chief Executive Officer; and </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify><B>WHEREAS</B>, in recognition of the hard work and performance by Executive, the Corporation desires to amend the Employment Agreement to increase Executive&#146;s annual base salary. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify><B>NOW THEREFORE</B>, for the mutual promises contained herein and for ten dollars ($10.00) and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties hereto agree to amend the Employment Agreement as follows: </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify>1. <B><U>Amendment</U></B>. Section 3(a)(i) of the Employment Agreement is hereby deleted and replaced with the following:</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify>&#147;(i) Executive shall receive an annual base salary of Four Hundred Forty Thousand Four Hundred and Sixty &nbsp;Dollars ($440,406) for the Term (the &#147;Base Salary&#148;), payable semi-monthly, which Base Salary may be reviewed and increased on an annual basis by the Board or a committee thereof to reflect the rate of inflation in effect at such time.&#148;</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify>2. <B><U>Severability</U></B>. The provisions of this Amendment are severable and if any part or it is found to be unenforceable the other paragraphs shall remain fully valid and enforceable. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify>3. <B><U>No Other Amendments; Confirmation</U></B>. All other terms of the Agreement shall remain in full force and effect. The Agreement, as amended by this Amendment, constitutes the entire agreement between the parties with respect to the subject matter thereof. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify>4. <B><U>Counterparts</U></B>. &nbsp;This Amendment may be executed in one or more counterparts, each of which shall be deemed an original but both of which together shall constitute one and the same instrument.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify>5. <B><U>Governing Law</U></B>. This Amendment is made and shall be construed and performed under the laws of the remaining provisions will nevertheless continue to be valid and enforceable. State of North Carolina without regard to its choice or conflict of law principles and the parties agree to North Carolina as the exclusive venue for any disputes arising hereunder. </P>
+<P style="margin:0px"><BR></P>
+<P style="margin-top:0px; margin-bottom:8.133px"><BR></P>
+<P style="margin-top:0px; margin-bottom:8.133px; font-size:11pt" align=center><B><I>[Signature page follows]</I></B></P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin-top:0px; margin-bottom:9.8px; font-family:Calibri,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify><B>IN WITNESS WHEREOF</B>, the parties hereto have caused this Amendment to Mr. Wolf&#146;s Employment Agreement to be duly executed as of the day and year first above written. </P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD /><TD width=58 /><TD width=213 /></TR>
+<TR><TD style="margin-top:0px"><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" width=58><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" width=213><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px"><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" width=58><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" width=213><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=271 colspan=2><P style="margin:0px; font-size:11pt"><B>HEAT BIOLOGICS, INC.</B></P>
+<P style="margin:0px"><BR></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=58><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=213><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=58><P style="margin:0px; font-size:11pt">By: </P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=213><P style="margin:0px; font-size:11pt">/s/ William Ostrander </P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=58><P style="margin:0px; font-size:11pt">Name: </P>
+</TD><TD style="margin-top:0px" valign=top width=213><P style="margin:0px; font-size:11pt">William Ostrander</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=58><P style="margin:0px; font-size:11pt">Title: </P>
+</TD><TD style="margin-top:0px" valign=top width=213><P style="margin:0px; font-size:11pt">Vice President of Finance</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=58><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=213><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=271 colspan=2><P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; font-size:11pt">/s/ Jeffrey Wolf</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=271 colspan=2><P style="margin:0px; font-size:11pt"><B>JEFFREY WOLF</B></P>
+</TD></TR>
+</TABLE>
+<P style="margin-top:0px; margin-bottom:8.133px"><BR></P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR>
+<BR></P>
+</BODY>
+<!-- EDGAR Validation Code: 400229A9 -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>3
+<FILENAME>htbx_ex10z2.htm
+<DESCRIPTION>AMENDMENT TO EMPLOYMENT AGREEMENT
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>AMENDMENT TO EMPLOYMENT AGREEMENT</TITLE>
+<META NAME="author" CONTENT="Patrick Egan">
+<META NAME="date" CONTENT="01/02/2020">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; color:#000000">
+<P style="margin:0px; font-family:Calibri,Times New Roman; font-size:11pt">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px; font-size:11pt" align=right><B>EXHIBIT 10.2</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px; font-size:11pt" align=center><B><U>AMENDMENT TO EMPLOYMENT AGREEMENT</U></B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify>This Amendment (this &#147;Amendment&#148;) effective as of January 1, 2020 to the Employment Agreement, initially effective as of January 1, 2017 and amended as of June 29, 2017, January 1, 2018 and January 1, 2019 (the &#147;Employment Agreement&#148;), by and between Heat Biologics, Inc. (the &#147;Corporation&#148;) and Jeff T. Hutchins (&#147;Executive&#148;). &nbsp;Capitalized terms used herein without definition shall have the meanings assigned in the Employment Agreement. &nbsp;</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify><B>WHEREAS</B>, Executive was retained under the Employment Agreement by the Corporation to serve as its Chief Scientific Officer and Chief Operating Officer; and </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify><B>WHEREAS</B>, in recognition of the hard work and performance by Executive, the Corporation desires to amend the Employment Agreement to increase Executive&#146;s annual base salary. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify><B>NOW THEREFORE</B>, for the mutual promises contained herein and for ten dollars ($10.00) and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties hereto agree to amend the Employment Agreement as follows:</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin-top:0px; margin-bottom:7.8px; text-indent:48px; font-size:11pt" align=justify>1. &nbsp;<B><U>Amendment</U></B>. &nbsp;Section 3(a)(i)&nbsp;of the Employment Agreement is hereby deleted in its entirety and replaced with the following:</P>
+<P style="margin-top:0px; margin-bottom:7.8px; text-indent:48px; font-size:11pt" align=justify>&#147;(i) &nbsp;&#147;Executive shall receive an annual base salary of Three Hundred Fifty Three Thousand Six Hundred Seventy Six Dollars ($353,676) for the Term (the &#147;Base Salary&#148;), payable semi-monthly, which Base Salary may be reviewed and increased on an annual basis by the Board or a committee thereof to reflect the rate of inflation in effect at such time.&#148;</P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify>2. <B><U>Severability</U></B>. The provisions of this Amendment are severable and if any part or it is found to be unenforceable the other paragraphs shall remain fully valid and enforceable. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify>3. <B><U>No Other Amendments; Confirmation</U></B>. All other terms of the Agreement shall remain in full force and effect. The Agreement, as amended by this Amendment, constitutes the entire agreement between the parties with respect to the subject matter thereof. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify>4. <B><U>Counterparts</U></B>. &nbsp;This Amendment may be executed in one or more counterparts, each of which shall be deemed an original but both of which together shall constitute one and the same instrument.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify>5. <B><U>Governing Law</U></B>. This Amendment is made and shall be construed and performed under the laws of the remaining provisions will nevertheless continue to be valid and enforceable. State of North Carolina without regard to its choice or conflict of law principles and the parties agree to North Carolina as the exclusive venue for any disputes arising hereunder. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin-top:0px; margin-bottom:6.8px" align=justify><BR></P>
+<P style="margin-top:0px; margin-bottom:6.8px; font-size:11pt" align=center><B><I>[Signature page follows]</I></B></P>
+<P style="margin-top:0px; margin-bottom:8.8px"><BR></P>
+<P style="margin-top:0px; margin-bottom:8.8px"><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; font-family:Calibri,Times New Roman; font-size:11pt; page-break-before:always">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin-top:0px; margin-bottom:9px; text-indent:48px; font-size:11pt" align=justify><B>IN WITNESS WHEREOF</B>, the parties hereto have caused this Amendment to Dr. Hutchins Employment Agreement to be duly executed as of the day and year first above written. </P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD /><TD width=58 /><TD width=213 /></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=271 colspan=2><P style="margin:0px"><BR></P>
+<P style="margin:0px; font-size:11pt"><B>HEAT BIOLOGICS, INC.</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=58><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=213><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=58><P style="margin:0px; font-size:11pt">By: </P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=213><P style="margin:0px; font-size:11pt">/s/ Jeffrey Wolf</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=58><P style="margin:0px; font-size:11pt">Name: </P>
+</TD><TD style="margin-top:0px" valign=top width=213><P style="margin:0px; font-size:11pt">Jeffrey Wolf</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=58><P style="margin:0px; font-size:11pt">Title: </P>
+</TD><TD style="margin-top:0px" valign=top width=213><P style="margin:0px; font-size:11pt">Chief Executive Officer</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=58><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=213><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=58><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=213><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=271 colspan=2><P style="margin:0px; font-size:11pt">/s/ Jeff T. Hutchins</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=271 colspan=2><P style="margin:0px; font-size:11pt"><B>JEFF T. HUTCHINS</B></P>
+</TD></TR>
+</TABLE>
+<P style="margin-top:0px; margin-bottom:9px"><BR></P>
+<P style="margin-top:0px; margin-bottom:8.133px"><BR></P>
+<P style="margin-top:0px; margin-bottom:14.667px"><BR></P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR>
+<BR></P>
+</BODY>
+<!-- EDGAR Validation Code: B09C35DF -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>4
+<FILENAME>htbx_ex10z3.htm
+<DESCRIPTION>AMENDMENT TO OFFER LETTER
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Amendment to Offer Letter</TITLE>
+<META NAME="author" CONTENT="Patrick Egan">
+<META NAME="date" CONTENT="01/02/2020">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; color:#000000">
+<P style="margin:0px; font-family:Calibri,Times New Roman; font-size:11pt">&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:9.8px"><BR></P>
+<P style="margin:0px; font-size:11pt" align=right><B>EXHIBIT 10.3</B></P>
+<P style="margin:0px" align=center><img src="htbx_ex10z3002.gif" alt="[htbx_ex10z3002.gif]" align=middle height=63.8 width=231.2><FONT style="font-family:Calibri,Times New Roman; font-size:11pt"></FONT></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; font-size:11pt">January 1, 2020</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; font-size:11pt">William Ostrander</P>
+<P style="margin:0px; font-size:11pt">Vice President of Finance</P>
+<P style="margin:0px; font-size:11pt">c/o Heat Biologics, Inc.</P>
+<P style="line-height:11pt; margin:0px; font-size:11pt">627 Davis Drive</P>
+<P style="margin:0px; font-size:11pt">Morrisville, North Carolina 27560</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt"><B>Re: <U>Amendment to Offer Letter</U></B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; font-size:11pt">Dear Bill:</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify>This Amendment (this &#147;<U>Amendment</U>&#148;), effective as of January 1, 2020, to the offer letter, dated September 23, 2019 (the &#147;Offer Letter&#148;), entered into by and between Heat Biologics, Inc. (the &#147;<U>Company</U>&#148;) and William Ostrander. &nbsp;</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify>Pursuant to the Offer Letter, you were retained by the Company to serve as its Vice President of Finance. &nbsp;In recognition of your hard work and performance, the Company desires to amend the Offer Letter in order to increase your annual base salary by 3%.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify>For the mutual promises contained herein and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties hereto agree to amend the Offer Letter as follows:</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify>The second paragraph of the Offer Letter is hereby deleted in its entirety and replaced with the following two sentences: &#147;As a full-time<B> </B>exempt employee, your base salary will be $226,600 on an annual basis, payable bi-weekly. &nbsp;You will also be eligible to receive an annual bonus up to 20% of your total annual salary.&#148;</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify>The provisions of this Amendment to the Offer Letter are severable and if any part or it is found to be unenforceable the other paragraphs shall remain fully valid and enforceable. &nbsp;All other terms of the Offer Letter shall remain in full force and effect. The Offer Letter, as amended by this Amendment, constitutes the entire agreement between the parties with respect to the subject matter thereof. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:11pt" align=justify>This Amendment may be executed in one or more counterparts, each of which shall be deemed an original but both of which together shall constitute one and the same instrument.</P>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD width=206 /><TD /><TD width=206 /></TR>
+<TR><TD style="margin-top:0px" width=206><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px"><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" width=206><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=206><P style="margin:0px; font-size:11pt">Sincerely,</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=206><P style="margin:0px; font-size:11pt">Agreed and Accepted,</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=206><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=206><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=206><P style="margin:0px; font-size:11pt">/s/ Jeffrey Wolf</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=206><P style="margin:0px; font-size:11pt">/s/ William Ostrander</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=206><P style="margin:0px; font-size:11pt">Jeffrey Wolf</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=206><P style="margin:0px; font-size:11pt">William Ostrander</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=206><P style="margin:0px; font-size:11pt">Chief Executive Officer</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=206><P style="margin:0px; font-size:11pt">January 1, 2020</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=206><P style="margin:0px; font-size:11pt">Heat Biologics, Inc.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; font-size:11pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=206><P style="margin:0px; font-size:11pt">Date</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR>
+<BR></P>
+</BODY>
+<!-- EDGAR Validation Code: 09D980E9 -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.4
+<SEQUENCE>5
+<FILENAME>htbx_ex10z4.htm
+<DESCRIPTION>FORM OF HEAT BIOLOGICS, INC. RESTRICTED STOCK AGREEMENT
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Form of Heat Biologics, Inc. Restricted Stock Agreement</TITLE>
+<META NAME="author" CONTENT="Marlow">
+<META NAME="date" CONTENT="01/02/2020">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; color:#000000">
+<P style="margin:0px; font-family:CG Times,Times New Roman">&nbsp;</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=right><B>EXHIBIT 10.4</B></P>
+<P style="margin:0px" align=center><B>HEAT BIOLOGICS, INC.</B></P>
+<P style="margin:0px" align=center><B>RESTRICTED STOCK AGREEMENT</B></P>
+<P style="margin:0px" align=center><B>2018 STOCK INCENTIVE PLAN</B></P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.667px" align=justify>THIS RESTRICTED STOCK AGREEMENT (the &#147;<B><I>Agreement</I></B>&#148;) is made and entered into as of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(the &#147;<B><I>Grant Date</I></B>&#148;), by and between <B>Heat Biologics, Inc.</B>, a Delaware corporation (the &#147;<B><I>Company</I></B>&#148;), and _________ (the &#147;<B><I>Participant</I></B>&#148;). </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.667px" align=justify>Subject to the Additional Terms and Conditions attached hereto and incorporated herein by reference as part of this Agreement, the Company hereby awards as of the Grant Date to the Participant the shares of the Company&#146;s restricted Common Stock (the &#147;<B><I>Restricted Stock</I></B>&#148;) described below (the &#147;<B><I>Restricted Stock Award</I></B>&#148;) pursuant to the Heat Biologics, Inc. 2018 Stock Incentive Plan (the &#147;<B><I>Plan</I></B>&#148;). &nbsp;Capitalized terms that are not otherwise defined in this Agreement shall have the meanings given to such terms in the Plan.</P>
+<P style="margin-top:9.2px; margin-bottom:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD width=270 /><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=270><P style="margin:0px">Participant:</P>
+<P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=270><P style="margin:0px">Grant Date:</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=270><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=270><P style="margin:0px">Total Number of Shares of </P>
+<P style="margin:0px">Restricted Stock Awarded:</P>
+<P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px"><BR></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=270><P style="margin:0px">Vesting Schedule:</P>
+<P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" align=justify>The Restricted Stock shall vest according to the Vesting Schedule attached hereto as <U>Schedule 1</U>. The Restricted Stock that become vested on each Vesting Date pursuant to the Vesting Schedule are herein referred to as the &#147;<B><I>Vested Restricted Stock</I></B>.&#148;</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>The Restricted Stock is awarded under and governed by the terms and conditions of this Restricted Stock Agreement and the Plan, which is incorporated herein by reference. &nbsp;By signing below, the Participant accepts the Restricted Stock Award, acknowledges receipt of a copy of the Plan and this Restricted Stock Agreement, and agrees to the terms thereof.</P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD width=64.733 /><TD width=119.2 /><TD /><TD width=40.067 /><TD width=167.867 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=183.933 colspan=2><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=207.933 colspan=2><P style="margin:0px"><B>HEAT BIOLOGICS, INC.:</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=183.933 colspan=2><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=40.067><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=167.867><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=183.933 colspan=2><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=40.067><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=167.867><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=183.933 colspan=2><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=40.067><P style="margin:0px">By: &nbsp;</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=167.867><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=183.933 colspan=2><P style="margin:0px">(Signature)</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=40.067><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=167.867><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=183.933 colspan=2><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=40.067><P style="margin:0px">Name:</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=167.867><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=183.933 colspan=2><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=40.067><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=167.867><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=64.733><P style="margin:0px">Address:<U> </U></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=119.2><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=40.067><P style="margin:0px">Title:&nbsp;</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=167.867><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+</TABLE>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:48px">&nbsp;</P>
+<P style="margin:0px"><BR></P>
+<P style="margin-top:0px; margin-bottom:8.2px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; font-family:CG Times,Times New Roman; page-break-before:always">&nbsp;</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>ADDITIONAL TERMS AND CONDITIONS OF</B></P>
+<P style="margin:0px" align=center><B>HEAT BIOLOGICS, INC.</B></P>
+<P style="margin:0px" align=center><B>RESTRICTED STOCK AGREEMENT</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px; text-indent:32px">1. &nbsp;<U>Restricted Stock Held in Plan Name</U>. The <B>2018 STOCK INCENTIVE PLAN (the &#147;Plan&#148;)</B></P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.667px" align=justify>Restricted Stock shall be issued in the name of the Plan and held for the account and benefit of the Participant. &nbsp;The Committee (as defined in the Plan) shall cause periodic statements of account to be delivered to the Participant, at such time or times as the Committee may determine in its sole discretion, showing the number of Restricted Stock held by the Plan on behalf of the Participant. Subject to other Additional Terms and Conditions, the Committee shall cause one or more certificates to be delivered to the Participant as soon as administratively practicable following the date that all or any portion of the Restricted Stock become Vested Restricted Stock. </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.667px" align=justify>2. &nbsp;<U>Condition to Delivery of Vested Restricted Stock</U>. </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.667px" align=justify>(a) &nbsp;If Participant makes a timely election pursuant to Section&nbsp;83(b) of the Code, it is a condition to receiving the Vested Restricted Stock that Participant must deliver to the Company, within thirty (30)&nbsp;days of making the election pursuant to said Section&nbsp;83(b) as to all or any portion of the Restricted Stock, either cash or a certified check payable to the Company in the amount of all of the tax withholding obligations (whether federal, state or local), imposed on the Company by reason of the making of an election pursuant to said Section&nbsp;83(b). </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.667px" align=justify>(b) &nbsp;&nbsp;If the Participant does not make a timely election pursuant to Section&nbsp;83(b) of the Code as to all of the Restricted Stock, the Participant may notify the Company in writing, which notice must be received by the Company at least thirty (30)&nbsp;days prior to the date Restricted Stock become Vested Restricted Stock (or such later date as the Committee may permit), that the Participant wishes to pay in cash all of the tax withholding obligations (whether federal, state or local) imposed on the Company by reason of the vesting of some or all of the Restricted Stock. As a condition to receiving the Vested Restricted Stock, Participant must deliver to the Company no later than three (3)&nbsp;business days of the vesting either cash or a certified check payable to the Company in the amount of all of the tax withholding obligations (whether federal, state or local) imposed on the Company by reason of the vesting of the Vested Restricted Stock to which the election applies. </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.667px" align=justify>(c) &nbsp;If the Participant does not make a timely election pursuant to Section&nbsp;83(b) of the Code as provided in Section&nbsp;2(a), or deliver a timely election to make a supplemental payment with cash or by certified check for tax withholding obligations as provided in Section&nbsp;2(b) as to all or a portion of the Vested Restricted Stock, Participant will be deemed to have elected to have the actual number of Vested Restricted Stock reduced by the smallest number of whole shares of underlying Common Stock which, when multiplied by the fair market value of the underlying Common Stock, as determined by the Committee, on the date of the vesting event is sufficient to satisfy the amount of the tax withholding obligations imposed on the Company by reason of the vesting of such Vested Restricted Stock (the &#147;<B><I>Withholding Election</I></B>&#148;). Participant understands and agrees that Participant&#146;s acceptance of this Restricted Stock Award will be deemed to be Participant&#146;s election to make a Withholding Election pursuant to this Section&nbsp;2(c) and such other consistent terms and conditions prescribed by the Committee. </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.667px" align=justify>(d) &nbsp;In addition to the provisions of Sections 2(a)-(c), if Participant is terminated by the Company other than for Cause and has not made a timely election pursuant to Section&nbsp;83(b) of the Code, Participant will be deemed to have elected to have the actual number of Restricted Stock that will vest pursuant to the terms of the Plan reduced by the smallest number of whole shares of the underlying Common Stock which, when multiplied by the fair market value of the underlying Common Stock, as determined by the Committee, is sufficient to satisfy the amount of the tax withholding obligations imposed on the Company by reason of the vesting of such Restricted Stock. The date for the withholding will be the date the tax withholding obligation is imposed on the Company, as determined by the Company. A stock certificate for such Restricted Stock (net of any tax withholdings) will be issued and held by the Company and delivered to Participant after the Vesting Date or as otherwise provided herein. Participant understands and agrees that Participant&#146;s acceptance of this Restricted Stock Award will be deemed to be Participant&#146;s election to make a tax withholding election pursuant to this Section&nbsp;2(d) and such other consistent terms and conditions prescribed by the Committee.</P>
+<P style="margin-top:9.2px; margin-bottom:0px" align=justify><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; font-family:CG Times,Times New Roman; page-break-before:always">&nbsp;</P>
+<P style="margin:0px"><BR></P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.667px" align=justify>(e) &nbsp;The Committee reserves the right to give no effect to a withholding election under Sections 2(b), (c)&nbsp;or (d)&nbsp;in which case the Participant will remain obligated as a condition to receiving the Vested Restricted Stock to satisfy applicable tax withholding obligations with cash or by a certified check in the manner provided by the Committee. If the Committee elects not to give effect to a withholding election under Sections 2(b), (c)&nbsp;or (d), it shall provide the Participant with written notice reasonably in advance of the applicable vesting event. </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.667px" align=justify>3. &nbsp;<U>Rights as Stockholder</U>. &nbsp;The Restricted Stock will be held for the Participant by the Company until a disposition of the Restricted Stock occurs in accordance with Section 4(d). Participant shall have all the rights of a stockholder on shares of Restricted Stock that vest. With respect to unvested Restricted Stock: (a) Participant shall have the right to vote such shares at any meeting of stockholders of the Company; (b) Participant shall have and the right to receive, free of vesting restrictions (but subject to applicable withholding taxes) all cash dividends paid with respect to such shares; and (c) any non-cash dividends and other non-cash proceeds of such shares, including stock dividends and any other securities issued or distributed in respect of such shares shall be subject to the same vesting and forfeiture conditions, and the terms of Section 4(d), as the shares of Restricted Stock to which they relate, and the term &#147;<B><I>Restricted Stock</I></B>&#148; when used in this Agreement shall also include any related stock dividends and other securities issued or distributed in respect of such shares.</P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.667px" align=justify>4. &nbsp;<U>Vesting, Forfeiture and Restrictions on Transfer of Restricted Stock</U>. </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:48px" align=justify>(a) &nbsp;<U>Generally</U>. &nbsp;The shares of Restricted Stock which have become Vested Restricted Stock pursuant to the Vesting Schedule shall be considered as fully earned by the Participant, subject to the further provisions of this Section&nbsp;4 and any applicable provisions of any employment agreement between the Participant and the Company (&#147;<B><I>Employment Agreement</I></B>&#148;), provided that the Company shall continue to hold the shares of Vested Restricted Stock on behalf of the Participant or instruct the transfer agent to hold the shares of Vested Restricted Stock on behalf of the Participant or pending disposition pursuant to Section 4(d). Any Restricted Stock that do not become Vested Restricted Stock in accordance with the Vesting Schedule or the provisions of this Section&nbsp;4 as of the Participant&#146;s termination of employment (&#147;<B><I>Termination of Employment</I></B>&#148;) (as described in Section 7 of the Plan) with the Company and/or its affiliates will be forfeited and transferred back to the Company.</P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:48px" align=justify>(b) &nbsp;<U>Vesting and Forfeitures upon Termination of Employment or Service and/or Change in Control</U>. </P>
+<P style="margin-top:9.2px; margin-bottom:0px; padding-left:48px; text-indent:48px" align=justify>(i) <U>Termination by Participant</U>. Except as provided in Section 4(b)(ii), upon a Termination of Employment prior to the Vesting Date effected by the Participant for any reason other than &#147;<B><I>Good Reason</I></B>&#148; (as defined in the Employment Agreement) all unvested Restricted Stock shall be forfeited as of the effective date of such Termination of Employment.</P>
+<P style="margin-top:9.2px; margin-bottom:0px; padding-left:48px; text-indent:48px" align=justify>(ii) <U>Termination of Employment or Service; Change in Control</U>. Subject to the provisions of Section 7 (Termination of Employment) of the Plan, the Restricted Stock shall become vested to the extent and at the time or times set forth in the Vesting Schedule. <FONT style="background-color:#FFFFFF">&nbsp;In the event that Participant resigns from employment with the Company for &#147;Good Reason&#148; pursuant to the Employment Agreement, or Participant&#146;s employment is terminated without cause or for disability or death, then all Restricted Stock shall thereupon become fully vested.&nbsp; In addition, </FONT>in the event of a Change in Control, all Restricted Stock shall become fully vested immediately prior to the effective date of a Change in Control provided Participant is still employed by, or providing services to, the Company or any of its subsidiaries immediately prior to the effective date of the Change in Control.</P>
+<P style="margin-top:10.067px; margin-bottom:0px; text-indent:48px" align=justify>(c) &nbsp;<U>Certain Breaches of Employment Agreement</U>. Notwithstanding anything to the contrary herein, if, at any time, an arbitrator or court of competent jurisdiction makes a final determination that the Participant has breached any of the terms, provisions and restrictions imposed upon Participant under the Employment Agreement (if any), all of the Restricted Stock, other than any shares of Restricted Stock that have become Vested Restricted Stock, shall be forfeited. &nbsp;Such forfeiture shall occur without limiting the Company&#146;s other rights and remedies available under the Employment Agreement. </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:48px" align=justify>(d) &nbsp;<U>Restrictions on Transfer of Restricted Stock</U>. Participant shall effect no disposition of Restricted Stock prior to the two year anniversary of the grant date; provided, however, that this provision shall not preclude a transfer by will or the laws of descent and distribution in the event of the death of the Participant. If at any time after the two year anniversary of the Restricted Stock grant date, the Participant (or the Participant&#146;s transferee by will or </P>
+<P style="margin-top:9.2px; margin-bottom:0px" align=justify><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; font-family:CG Times,Times New Roman; page-break-before:always">&nbsp;</P>
+<P style="margin:0px"><BR></P>
+<P style="margin-top:9.2px; margin-bottom:0px" align=justify>the laws of descent and distribution) desires to sell or otherwise dispose of any shares of Vested Restricted Stock, Participant (or such transferee) shall send to the Company&#146;s principal place of business a written notice offering (email notice to be acceptable) to sell to the Company the shares of Vested Restricted Stock the Participant (or such transferee) desires to sell (the &#147;<B><I>Offered Shares</I></B>&#148;) at a price per share equal to the lower of (i) closing price per share of the Company&#146;s common stock on the date of such notice or on the next business day following the date of such notice (as reported by NASDAQ or such other exchange on which shares of the Company&#146;s common stock are traded) and (ii) thirty two (32) times the closing price per share of the Company&#146;s common stock on the date of the Restricted Stock grant, as reported by NASDAQ (the &#147;<B><I>Initial Price Per Share</I></B>&#148;). &nbsp;The Company shall have five business days in which to exercise such option to acquire Participant&#146;s (or such transferee&#146;s) Offered Shares and must consummate such transaction by remitting the purchase price for the Offered Shares to the Participant (or such transferee) within five business days thereafter. &nbsp;If (i) the Company does not provide Participant (or such transferee) with funds to acquire all of the Offered Shares prior to the expiration of such period, or (ii) the Company notifies the Participant (or such transferee) that it will not exercise its option (the earlier of (i) and (ii) being referred to as the &#147;<B><I>Option Termination Date</I></B>&#148;), &nbsp;then the Participant (or such transferee) shall be free to sell or otherwise dispose of such Offered Shares , so long as Participant (or such transferee) complies with all applicable laws and the Company&#146;s insider trading policy if applicable, and the acquirer of such shares will acquire such shares without any restrictions other than those required by law; provided, however, that if the Offered Shares are sold by the Participant (or such transferee) at a price per share in excess of thirty to (32) times the Initial Price Per Share (such excess being referred to as the &#147;Excess,&#148; Participant (or such transferee) shall remit to the Company the Excess received by Participant (or such transferee) within three business days following such sale or disposition.<FONT style="font-family:CG Times,Times New Roman"> </FONT>The Initial Price Per Share shall be subject to adjustment to reflect any merger, consolidation, reorganization, recapitalization, reincorporation, stock split, stock dividend or other similar change in capitalization.</P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:48px" align=justify>(e) &nbsp;&nbsp;<U>Legends</U>. &nbsp;Subject to Section 5 below, Participant agrees that the Company may endorse any certificates for Restricted Stock or Vested Restricted Stock with such legends to reflect the restrictions provided for herein or otherwise required by applicable federal or state securities laws. The Company need not register a transfer of the Restricted Stock and may also instruct its transfer agent not to register the transfer of the Restricted Stock unless the conditions specified in any legends are satisfied. </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:48px" align=justify>5. <U>Removal of Legend and Transfer Restrictions</U>. Any restrictions, restrictive legends and any related stop transfer instructions may be removed at the direction of the Committee and the Company shall issue necessary replacement certificates or instruct the transfer agent to remove such restrictions or legends without that portion of the legend to the Participant as of the date that the Committee determines that such legend(s) and/or instructions are no longer applicable. In the event that the Company does not exercise an option set forth in Section 4(d), the legend shall be removed on the Option Termination Date and the Company shall instruct the transfer agent to take all action necessary to remove all legends other than those required by law within five days of the Option Termination Date. Unless otherwise determined at the time of the Grant of the Restricted Stock and as set forth in this Restricted Stock Agreement, the vesting schedule for the Restricted Stock will be subject to the provisions of the Plan.</P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:48px" align=justify>6. &nbsp;<U>Change in Capitalization</U>. </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:48px" align=justify>(a) The number and kind of Restricted Stock shall be proportionately adjusted to reflect a merger, consolidation, reorganization, recapitalization, reincorporation, stock split, stock dividend&nbsp;or other change in the capital structure of the Company in accordance with the terms of the Plan. &nbsp;All adjustments made by the Committee under this Section shall be final, binding, and conclusive upon all parties. </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:48px" align=justify>(b) The existence of the Plan and the Restricted Stock Award shall not affect the right or power of the Company to make or authorize any adjustment, reclassification, reorganization or other change in its capital or business structure, any merger or consolidation of the Company, any issue of debt or equity securities having preferences or priorities as to the Common Stock or the rights thereof, the dissolution or liquidation of the Company, any sale or transfer of all or part of its business or assets, or any other corporate act or proceeding. </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.6px" align=justify>7. <U>Governing Law</U>. &nbsp;Except to the extent preempted by any applicable federal law, this Agreement shall be construed and administered in accordance with the laws of the State of Delaware, without reference to its principles of conflicts of law. The parties shall resolve all disputes, controversies and differences which may arise between the parties, out of or in relation to or in connection with this Agreement or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this Agreement to arbitrate, after discussion in good faith attempting to reach an amicable solution. &nbsp;Such discussion will begin </P>
+<P style="margin-top:9.2px; margin-bottom:0px" align=justify><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; font-family:CG Times,Times New Roman; page-break-before:always">&nbsp;</P>
+<P style="margin:0px"><BR></P>
+<P style="margin-top:9.2px; margin-bottom:0px" align=justify>immediately after one party has delivered to the other party a request for discussion. If the dispute, controversy, or claim cannot be resolved within 14 days following the date on which the request for discussion is delivered, then it will be finally settled by arbitration held in Durham, North Carolina in accordance with the latest Rules of the American Arbitration Association. Such arbitration shall be conducted by one arbitrator appointed as follows: each party will appoint one arbitrator and the appointed arbitrators shall appoint the deciding arbitrator. &nbsp;The arbitration proceeding must take place within 30 days of such arbitration request, with a final adjudication granted within 7 days of the arbitration proceeding. The decision of the tribunal shall be final and may not be appealed. &nbsp;The arbitral tribunal may, in its discretion award fees and costs as part of its award. Judgment on the arbitral award may be entered by any court of competent jurisdiction, including any court that has jurisdiction over either of the party or any of their assets.</P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.6px" align=justify>8. <U>Successors</U>. This Agreement shall be binding upon and inure to the benefit of the heirs, legal representatives, successors, and permitted assigns of the parties. </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.6px" align=justify>9. <U>Notice</U>. Except as otherwise specified herein, all notices and other communications under this Agreement shall be in writing and shall be deemed to have been given if personally delivered or if sent by registered or certified United States mail, return receipt requested, postage prepaid, addressed to the proposed recipient at the last known address of the recipient. Any party may designate any other address to which notices shall be sent by giving notice of the address to the other parties in the same manner as provided herein. </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.6px" align=justify>10. <U>Severability</U>. &nbsp;In the event that any one or more of the provisions or portion thereof contained in this Agreement shall for any reason be held to be invalid, illegal, or unenforceable in any respect, the same shall not invalidate or otherwise affect any other provisions of this Agreement, and this Agreement shall be construed as if the invalid, illegal or unenforceable provision or portion thereof had never been contained herein. </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.6px" align=justify>11. <U>Entire Agreement</U>. &nbsp;Subject to the terms and conditions of the Plan, and the applicable provisions of the Employment Agreement (if any), this Agreement expresses the entire understanding and agreement of the parties with respect to the subject matter. In the event of any conflict between the provisions of the Plan and the terms of this Agreement, the provisions of the Plan will control. The Restricted Stock Award has been made pursuant to the Plan and an administrative record is maintained by the Committee indicating under which plan the Restricted Stock Award is authorized. </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.6px" align=justify>12. <U>Violation</U>. &nbsp;Any disposition of the Restricted Stock or any portion thereof shall be a violation of the terms of this Agreement and shall be void and without effect. </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.667px" align=justify>13. <U>Headings</U>. &nbsp;Paragraph headings used herein are for convenience of reference only and shall not be considered in construing this Agreement. </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.667px" align=justify>14. <U>Specific Performance</U>. &nbsp;In the event of any actual or threatened default in, or breach of, any of the terms, conditions and provisions of this Agreement, the party or parties who are thereby aggrieved shall have the right to specific performance and injunction in addition to any and all other rights and remedies at law or in equity, and all such rights and remedies shall be cumulative. </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.667px" align=justify>15. <U>No Right to Continued Retention</U>. &nbsp;Neither the establishment of the Plan nor the award of Restricted Stock hereunder shall be construed as giving Participant the right to a continued service relationship with the Company or an affiliate. </P>
+<P style="margin-top:9.2px; margin-bottom:0px; text-indent:32.667px" align=justify>16. <U>Definitions</U>. &nbsp;Any terms which are capitalized herein but not defined herein shall have the meaning set forth in the Plan. </P>
+<P style="margin:0px" align=justify>&nbsp;</P>
+<P style="margin-top:0px; margin-bottom:8.2px" align=center><B>*****</B></P>
+<P style="margin-top:0px; margin-bottom:13.333px" align=center><BR></P>
+<P style="margin-top:0px; margin-bottom:8.2px"><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; font-family:CG Times,Times New Roman; page-break-before:always">&nbsp;</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>SCHEDULE 1</B></P>
+<P style="margin:0px" align=center><B>TO HEAT BIOLOGICS, INC. </B></P>
+<P style="margin:0px" align=center><B>RESTRICTED STOCK AWARD</B></P>
+<P style="margin:0px" align=center><B>(Under the 2018 Stock Incentive Plan) </B></P>
+<P style="margin-top:9.2px; margin-bottom:0px" align=center><U>Vesting Schedule </U></P>
+<P style="margin:0px">&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD width=24 /><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=24><P style="margin:0px">A.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" align=justify>Provided that the Participant continues to be employed by the Company or any affiliate on the applicable Vesting Date described in this <U>Schedule 1</U>, the Restricted Stock shall become Vested Restricted Stock as follows:</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px">&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=305.6 /><TD width=38.933 /><TD width=227.533 /><TD width=3.733 /></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=305.6><P style="margin-top:0px; margin-bottom:0.867px; padding-right:28px"><B>Percentage of Restricted Stock Vesting</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=38.933><P style="margin:0px"><B>&nbsp;&nbsp;</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=231.267 colspan=2><P style="margin:0px"><B>Vesting&nbsp;Date</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=305.6><P style="margin:0px; padding-left:8px; text-indent:-8px">50%</P>
+</TD><TD style="margin-top:0px" valign=bottom width=38.933><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom width=227.533><P style="margin:0px">Grant Date</P>
+</TD><TD style="margin-top:0px" valign=bottom width=3.733><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=305.6><P style="margin:0px; padding-left:8px; text-indent:-8px">30%</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=38.933><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=227.533><P style="margin:0px">One year anniversary of Grant Date</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=3.733><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=305.6><P style="margin:0px; padding-left:8px; text-indent:-8px">10%</P>
+</TD><TD style="margin-top:0px" valign=bottom width=38.933><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom width=227.533><P style="margin:0px">Two year anniversary of Grant Date</P>
+</TD><TD style="margin-top:0px" valign=bottom width=3.733><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px; background-color:#CCFFCC" valign=top width=305.6><P style="margin:0px; padding-left:8px; text-indent:-8px">10%</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=38.933><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=227.533><P style="margin:0px">Three year anniversary of Grant Date</P>
+</TD><TD style="margin-top:0px; background-color:#CCFFCC" valign=bottom width=3.733><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+</TABLE>
+<P style="margin-top:4.6px; margin-bottom:0px"><BR></P>
+<P style="margin-top:5.067px; margin-bottom:0px" align=justify>Notwithstanding the foregoing vesting schedule, the events described in Section 4(b)(ii) of the Additional Terms and Conditions to the Agreement, the Plan, and any change in control provisions of any Employment Agreement, provide for accelerated vesting of all or a portion of the Restricted Stock to the extent and in the manner described by such provisions. Except as otherwise provided in Section 4(b)(ii) of the Additional Terms and Conditions to the Agreement, the Plan, and any change in control provisions of any Employment Agreement, all Restricted Stock shall be forfeited if the Participant experiences a Termination of Employment prior to the Vesting Date.</P>
+<P style="margin:0px">&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 width=100%><TR height=0 style="font-size:0"><TD width=24 /><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=24><P style="margin:0px">B.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">The provisions of this Vesting Schedule are subject to, and limited by, all applicable provisions of the Agreement. </P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px">&nbsp;</P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center>Schedule 1 &#150; Page 1 of 1 </P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+</BODY>
+<!-- EDGAR Validation Code: 7D03A419 -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>htbx_ex10z3002.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 htbx_ex10z3002.gif
+M1TE&.#EAU@&" /<         ,P  9@  F0  S   _P S   S,P S9@ SF0 S
+MS  S_P!F  !F,P!F9@!FF0!FS !F_P"9  "9,P"99@"9F0"9S "9_P#,  #,
+M,P#,9@#,F0#,S #,_P#_  #_,P#_9@#_F0#_S #__S,  #, ,S, 9C, F3,
+MS#, _S,S #,S,S,S9C,SF3,SS#,S_S-F #-F,S-F9C-FF3-FS#-F_S.9 #.9
+M,S.99C.9F3.9S#.9_S/, #/,,S/,9C/,F3/,S#/,_S/_ #/_,S/_9C/_F3/_
+MS#/__V8  &8 ,V8 9F8 F68 S&8 _V8S &8S,V8S9F8SF68SS&8S_V9F &9F
+M,V9F9F9FF69FS&9F_V:9 &:9,V:99F:9F6:9S&:9_V;, &;,,V;,9F;,F6;,
+MS&;,_V;_ &;_,V;_9F;_F6;_S&;__YD  )D ,YD 9ID F9D S)D _YDS )DS
+M,YDS9IDSF9DSS)DS_YEF )EF,YEF9IEFF9EFS)EF_YF9 )F9,YF99IF9F9F9
+MS)F9_YG, )G,,YG,9IG,F9G,S)G,_YG_ )G_,YG_9IG_F9G_S)G__\P  ,P
+M,\P 9LP F<P S,P _\PS ,PS,\PS9LPSF<PSS,PS_\QF ,QF,\QF9LQFF<QF
+MS,QF_\R9 ,R9,\R99LR9F<R9S,R9_\S, ,S,,\S,9LS,F<S,S,S,_\S_ ,S_
+M,\S_9LS_F<S_S,S___\  /\ ,_\ 9O\ F?\ S/\ __\S /\S,_\S9O\SF?\S
+MS/\S__]F /]F,_]F9O]FF?]FS/]F__^9 /^9,_^99O^9F?^9S/^9___, /_,
+M,__,9O_,F?_,S/_,____ /__,___9O__F?__S/___P   ! 0$" @(# P,$!
+M0%!04&!@8'!P<(" @)"0D*"@H+"PL,# P-#0T.#@X/#P\/___P
+M
+M                     "P     U@&"   (_P"O7;MV[=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[1PZ=.C0H4.'#ATZ=.C07;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU<]>N7;MV[=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N7?^[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:
+MM6O77 /-,\] <\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--=><<\TUUUQSS3777'/--==<<\TUUUQSSCG77'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUS_
+M<\TUUZ"#SC777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS37HG(,..NB@@PXZZ*"##CK77'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<_W/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TYUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TSHW32R3&J6'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS34 N7;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;M
+MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;M
+MVK5KUZY=NW;MVK5KUZY=N_]V[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[1HZ=->N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=HU=->N7;MV[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=HU=.C0H8,..NB@@PXZZ*!S
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS37_UUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUD!SS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777(-,)YR,(LHHQCACS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777 .--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU_]=<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQS#3KH7'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--?_77'/--==<<\TUUUQS#3KHH(,..NB@@PXZ
+MZ*"#SC777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUP#DVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KT9Z1(D7J&;1KUZY=NW;MVC5TZ*Y=
+MNW;MVK5KUZY=NW;MVC5HHSB-:C:*63-4SZY=NW8-W;5KUZY=NW;MVK5KUZY=
+MNW;MVK7_:]>N02.%C!0R:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MVS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M@\XYUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-->A<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS_\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUZ*"##CKHH(,..NB<@\XYZ%QSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<XTUI'32B2C&C.*,-==<<__--==<<\TUUZ!SS3777'/--==<<\TU
+MUUQSC2J=').*,:DT@PHSS5QSS377H'/.-==<<\TUUUQSS3777'/--==<<\TU
+MUSS322>BC&+,*-!<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUP#D&O7KEV[=NW:M6O7
+MKEV[=NT:.G3_UZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVC5T
+MZ-"A0X<.'3ITUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=_[MV[=JU
+M:]>N7;MV[=HUUUQSS3777'/--==<<\TUUUQS32F<B'+,**,<@XHSUUQSS377
+M7(,..NB<<\TUUUQSS3777'/--==<<\TSHHS"3#.H,",-*M-8<\TUYUQSS377
+M7'/--==<<\TUUUQSS3777'/--=",PHDHHQPS"C.I0'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUU_]<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--=>@@\XUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777(/.-==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS#CKHH(,..NB@@PXZ
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--=?_7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUP#S2K).+/*
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--=",,LHQHC3#3"K,-&/-
+M-==<<\TUUZ"#SC777'/--==<<PU KEV[=NW:-6>CF*5B)HV9-&G-KEV[=N[<
+MM6O7KEV[=NW:M6O7KEV[=NW:M6ND.HTZAJH9JF;,J%V[=NW:M6O7KEV[=NW:
+MM6O7KEV[=NW:M6O7KEE[1@J9,VC7KEV[=NW:M6O7KEV[=NW:M6O7KEV[_W;M
+MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;M
+MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;M
+MVK5KUZY=NW8-';IKUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;M
+MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS37H
+M7'/--==<@PXZZ*"##CKHH(/.-==<<\TUUUQSS?\UUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--== @\PHG(QRC"K07'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS376C&+,*,TPDPHSJ$BSRC777'/-->>@@\XUUUQSS3777'/--==<<\TU
+MLT#3#"K,,".--,Q(H\HUUUQSS3777'/--==<<\TUUUQSS3777'/--==<@XPH
+MQZ#23"K,H,(,+-9<<\W_-==<<\TUUUQSS3777'/--==<<\TUUUQSS37(=-*)
+M**.,XLPUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS37HH'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<@\XYUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M->A<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M_S777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777(/.-0"Y=NW:-73HT*%#A^X<NG/7KEV[=NW:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[
+M=@T:*4Z=1AT3=8S:K&O7SEV[=NW:M6O7KEV[=NW:M6O7KEV[=HW5,5'-4#%C
+M)DT:LVK7KEV[=NW:M7/HKEV[=NW:M6O7KEV[=NW:-?]GS9BY8B9-VC1KUZY=
+MNW;MVK5KUZY=NW;MVK5KUZY=NW;MFC5DHYBE8L:,F31FSJY=NW;MVK5KUZY=
+MNW;MVK5KUZY=NW;MVK5KI3B-$G5LE+%4U:Y=<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUR##CK77'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777',-.NA<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUS_<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777(,..NB@@PXZZ%QSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<\PPGHXS2C"C-H,+,
+M,]=<_W/--==<<\TUUUQSS3777'/--==<<\TUUUP#33.H-,.,*](P(PTSUEQS
+MS3777'/-->B@<\TUUUQSS3777'/--==<<\TUUL R#3/23#,---=<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--:HP@THSS$@CC3324'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS370C"+**,>,PDPJS*0"S3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--=< Y-JU:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[1HZ=/_GKEV[=NW:M6O7
+MKEV[=@[=M6O7KEV[=NW:M6O7KEV[=@T=NFO7KEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=NT:NFO7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6OGKEV[A@X=.G3HT*&[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=LTUUUQSS37_UUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUT2CBBBC&),*,\TP@PHUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TSS* B#3/22.,*-==<<\TUUUQSS37GG'/.-==<<\TUUUQSS3777'/-
+M-==<8TTUU5ACS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS370-,,,
+M*M(P(XTKS5ASS3777'/--==<<\TUUUQSS3777'/--==<<\TUJQPSBC'-H-(,
+M,\Q,8\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TU_]=<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TYUUQSS3777'/--==<<\TUUUR#SC777'/--==<<\TUUUQS
+MS377H(/.-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777',-.NB@@PXZZ*!SSC777'/--==<<\TUUUQSS3777'/--?_77'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQS#33/0&/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'.--<B,PDPSJ3"#BC3,. .0:]>N7;MV[=JU:]>N7;MV[=JU
+M:]>N7;MV[9JL9]*829/&C!JT:]>N7;MV[=JU<]>N7;MV[=JU:]>N7;MV[=JU
+M:]>B7;O6ZMJU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:[&F,9,FC9FT
+M:M?.7;MV[=JU:]>N7;MV[=JU:]>N7;O_=NW:M6>B4C%+Q8R9*V;,JEV[=NW:
+MM6O7KEV[=NW:M6O7KEV[=NW:M6O7KD%;A8S4,VO7KEV[=NW:M6O7KEV[=NW:
+MM6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=@W=M6O7KEV[=NW:
+MM6O7KEV[AN[<M6O7KEV[=NW:M6O7KEU#=^[:M6O7KEV[=NW:M6O7KEV[=NW:
+M-==<<\TUUUQSS3777'/--==<@\XUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQS_\TUUUQSS3777'/--==<<\TUZ*"##CKHH'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--== 4\HHG1PS
+MRC/77'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS36J&),*,\Q((PTSKE!S
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQCS3.P-$---=9<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<__--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3704)/*--1 <\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==< \TQS*3"C#322"/---9<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--="0PDDGHG32##377'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUZ!SS3777'/--==<
+M<\TUUUQS#3KH7'/--==<<\TUUUQSS3777',-.NA<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/_S3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQS#4"N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;N&[APZ=.BN7;MV[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MFC10G3J-$C3*VZMJU:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;OV#%4S5-*829,V[=FU:]>N7;MV[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU_VO7KEF[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O77'/--==<<\TUUUQS
+MC3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777&,--:@P@XHTTC C
+MC2K77'/.-==<<\TUUUQSS3777',-.NB<<\TUUUQSS36=<#***,>D<DPJUEQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777(,..NB<<\TUUUQSS3777'/--==<<\TYUUQSS3777'/--==<<\TUU_]<
+M<PTZZ%QSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-->A<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS37HH(,..NB@<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<0THGHQR3BC&I,-.,-=?_7'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSC3/2,".--,Q(0\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUU[#B##,
+MD<9,FC1JUJY=NW;MVK5KUZY=NW;MVK5KUZZANW;MVK5KR$:-.I;*6"IFS*I=
+MNW;MVK5KUZY=NW;MVK5K_]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N
+M7;N&[ARZ:]>N7;MV[=JU:]>N7;MV[=RU:]>N7;MV[=JU:]>N7;N&#MVU:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV#=VU:]>N7;MV#1TZ=.C07;MV[=JU:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N77/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS?\UUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUR#C"BC&#-*,\TP
+M@XHSUUQSS3777'/--==<<\TUUUQSS3777'/--==<<XTUS[PB33/3/'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<8PTUS;SB##707'/--==<<\W_-==<<\TUUUQSS377
+M7(/.-==<<\TUUY BBC&C,),*,Z@PH\HUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS37HH'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUZ)QSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<@\XUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/-_S777',-.NA<<\TUUUQSS3GHH(,..M=<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUP#DVK5KUZY=LS9J%+-F
+MJ)BADL:,VK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVC5HUJK)NG;MVK5K
+MUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=N_]V[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU
+M:]>N6;-F[=JU:]>N7;MV[=JU:]>N7;MV[=JU:^>N7;MV[=HU9*.:H6K&C)DT
+M9M.L7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU
+M:]>NH3MWS3777'/--==<<\TUUUQSS3777'/-->=<<\TUUUQSS3777'/--=>@
+M@\XUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUS_<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUZ"##CK7
+M7'/--==<<\TUZ*"##CK77'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQS#33.B-),*LQ(PXPTS*ARS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<_W/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777',-.M=<<\TUUUQSC2JH,-,,*M)((PTS
+ML%QSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS377H'/.-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQS#3KH7/]SS3777'/--==< Y!KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW8-
+MW;5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;M
+MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NX;N'+ISUZY=NW;M
+MVC5TZ-"ANW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;M
+MVK5KUZY=NW;MV;-5UJY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=4W6,
+MF314TJ1)DU;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK7_:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=HUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS37H
+M7'/--==<<\TSS:#"C#3,2"/--,]<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TU_]=<<\XUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777',-.NA<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUYR##CK77'/--==<<\TUUUR##CKHG'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<\PPI
+MG71RS"C/7'/--?_77'/--==<<\TUUUQSS3777'/--==<<\TUUUQCS32H,".-
+M-,Q(X\PUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<PU KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M7/_UZY=
+MNW;MVK5KSZ8QDR;-%3-JUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+M@_8L&31KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUZZA.W?MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNX;NVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUUQSS3777'/--==<@PXZUUQSS377
+M7'/--==<<PXZZ*!SS3777'/--==<<\TUUUQS_\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUT S2B>BC#**,:-4<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<PTTU# C#3/34&/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<__--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUR#SC777'/--==<<\TJU#0S33/57'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'.--:6,THDHHR!CS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-=>@@\XUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/_
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUYZ!S
+MS3777'/--==<<PTZZ*!SS3777'/--==<<\TUUUQSS3777'/--0"Y=NW:M6O7
+MKEV[=NW:M6O7KEV[=NW:M6O7KI'B-.K8*&:IF#6#=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=NV:M6K5K%V[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[_W;MVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;M&KIK
+MUZY=NW;MVK5KUZY98XTUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQS#2F=<#+**,:,DHHUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS377H(/.-==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUU_]<@\XUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--=>@@\XUUUQSS3777'/-->B@@\XUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUP##2FB',/,
+M*,PT@XHTU5QSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS2S17#/+
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-=?_7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS37G7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--:QT(LHQJ1B3"C/,.'/--=< Y-JU:]>N7;MV_^W:M6O7KEV[=NW:
+MM6O7KEV[=NW:M6O7KEV[=NW:M6O7KEU#A^[:M6O7KEV[=NW:M6O7KEV[=NW:
+MM6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:
+MM6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:
+MM6O7KIV[=NW:M6O7KEU#APX=.G37KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:
+MM6O7KEV[=NW:M6O7KEV[=NW:M6O6CHEJEJH9*F;24#F[=NW:M6O7KEV[=NW:
+MM6O7KEV[=NW:M6O7KEV[=NW:M?]KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<PTZUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\W_-==<<\TUUUQSS3777'/--==<<\TUR(QRC"C'I-(,,ZA0 \TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUR#
+MSCG77'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUZ%QS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUYZ!S
+MS3777'/-->B@@PXZZ%QSS3777'/--==<<\TUUUQSS3777'/-_S777'/--==<
+M<\TUUUQSS3777'/--==<<\TUK#0S"C.H,".--,Q(4\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777 .0:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:__7KEV[=NW:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:-737KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:-6>CF*5BQHR9*V;3K%V[=NW:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KJ%#=^W:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:-==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUYUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUS_<\TUUUQSS37GG'/--==<<\TYZ*"##CKHH'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--=<X@THSS$@C
+M#3.N-&/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<_W/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--=><
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUURCRC&H-,,,*M(P(\TTUEQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS377H(/.-==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUR#SC777/]SS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==$<\TUUUQSS3777'/--==<<\TUUUQS#4"N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JY:]>N7;N&#ATZ=.C07;MV[=JU:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>@34,EC9DT:=*J
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N
+M7;MV[=JU:]>N7;O_=NT:.G3HT*&[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=NW:M6O77'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777(/.-==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==< TTJS* BC3322,,,-==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU_]>@
+M@\XUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUASC3776'/--=!<
+M<\TUT5ASS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSSCGHG(,..NA<<\TUUUQSS3777'.--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUC@CS332-%/--==<<\TYUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--?_77'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<@PXZYZ"##CKH7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<PTZUUQSS34 N7;MVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KUZY=NW;_[=JU:]>N7;MV[=JU:\^F,9/&3!HS:M:N7;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]?0G;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N74-W[=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N78MF[9HU:]!808,&C14T:]"L09-ES=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=HU=.C0H;MV[=JU
+M:]>N/2.%C-0S:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N68-6K9JU
+M_VO7KEUSS37H7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--=>@@PXZZ%QSS3777'/--==<
+M<\TUUUQSS3777'/--=>@<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<__--==<<\TUUUQSS37G
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<L\HTS4@S#3767'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'.--=! 8\TUUUQSS3777'/--==<<PTZZ%QSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M1'.--==8PPHTT$ ##32L/ ,--,] LPHTT$ #C3706&/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/_S3777'/--==<<\TUUUQSS37GG(/.-==<<\TU
+MUUA#2B><<#**,:I8<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MU\P2S3777'/--=><<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUP#DVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;M
+MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;M&CITZ*Y=NW;MVK5KUZY=NW;M
+MVK5KUZY=NW8-W;EKUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;M
+MVK5K_]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV#=VU:]>N7;MV[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>L6;-F[=RU:]?07;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:\E&=>IT3!6T:]>N7;MVS3777',-.NA<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS37H7'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUAS#32L0 /-,ZP\L\HSS_^L\LPJSZSRS#.K
+M//,,*]! (PLTUEQCS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3GH7'/--=<DP\DHHQPC2C.B.'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777(/.-==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<@PXZZ*!S#CK77'/--=?_7'/--==<<\TUUUQSS3777',-.M=<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777(/.-==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--=>@@\XY
+MUUQSS3777'/--==<<\TUUUQSS37G7'--*9R,,HHHQXCBC#777'/--==<<\TU
+MZ*"#SC77_UQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==< Y!KUZY=NW;MVK5KUZY=NW9MUC5HT%A!@_9L5;)5R50E(X6,%#)2R)Z1
+M<K8JV;-5SYY9@R8KFK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KU]!=NW;MVC5HHSH=2V4L53-FS:Q=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUZY=NW;MVK5KUZY=NW;NW+5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=N_]V[=JU:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N73N'#ATZ=.BN7;MV[=JU:]>N
+M7;MV[=JU:]>N7;MV[=RU:]>N7;MV[=HUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUYQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUYZ"##CKHG'/--==<<\W_-==<<\TUUUQSS3777'/--==< \TQ
+MG8QBS"C,I,*,*M=<<\TUUUQSS37HG'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUR#SC777'/--==<<\TUUUQSS3776'/--=!8 PTT
+MSZR2S"JD((,,*<B00@HRI)""#"FD($,*,JHX\\PJSSSS##366&/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377G'/--==<(\LH
+MQJ1B3"K,H"(-*M5<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/-_S7G7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777',-.NB@@PXZUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--=>@<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<PU KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=O_M&KIK
+MUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW8-'3ITZ*Y=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVJI1HHZE.L8L%;-F
+MUJY=NW;MVK5KZ-"ANW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KUZY=NW;MVK5KUZY=@P8-VJIGJY*10H:,%"E2G9"-&H5LU"A2
+MQT:1.D8*&2EGI)ZM>O8,FBQHUJY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KUYQSS3777 /-,:,PDPHSTC#_(PTSSEQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQS#CKGH(,..M=<<\TUUUQSS3777'/--==<<\TUUUQSS37H7'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<_W/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<PTZUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TYZ%QSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUSHQR#"K-,.,*,](T8\TUUZ!SS3777(,.
+M.M=<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS37H7'/-
+M-==<<\TUUUQSS3777',--+) \\PJR92"#"FD>#)*)\=T,DHGHW0R2C"C'/_3
+MR3&C'#/**,B,XHPJSCBSRC/06&.--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS377G'/--=:DPDPJS$B#BC322&/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--0"Y=NW:M6O7KEV[=NW:M6O7KEV[=NW:
+MM6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:
+MM6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:
+M-73HT*%#=^W:M6O7KEV[=NW:M6O7KEV[=NW:N6O_UZY=NW;MVK5KUZY=NW;M
+MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;M
+MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;M
+MW+5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=<\TU
+MUUQSS3777'/--=><<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--<Z,PDPS
+MJ$C#C#323&/--=><<\TUUUR##CKH7'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TU_]=<<\TUUUQSS3777'/--==$8PTTT+#R3"G(D$**
+M)Z.,TLDHG8S2R2C!C-+)*)R,,DHGHXPRRC&CC'(,*<BHXLPSJSP#C3767!/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUYQSS377/(,*
+M,\Q((PTSTCASS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-?_77'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3GHH(,..NA<<\TUUUQS
+MS3777'/--==<<\TUUUQSSC777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUZ!S
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQS#3K77'/--==<<\TUUUQSS37_UUQSS3777'/--==<
+MPTHSS*3"C#32 (29JV;7KEV[=NW:-73HT*%#=^W:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KJ&[=NW:M6O7KEV[=NU:-&O0H*U*1@H9*4^C1G7J
+M-*I3IU&=.HWB-"K8J$ZCCG4Z-NK8J&.CCJ5"ILJ9LV>KH%FS=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:-6O.FKEB)DW:-%G7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[_W;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;--==<<\TUUUQSS3777'/-
+M-==<<\TUYZ"##CKHG(/.-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<@\XUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<__--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-->=<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'.-,Z@P(PTSTD@SC3777'/--==<<\TYZ*"#
+M#CKH7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<8PTTJSQ3"C*DD#+**)UT,DHGG8S222><C-+)*)V,TLDQG8@R
+M2B>C=#+**,>,,LHQHR"CBC//5+.*-=9<8\TUUUQSS3777'/--==<@\XUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==40XTSTU0#S3777'/_S3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777',-.NB@@\XUUUQSS3777'/--==<<\TUUUQSS3777 .0:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV_^W:M6O7KEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=N[:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:-737KEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6K-I+EB-@W:M6O7KEV[=@W=-73HT*&[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=NW:M6O7T%V[=NW:M6O7KEF[Q@K:JF>ED)'R-*I3IU&<
+M.G4:Q6E4IU&=1 4;Q6F4*)T<T\DQHHQRC"BC'#-*,Z,THPHRJCSS##356'/-
+M-==<<\TUU_]<<\TUUUQSS3G77'/--==<<\TUUUQSS3777'/--==<<\TUUYQS
+MC3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377H(,..M=<<\TUUUQS
+MS3777'/--==<<\TUUZ!SS3777'/--==<<\TUUUQSS3777'/--=?_7'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-->A<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<PTZZ%QSS3777'/--==<<\TUUUQSS3777'/--==<
+M<XTUSU13S3777'/--==<<\TUUZ"##CKHG(/.-==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS377_UQSS3771&,--,\\4PHRI(PR2B>=
+MC-)))YV(TDDGG8S"22>C=#+***,$,\HHHHQRS"BC'#/**,>,<LPHQZ3BC#.J
+M5 .--=%8<\TUUUQSS3777'/-->A<<\TUUUQS#4"N7;MV[=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:__7KEV[=NT:.G3HT*&[=NW:M6O7KEV[=NW:M6O7KEU#=^[:
+MM6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:
+MM6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:
+MM6O77'/--==<<\TUUUQS#3K77'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-.==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777',-.NB@@P[_.M=<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS37H7'/--==<
+M<\TUU\@"#2O/E(+,**1TTLDHG'32R2B==#(*)Z,$,\HHP(S"R2C'C"+*,:.,
+M(LHQHHQRS"C&C(+*,:,T,XHSSCRS2C767'/--==<<\TUUUQSS37GG'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-_S777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUYR##CKHH'/--==<<\TUUUQSS3777'/--==<<PTZUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\XUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS?\U +EV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]?07;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[1HZ=.BN7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]:N08/V
+M+!DI4J0ZC>K4J=,H3IU&<>HTJM,H49U&C3HV2M2Q4:.,C3HVZM@H4<=&C3J6
+MZMBH9LU4.:L&+18T:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;O_
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEUSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--=>@@PXZZ*!SS3777'/--==<
+M<\TUUUQSS3777'/.-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<_W/--==<<\TUUZ!SS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS377G'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS377G(,..NB<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777(/.-==<<\TUT5P##2O/K$(*,J-TTLDHG(S222>=
+MC,+)*)V(,DHPHQPCRBBC'#/**,:,,LHQHHS2C"C'C,+,*,>(TLPHS8S2C"K.
+MI#(-,]-<<\TUUUQSS3777/]SS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUP#DVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KY]"A0W<.W;5KUZY=
+MNW;MVK5KUZY=NW;MW+5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;_[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;N&[MJU:]>N7;MV[=JU:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV#1VZ:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MVS3777'/--==<<\TUUUQSS3777'/--==8
+M \TSSY""C">C=#)*)YUT(DHGHG0R2B>C!#/****,<LPH_\:,8LPHQXS2C"C-
+MC&+,*,R,<HPHS8S"S"C-I(),,\PPPPPSTUP##2O77'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUZ*"#SC777'/--?_77'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3G77'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--=>@@\XU
+MUUQSS37_UUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS37H7'/-
+M-==8<PTKT*R2#"FCC-)))Z-T,DHGG8S2R2C C"+**,>, I!CHXRE&G4LE:AF
+MHXR-.H;J6*ICJ(ZE,I;J&*ICS5 Q0]4,E;11R$8=0_;LVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K_]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]?07;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU
+M:]>N7;MV[=HUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUZ%QSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS37GH'/--==<<__--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUZ"#SC777'/--==<<\TUUUQSS3777'/--== <\TU
+MUUQSS3777'/--==<<\TUUUQSS3777 ,--,^L@@PIPHS2B2B=<-())Z-T(DHG
+MHXPRRC&BC&+,**.,<HPHQXQBS"C-B-+,*,T8DXHQJ1C3S"C,C-(,*LV@T@PS
+MS!PSBBBBC"+*,:M<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/_S3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TYZ%QSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<PU KEV[=NW:M6O7KEV[=NW:M6O7_ZY=0W?M
+MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;M
+MVK5KUZY=NW;MVK5KYZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;M
+MVK5KUZY=NW;M'+IKUZY=NW;MVK5KUZY=NW;MFK5DI(Z1<A;MVK5KUZY=NW;M
+MVK5KZ*Y=NV8MFJQGJY"1&C6JTZA.HSJ-ZC0*V*ACHHZ-&G5LU"ACJ8R-:C:*
+MV;%4QE(92V4LE;%4S5 =0]6,63-1S9BE8I;*V*ACHYB-8M;,VK5KUZY=NW;M
+MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=N_]V[=JU:]>N7;MV[=JU:]=<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--=><<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--=?_7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\XUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/-+*1PTLDHG!RCBC777'/--==<<\TUUUQSS3777'.-
+M-= \\PPIR(S2R2B==,+)*)V(TLDHHXPRRBC&C'(,*L>,<LPHS8ARS"BH_QPS
+M"C.C-(/*,:D<P\PHS#2#RC&H-,-,*LPTPTPJQJ1B3#.I-(.*,]9<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--0"Y=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=O_MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZZA
+MNW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS#3*<C#**,:D<@XHS
+MUUQSS3777'/--==<@\[_-==8<PTTK#Q#"C*D=#(*)Z-T,DHGH@0SBBC'B'+,
+M*,>D(LHQHS SRC&B-#,*,\>@TLPHS(S2C"C-H-(,,Z,PTPPJS:#2##/,H-(,
+M*LV@T@PJS$C###777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M_S777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777',-.M=<<\TUUUQS
+MS3777'/--==<<\TUYUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUZ%QS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS?\UUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQS#3KH7'/--==<<\TUUUQSS370 &34J&.B
+MFHUBQNR5M6O7KEV[=NW:M6O7KEV+9@W:LU7(2(T:%6Q4IU&<1G4:->K8J%&C
+MC(T2=4Q4LU'&4AE+92R5J&;'4#43U8Q9,U3'4#5#U0Q5,V:IF*5JQBQ5,U3-
+MI#&3QBS5M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:.73HKEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=NW:M6O_UZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KY]!=NW;--==<<\TUUUQSS3777'/-.==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/-.==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<_W/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<@PXZYUQS
+MS3777'/--==<<\TUT(PR"C.I-,.,*\PT\\PUUUQSS3777'/-->A<<\TUUD"S
+MRC.D'#-*)Z-P,DHGHW0BRC&BC&+,*,V,TLPHQZ1RC"C-C-+,,:@<TXPHS8S"
+M3#.B-"-*,\PT@THSS#3##"K-,(,*,ZDPPXPTS+C"C#325'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777/]SS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777',-.NB@<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--=><<\XUUUQSS3777'/--==<<\TUUUQSSC777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777 .0:]>N7;MV[=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]?_KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:
+MM6O7KEV[=NW:M6O7KEU#=^W:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:
+MM6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:
+MM6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=@W=.737KEV[=NW:.737KEVS=DQ4
+M,V:HI#&3)JW:M6O7KEV[=NW:M6O7KEUC!>T9*62C1G4:U6E4)U''1HTZ-NK8
+MJ%'&1AU#=4Q4LU',1C$;U0S5,53-C*5BEHI9,U3-4#%+Q2P5LU?,FC5CUHQ9
+M*LPP(XTK_\Q0<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3GHH'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--?_77'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377G'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<PTZZ%QSS3777'/--=>@<\TUUUP#32K,-(,*,])(
+M@\HTT%QSS3777'/--==<@\XUUT!CS3/_JR!#RBC!C#)*)Z(<T\DHHAPCRBC&
+MI&+,*,V(<DPJQZ!R3"K&I&),*L:D<@PJS3 S"C.I,-,,*LTPTPPJS#3##"K,
+MN,(,,ZXPPXPTTC CC3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQS#4"N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV
+M[=JU:]?.H4-W[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV
+M[=JU:]>N7;MV_^W:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O77'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777',-.N=<<__--==<
+M<\TUUZ!SS3777'/-,Z@P(PTSTD@C#3777'/--==<<\TUUUQSS3776 /-*LZH
+M@LPHHXS"R2B=C#***,>,,DHSHQPS"C.C'(/*,:@<@\HQJ3!S#"K--(,*,Z,P
+MDPHSS:#"3#.H-(,*,\TPDPHSS3"3"C/-2).*-,Q(TXPUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-->B@@\XUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/_S3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777',-.M=<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQS_\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+M +EV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N73MW[=JU:]>N
+M7;MV#=VU:]>N7;MFC5HS5]*827-F[=JU:]>N7;MV[=HU=->L06/U+!FI4:."
+MC>HTREBG8Z..B3HVBMFQ5,92&4MUC-DH9JF,I6HFJIFH9LV8I6+6#%4S5,V8
+M,6N&BEDJ::B826/FBADS:<Q<,:MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:__7
+MKEV[=NW:M6O7KEU#A^[:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=NW:M6O7KEUSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--=?_7'/--==<<\TUZ%QSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3G77'/--==<<\TSU#1#3376
+M7'/--==<<\TUUUQSS3777'.--<\\HPHRQXPRRBC&=#+***.(,LHQJ!PSBBC-
+MC-*,*,V(TLPHS1B3RC',I,),,Z@PDPHSS:#2##/-,(-*,ZXTPPPSS#3#3"K,
+M-,.,*\PP(XTSUUQSS377_UQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777(,..NA<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUP#DVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MU_^N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]?.7;MV[=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU
+M:]>N7;N&[MJU:]>N7;MV[9JU:]:N7;MV[=JU:]>N7;MV[1JZ:]9805OEC-2H
+M4<<ZC1IES"C'C,+,*,>@<@PSHQB32C.C,#,*,ZDPDPK_,Z,P@THSS:#2##.I
+M,),*,ZDPTPPSS*#2C"O-,",-,ZXPPPPSTJ!"C3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQS#CKHH'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/-_S777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-.==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS?\UUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSC3770//,
+M,ZH@,\HQHXS"R3&CC"+*,:,<@\HQJ1R#2C.B-&-,*LRD8DPSHC3#3"K-,(-*
+M,Z@PPPPSS#####/2I,+,-,PP Q!7S%(Q8S:-V:MFU:Q!NV;MVK5KUZY=NW;M
+MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;M
+MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZZA0X?NVK5KUZY=NW;MVK5KUZY=NW;M
+MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;_[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=HUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--=>@<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<_W/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--=><<\TUUUQSS3777'/--=><<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<@\XUT%BSRC/(C#+**,>(,LHHQHS2C"C'H'(,*L>@<DPJ
+MQZ!R3#.B-),*,\V@T@PSJ#3###/-4&.--=988XTSS$B#"C/2-,.,-,Q(DPHS
+MTSA#S3/5R&+--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777/]S#CK77'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777#/+
+M-=?,<LTULUQSS2S77#/+-=?,<LTULUASS2S77'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS377S'+--==<<\TUUUQSS3777'/--=>@<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<,\LUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUS_<\TUZ%QS
+MS3777',-0*Y=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUZY=FW7MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KU]!=NW;MVK5KUZY=NW;M&KIKUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUJ ]>Z;*V:ACHT:-.C9JE*ACJ8ZE,I;J&*ICJ)JA:H;J&+-4S)JA
+M8M:,62IFUEIY\8+%BY=6U9A)8X9*&C-IJ)I)2]5LFJIJU:Q9NW;MVK5KUZY=
+MN];*BQ<L7KRPNG;MVK5KUZY=NW;MVK5K_]>N7;MV[=JU:]>N7;MV[=JU:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]=<<PTZUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<PTK-,Q PPPTT$####30, ,--,Q PPPTS$####300,,,
+M-&"A@Q>"M#++-==<<\TUUUQSS3777'/--==<PPH--,Q  Q;77'/--==<<\TU
+MUUQSS37H7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUR#" TST# ##?^M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/-.==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS377L$+###3,0 ,KUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TYUUQSS3777'/-
+M-==<<PTZUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUZ%QC#2O5K(+,
+M*,>,,HHQHXARS"C'H'(,*L>D8DPJS3!S#"K'H-(,,Z@T@PHSS:3"#"K_S%33
+M"@0)*/  ! K,< TUS$C#C#2H,",-,](T,TTSU%3SC#767'/--==<<\TUUT0S
+M@P(/0/"  C,D<LTUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777(/.-==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--0"Y=NW:M6O7
+MKEV[=NW:M6O7KEV[=NW:-580$BAXH"#! P4)("1( "&!@@<*'BAXH"#! P4/
+M%"2 D$#!#!I>KEV[=NW:M6O7KEV[=NU:JP<*_QXH>*" QK5KUZY=NW;MVK5K
+MUZZ=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZZUFJ'@@8('
+M"@1=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MU]!=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW;M&HT$$!) 2$#CVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KUZY=<\TUUUQSS3777'/-->A<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<8_\--,\XHPHRJ1PSRBC'C#(*,Z,<@\HQJ1B3BC'-B)(*
+M,\TPDPHSJ33#3#.H,,/,-,Q8@X@"#T"0  0)0#!(-<RXPHPTS$B#BC3-N-+,
+M-*I04PTTUUASS3777'/--=<DD@ $"4"0  0)>''--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUYZ!SS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377M,)*
+M*ZQ<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUB20 P0,)0/#_
+M@ (/0)  ! \H\, #"CR@P ,*/ !! A D ,$#"4#P0 (0)$ #(M=<<\TUUUQS
+MS3777',-(A D ,$#"CPPPRS77'/--==<<\TUUUR#SC777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<@XX@$"0 00(0/$"#+-=<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--=><<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777--* @\H\  $"4# RC777'/--==<<\TUUUQS_\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--=><<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<@\XUT%BSRC.J .38J%''1(TR-LI8*F.IC*5JQBP5
+MLV;,1J%JAJH9,U3-4#5CAHH9LVN"("1X "'! P6(K$EC)@V5-&;2F$EK-FV:
+MLVK5K%F[=NT:NFO7KEWS\D#! P4/%#S <NW:M6O7KEV[=NW:M6O7KEV[=NW:
+MM6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=N[:
+MM6O7KEV[=NW:M6O7KEV[=O_MVK5KUZY=NW;MFI<'"AY H&'MVK5KUZY=NW;M
+MVK5KUZY=NW;MVK5KUZY=NW;M&B(%#Q0\4/  0H('$!) >*#@ 80$#Q0\2  A
+M 80'"AY 2 #A@8('"11XN7;MVK5KUZY=NW8-D8('"2 \4$"CU;5KUZY=NW;-
+M-==<<PTZUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'.-
+M%PE \$ "$"1 PS777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-=?_7'/--==<<\TUUUQSS3777'/--==<P\H#"CR@P ,0)'#--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/-.==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--=98\\PSSJAR
+MS"C'C'+,*,>,TLPHS!R3BC&I&).*,:DPTPPSS3"#2C/,,(,*,\RXPHPU@D"@
+MP ,*/ !! HE8PXPTS$@C#3/2H#(-,Z\T0TTUJUACS37GH'/.-==<<PTB"CP
+M00(/0)" #M=<<\TUUUQSS3777'/--==<<\TUUUQSS377_UQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUR22@ (/*/!  C1<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<(\@#"CP 00(/*/"  @\D $$"$"0 00(0/*#  PH\
+M\( "#RCP@ (/*/"  @] D  -T5QSS3777'/-->@( D$"$#R@P ,SL'+--==<
+M<\TUUUQSS37G7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUR"BP ,*/  0!0]H7+MV[?_:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7T%V[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=JT5A 00'B2 D&#6M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=@W=-6NLH*UR-JK9J%'&1HEJ)JJ9J&:HFC%+
+MQ:P9JF:HFJ%BU@Q5,U33F$ECQDR:M4$/'BAXH."! D35I#%SQ4P:,VG,I$UK
+M-LT9M6K_UJQ=NW;M&KIKUZXE2O! P0,%#Q1XN7;MVC777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS37G7'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--=<(\H "#SR@
+MP ,T7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777$.& @\H\  $"4"0
+M  0)0)  ! E D  $"4#P@ (/*)  ! D\H, #"4"0P ,*/ !! EY<<\TUUUQS
+MS377( )! A D\( "-,QRS3777'/--==<<\TUUZ!SS3777'/-_S777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS377> '! PH\ $$".K1RS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377H'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUK#R@P ,*/)  !*U<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--=><<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<$XTUU3SCC/\JQZ1RS"BC'"-*,Z,T(THSQJ1B3#.H
+M-,-,*LPT@THSS#####.H,.,*,])8XX4"$"3P@ (/*)"(-<Q((PTSKDC#C#3,
+MN-(,-;!4 XTUUEQSS37H7'/--=<@HL #"CR@P ,)>''--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/-->A<<\TUUUQSS3777'/--==<<\TUUUQS#4"N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV39""!Q 2
+M0$@ X=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[9J@!PH>)("0X &$!#1F
+M0)@!80:$&1#_9D!H0>,!C0<*'BAX .&!@@<*'B2 D #1M6O7KEV[=@U1 @@)
+M("2 \.#:M6O7KEV[=NW:M6OHKEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7!"6 D."!@@<SKEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=NW:M6OGKEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7T%V[=NW:M6O77'/--:TD $$"$"0 P0.L7'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<_W/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUZ%QC#33/K.*,,Z,<
+M,XHQJ1R3BC'-H-(,,ZDPDPHSS:#2##/,H-(,*LVXPHPTS# C#3/27",(! E
+M\( "#RB 2#72,".--,Q(PXPKTC0S33/45%.--==<<\TUUYQSS377()( ! \D
+M ,$#"GAQS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUZ!SS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<PT9"4"0  0)//] PS777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS36"0)  ! \H\( ",R#22BNRM,)**[*TPDHKK,S"2BNL
+M("*(%S0DH, #"4  00(0)/  #==<<\TUUUQS32L0) #! Q D@,4UUUQSS377
+M7'/--==<<\TYUUQSS3777'/--==<<\TUUUQSS3777(/.-==<<\TUUUQSS377
+M7'.-%P] D  $#RB Q2S77'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/-.==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUS_<\TUYUQSS3777'/--==<<PT-"3P P0,*T'#--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU +EV[=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]:L/7.FJMFH
+M9J-&&1MU#-4Q5,=0-6.6BEDS5,U0-6,FC1DS9JBD,7/%3)HU+PD@/%#PX(&"
+M1,^D24,EC9DT:<RD-9M&S5DU:]:L7;MV[=RU:]>NM4H (0&$!PH>T+AV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[MJU:]>N7;MV[=JU:]>N7;MV_^W:
+MM6O7SEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[)DC!
+M@P00'BB8<>W:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=BU1 @@/%#Q0\(#&
+MM6O7KEUSS3777'/--==<<\TUUUQSS36SL.)% A \D  $#RCP@ *(7'/--==<
+M<\TUK'@Q PTS"#++-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUYQSS3777'/--==<<\TUUUQSC2 */*#  PH\0 ,KUUQSS377H'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--?_77'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7',-*U[00,,,7K!RS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUR#SC761"/+,ZLXD\HQHS0C2C.C,),*,\VDP@PSJ3##3"K,
+M,-.,*\RDPHPTS$C#C#3,2,.,-8- D  $"4"0  2(6",-,])((PTJTDC#S#3-
+MP$)--=!8<\TUUUQSS37_UUQS#2(*/)  ! E D( 7UYQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--=<@HL #
+M"CR@P ,T7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777"/( PH\D  $
+M#RC@A3777'/--==<<\TUUUQSS3777'/--==<<\TUUWB1@ (/) #! PH\0,,U
+MUUQSS3777'/--:U<T\HUUP#DVK5KUZY=NW;MVK5KU\Y=NW;MVK5KUZY=NW;M
+M_]JU:]>N7;MV[=JU:]>N7;MV[=JU:]>\0$@ (<$#!3JN7;MV[=JU:^>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=HU5M=:7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=HU:]:>/7/F
+M;%2S4<=&,1O%[!@J9LU0-4/5C!FJ9JB:,6,F#14S:?^HI#&3)HTUB"0 00(/
+M*/"  HD\(XTTS$C#C#32H#+--,U0XTPLUEACS3777'/--==<<PTB"CP 00(0
+M/*" %]=<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSSC77
+M7'/--==<<\TUUUQSS377")( ! \H\, #-%QSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUPC" 0/*/"  @\DH,,UUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<0\,#"CR@P ,)0##_PS777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUR"BP ,/*/  !#.T<LTUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQS_\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUZ%QSC370Q/*,
+M*LXT,THSHS S"C.I,-,,*LTPTPPSJ3#3C#3,,(.*-,Q(PXPTS$@C#2K26/,%
+M! \H\  $"4" 2#72,..*-,Q(PXPTS+PR#3755&/--==<<\TUUUQSS377(*+
+M PH\ ) $$!)XN7;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUZY=NR;H@8('"2 DH''M&KIKUZY=NW;MVK5KU_^N7;MV[=JU:]>N
+M7;MV#9&"!PH>0$@  <NU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV#5&"!! >
+M*'B@8$:K:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:UX>*'@ (0$$&M>N7;MV[=JU:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=HUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--=?_7'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/.-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUECSC#/.I'),*L:D<DPJS#2#2C/,H-(,*LPT@THS
+MJ$S###.H2,.,*\Q(PXPTTE@CB ()0/"  @\HD(@US$@C#3.N2,.,--,T0XTS
+MU4!CC3777'/--==<<\TUU[22P ,*/ !! @_0<,TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS377_UQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS#2(*/ !!
+M A D0,,UUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU@D"0P ,0) !!
+M CI<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--=?0 $$"#RCP  0)M'+-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSC2 */*#  PE ,,,UUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUU_]<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777',-0*Y=NW;MVK5K
+MUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW8-W;5KUJ!5>Z;*6;-1S8RE,I:*63-4S9@Q:X:*F31FS)BY8B:-F31F
+MTJ1)8R;-FA<(#Q) 2/!  :)JTIA)D\9,FC14TZ91JU;-FK5KUZY=NW;MVK5K
+MUP0I>  A 80$$+Q<NW;MVK5KUZY=NW;_[=JU:]>N7;MV;5:K5H@2M6)U[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU5M!:)6*%*!$B5JUF7;MV[=JU
+M:]>N7;MV[=JU:]=<<XT7"4"0  0)0###+.B@@\XUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--5X\H, #"CR0  186'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS36MS/"  @\H\$ "$"!RS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TLLT0SRS777'/--==<<\TUUUQSS3777'/--==<<XT7
+M$#R@P ,*/$##_RS77'/--==<<\TUUUQSS3777'/--==<<\TUK5S3RC777'/-
+M-==<<\TUUUQSS3777'/-.==<<\TUUUQSS3777'/--==<<\TUUUPSRS6S7'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'--*]?,<LTUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQS32O7M'+-+-=<<\TUUUQSS3777'/--==<<\TUUUQCC36L5..,
+M*LTTD\HQJ#3#3"K,,),*,Z\PPTPSJ#2#BC3,N,*,-,RX(@TSKC CC?\U@D"0
+M  0)0/"  HE4PXPTTC CC33,3#.-,[ \4XTUUEQSS3777'/--==<<PTB$"3P
+M@ (/0)" %]=<<\TUUUQSS3777'/--==<<\TUK0CBQ0P0) !! @\H\  6B+1R
+MS3777'/--==<<\TUUUQSS3777'/--==<,XL@7M  P0,))*!  @DH\( ",WB1
+M""O77'/--==<<\TUB @B"")80)#  PH\\( "#] @B"!>"(((*]=<<\TUUUQS
+MS3777'/--==<<\TUUUR32 (0/*#  P"!D$#'M6O7KEV[=NW:M6O7KEV[=NW:
+MM6O7KEV[=NV:%P4/("2 D  "JVO7KEV[=NW_VBQ6LUK-NG;MVK5KUZY=NW;M
+MVK5KUZY=:]4*D1<:-&9 F$'#BR!$K:Y=NW;MVK5KUZY=NW;MVK5K@AXH>  A
+MP0,:T:Y=NW8-W;5KUZY=NW;MVK56K!!YH4'C 8T'-+P(2L3JVK5KUZY=NW;M
+MVK5KUZY=NW;MVK5KUZY=NW;M6BM$@KS0H$%C!@TOB%I=NW;MVK5KUZZQ:M7J
+MVK5KUZY=NW;MVJQ6K:Y=NW;MVK5KUZY=NW;MVK5KUZ[-:B7("XT'-"#,H.'%
+M"ZM6UZY=NW;MVK5KUZY=NW;MVK5KUZY=F\7*BQ<:#VA F$$#BQ=$K5I=<\TU
+MUUQSS3777',-.M=<_W,---8\\XPSJJ323"K,I,),,ZA,PTPSS*3"C#3,,",-
+M,\Q(PXPTS$C#C#322".--5] D  $#R0 00*)5".--*A(PXPKTC0S#3745&.-
+M-==<<\TUUUQSS3777'--(@E D  $"3R@@!?77'/--==<<\TUUUQSS3777(,(
+M%@\HD  $"3SP@ (/*/"  @_,0$,KUUQSS3777'/--==<<\TUUUQSS36(>.'"
+M PH\D  $"3P 00(0/)  ! E D  $6+!RS377H'.-%PE D$ "$#R@P ,0) !!
+M @\H\( "#RB0  VM7'/--==<<\TUUUQSS3777'/--==<(\@#"CR0  0)0/^
+MQ3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSC1<)/*#  P\H\$ KUUQS
+MS377S"((#0\H, ,-K%QSS3777'/--==<<\TUUUS#BA<S*/"  @D\H$ "$"2@
+MP ,*/("%(-=<<\TUUUQSS3777'/--==X\8 "#RCP@ )>R'+--==<<\TUUUQS
+MS3777,.*%P\H $$"$"3P@ (/*/"  @G00 ,BUUQSS3777'/--==<<\TUUUQS
+MS3777'/--=<(XH4"#RB0  0)/*!  @\H\  6B%QSS377"#(#!#/0X,4UUUQS
+MS377"$)# C0\0(,@UUQSS3777'/--==<<\TUUR#_XD4"$"0 00(0)/"  @\D
+MH, #$&#AQ3777'/--==<<\TUUUQSS3777",(#3,H\( "#RCP0 (0)/"  @D\
+M0(,7K%QSS3777'/--==<<\TUUUAC336K4.-,,\TTDPHSJ3"3"C.H,(.*-*@T
+MXTHSJ$B#BC3, ,05,VG2F$EC)LV:( 4/("2 D #"H&K2F$F3)HW9M&:OJ%5[
+M9LV:M6O7KEV[=NW:M6O76"6 \$#! P4/:%R[=NW:M6O7KEV[=NU:*R\*'BAX
+M "$!A <*(#Q( .&!@@<*9GBY=NW:M6O7KEV[=NW:M6O7O+AX "$!A 00$D!X
+MH.!! @@)(#Q0\$#! Q>(_]!=NV:.1@((#Q0\2  A 80$$!Y 2 #A@8('$!YX
+MN7;MVK5KUZY=NW;MVK5KUZY=NY8H 80$$!XD@##CVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUZY=NW:-!H0$$!) 2#"CU;5SUZY=:Y5 P0,%#Q+0N';MVK5KUZY=
+MNW;M6BLO"AXH>*#@ 80$$!XD@/! P0,%#Q3,2'3--==<<\TUUUQSS377" )!
+M A D ,$#-+1RS3777'/.-==<<\TUK=! 0P(0)/"  @\D ,$#"CR0  0/) !!
+M C0D<LTUUUQSS3777'/--==<<\TUUUQS32LS0)#  PH\\( "#RCP  0)0)!
+M O\0>''--:U D  $"4"0@"#77'/--;/,H, #"4"0  VS7'/-->A<<\TUUUQS
+M32M>*)  ! D\H, ##RCP@ (/*/  ! D\H, ,K5QSS3777'/--==<<\TUK="0
+MP ,*/*#  PE D  $"4"0  0/*/"  @]X<<TUUUQSS377H'/--==< XTUU3RC
+MBC.I--,,,\TPPPPSS3#3##/,2,,,,](P(PTSTC CC2O,2".---)8XP4$"3R@
+MP ,0*("(-<Q(PXPTS$@SS334.%.--=9<<\TUUUQSS3777'/--=<DDL #"CSP
+M@ (/>''-->=<<\TUUUQSS377L$)# A D $$"#RCP@ +_#R0 00(0)/"  A D
+MH( 7UUQSS3777'/--==<<\TL5T#P0 (0)/  ! E D  $#RCP  0)0)#  PH\
+MH, #"0B"SC6S) !! A D $$"$#R0  0)/*#  PE D  $"2@@R#777'/--==<
+M<\TUUUQSS3777'/--8@H\( "#RCP  187'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS377)/"  @] D  $-%QSS3777'.-(! \D  $#R@PPRS77'/--==<
+M<\TUUPCR@ (/*/#  PH\D  $"4"0P ,*//"  @\\H, #7EQSS3777'/--==<
+M<XT7#RCPP ,*/$##-==<<\TU_]=<<\TUUPCR@ (/*/  ! E \( "#R@ D <0
+M$D!( "$!A 0/O%R[=NW:M6O7KEV[=NW:M6O7$"6 \$#! P@)(#Q( "$!A <*
+M'D!(D$#'-4$/%#Q0\$"!EVO7KEUCI> !A 00$CR(=NW:M6OGKEV[=FW0 P4/
+M("2 \$#! P4/("1X "$!A 00'BA(X.7:M6O7KEV[=NV:H <*'D!( .&!@@<0
+M$CQ0\ !" @@/%#Q0D(#&K&O7KEV[=NW:M6O6KEEC5<T9-6>IFJ5BEHK9*V:N
+MF$E+Q8R9*V;24$EC)DT:,VG2F+F29DT0! 4/("1XH"!1-6G27#&3EFJ:,VK5
+MJEFS=O_MVK5KUZY=NW;MVK5KB" D@)  0@((6*Y=NW;MVK5KUZY=&_0@ 80$
+M#Q0\@)  PH,$$" D@)  P@,)0/!  C3,<LTUUUQSS3777',-%@H\H, #"CP
+M00(0)/"  @\D $$"#T"0  0/) #! PH\P,HUK3P 00(/0/"  @\H\( "#RCP
+M  0)0/!  A \X,4UUUQSS3777'/--==<<\TUUUQSS36"/ !! A D $$".EQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUB20 P0,*/*#  UY<<\TUUUQS
+M#2(*/*#  PH\0$,KUUQSS3777'/--5X\H, #$"0 00(0) #_ 00/0*#  Q D
+M $$"$"0 00()Z-#*-==<<\TUUUQS#2(*/*#  PH\0(,LUUQSS3777'/--5XD
+M $$"$#R0  0)/*#  PH\ $$"$"0 P0,*/)  ! G0T,HUUUQSS3777'/--==<
+M<XT7"B0 00(0) !! A D ,$#"CR@P ,0) #! PK,H(,"#R0 P0,)>''--==<
+MT\H#"4"0P ,*/-#*-==<<\TUUUQSC1<)/*#  PE \( "#RCP@ (/* !! A D
+M ,$#"CP 00)>7'/--==<<\TUB"2@P ,*/*#  PE \( "#T#P@ (/) !! @\H
+M\  $"=!@S3777'/--==<<\TUUEAC_\TSL3CCS#3--,.,-,TPPTPSS* B#3/3
+M,,.,-,Q((PTJTDC#C#32,".--5\\H, #"4"0  2"5",-,])(,\TTTU#S3#76
+M6'.--==<<\TUUUQSS3777',-*PE \( "#RCP@!?77'/--==<<\TUUP@"00(0
+M) #! PH\H, #"4"@0 ()//  ! DH\$ "$#R0  W77'/--==<<\TU7B3P@ (/
+M*/"  @\H\( "#RCP@ (/*)"  @\H\  $"4#P $ 4>+EVC48"" D4/(#P( &$
+M!PH>*'B@X(&"!PH2L+IV[=JU:]>N7;MV[=JU:]>N7;LF"$*"!Q >*'B Y=JU
+M:]>N7;MV[?_:M6O7KEV[=NW:M6O7KEV[-D/!@P00$CQ(T.K:M6O7KET3!.&!
+M@@</%#R8=>W:M6O7KLW"\D#! P4/%#R D !"@@0)$CQ0D #" P4/("2 \$#!
+MC%;7KEV[=NW:-2\/("2 D  "C6O7KEV[=NW:-2P)'D!( "$!A 00("2 D"!!
+M@@<*'B2 \$#! P@)(,QH=>W:M6O7KEV[=NT:E@0/("1XH.!! @@)'BAXD."!
+M@@<)("2 D !" @@/%#Q0 ,'+M6O7KK5ZH. !A 00$LRZ=NW:M6O7KGE) "'!
+M P4/*/"  @] D, #"23P0 (0)/"  @\D $$""7AQS3777',-*PK_/*#  Q D
+M\  $"CR@P ,)*)#  PI \( "#RCP@ (/*$##-==<<\TUUUQSS3777 .--=4\
+M0XTJS;S23"K,I,*,*\Q,PPPJS+C"C#3,N,*,-,Q((PTSTD@CC36"0/"  @\H
+M\( "B53#C#3,2-/,-,Y04XTUUEASS37H7'/--==<<\TUUUQS32()*/"  @\\
+MH$ .UUQSS3777'/--:T\D  $"4#P0 (0)/  #5X(P@HB@M"0@ (/0/"  @\H
+M\( "B%QSS3777',-*PH\ $$"$#R0  0)/. %(HFPT@HKK2#BQ0P/*/"  @\D
+M $$"$+1R#2LTS #! PDDH, #$"3P@ (/_R0 P0,)0-""%]=<<\TUUUQSS377
+M7'/--==<<\TUUUR#B (/*/!  A DH,,UUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==XD0 $#RCP  0)>''--==<<\TUUR"BP ,*/*#  S2P<LTUUUQSS36(
+M)*#  PE \$ "$"0 00(/T."%%UC, $$""4"0@ (//*#  Q#,<,TUUUQSS377
+M"*)  A \D  $,T1SS3777'/--5XD $$"$"3P@ (/0)!  @_,X(477M#P@ (/
+M*)  ! \D ,$#"M!PS3777'/--==<<XT@"4#P@ (/*/  !! D\  -,V#A!0TS
+M) !! A D\  $"?\\H, #"CR0@!?77'/--:T\D  $"4#P0 *S7'/--==<@XX@
+M"CP 00(0/ !! A \D, #6'CAA1<T0/"  A \H, #"CP 00*(7'/--=?0D, #
+M$"0 00(0)/!  C-@X847 -&!Y4&"!! >*'B0 ,*#!(.N7;N&[MJU:]>N6;MF
+M#5JU9]2:-6LVC1FS:<Q0,9/&3%HS::BD,9,FC9DK9M*D,9-F39""!PH>0$@
+M(5$U:=*F39M&C5HU:]:L7;MV[=HU=->N7;MV[=JU:ZT>0$CP0,$#!5ZN7;MV
+M[=JU:[-F*'B0 $("" H>>(EV[=JU:]>N76OE)4$"" \4/("0($&K:]?_KEV[
+MYB4!! 4/$D!XH !1M&O7KEV[=NW:M6NMO"2 \$#!@P00$@BZ=NU:*UFM9D%X
+MH."!@@<0$B1BU6H6JUG7KEV[=NW:M6O7KEV[=NW:M6O7KETCDP#" P4/%#S
+M<NW:M6O7KEV[=NW:M6O7KEV[=NW:M6N)L"2 D."!@@<)(+1RS3777'/--=<@
+M D$"#RCP@ (TS'+--==<<TTK"4#P@ (/*/  ! D\@ 4BUUQSS377S,**%Q \
+M ,$#"CR@P ,)*.#%-==<<\TUUW@!P0,)0/"  CK,<LTUUUQS#2L)0/"  @\H
+M\  $"2C@!2NM7'/--=>TPHH7-#P 00(0) !!_P(/).#%-==<<\TUUUS#R@,0
+M) !! A \H$ ",WC1RC6S7'/--:T@0L,#"4"0  0/*/#  PH\ ($7UUQSS36L
+MN/  ! D\H, #T5QSS3777,,*! D\H, #"CR@P ,M>-'*-==<<\TUU[ BR P)
+M0)  ! \H\( ",\QRS36(*/"  @\D ,$#"M @R"S77'/--=?,T@HB-"0 00(0
+M/*#  Q#,<,TUUUQSS3777'/--==88\TJU3P#BS.O-)/*-*@P,PTSTC2#BC3,
+M2",-,ZXP(XTTTJ B#3/26.,%! H\\( "#T @B#755%---=988XTUUEQSS377
+M7(,..NA<<\TUUUQSS?\UUPB2@ (/0)  ! EX<<TUUUQSS3778)$ ! E \  $
+M"<S RC777'/--==<<\TUUUR#" T*/)  ! E \  -UUQSS36MS !! @\H\  $
+M"K!RS3777'/--==<<\TUUUQSC1<)*/  ! E D( 7UUQSS3777'.-( E D, #
+M$"3PP#777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS36"0)  ! E \( "
+M,\QRS3777'/--==<<\TUUUQSS36SL-(*(E@\D  $"4#P@ (/*,#*-==<<\TU
+MUUQSC2 0) #! PH\0 ,KUUQSS377S*#  PE \$ "$"1  R+77'/--==<<\W_
+M-=< Y!HK&@D20$@ (0&$!PI87;MV[=HU01 20$B@X,&,:->N7;LVRXN"!PH>
+M0$@ (<$,1->N7;MV[=JU:]>NL:*1X(&"!PD@)("0(-&U:]>N7;OF14$"" D@
+M/%#PP$NK:]>N7;MV[=JU:]<$T7B@X(&"!PH>*'B@P,NU:]>NM7J@X(&"!PH>
+MM+IV[=JU:S020'B@X$$"" ETM+IV[=JU:]>N7;MV;1:6!! >)("0 $("0=>N
+MT7B@X(&"!Q 2S)AU[=JU:]>N7;MV[=HU+PD>0$@ (0&$%HBN74.'#AVZ:]>N
+M7;-FS5JU9\ZH.9O6K)FT9JBD,9/&3!HJ:<RD26,F_XV9-&;2I$F[)@C" P4/
+M%#Q(  &+H"^"O@CR(LB+("]>!'E!Y(4@7@CBQ2""("*(%U@\ ,$#"4#P0 (0
+M8''--==<<\TUK$"0P ,0)/"  C2T<LTUUUQSS3777'/--==<<PTK#R@ P0,)
+M0)!  HE<<\TUB"CP  0)/*!  HA<<\TUUUQSS3777'/--==<<\TL,T"0  0/
+M*/  #==<<\TUUUQSC2 /*/"  @\HH,,UUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUB"CP@ (/) !! A"T0 ,-,]! PPPTT# ##3300,,,--"0  0)
+M0)  ! \D $$"$ ARS3777/]SS3777',-(@H\H, ##R@PPRS77'/--5XD $$"
+M$"0 00(/T!#--==<<\TUUUQSS3777'/--5XD $$"#T"0  0)T'#--==<<XT7
+M#RCP  0/*.#%+-=<<\TU@B0 P0,*/)  ! EXT<HUUUQSS3777'/--==<<\TU
+M7B0 00(0/*#  PK,<,TUUUQS#2L*//"  @\D $$"@EQSS3777'/--==<<\TU
+MUUS3R@,0))  ! \H\( "#WAQS3777-/* PE \( "#R0PRS777'--(@E D  $
+M"4#P0 *"7'/--==<<\TUUUQSS3777'.-%PE \( "#SR@  W76 -! @] D  $
+M"=#_<,TUUUQSS3777'/--==<<\TU7BCPP ,*/)  !%Y<<PTZZ*"##CK77'/-
+M-== 8XTUU53C#"S-3)-*,]*DPHPKS4C###/22,.,-*A((XTTTC CC35>*/"
+M @\\H, #"CR@P ,*/)  ! E D  $"4"0  0)0)  ! D\H, #"4#P@ (/*/"
+M @\H\( .UUQSS3777..% @\H\( "$"2 R#777'/--==< Y!KUZY=NW;MVK56
+M"1(\4/  0@(:UZY=\Y( 0@(("2#,N';MVK5KUZY=NW;MVK5KUZY=\Y( 0@((
+M"1[0N';MVK5KUZX)@I  0@(("69<NW;MVK5KUZY=NW;M_]JU:]>N7;MV[=JU
+M:]>N71,$(0&$!PH>0$CP0,$#!0\4/%#P0,$#!0\20$CP0,&#!! >*'B@X $$
+M5M>N7;MV[=JU:]>N"8+P0,$#!0]HM+IV[=JU&1 20$@ X8&"&;.N7;MV[=JU
+M:]>N7;MV[=JU:UX20$@ (<$#" D07;MV[9H@" D@)%#P@ :K:]>N7:.1 $*"
+M!PH>0)C1ZMJU:]>N7;MV[=JU:]>NG;LF* &$!PD@/$@  =&U:]>NT4@ (0&$
+M!! 2=+EV[=HUUUQSS3777'/--==<<XT@"4  P0,)0/"  @]X<<TUUUS3R@,*
+M/*#  Q D,,LUUUQSC1<)0/!  O\0/*" %]=<<\TUUUQSS3777'/--==<<\TU
+M,RB0  0)0)#  XE$ T$"$"3P  0)>''--==<<\TUUUQSS3777'/--=?,H, #
+M"CP 00(Z7',-.M=<<\TUUUQSS3G76&,--+$\4XTSU#@S33/3,#,-,]*@(HTT
+MJ$C#C#32,,.,*\Q((XTU@D"0  0)0)  ! \H\$ "$"0 00(0) !! A D $$"
+M$"0 P0,*/ !! A D ,$#"CR@P ,*/*" %]=<<\TUU\R2P ,*/ !! @]@<<TU
+MUUQSS3777'/--==<<\TUUUQSC1<)0)  ! E \$ KUUSC10(/*/  ! EX<<TU
+MUUQSS37_UUQSS3777'/--==<(T@"$#R0  0)T'#--==<<\TUUWCQ@ (/0)
+M!#1<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<@T@"$"3P@ (/*/
+M! E \( "#RCP@ (/0)  ! \H\  $"4"0  0)/*#  PJP<LTUUUQSS3777'/-
+M-=<@HL #"4#P@ (/S'+--==XD0 $#RCP0 (0)-#*-==<<\TUUUQSS3777'/-
+M-==<<\TU,SP 00(0) !! C1<<\TUUWCQ@ (// !! CI<<\TUUR"2  0)0)
+M! DH@,@UUUQSS3777'/--==<<\TUUUQSS2PT) !! A D $$"_UY<<\TUK20
+M00(0/*#  S2T<LTUUUQSS3777'/--==<@\XUUUQ#0P(/*/"  @D\H( 7UUQS
+MS36LM #! PE D  $T%QSS36M)/  0!0\4/! P8Q6UZY=NW;MVK5KUZY=NW;M
+MVK5K@B \@)  P@,%B*XE@)  0@((";Q<NW;MVK5KUZY=NW;MVK5KU[PD@)!
+MP0,%6*Y=NW;MVK5KUZY=NW;MFC5KUJH]JT9-%;5FKYI-2R6-V31FTIBYDL9,
+MFC1ITIA)L_;E@8('$!(\@)  P@,%#Q0\>*#@00(("1XH>)  0H('"AXH>*#@
+M00(("2 \2 #A00(LUZY=NW9-4 ((#_\4)(#08M:U:]>N7;MV[=JU:]>N7;MV
+M[=JU61 20$CP $("0=>N#7J@ ,(#!3-:7;MV[=JU:]>N7;MV[=JU:]>N)4KP
+M0,$#!0]FS+IV[=JU:]<2)7CP0,$#!3.N7;MV[=JU:]>N7;MV[=JU:]=<<\TU
+MUUQSS3777",(! \H\  $"3P 00(0)/"  @] D, #"CR@P ,*/*!  A \H, #
+M"CP 00()>"'(-==<<\TUUUQSS377" +! PH\D  $,[1RS3778/$ ! E D  $
+M"7AQS377H'/--==<<\TUUUQSS3777'/--:TDH, #"CR0  0SM'+--=<@HL #
+M$"2@P ,TM'+_S377T/!  A \H, ##V!AS3777'/--==<<\TUUUQSS3777'/-
+M-:Q D  $"4#P@ (SM'+--5X\D  $#R0 00)>7'/--==<<\TUUUQSS37HH(/.
+M-==<PTH"$"0 P0,0) "!%]=<<\TULRCP@ (/*/!  K-<<\TU@CR@P ,*/ !!
+M EY<<\TUUUQSS3777'/--==<<\TUUUPS2PL*/)  ! E (,@U"3P 00(0/)
+M#;-<<\TUUUQSS3777'/--==<<\TL6,P P0,/T,#*-=>@@PXZZ*"#SC777'/-
+M-==< XTULCQ3#37.4$--,]-,T\PTJ$C#C#3,2",-*M(P(XTTTEPC_P@$"4"0
+M  0)0)#  PH\H, #"B0 00(0) !! A D $$"$"0 00(/0)  ! \H\$ "$#R@
+MP ,0>''--==<<PT-#RCPP ,0).#%-==<<\TUUUQSS3777'/--==<<\TUUUPC
+M" 0/*/"  @_0<,TUU[ BB!>"(-+*-==<<\TUUUQSS3777'/--==<<\TU-#R@
+MP ,*/*  #==<<\TUUUQSC2 *0)  ! D\0,,UUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUB"CP0 (0) !! A D\  $"4"0P ,*/ !! @] D, #$#R@
+MP ,)0/"  @!Y .&!@@<T6EV[=NW:M6O7KO\E2@#A@8('"F;,NG:-%80$$!(\
+M@)   JMKUZY=.W?MVK5KUZY=NW;MVK5KUZYY2?  0@(("2!XN7;MFA<("2 \
+M@)! Q[5KUUK1@)#@@8('"A+,NG;MVK5KUZY=NW;MVK5KUZY=NW;M&HT'$!(\
+M4/!  :)KUV@\4/! P0,%#Z)=NW;MVK5KUZY=NW;M&CITUZY=NZ8CP0,%"1Y
+M2.#EVK5KUU@E@/! P0,%#UI=NW;M00((#Q0\2$!#UK5KU\Y=NW;MVK5KUZY=
+MNW;MVK5KB&8H2  A 0U6UR D@)  0@((";Q<NW;MVK5KUZY=NW;MVK5KUZZU
+M8M6JU:QKUZZA0X?_#AVZ:]>N7;MV[9JU:]:L65/-,]4X XLSU#3SRC3-3#--
+M,]*\PHPTS$CC"C/26.,%! E \( "#R0 00(0/ #! P] \  $#T#P  0/0/
+M! ] \  $"4"0P ,*/)  ! E D  $">APS3777-/*# H\D  $"4# RC777'/-
+M-==<<\TUUUQSS3777'/--==<PXH"#R0 00(0S-#*-==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'.-%P\H\, #"CR@P S77'/--==<<XT@#R0 P0,*/$##
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--8) D  $#RCP@ (/_T"0
+M  0)0)  ! \H\( "#RCP@ (/) !! A \D  $"4"0  0)0)  *]=<<\TUUUQS
+MC2 /*/"  @] ,$,KUUR32 (0)/  ! E @,4UUUQSS3777'/--==<<\TUUUQS
+MS3777',-(@I D  $#RCP !;77'.-( E D, #"CQ 0S377(-( @D\H, #$"2@
+MPS777'/--==<<\TUUUQSS3777'/--==<<XT@"2CP  0)0)" %]?,T@($"4"0
+M  0)>''--==<<\TUUUQSS377H',..N=<<\TUUPSR@ (/0/"  @]X<<TUUUPS
+M2P(0)/  ! D\T,HUUT3S@ (/*/"  @_0<,TUU_]<<\TUUUQSS3777'/--==<
+M<\TUUUS3"BNM(,)**]=<0\,#"4"0  0/*/  #:Q<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777',-.NB@@PXZZ%QSS3777'/--==8<PTTUEA33375.$.-,],X
+M,TTSKTS3S#33-#/--,U,,XTU@R0 00(/*/  ! E D( ""2B0@ () "2!@@0)
+M%"1(H"!! @4)$BAXH."!@@<*'D!(\$#! RS7KEV[EB@!! 4/%#Q(T.K:M6O7
+MKEV[=NW:M6O7KEV[=NW:M6NM$D!( .&!@@>MKEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=FU6*T18'BAXH.#_ 80$#VC,NG;MVK5KU\@H>)  PH,$-*Y=NW;MVK5K
+MUZY=NW;MVK5KUZY=NW;MVK5KUZZ14?! P0,%#QXH2$#C@8(9#Q3,@)!@!H06
+M$&8H: $A 80$$!(\4/! P8,'"AXDNG;MVK5KUP1!>*#@P0,%,V9=NR9(P0,%
+M#Q0\2(#HVK5KUZY=NW;MVK5KUZY=NW;MVK5KUUC-2  A 80'"F9<NW;-RP,(
+M#Q0\4)!CUK5K7B \@)  ! DDT,HUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M+#,\H, #"CR0  W7L )! @] \$ "$"!RS3777'/--==<<\TUUUQSS377H'/-
+M_S77L*+  PH\H, #"GAQS3777--*"Q \H, #$"1PS377M/( ! D\ $$"$ AR
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777"-( A \D  $"3R@
+MP ,*>(%(*]=<<\TUUUQSS3777'/--==<<\TUUUQS#3KHH(,..NA<<\TUUUQS
+MS3777&/--=98(PLTU5032S7.P$(--=,X,TTSKTPS32K33#.--5Y \( "#T"0
+M  0/T."%%UYXX8477GCAA1=>>.&%%UYXX8477GCAA1=>>($%! \H\( "#T"0
+M@!?77'/--8(\D, #$"0 00(T>.&%%UYXX8477GCAA?\77GCAA1=>>.&%%S0\
+M\( "#R0 00*(7'/--==<<\TUUUQSS3777'/--;.PDH@@@M#P@ (/*/#  PH\
+MH, #"LQPS3777'/--=<(D@ $"4"0  0SS'+--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777"/( PH\\( "#RCP@"")L-(*(JVPD@@KK2#2"B*M(-(*(HAX
+M@04-#R@ P0,)0)  ! DH,$,KUUQSS377(*+  PH\H, #-+1RS2Q>) #! PH\
+MH, ,K5QSS3777'/--==<<\TUUUQSS3777'/--==<0P,$"3R@P ,*S##+-=<(
+MHL #"CR@P ,T1'/--30D $'_ A D ,$,K5QSS3777'/--==<<\TUUUQSS377
+M7'/--==<0X,"#R0 P0,*/'!-(@E D  $"4  D 2MKEV[=NW:M6O7KEV[=NW:
+MM6OGKEV[-FM& @@)'D!(X.7:M6O79"EXH.!! @@)9EV[YB5! @@)("1(T.K:
+MM6OHKEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O79M%( "$!A <*'BAXD$#!
+M#!J"$+6Z=NW:M6O7KEV[=NW:M6O7KJ%#APX=.G3HT*&[=NW:M6O7KEVS9@V:
+M-6O0JE6K5NT9-6?4J%%S1HT:-6?4J%T3E !" @@)'B@0=.V:M6O7KEV[=NW:
+MM6O7_ZY=NW;MVK5KUZY=NW;MFJ $#Q0\4/! @9=KUZY=TZ'@@8('#Q0\>*#@
+M@8($$!0\4 #A@0(("2 \4/! P8,$$!) >*#@@0)!UZY=NW;MVK5KUZZQ2N0%
+M"PTS0)  ! E D, #"CR@P ,*//"  @_0<,TUUUQSS377(*+  Q D $$"-%QS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUPC" 0)0)  ! \HX(4UUUQS
+MS3777'/--==<<\TUUUQSS3777'/--:QXD8 "#T#P@ (/0)" %]=<<\TUUR "
+M00(/*/"  @^T<LTU,R0 00(/0)  #;-<<\TUUYQSS3777/]SS3777'/--==<
+M<\TUUUSC!00)0/!  A DT,HUUW@!00(0)/  !%C(<LTU,T"0  0)/*# #+-<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777.-% A \H, #$"1PC2 0) !! A D
+M0(,LUUQSS3777'/--==<<\TUUUQSS3777'---%XD $$"$"0 @1?77'/--:T\
+MD  $"4"0P .M7'.-%P\H\( "#T#PP#777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--=<@HL #$"0 00(0/*#  P\H\( "#] P PV(M'+--==<
+M<\TUUUQSS377H(,..NB@@PXZYUS_<\TUUUQSS3777'/--=9<8XTUUE@#3375
+MQ%)--=4\4PTUSU!333747.,%! E \( "#RB B#777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS377(*( ! D\ $$"#]!PS3777(/% Q D $$"$"0 00(0
+M/ !! @] D, #"CR0  0)/*#  PH\ $$"$"0 00(0).#%-==<<\TUUUPSBR T
+M0)#  PH\H, #"CR@P ,0) !! A D\  $"4"0P RS7'/--==<<XT@"4"0P ,0
+M)$##-==<<\TUUUQS#4"N7;MV[=JU:]>N7;MV[=JU:]>N"8+P0,$#!0\2>+EV
+M[=JU:]>N_UV[=NW:M6O7KEV[=NW:M6O7KK&"D !"@@<0$D!XP.K:M6O7!$%(
+M .$!A 0T9%V[1@-" @@/%#R8<>W:-737KEV[=NW:M6O7KEV[=NW:M6O7T'E)
+M "$!A 00$K2Z=DW0 P4/'BAX0&/6M6LT$D!XD !" B_7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NU:H@0*'B2 D.!!*T$/%#QXH. !C5;7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[Y@5"@@<*'B3P<NW:M6NM$D!XH. !A 2SKEVCH>#! P4/$M!H
+M=>W:M7/7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O77"-( O\*/*#  Q D
+M ($"#RCP@ (/*/  ! D\0(,@K5QSS3777'/--=>@@PXZZ*"##CK77'/--==<
+M<\TUUUQSS3777&/--=988XTUT%@#336Q5%---;%44\TSUEPC" 0/) !! A \
+M,,@UUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUR"2P ,0) !! A!X
+M<<TUUUPS0P(0)/  ! E D  $"2CP@ (/*/"  @\H\( "#RCP@ (/*/"  @]
+MD, #$"3@Q2S77'/--:Q@ 4$"#RCP@ (/0)  ! \H\$ "$#P 00(/0*#  Q D
+M  $-UUQSS3777'.-( ] D  $"3Q PS7_UUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUB"0 00(/0)  !#1<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--=>PHL #"CR@P ,)*.#%-==<<PTB"CR@P ,)0#!#*]=<D\ #"CR@P ,*
+MZ'#--=><<\TUUUQSS3777'/--==<<\TUUUQSS35>0/"  @] D  $B%QSC1<0
+M) !! A D0,,UU[!"0P(0) #! PIX<<TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--8@D $$"$"0 00*M>/$ ! E D  $,UQSS3777'/--==<<\TUUUQSS377
+M7'/--==<XX4"_P\H\( "$'AQS3777,,*#0E D  $"3P0S377T/"  @] D  $
+M,UQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/.-=>P0D,"
+M#R0 00(//*#  Q D\  $"4"0  0)/*# #(A<<\TUUUQS#3KHH(,..NB@<\TU
+M +EV[=JU:]>N7;MV[=JU:]:N7;-VS9HU:]:L68-FS1HT:]:L7?.BX(&"!Q 2
+M0!!T[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[5JK!PH>*'@ (8&7:]>N
+M7:,!(0&$!PH>/%#PX &$!Q 20'@ X8&"!Q >0$CP $*"!Q 2/%#P0/_! RS7
+MKEUC10-"@@<*'D!(\$#! P4/$D!XH.!! @4/%#Q(\$#! P4SHEV[=N[:M6N(
+M%#Q0\$#! QK7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7!CU0\ !" @@)
+MO%R[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEWS\D#! P@)(#Q(,.O:M6N"
+M("2 D !" AJMKK5Z "$!A <*'F!QS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TU@CR@P ,*/)  !()<<PTB"4"0  0)0)!#*]?,D@ $"4#P@ (/>''--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS36(*/#_  0)0/"  JQXH< #"CR0  0S
+MM'+--==<<\TUUUQSS3777'/--==<<\TUUUSCQ0,*/ !! @]X<<TUUUS3R@,)
+M0/!  A D,,LUL\P 00(0) !! EY<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777#.+(#1 D, #$"CP@ (/) !! A D ,$#"4"0  0)
+MT(#(-==<<PTZZ*"##CKHH'/--==<<\TUUUQSS3777'/--==<<\TYUUASC376
+M6'.--==88\TUUEQCS36"0)  ! E \( "B%QSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQS_PTB"CR@P ,)0)" %]=<<\TU,T#P@ (/*/"  @\HD( "
+M"3R@0 ()*)#  PHDD( "#RB0  0)*/"  @\H\( "@EQS#2L0) !! A D $$"
+M$#R@P ,)0)#  PH\0(,7B+3BA0(0) !! @_0,,LUUUQSS377>*'  PE \( "
+M,UQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUPC" 0)0)#  PH\0,,U
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUK<R@P ,)0)  ! FT<LTU
+MUR "00(/0)  ! _,<LTL"3R@P ,)0)" #M=<<\TUUUQSS3777'/--==<<__-
+M-==<<\TUUUPCR ,*/)  ! \H@,@UUW@!P0,*/ !! C0 Y-JU5C,@)("0X($"
+M+]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[1JB!! 2/%#PX$$K+PD@)(#P0,&,
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N79N%Y0&$! \@*/!R[=JU:ZT>*'B@X(&"
+M!ZVN18.0 $("" D>T+AV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU
+M:]>N7;MV[1HK1%@2)'B@X($"" \4/$@ (0&$!PH>*'B@0-"U:]?0H4.'#AVZ
+M<]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]?_K%VS=LW:-6O7KGE) "'!
+M P4/%""Z=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=@V1@@<0$D!( ('&
+MM6O7KM& D, #"CR@P ,*S #!#!#,0,,#-#Q PPP0S #!#!#, ,$,$,P P0P/
+MN#"#%[-<T\H#"CR0  0/) #! PHD, ,-7G@A2"*LM'+--==<(\@#"3P 00(0
+MS'#--==<<\TUUPCR@ (/0)#  S3,<LTUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<@T@"$#R@P ,0)."%-==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--=?, $$"$"0 P0,*_R!RS377" )! A D ,$#-+!R32L0) #! PH\D( .
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<DT@"#T"0  0)0,#*-=<(HL #
+M"4"0P -8S'+-+#0D\( "#T"0@!?77'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUS3R@,*/ !! A DP(H7$"0 P0,*/$##+-=<<\TUUUQSS3777'/--==<<\TU
+MUUQSS35>) !! A D\( 7UUQSS36M)/  ! E \$ "LUPSRPP0/)  ! \H,,,U
+MUUQSS37H7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MU_^T@@@-,T#0P@,)0/"  @\H\( "#SR@P ,0).#%-=>@@PXZZ*"#SC777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUU\R"Q0,0) #!
+M PE (,@UUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUPBBP ,)0/"
+M @]X<<TUUUSC10(0) #! PH\@,@UUUQSS36S7'/--=?,<LTUUUQSS3777'/-
+M-;-$<XTLUUQSS34S*)  ! \H ) '"AZTT(&HU;5KUZY=NW;MVK5KU[Q 4/ @
+M 80$-*Y=NW;MVK5K@AXH>*#@@8(9UZY=NW;MVK5KUZ[_7;MV[=JU:]>N7;MV
+M[=JU:]<$04@ (0&$!!!H7+MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;OF
+M1<$#" D>*$@@Z-JU:X@4/("0X(&"&;.N79N1 $("" \4T+AV[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>\/%#P $("" D27;OFY8&"!Q 20*!A[=JU&1 20$@
+M(8&7:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV39""!PH>0$@ H94@" D>*'B@
+M8$:K:]>N7;MV[=JU:]>N7;MV[=JU:]>N79L!(<$#!0\4>+EV[=HUK-"0  0)
+M0)  !-!<<PT-"4#P0 (0)*##_S777'/--=><<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--=>PDH@7-,R@P ,0/*#  PH\H, #
+M"4"00"O7H(,..NB@<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<XP4$"4#P@ (/*(#(-==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--=>P D$"$#R0  0)>''--==<DT@"$"0 00(/T!#--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<PTB"CP 00(0) !! CJT<LTU
+MUUQSS?\UUUQSS3777'/--8(\D  $"4"0P RS7'/--==<<\T@#SR@P ,0)$##
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--8@H\$ "$"0 P0-87'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'.-( D\H, #"CP @1?77'.-
+M(! \H, #"CQ 0RO77..% @\D $$"$,PPRS777'/--==<<\TUUUQSS3777'/-
+M-==<<\TU-$"0P ,*/*#  ZQ<<XT@$#R@P ,*/$!#*]=<0T,"$"3P  0)T##+
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS35>)/"  @\D $'_ M<(\H "#RCP
+M0 (0L'+--==<<\TUUUQSS3777'/--==<<\TUU[2BP ,*/ !! A!X<<TUUUS3
+MR@,*//"  @\D,,LUU]#P@ (/*/"  @]$<\TUUUQS#3K77'/--==<<\TUUUQS
+MS3777',-0*Y=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZXA$D0CP8,$$!XD
+M@)  P@,:U]"A0X<.'3ITUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUZYY>:#@00(("2 (NG;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW8-40(("2 D@)# R[5KUZZQ:O$ _\(#!0\4R+IV[=JU:]>N7;MV[=JU:]>N
+M7;MV[=JU:]>N7;MV[=HU&@\20'B0 $("+]&N7;MV[=JU:]>N7;MV[=JU:UX@
+M)'@ X8$"&M>N7;MV[=HU+PD@)("0X &-:]>N7;MV[=JU:]>N7;MV[=JU:]>N
+M7;MV[=JU:V04/(#P( &$!#JN7;MV[=JU:]=<<\TUUUQSS3777'/--==<<\TU
+MUUQSC1<)0)#  Q DD( 7UUQS#2(*/)  ! \H,$,KUUSCQ0,*/ !! @^XP,HU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--30D $$"$"3P  VM7'.-%Q D $$"
+M$#Q PS777/^#!00/*/!  A DT,HUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-1 D ,$#"CR@P /7) )! A \H, #"B!RS3777'/--==<<\TUUUQSS3777'/-
+M-=<@\@ $"4"0  0)>''--==<T\H#"4"0  0)0-#*-==XD0 $"4"0  0)S'+-
+M-==<<\TUYUQSS3777'/--==<<\TUUUQS#2*("()(*^A<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777-,**S0\H, #"CP 00(/*- *.NB@@PXZZ*!SS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU7BC_\( "#T"0
+M  2"7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'--(@E \( "#T"0
+M  W77'/--;- H, #"4"0P .)7'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS36S7'/--:W,H, #$"0 00(/S'+--==<<\TUUUQSS3777'/--==<(T@"$"0
+M00(0S'#--==<<\TUUP@"00(0/*#  S1<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<(\@#"CR@P ,*/(#%-==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--=?HH, #"CR@P ,0"'+--=<(_P)! A \D  $,\QRS34 $:3@ 80$
+M$!) $'3MVK5KUZY=NW;MVK5KUZY=NW;MVK5KK68H>  A 80$-*Y=NR8H 80'
+M"2 DR!'MVC4O#Q0\4/  0@)6UZY=NW;MVK5KUZY=NW;MVK5KUZY=NW:M!80'
+M"AXH>$#C&JL$$!XD@/! @9=KUZY=NW;MVK5KUZY=NW;MVK5KUZX)4I  0H('
+M$!)XN7;MVK56"2 \4/  0@)9UZXE2O! P0,(#Q0(NG;MVK5KUZY=NW;MVK5K
+MUZY=NW;M6BL:"1) 2)  T;5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW9M%I8'
+M"AX\4/! P0-!Z/_0H4.'#AVZ:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>\0)  ! E D  $B%QSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSC2 */*#  PE \( 7UUQSS377S/"  @\H\( "@EQSS3777'/-
+M-==<<\TUUUQSS3777'/--=>PX@4--'CAQ2RL*/"  @\H\( "@EQSS3777'/-
+M-==<<\TUUUQSS3777*-# A \H, #"= PRS777'/--=<@D@ $"3P 00(T7'/-
+M-==<<\TUUUQSS377G'/--==<<\TUUUQSS3777(.( @\H\( "#RB@PS7_UUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUU\R@P ,/*/"  @FP<LTUUR3R
+M@ (/*/"  @^T<LTUK$"0  0)/*#  S1<<\TUUUQSS3777'/--==<<\TUUUQS
+MS377"/( ! E D, #$'AQS377>/&  @] D  $-,QRS36(*/"  @\H $$".EQS
+MS3777'/--==<<\TUUUQSS3777'/--==X\4 "$"0 P0,)>(%.*S,D $$"$"3P
+M  VM7'/--==<<\TUUUQSS3777'/--==<,PL$"3P 00(0) "!%]=<<\TUK<R@
+MP ,*/)  !-%<<PTK"4#P0 (*/)" #M=<<\TU_]=<<\TUUUQSS3777'/--==<
+M<XT7"4"0  0/*.#%-:P,@H@@K<QRS3777'/--==<<\TUUUQSS3777'/--3-
+MD  $#RCP@ )>H(,..NB@@\XYUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<XT4"$#R0  0/*(#(-==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--=>T\H "#SR@P ,* ,3+M6O7KET3!"$!A <*'B2X=NW:
+MM6O7KEV[=NW:M6O7KEV[=NT:*P4)("1XH,!+JP<)("1X "$!HFO7KEV[=NW:
+MM6O7KEV[=NW:M6@T'O\D@)  0@(:UZY=NW;MVK5!"1XH>*#@P8QKUZY=NW;M
+MVK5KUZY=NW;MVK5KUZY=NW;MVK5K@B D>  AP0,(5ZY=NW;MVK5KUZY=NW;M
+MVK5KUZY=.W?MVK5KUZXE>J#@@8('$!(\:'7MVC5!#Q0\@)#@ 8U9UZZUF@$A
+MP0,("2 D8'7MVK5KUZY=NW;MVK5KUZY=NW;MVC4:"2 D>  A@0)$UZY=$P0A
+M 80$$!+H@';MVK4$#R D>)  0H)6UZY=NW;MVK5KUZY=NW;MVK5KUZY=HY$
+M! D\ $$"$+!RS34T0)  ! D\H$ "B%QSS3777'/--==<<\TUUUQSS3777(/_
+M2 (*/*#  PH\H( 7UUQS#3JL0)#  PH\H, #K5QSS2P)0)  ! \\H, #K5QS
+MS3777'/--==<<\TUUUQSS3777'/-#! D $$"#R@@2"()/*  ! ]@T<HUUUQS
+MS3777'/--==<<\TUUUQSS36M) !! @\H\$ "7J"##CKHH(/.-==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777./% PH\H, #"4 @
+MR#777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377()( ! E \( "#V!Q
+MS3777'--*PD\H, #"4"0@!?77'/--==<<\TUUUQS_\TUUUQSS3777",(! \H
+M\( "#V#1R@,*/ !! A DT,HUUUQSS3777'/--==<<\TUUUQSC1</*/"  @\D
+M ,$,UUQSS3777',-(@E \( "#RA PS777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS36"0/"  @\H\( ".EQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUR#Q0,*/*#  PE 0,,UUUQSC2 0)/"  @\H,$,KUUQS#18*/*#  Q D
+M  $6UUQSS3777'/--==<<\TUUUQSS3777(-( A D $$"$#Q  RO77'.-%Q \
+MH, #"4! PRS77'.-%PD\ /^! @\\H, ,Z%QSS3777'/--==<<\TUUUQSS377
+M7(.( @\H\( "#R@P0RO77.-% A D ,$#$"1 PS777'/--==<<\TUUUQSS377
+M7'---#,D ,$#"CP D <*'GBY=NW:M58/%$!XD !"@EG7KEWSD@!" @@)("3P
+M<NW:M6O7KEV[=NW:M6O7KEV[=HV5@@<0$D!(  $1C0<*'B2 D #1M6O7KEV[
+M=NW:M6O7KEV[=NW:M6L0$D!( "$!!"_HT*%#A^[:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7O"AXH. !A 00!%V[=NW:M6O7KEV[
+M=NW_VK5KUZY=NW;MVK5KUZY=NX9(P0,%#Q0\2*#CVK5KUZY=PY( P@,%#R D
+M:'7MVK5KUZY=NW;MVK5KUZY=0\<*0H($$!(\4( (D8('"AXH>*  T;5KUZY=
+MNW;MVK5KUZY=NW:-%8T$$!XH>  A 8U9UZY=NW;MVB )0)  ! D\0,,UUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUB"0 00(0/*#  UA<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--=<@D@ $"3P 00(0).#%-==<<PTB$"0
+MP0,*/$"#+-=<<PTB#RCP0 (0) !! HA<<\TUUUQSS377_UQSS3777'/--=>T
+MHL #"4"0  0/).#%-==<<XT@"2CP  0)0###-==<<TTK"4"0P ,*/*#  UY<
+M<\TUUUQSS3777'/--==<<\TUU[0R0P(0/*#  PH\X,4UUUPS2PL/0)  ! E
+MD  BUUQSS3777'/--==<<\TUUUQSC1<*/ !! @] D  $"7AQS3777--* @\\
+MH, #$"0@RS777(.( @E D  $"4"0 "O77'/--==<<\TUUUQSS3777'/--5XD
+M $$"$#R@P S7T)  ! \H\$ "-%QSS3777'/--==<<\TUUUQSS3777'-- @]
+MD  $#R3@!3KHH(,..NB@<\TUU_]<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS35>) #! PE D  $B%QSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQS32()0/!  A \H( 7UUQSS3777(.( @E \( "#R@PPRS7
+M7'/--==<<\TUUUQSS3777!.-#@E \  $"4#P0#2() #! PE D$ "7EQSS377
+M7'/--==<<\TUUUQSS2Q8) !! A D\( "#]!PS3777'/--=<@D@ $"4#P@ (S
+MH'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777",(! E D, #"CR@ T"N
+M7;MV[=K_M6O7KEV[=NW:M6O7KEV[=NW:M6N(%#Q0\$#! P4/:+"Z=NW:-4$0
+M$D!( "$!C5;7KEV[-@/" P4/("1XH(#5M6O7KEV[=NW:M6O7KEV[=FT&A <*
+M'BAXH"!!JVO7KEWS N&!@@<0$F"9=>W:M6LT$D!X\$#! P4S6EV[=NW:M6O7
+MKEV[=NW:M6O7:"2 D !" @@/$K2Z=NW:-1T)(#Q0\" !A!FMKEV[=NW:M6O7
+MKEV[=NU:H@00$D!( "$!A 00O%R[=NT:*QH)("2 D !"M&O7KK6:\0!" @@/
+M$D# <NW:M6O7KEV[=NW:M6O7KEU#I."!@@<)("30<<W+ P4/_R D@) @T;5K
+MUZY=NW;MVK5KUZY=NW;MFI<$$"3P@ (/*" (.NB@@PXZZ%QSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU7D"0  0)0)  !()<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<PTK"4"0  0)0)" %]=<
+M<\TUUUQSS0P0) !! @] D  -B%QSS3777'/--==<<\TUU\SB10(0) !! A D
+MX,4UK<R@P ,*/ #! PIX<<TUUUQSS3777'/--=>@(P@-"4#P0 (0) #! PH\
+M<,TUUUQSS377L*+  PE D  $"21RS?\UUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<@X@"#SR@P ,0)(#%-==<@\XUUUQSS3777'/--==<<\TUUUQSS36S
+M8/%  A D ,$#"4"0@!?77'/--=<@HL #"CSP@ (SS'+--==<TTH"$"0 00(/
+M0)  #8E<<\TUUZ!SS3777'/--=?,0D,"$"0 P0,)0)" %]=<<\TUUPCR@ (/
+M) !! CJT<LTUUUS#"@0)0)  ! E D  -K5QSS3777'/--==<<\TUU[1"PP,)
+M0/!  A \D  6UUQSS377M)+  PH\H, #$"1 0RO77'/--==<<\TUUUQSC2 /
+M)/"  @\H\$#_ A \H( 7UUQSS36S) !! @\H\$ "LUQSS377(*)  @] D  $
+M"3Q PS777'/--==<<\TUUUQSS36))/!  A D ,$#"K!R32L)/*#  PH\H, ,
+MB5QSS3777'/--==<<\TUUUQS32LM0/"  @] D, #K:"##CKHH(,..M=<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU +EV[=JU:]>\0$@ (0&$
+M!PH07;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;N6*,$#!0\>*'B Y=JU
+M:]>N7;N&2,&#!PH>*'B@X &65M>N7;MV[=JU:]<0T4@ (<$#!0\4_SR(=NT:
+MA <*'BAXH.!! B^MKEV[=NW:M6O76-& D."!@@<*'CQ0D."! E;7KEV[=NT:
+MH@00'BAX\$#! R^L$@EJ=>W:M6O7T%V[=NW:M6O7KEV[=NW:-4$0$D!( "'!
+M PB"$K5"U I1*T2M$K%*Q"H1JT2M$+42I*,%A 00'B2 D #" QJMKEV[=NV:
+M( @/$D!( .%!JVO7KEV[AB7! P@)("2 D&"&EVC7KEV[=NW:M6O7!,U0\$#!
+M@P00$D#0PBS77'/--==X <$#"CR@P ,T7'/--==<<XT7"4"0  0)/ !! @]@
+M,<LUUUQSS3777'/--8C0H, #"CR@P ,*//_@PBS77'/--==<(T@"#RCP@ (/
+M*/!  EZT<LTUUUQSS377L$)# A D ,$#"CP 00(/*/" %]=<<\TUK20 00(0
+M/*#  ZU<<\TUUUQ#PP,*/)  ! \HD  -B%QSS3777'/--==<,XL7"2CP@ (/
+M0)  !#-<<\TU,RCP@ (//*#  PD(<LTUUUQSS3777'/--==<D\@,$"0 00(0
+M)  !#=>@@PXZZ*"#SCG77'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUSC10(0/*#  PE (,@UUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUR#_HL #"CR@P ,*Z'#--==<<\TUUUSC10(*0)#  Q D $$"
+M#] @""*ML)((*U[0D$ "$"0 P0,*/)" (-=<<XT@"4"0P ,*//"  @\DX(47
+MB" BB!=80)!  @\H\  $"CP 00(0/ !! A (PLHUUUQS32L)0)  ! E D, #
+M"B2@P ,)T'#--==<<\TUUUQSS3777'/--==<<\TUB"CP@ (/0)  ! E D$ "
+M"4"0P ,*/)#  PH\D  $"3R@P ,)*/"  @] D  $"4#P0 *"7'/--==<<PTB
+M$"0 P0,*/$!#*]=<<\TUU\PR@P(/0)  ! \D $$"$'C!2BNLS-)**X+0__"
+M @\D $$"$"0 00*(7'/--==<<XT@"4"0  0/)* #*]=<<\TUUT0S P0/*/"
+M @\D $$"-'C!2BNSL#)+*X( A$:"!PD@/%#P( &$!(BN7;MV[=JU:ZUH/%#P
+M $*"!Q 20$C@11 B1(D$T4B@X &$!! 2/("0 $("" F\7+MV[1HK" D@/%#P
+MX$&K:]>N7;O&2L$#!0\@)(#P0,$#+(A8S6HUJU4K+S,20'B@X,$#!0\2M+IV
+M[5JK! \4/%#P0,$#!0^\(&K%:M8U6:U:"?*20,$#!0\>*'B00- U=.C0H4.'
+M[MJU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[?_:M6O7KEV[=NW:M6M>'BAX
+M\$#! P6(KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEU#E #" P4/("3P
+M<NW:M6O7KEV[=FU&@@<*'BAXD !" @@)("2 \$!!@@<0$CR D  $#RC@Q2S7
+M7'--*S,D $$"$"0 00(0))#  PHD $$"#RCP  0)/*#  PD\H, #"CR@P ,)
+M0)! *]=<<\TL#T"0P ,0) !! @] D  $#R20R#77G'/--==<<\TUUUQSS377
+M7'/--8@D ,$#"CSP@ (/) #! Q D $$"$"0 P0,*/ !! A D\  $"4"0P ,*
+M/*#  Q DH( 7UUQSS37_UUQSC2 0) !! A D0(,LUUQSS3777--* @H\D  $
+M"4"0  0)) #! S30\  $"3R@P ,*/ !! A \H( 7UUQSS3777'.-%P\H\( "
+M#RA PS777'/--==<DT@""4#P@ (/*/  ! DD ,$#-- P@P(/*/"  @\H\( "
+M#T"0@!?77'/--==<<\TUUR"BP ,)0)  ! E D  $"22@P ,)) !! A D\  $
+M"4"0  0)/ !! A!X<<TUUUPS2PL/*/!  A D<,TUUUQSS377>)$ ! E D, #
+M"CSP@ (/*# ##3- \( "#RCP@ (/*/"  @\(<LTUUUPSRQ40/)  ! D\H, #
+M_PHD\  $--#@!0T/0)!  A \D  $"4"0  0TS'(-.NB@@PXZUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<@\XU7BCP@ (/*/
+M!()<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-->=<<TTB#RCP@ (/*/
+M%M=<<\TUUUQSS3777..% @\H\  $"4#P@ (/*/!  @H\ $$"$"0 00(0)/#
+M#-=<<\TUUUR#B (/0)  ! E \( "#RCPP ,*/*#  Q D ,$#"CS@A0(/) !!
+M @]  ) $$!+0N';MVC5!"2 D@)  P@,%#Q0\4/# R_^U:]>N7;MV[=JU:]>N
+M7;MV[=HU01 2/%#P0,$#!1 >*$CP $("" \4/$@ (0&$!PH>*'@ (0&$!PD@
+M/%#PP,NU<]>N7;MV[1HB!0\@)'@ 84:K:]>N7;MV[1HK" D@)(#P0,&#!! >
+M*'B0 $("" D@/%#P( &$!PF\7+MV[=JU:]>N"8+P( &$!!!RM+IV[=JU:]>N
+ML8+P0,$#" D@)'@ (0&$!! 20$CP $("" \20'B@P,NU:]>N7;MV[=JU:]=8
+M04@ X8&"!P\4/$@ X8&"!Q 2/("0 $*"!S2\)(#P0,$#!5ZN7;MVK54"" \4
+M/%#PH-6U:]>N7;MV35 "" G_("2 \$!! A D $$""CR@P ,*/*#  P\H\$ "
+M6%QSS3777'/--30D ,$#"CP 00(/0)  ! D\H$ "$"0 P0,*/*#  PH\H, #
+MK%R##CKHH(,..NB@<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--5Y \( "#T"0@ *(7'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'.-(! \D  $#R0 @1?77'/--==<<\TUUUQS#0T/*/"  @\H\$ "
+M$#R@P ,0)/"  @\H\  $"2C@12O77'/--==<<XT7"4"0  0/) #! PH\H, #
+M$"3P_X "#R0 00(TL'*-%PE \( "#RCP0 (0S'#--==<TPH-"4#P@ (/) #!
+M PE \( "7EQSS3777'/--==<<\TUUUQSS3777",(! E D, #$"3P0 (0/ !!
+M @\H\$ "$"0 00(/*/!  A \H, #"4"@P ,*)#"#(-=<<\TUUUQSS377" )!
+M A D $$"-,QRS3777'/--==<PPH$"3R@P ,0/*#  PE \( "#SR@P ,)0)
+M! H\H( @UUQSS3777'/--=<(H@ $"3P 00(T7'/--==<<\TUUUS#"@T)/*#
+M P\H $$"#RCP0 (0/*#  PH\D  $"4"0@"#77'/--==<<__--==<<\TUU[!"
+M0P(0) !! A D $$"$"0 00(0) #! PH\0,,U@D"0  0)0/" %]=<<\TUK$"0
+M@ (/*/"  K)<<\TUUUQSS377>)$ ! ] D( "#SP 00(/0/!  A D\( "#RCP
+M  0)>#'+-==<<\TUUUS#"@T)/ !! A D $$"$"0 00(0/)  0" D@/ @ 80'
+M"A[,:'7MVC5TZ-"A0X?NVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5K7A) 2/! P0,(B*Y=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=\Y( 0@(("2 DT''MVK5KUZ[_7;MV[=JU:X)F0$CP $("" \20'B@X($"
+M" \@/% P0]"U:]>N7;MV[=JU:X)F/%#P0,$#!0\@)("0 ,(#!0\4/, RZ]JU
+M5C020'B@X $$" EH7+MV[=HU5C,4/$@ (0&$!! 20$@@Z-JU:]>N7;MV[=JU
+M:]>N7;MV[1HK!1 >0%  (0$$" H>*("@X $$!1 >*(  (0$$" H>*'B@X$&"
+M!S.\M+IV[=JU:]=<<\TUUR"BP ,/0)  !"U<<\TUUUQSS3777'/--5XH\( "
+M#RCP@ (/*/"  @\H\( "#T#PP ,)T,#*-==<<\TUUUQSS377(/)  A! D  $
+M-,QRS377_UQSS3777'/-+%A D  $"CR0  0/*/  ! E D  $#RCP  0)T,#*
+M-==<<\TUUUQSS3777'/--==<<XT7+4"0  0/0)#  Q D ,$#"CR@P ,*>''-
+M-8@H\  $"3R@@!?77'/--:TD\  $#T#P0 *M7'/--==<<\TUUUR#" T)) #!
+M Q DH, #"CR@P ,0) #! Q DH, #@EQSS3777'/--==<<TTK7BB0  0)0)
+M! \D ,$#"4"0  0)0)  ! H\D( 7K5QSS37HH(,..NB@@PXZUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<(P@$"?] H, #"2C
+MRC777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377M)( ! E D  $"0AR
+MS3777(/.-==<<\TUUUQSS36"8/%  A D $$"$"0 00(/))"  C,(,LLUUUQS
+MS3777'/--==<<TTK7LP 00(/*/"  @\H\$ ""CQ @Q>L7'/-->A<@T@""B0
+M00()/*  *]=<<PTZUUPSBR!>T/  ! E D  $"7AQS3777'/--==<<\TUUUQS
+MS3777'/--;/,D$ ""23P0 ())/!  @D\D$ ""3R00 (/))#  PDD\$ ""CR@
+M  18"-+*-==<<\TUUUQSS3777'/-+#/_*)!  @H\X,4UUUQSS3777'/--=>@
+M<PTK7CR@P ,)0/"  @\D ,$#"CR@0 ( 48 %T;5KUZY=NW;MVK5KUZZUHI$@
+M00(%#P1=NW;MVK5KUZY=NX;N&BLO#QXH>)  0@(("1XH>*#@00(%6!!=NW;M
+MVK5KUZY=NW;MVK5KUZY=NW:-E9<9"A(\4)  0@(("1) >("%U;5KUP1!2 #A
+M@8('7JY=NW;M&HT$"1(H2.#EVK5KUZY=NW;MVK5KUQ#12*#@ 80'"AXH>*#@
+M 80$"AX\\-+JVK5KUZY=NW;MVK5KUZXA\O(@P0,("2 D@)  0@((#QXH>)#@
+M@9=6UZY=NW;M_QHZ=.C0H4-W[MJU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU:UX2/$CP@(:7:]>N7;MV[=JU:]>N7;MV[=JU:]>N77/-
+M-==<<\TUUUPCR ,)/)#  UY<<PTZZ%QSS3777'/--==<<\TUU\S2BB TS)
+M! D\D  $"=#@!2*M7'/--==<<\TUUUQSS3777'/--=>T(H@7-,R0P ,)0# #
+M#8(@TLHUUUQS#3KG7'--*U[,D, #--" R#77G'/--==<<\TUU[3"2B*L),)*
+M(JQ<<\TUUUQSS3777'/--==<<\TUUUQSS377M.*%%UYX@8477GB!A?\77F#A
+MA1=>8.&%%UAXX0467GB!A1=>>($(*[-<<\TUUUQSS3777'/--==<<\TUK0CB
+MA1=>"'+--==<<\TUUUQSS377G'/--=>T(H@."4"0  0/*/"  @\D0(,7K,QR
+MS3777'/--==<<\TUUUQSS36L>.&%%UX(<LTUUUQSS3777'/--=><<\TUU[0B
+M" T/*/  ! E D  $#R1 @Q>LS'+-.==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS36S".(%#0] D, #"=#@A2"L7'/--==<XT4"$"0 00(0>''--==<<\TL@GCA
+MA1>"S'+--==<<\TUUUQSS3777'--*XAX,8/_ @D\H, #"4"00 (/Z"!(*]=<
+M<\TUUUQSS3777'/--==<<\TUU[0B" T)0)  ! E D  $"22@P PT"-+*-==<
+M@PXZZ*"##CKHH(,..NB@<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<T\HLT<@2S3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--=>T,DLTLT1SS3777'/.-==<<\TUUUQSS3777'/--==<
+M<\TLK;"2""*M (35K&O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M5:S6LF*
+M-NO:M6O7KEV[=NW:_[5KUZY=F]6*U;5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUZY=NW;N6BM6@KQX\2)(4")6UZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5SZ-!=NW;MVK5KUZY=NW;MVK5KUZZU0B3(BQ<O@KRT8G7MVK5KUZY=
+MNW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUV9%D]5**[)<<\TUUUQSS3776/]#
+M0P(/0)#  PJP<LTUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUYQS
+M#2N)".*%(%X(D@@KK5QSS3777'/--==<<\TUUUQSS3777'/--==<<\TUK;""
+MB"!>>.&%((@DPLHLUUQSS3777',-.NB@@PXZZ*"##CKH7'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUS_<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<_W/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'--*Q \H, #"CR@ "O77'/--==<<\TUUUQSS3777'/--==<<\TUUUP#D&O7
+MKEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=NW:M6O7T*%#APX=.G3HT*%#=^W:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7
+MKO]=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5K
+MUZY=NW;MVK5KUZY=NW;MVC777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS37_UUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS2RMS'+--==<
+M<\TUUUQSS3777'/--==<<\TUUUQS#2()0/"  @] ,,,LUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--=>@
+M@PXZZ*"##CKHH'/--==<<\TU_]=<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--?_77'/--==<<\TUUUQSS3777'/--==<<PU KEV[=NW:M6O7KEV[=NW:
+MM6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:
+MM6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:
+MM6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=JW5#!HT9M!H=>T:NFO7KEV[=NW:
+MM6O7KEV[=NW:-1H*'BAXD  "C6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:
+MM6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW_VK5KUZY=NW;M
+MVK5KUZY=NW;MVK5KUZY=NW;MVK5KZ-"A0X<.'3ITZ-!=NW;MVK5KUZY=NW;M
+MVK5KUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQS_\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUS3R@P*/ !! A#,T,HUUZ!SS3777'/--==<<\TUUUQSS36(
+M)/"  @\H\/]  H)<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777',-.NB@@PXZZ*"#SC777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TU +EV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV
+M[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=K_M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[
+M=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEUSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS377_UQSS3777'/- PH\H, #"B3@Q377
+M7'/--==<<\TUUUQSS3777'--*S0D $$"$#R@P .M7'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS#3KH
+MH(,..NB@@\XUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUU_]<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--=?_7'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUU\R@P ,0)/
+M! D !-&U:]>N7;MV[=JU:]>N7;MV;0:$!PH>)("0P,NU:]>N7;MV[=JU:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>NH4.'#ATZ=->N
+M7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N_UV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:M6O7
+MKEV[=NW:M6O7KEV[=NW:M6O7KEV[=LTUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS377
+M7'/--==<<\TUUUQSS?\UUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--=<DDL #"CP 00(0).#%-==<<\TUUUQSS3777'--*S0DH, #
+M"CP 00(/M'+--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\W_
+M-==<<\TUUUQSS3777'/--==<<\TUUUR##CKHH(,..M=<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-_S777 .0:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;MV[=JU:]>N7;O6:H:"
+M!PH>*'@ (0$-0:VN74-W[=JU6:V\/%#P $*"!PH>*/!R[=JU:]>N7;MV[=JU
+M:]>N7;MV[=JU:]>N7;MV[?_:M6O7KEV[=NW:M6O7KEV[=NW:M6O7KEV[=NW:
+MM6O7KEV[=NW:-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<PTZ
+MZ*"#SC777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TU
+MUUS_<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<_W/--8A D  $"3P
+M00(0/*#  UAXX04B@GCA10(*/)  ! D\ $$"$#S0RC777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQS
+MS377H(,..NB@@PXZZ*"##CKHH(,.0-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.
+M'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.
+M'3ITZ-"A0X<.'3ITZ-"A0X<.'?\Z=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'
+M#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.B@@PXZ
+MZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZ
+MZ*"##CK_Z*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,.
+M.NB@@PXZUUQSS377>)$ !! D\( "#RCP  0)0)  ! \HD  $#RCP  0)0*#
+M PJP<LTUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/-
+M-==<<\TUUUQSS3777'/--==<<\TUUUR##CKHH(,..NB@@PXZZ*"##CKHH(,.
+M.NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZ_^B@@PXZZ*"#
+M#CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"#
+M#CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"#
+M#CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"#
+M#CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"#
+M#CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"#
+M#CKHH(,..NB@@PXZZ*"##CKHH(,..O_HH(,..NB@@PXZZ*"##CKHH(,..NB@
+M@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@
+M@PXZZ*"##CH 08<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A
+M0X<.'3ITZ-!=NW;MVC5!"1) 2  AP0,("1XH>)! P8,'"AXH>)  0H('+5A=
+MNW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=NW;MVK5KUZY=
+MNW;MVK5KUZ[_74.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0
+MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0
+MH4.'#ATZ=.C0H4.'#ATZ=.C0H4.'#ATZ=.C0H8,..NB@@PXZZ*"##CKHH(,.
+M.NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,.
+M.NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,.
+M.NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"#_PXZZ*"#
+M#CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"#
+M#CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"#
+M#CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"#
+M#CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKH7(/.-=<@0D,"$#R@
+MP ,*/*#  PH\ $$"$#R0  0/*/  !#3,<LTUUUQSS3777'/--==<<\TUUUQS
+MS3777'/--==<<\TUUUQSS3777'/--==<<__--==<<\TUUUQSS3777'/--==<
+M<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<<\TUUUQSS3777'/--==<
+M<\TUUZ"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@
+M@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@
+M@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@
+M@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKH  0=.G3H
+MT*%#APX=.G3HT*'_0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3IT
+MZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3IT
+MZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3IT
+MZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3IT
+MZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3IT
+MZ-"A0X<.'3ITZ-"A0W?MVK5KU[S02*#@00((#R \@)  0@(("AXHF$%#_] U
+M=-?0H4.'#ATZ=.C0H4.'#CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"#
+M#CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"#
+M#CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"#
+M#CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"#
+M#CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"#
+M#CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ/^@@PXZZ*"##CKHH(,..NB@
+M@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@
+M@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@
+M@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@
+M@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@
+M@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@
+M@PXZZ*"##CKHH(,..NC_H(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKH
+MH(,..NB@@PXZZ*"##CKHH(,..NA<<PTB7M#P0 (*))"  @\HD, ##] @R"S7
+M7'/-->B@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKH
+MH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ* #$'3HT*%#APX=.G3HT*%#APX=
+M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=
+M.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=.G3HT*%#APX=
+M_SITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.
+M'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.
+M'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.
+M'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.'3ITZ-"A0X<.
+M'3KHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"#
+M#CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##O$ZZ*"##CKHH(,..NB@
+M@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@
+M@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(/.-==<
+MTTHKB'CAA1>"(()(*ZU<<PTZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@
+M@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@
+M@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@@PXZZ*"##CKHH(,..NB@
+%@TY  #L!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

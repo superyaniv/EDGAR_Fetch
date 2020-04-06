@@ -1,0 +1,1673 @@
+<SEC-DOCUMENT>0001193125-20-065097.txt : 20200306
+<SEC-HEADER>0001193125-20-065097.hdr.sgml : 20200306
+<ACCEPTANCE-DATETIME>20200306161637
+ACCESSION NUMBER:		0001193125-20-065097
+CONFORMED SUBMISSION TYPE:	S-8
+PUBLIC DOCUMENT COUNT:		6
+FILED AS OF DATE:		20200306
+DATE AS OF CHANGE:		20200306
+EFFECTIVENESS DATE:		20200306
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FAIR ISAAC CORP
+		CENTRAL INDEX KEY:			0000814547
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				941499887
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		S-8
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	333-236948
+		FILM NUMBER:		20694964
+
+	BUSINESS ADDRESS:	
+		STREET 1:		181 METRO DRIVE
+		STREET 2:		SUITE 700
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95110
+		BUSINESS PHONE:		(408) 535-1500
+
+	MAIL ADDRESS:	
+		STREET 1:		181 METRO DRIVE
+		STREET 2:		SUITE 700
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95110
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FAIR ISAAC & COMPANY INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>S-8
+<SEQUENCE>1
+<FILENAME>d887426ds8.htm
+<DESCRIPTION>S-8
+<TEXT>
+<HTML><HEAD>
+<TITLE>S-8</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>As filed with the Securities and Exchange Commission on March&nbsp;6, 2020. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Registration <FONT STYLE="white-space:nowrap">No.&nbsp;333-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT>
+</B></P> <P STYLE="font-size:4pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D. C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM <FONT
+STYLE="white-space:nowrap">S-8</FONT> </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>REGISTRATION STATEMENT </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B><I>UNDER </I></B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B><I>THE
+SECURITIES ACT OF 1933 </I></B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>FAIR ISAAC CORPORATION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact Name of Registrant as Specified in Its Charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="50%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">94-1499887</FONT><BR></B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(State or Other Jurisdiction of<BR>Incorporation or Organization)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(I.R.S. Employer<BR>Identification No.)</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>181 Metro Drive, Suite 700<BR>San Jose, California<BR></B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>95110<BR></B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of Principal Executive Offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>FAIR ISAAC CORPORATION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>2012 LONG-TERM INCENTIVE PLAN </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Full Title of the Plan) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Mark R. Scadina </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Executive Vice President, General Counsel and Secretary </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Fair Isaac Corporation </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>181 Metro Drive, Suite 700 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>San Jose, California 95110 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(408) <FONT STYLE="white-space:nowrap">535-1500</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name, Address and Telephone Number of Agent for Service) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><I>Copy to: </I></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>W.
+Morgan Burns </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Faegre Drinker Biddle&nbsp;&amp; Reath LLP </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>2200 Wells Fargo Center </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>90 South Seventh Street </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Minneapolis, Minnesota 55402-3901 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(612) <FONT STYLE="white-space:nowrap">766-7000</FONT> </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether
+the registrant is a large accelerated filer, an accelerated filer, a <FONT STYLE="white-space:nowrap">non-accelerated</FONT> filer, a smaller reporting company, or an emerging growth company. See the definitions of &#147;large accelerated
+filer,&#148; &#147;accelerated filer,&#148; &#147;smaller reporting company,&#148; and &#147;emerging growth company&#148; in <FONT STYLE="white-space:nowrap">Rule&nbsp;12b-2</FONT> of the Exchange Act. </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="18%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="56%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="21%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">Large&nbsp;Accelerated&nbsp;Filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Accelerated&nbsp;Filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"><FONT STYLE="white-space:nowrap">Non-accelerated</FONT> Filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Smaller&nbsp;Reporting&nbsp;Company</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Emerging&nbsp;Growth&nbsp;Company</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting standards provided pursuant to Section&nbsp;7(a)(2)(B) of the Securities Act.&nbsp;&nbsp; &#9744; </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>CALCULATION
+OF REGISTRATION FEE </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="44%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="13%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="13%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="13%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="13%"></TD></TR>
+
+
+<TR STYLE="font-size:1px; ">
+<TD COLSPAN="9" VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000">&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" ALIGN="center" STYLE="BORDER-TOP:1px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Title of Securities</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>To Be Registered</B></P></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-TOP:1px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Amount</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>To Be</B></P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Registered
+(1)</B></P></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-TOP:1px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Proposed</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Maximum</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Offering
+Price</B></P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Per Share (2)</B></P></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-TOP:1px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Proposed</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Maximum<BR>Aggregate</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Offering Price (2)</B></P></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-TOP:1px solid #000000"><B>Amount of<BR>Registration&nbsp;Fee (2)</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-TOP:1px solid #000000"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Common Stock, $.01 par value</P></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-TOP:1px solid #000000">1,250,000</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-TOP:1px solid #000000">$366.205</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-TOP:1px solid #000000">$457,756,250</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-TOP:1px solid #000000">$59,416.77</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD COLSPAN="9" VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000">&nbsp;</P></TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD COLSPAN="9" VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000">&nbsp;</P></TD></TR>
+</TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(1)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">This registration statement also will cover any additional shares of Common Stock that become issuable under
+the 2012 Long-Term Incentive Plan by reason of any stock dividend, stock split, recapitalization or other similar transaction effected without the Registrant&#146;s receipt of consideration that results in an increase in the number of outstanding
+shares of the Registrant&#146;s Common Stock. </P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(2)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Offering price estimated solely for the purpose of determining the registration fee pursuant to Rule 457(h)
+under the Securities Act of 1933 based on the average of the high and low sale prices per share of the Registrant&#146;s Common Stock as quoted on the New York Stock Exchange on February&nbsp;28, 2020. </P></TD></TR></TABLE>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>EXPLANATORY NOTE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">This Registration Statement on Form <FONT STYLE="white-space:nowrap">S-8</FONT> is being filed for the purpose of registering an additional
+1,250,000 shares of the Registrant&#146;s Common Stock to be issued pursuant to the Fair Isaac Corporation 2012 <FONT STYLE="white-space:nowrap">Long-Term</FONT> Incentive Plan (the &#147;Plan&#148;). In accordance with Section&nbsp;E of the General
+Instructions to Form <FONT STYLE="white-space:nowrap">S-8,</FONT> the Registration Statement previously filed with the Securities and Exchange Commission relating to the Plan (File <FONT STYLE="white-space:nowrap">No.&nbsp;333-179417)</FONT> is
+incorporated by reference herein. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PART II </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>INFORMATION REQUIRED IN THE </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>REGISTRATION STATEMENT </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"></TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom"></TD>
+
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="93%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" COLSPAN="2" NOWRAP><B>Item&nbsp;8.</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>Exhibits.</B></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">4.1</TD>
+<TD NOWRAP VALIGN="top">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"><A HREF="http://www.sec.gov/Archives/edgar/data/814547/000095012310009970/c56194exv3w2.htm">Composite Restated Certificate of Incorporation of Fair Isaac Corporation (Incorporated by reference to Exhibit 3.2 to the Company&#146;s Form
+<FONT STYLE="white-space:nowrap">10-Q</FONT> for the quarter ended December<U></U>&nbsp;31, 2009 (file no. <FONT STYLE="white-space:nowrap">001-11689))</FONT></A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">4.2</TD>
+<TD NOWRAP VALIGN="top">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"><A HREF="http://www.sec.gov/Archives/edgar/data/814547/000095012310009970/c56194exv3w1.htm">Bylaws of Fair Isaac Corporation (Incorporated by reference to Exhibit 3.1 to the Company&#146;s Form<U></U><FONT
+STYLE="white-space:nowrap">&nbsp;10-Q</FONT> for the quarter ended December<U></U>&nbsp;31, 2009 (file no. <FONT STYLE="white-space:nowrap">001-11689))</FONT></A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">4.3</TD>
+<TD NOWRAP VALIGN="top">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"><A HREF="d887426dex43.htm">Fair Isaac Corporation 2012 Long-Term Incentive Plan, as amended as of March&nbsp;4, 2020. </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">5</TD>
+<TD NOWRAP VALIGN="top">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"><A HREF="d887426dex5.htm">Opinion of Faegre Drinker Biddle&nbsp;&amp; Reath LLP, counsel for the Registrant. </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">23.1</TD>
+<TD NOWRAP VALIGN="top">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"><A HREF="d887426dex5.htm">Consent of Faegre Drinker Biddle&nbsp;&amp; Reath LLP (Contained in Exhibit 5 to this Registration Statement.) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">23.2</TD>
+<TD NOWRAP VALIGN="top">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"><A HREF="d887426dex232.htm">Consent of Independent Registered Public Accounting Firm. </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">24</TD>
+<TD NOWRAP VALIGN="top">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"><A HREF="d887426dex24.htm">Powers of Attorney. </A></TD></TR>
+</TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Act of 1933, the Registrant certifies that it has reasonable grounds to believe that it meets
+all of the requirements for filing on Form <FONT STYLE="white-space:nowrap">S-8</FONT> and has duly caused this Registration Statement to be signed on its behalf by the undersigned, thereunto duly authorized, in the city of San Jose, State of
+California on the 6th day of March, 2020. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="7%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">FAIR ISAAC CORPORATION</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Mark R. Scadina</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Mark R. Scadina</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><I>Executive Vice President, General Counsel and Secretary</I></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Act of 1933, this Registration Statement has been signed
+below on March&nbsp;6, 2020 by the following persons in the capacities indicated, including a majority of the Registrant&#146;s directors: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="48%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="45%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">Name</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">Title</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ William J. Lansing</P></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD ROWSPAN="2" VALIGN="top"></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ROWSPAN="2"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Chief Executive Officer and Director</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">William J. Lansing</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman"><I>Principal Executive
+Officer</I></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Michael I. McLaughlin</P></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD ROWSPAN="2" VALIGN="top"></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ROWSPAN="2"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Executive Vice President and Chief Financial Officer</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Michael I. McLaughlin</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman"><I>Principal Financial
+Officer</I></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Michael S. Leonard</P></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD ROWSPAN="2" VALIGN="top"></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ROWSPAN="2"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Vice President and Chief Accounting Officer</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Michael S. Leonard</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman"><I>Principal Accounting
+Officer</I></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">*</P></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD ROWSPAN="2" VALIGN="top"></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ROWSPAN="2"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Director</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Braden R. Kelly</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">*</P></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD ROWSPAN="2" VALIGN="top"></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ROWSPAN="2"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Director</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Fabiola R. Arredondo</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">*</P></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD ROWSPAN="2" VALIGN="top"></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ROWSPAN="2"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Director</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">A. George Battle</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">*</P></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD ROWSPAN="2" VALIGN="top"></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ROWSPAN="2"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Director</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">James D. Kirsner</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">*</P></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD ROWSPAN="2" VALIGN="top"></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ROWSPAN="2"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Director</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Eva Manolis</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">*</P></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD ROWSPAN="2" VALIGN="top"></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ROWSPAN="2"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Director</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Marc F. McMorris</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">*</P></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD ROWSPAN="2" VALIGN="top"></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ROWSPAN="2"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Director</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Joanna Rees</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">*</P></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD ROWSPAN="2" VALIGN="top"></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ROWSPAN="2"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Director</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">David A. Rey</P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="55%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="8%"></TD>
+
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="10%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="79%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">*By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman"><I></I>/s/ Mark R. Scadina<I> </I></P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Mark R. Scadina</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">Attorney-in-Fact</FONT></FONT></TD></TR>
+</TABLE>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4.3
+<SEQUENCE>2
+<FILENAME>d887426dex43.htm
+<DESCRIPTION>EX-4.3
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-4.3</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 4.3 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>FAIR ISAAC CORPORATION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>2012 LONG-TERM INCENTIVE PLAN </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(as amended as of March&nbsp;4, 2020) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>1. </B><B><U>Purpose</U></B><B>.</B> The purpose of the Fair Isaac Corporation 2012 Long-Term Incentive Plan (the &#147;Plan&#148;) is to help attract and
+retain the best available people for positions of responsibility with the Company, to provide additional incentives to them and align their interests with those of the Company&#146;s shareholders, and to thereby promote the Company&#146;s long-term
+business success. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>2. </B><B><U>Definitions</U></B><B>.</B> In this Plan, the following definitions will apply. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(a) &#147;Affiliate&#148; means any corporation that is a Subsidiary or Parent of the Company. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(b) &#147;Agreement&#148; means the written or electronic agreement or notice containing the terms and conditions applicable to an Award
+granted under the Plan. An Agreement is subject to the terms and conditions of the Plan. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(c) &#147;Award&#148; means the grant of a
+compensatory award under the Plan in the form of an Option, Stock Appreciation Rights, Restricted Stock, Stock Units, an Other Stock-Based Award or a Cash Incentive Award. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(d) &#147;Board&#148; means the Board of Directors of the Company. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(e) &#147;Cash Incentive Award&#148; means an Award described in Section&nbsp;11(a) of the Plan. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(f) &#147;Cause&#148; means what the term is expressly defined to mean in a then-effective written agreement (including an Agreement) between a
+Participant and the Company or any Affiliate or, in the absence of any such then-effective agreement or definition, means a Participant&#146;s (i)&nbsp;failure or refusal to perform satisfactorily the duties reasonably required of the Participant by
+the Company (other than by reason of Disability); (ii)&nbsp;material violation of any law, rule, regulation, court order or regulatory directive (other than traffic violations, misdemeanors or other minor offenses); (iii)&nbsp;material breach of any
+Company code of conduct, of any agreement with the Company or any Affiliate or of any nondisclosure, <FONT STYLE="white-space:nowrap">non-solicitation,</FONT> <FONT STYLE="white-space:nowrap">non-competition</FONT> or similar obligation owed to the
+Company or any Affiliate; (iv)&nbsp;engaging in any act or practice that involves personal dishonesty on the part of the Participant resulting in gain or personal enrichment of the Participant at the expense of the Company or any Affiliate; or
+(v)&nbsp;engaging in conduct that would be reasonably expected to harm or bring disrepute to the Company, any of its Affiliates, or any of their customers, employees or vendors. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(g) &#147;Change in Control&#148; means any one of the following: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(1) An Exchange Act Person becomes the beneficial owner (within the meaning of Rule <FONT STYLE="white-space:nowrap">13d-3</FONT> under the
+Exchange Act) of securities of the Company representing 30% or more of the combined voting power of the Company&#146;s then outstanding Voting Securities or 30% or more of the shares of Stock outstanding, except that the following will not
+constitute a Change in Control: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:13%; font-size:10pt; font-family:Times New Roman">(A) any acquisition of securities of the Company by an Exchange Act Person directly or indirectly from
+the Company for the purpose of providing financing to the Company; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:13%; font-size:10pt; font-family:Times New Roman">(B) any formation of a Group consisting solely of beneficial owners of
+the Company&#146;s Voting Securities or Stock as of the effective date of this Plan; or </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:13%; font-size:10pt; font-family:Times New Roman">(C) any Exchange Act Person becomes the
+beneficial owner of more than 30% of the combined voting power of the Company&#146;s outstanding Voting Securities as the result of any repurchase or other acquisition by the Company of its Voting Securities; </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If, however, an Exchange Act Person or Group referenced in clause (A), (B)&nbsp;or (C)&nbsp;above acquires beneficial ownership of additional Company Voting
+Securities after initially becoming the beneficial owner of more than 30% of the combined voting power of the Company&#146;s outstanding Voting Securities by one of the means described in those clauses, then a Change in Control shall be deemed to
+have occurred. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(2) Individuals who are Continuing Directors cease for any reason to constitute a majority of the members of the Board.
+</P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(3) The consummation of a reorganization, merger or consolidation of the Company, or a sale or other disposition (in one or a series of
+transactions) of all or substantially all of the assets of the Company unless, immediately following such transaction, all or substantially all of the individuals and entities who were the beneficial
+</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+owners, respectively, of the outstanding Company Voting Securities and outstanding Stock immediately prior to such transaction beneficially own, directly or indirectly, more than 70% of,
+respectively, the combined voting power of the then outstanding Voting Securities and common stock of the surviving or acquiring entity (or its Parent) resulting from such transaction in substantially the same proportions as their ownership,
+immediately before such transaction, of the outstanding Company Voting Securities and outstanding Stock. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Notwithstanding the foregoing, to the extent
+that any Award constitutes a deferral of compensation subject to Code Section&nbsp;409A, and if that Award provides for a change in the time or form of payment upon a Change in Control, then no Change in Control shall be deemed to have occurred upon
+an event described in this Section&nbsp;2(g) unless the event would also constitute a change in ownership or effective control of, or a change in the ownership of a substantial portion of the assets of, the Company under Code Section&nbsp;409A. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(h) &#147;Code&#148; means the Internal Revenue Code of 1986, as amended and in effect from time to time, and the regulations promulgated
+thereunder. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(i) &#147;Committee&#148; means two or more <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Directors designated by the
+Board to administer the Plan under Section&nbsp;3, each member of which shall (i)&nbsp;satisfy the independence requirements for independent directors and members of compensation committees as set forth from time to time in the Listed Company Manual
+of the New York Stock Exchange, (ii)&nbsp;be a <FONT STYLE="white-space:nowrap">non-employee</FONT> director within the meaning of Exchange Act <FONT STYLE="white-space:nowrap">Rule&nbsp;16b-3,</FONT> and (iii)&nbsp;be an outside director for
+purposes of Code Section&nbsp;162(m). </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(j) &#147;Company&#148; means Fair Isaac Corporation, a Delaware corporation, or any successor
+thereto. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(k) &#147;Continuing Director&#148; means an individual who is (A)&nbsp;as of the effective date of the Plan, a director of the
+Company, (B)&nbsp;elected as a director of the Company subsequent to the effective date of the Plan for whose election proxies have been solicited by the Board, or (C)&nbsp;elected or appointed by the Board to fill vacancies on the Board caused by
+death or resignation (but not removal) or to fill newly created directorships, but excluding, for purposes of clauses (B)&nbsp;and (C), any such individual whose initial assumption of office occurs as a result of an actual or threatened election
+contest. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(l) &#147;Disability&#148; means &#147;total and permanent disability&#148; within the meaning of Code Section&nbsp;22(e)(3).
+</P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(m) &#147;Employee&#148; means an employee of the Company or an Affiliate. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(n) &#147;Exchange Act&#148; means the Securities Exchange Act of 1934, as amended and in effect from time to time. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(o) &#147;Exchange Act Person&#148; means any natural person, entity or Group other than (i)&nbsp;the Company or any Subsidiary of the Company;
+(ii)&nbsp;any employee benefit plan (or related trust) sponsored or maintained by the Company or any Affiliate; (iii)&nbsp;an underwriter temporarily holding securities in connection with a registered public offering of such securities; or
+(iv)&nbsp;an entity whose Voting Securities are beneficially owned by the beneficial owners of the Company&#146;s Voting Securities in substantially the same proportions as their beneficial ownership of the Company&#146;s Voting Securities. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(p) &#147;Fair Market Value&#148; means the fair market value of a Share determined as follows: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(1) If the Shares are readily tradable on an established securities market (as determined under Code Section&nbsp;409A), then Fair Market Value
+will be the closing sales price for a Share on the principal securities market on which it trades on the date for which it is being determined, or if no sale of Shares occurred on that date, on the next preceding date on which a sale of Shares
+occurred, as reported on www.NYSE.com or such other source as the Committee deems reliable; or </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(2) If the Shares are not then readily
+tradable on an established securities market (as determined under Code Section&nbsp;409A), then Fair Market Value will be determined by the Committee as the result of a reasonable application of a reasonable valuation method that satisfies the
+requirements of Code Section&nbsp;409A. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(q) &#147;Full Value Award&#148; means an Award other than an Option Award, Stock Appreciation
+Rights Award or Cash Incentive Award. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(r) &#147;Grant Date&#148; means the date on which the Committee approves the grant of an Award
+under the Plan, or such later date as may be specified by the Committee on the date the Committee approves the Award. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(s)
+&#147;Group&#148; means two or more persons acting as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of an entity. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(t) &#147;Incentive Stock Option&#148; or &#147;ISO&#148; means any Option designated as
+such and granted in accordance with the requirements of Code Section&nbsp;422. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(u)
+<FONT STYLE="white-space:nowrap">&#147;Non-Employee</FONT> Director&#148; means a member of the Board who is not an Employee. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(v) <FONT
+STYLE="white-space:nowrap">&#147;Non-Statutory</FONT> Stock Option&#148; means an Option other than an Incentive Stock Option. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(w)
+&#147;Option&#148; means a right granted under the Plan to purchase a specified number of Shares at a specified price during a specified period of time. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(x) &#147;Other Stock-Based Award&#148; means an Award described in Section&nbsp;11(b) of this Plan. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(y) &#147;Parent&#148; means a &#147;parent corporation,&#148; as defined in Code Section&nbsp;424(e). </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(z) &#147;Participant&#148; means a person to whom an Award is or has been made in accordance with the Plan. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(aa) &#147;Performance-Based Compensation&#148; means an Award to a person who is, or is determined by the Committee to likely become, a
+&#147;covered employee&#148; (as defined in Code Section&nbsp;162(m)(3)) and that is intended to constitute &#147;performance-based compensation&#148; within the meaning of Code Section&nbsp;162(m)(4)(C). </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(bb) &#147;Plan&#148; means this Fair Isaac Corporation 2012 Long-Term Incentive Plan, as amended and in effect from time to time. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(cc) &#147;Restricted Stock&#148; means Shares issued to a Participant that are subject to such restrictions on transfer, vesting conditions
+and other restrictions or limitations as may be set forth in this Plan and the applicable Agreement. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(dd) &#147;Service&#148; means the
+provision of services by a Participant to the Company or any Affiliate in any Service Provider capacity. A Service Provider&#146;s Service shall be deemed to have terminated either upon an actual cessation of providing services or upon the entity
+for which the Service Provider provides services ceasing to be an Affiliate. Except as otherwise provided in this Plan or any Agreement, Service shall not be deemed terminated in the case of (i)&nbsp;any approved leave of absence;
+(ii)&nbsp;transfers among the Company and any Affiliates in any Service Provider capacity; or (iii)&nbsp;any change in status so long as the individual remains in the service of the Company or any Affiliate in any Service Provider capacity. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(ee) &#147;Service Provider&#148; means an Employee, a <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Director, or any consultant or
+advisor who is a natural person and who provides services (other than in connection with (i)&nbsp;a capital-raising transaction or (ii)&nbsp;promoting or maintaining a market in Company securities) to the Company or any Affiliate. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(ff) &#147;Share&#148; means a share of Stock. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(gg) &#147;Stock&#148; means the common stock, par value $0.01 per share, of the Company. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(hh) &#147;Stock Appreciation Right&#148; or &#147;SAR&#148; means a right granted under the Plan to receive, in cash and/or Shares as
+determined by the Committee, an amount equal to the appreciation in value of a specified number of Shares between the Grant Date of the SAR and its exercise date. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(ii) &#147;Stock Unit&#148; means a right granted under the Plan to receive, in cash and/or Shares as determined by the Committee, the Fair
+Market Value of a Share, subject to such restrictions on transfer, vesting conditions and other restrictions or limitations as may be set forth in this Plan and the applicable Agreement. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(jj) &#147;Subsidiary&#148; means a &#147;subsidiary corporation,&#148; as defined in Code Section&nbsp;424(f), of the Company. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(kk) &#147;Substitute Award&#148; means an Award granted upon the assumption of, or in substitution or exchange for, outstanding awards granted
+by a company or other entity acquired by the Company or any Affiliate or with which the Company or any Affiliate combines. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(ll)
+&#147;Voting Securities&#148; of an entity means the outstanding securities entitled to vote generally in the election of directors (or comparable equity interests) of such entity. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>3. <U>Administration of the Plan</U>. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(a) <U>Administration</U>. The authority to control and manage the operations and administration of the Plan shall be vested in the Committee
+in accordance with this Section&nbsp;3. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(b) <U>Scope of Authority</U>. Subject to the terms of the Plan, the Committee shall have
+the authority, in its discretion, to take such actions as it deems necessary or advisable to administer the Plan, including: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(1)
+determining the Service Providers to whom Awards will be granted, the timing of each such Award, the types of Awards and the number of Shares or amount of cash covered by each Award, the terms, conditions, performance criteria, restrictions and
+other provisions of Awards, and the manner in which Awards are paid or settled; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(2) cancelling or suspending an Award or the
+exercisability of an Award, accelerating the vesting or extending the exercise period of an Award, or otherwise amending the terms and conditions of any outstanding Award, subject to the requirements of Sections 16(d) and 16(e); </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(3) establishing, amending or rescinding rules to administer the Plan, interpreting the Plan and any Award or Agreement made under the Plan,
+and making all other determinations necessary or desirable for the administration of the Plan; and </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(4) taking such actions as are
+described in Section&nbsp;3(c) with respect to Awards to foreign Service Providers. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(c) <U>Awards to Foreign Service Providers</U>. The
+Committee may grant Awards to Service Providers who are foreign nationals, who are located outside of the United States or who are not compensated from a payroll maintained in the United States, or who are otherwise subject to (or could cause the
+Company to be subject to) legal or regulatory requirements of countries outside of the United States, on such terms and conditions different from those specified in the Plan as may, in the judgment of the Committee, be necessary or desirable to
+comply with applicable foreign laws and regulatory requirements and to promote achievement of the purposes of the Plan. In connection therewith, the Committee may establish such subplans and modify exercise procedures and other Plan rules and
+procedures to the extent such actions are deemed necessary or desirable, and may take any other action that it deems advisable to obtain local regulatory approvals or to comply with any necessary local governmental regulatory exemptions. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(d) <U>Acts of the Committee; Delegation</U>. A majority of the members of the Committee shall constitute a quorum for any meeting of the
+Committee, and any act of a majority of the members present at any meeting at which a quorum is present or any act unanimously approved in writing by all members of the Committee shall be the act of the Committee. Any such action of the Committee
+shall be valid and effective even if the members of the Committee at the time of such action are later determined not to have satisfied all of the criteria for membership in clauses (i), (ii)&nbsp;and (iii)&nbsp;of Section&nbsp;2(i). To the extent
+not inconsistent with applicable law or stock exchange rules, the Committee may delegate all or any portion of its authority under the Plan to any one or more of its members or, as to Awards to Participants who are not subject to Section&nbsp;16 of
+the Exchange Act, to one or more executive officers of the Company. The Committee may also delegate <FONT STYLE="white-space:nowrap">non-discretionary</FONT> administrative responsibilities in connection with the Plan to such other persons as it
+deems advisable. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(e) <U>Finality of Decisions</U>. The Committee&#146;s interpretation of the Plan and of any Award or Agreement made
+under the Plan and all related decisions or resolutions of the Board or Committee shall be final and binding on all parties with an interest therein. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(f) <U>Indemnification</U>. Each person who is or has been a member of the Committee or of the Board, and any other person to whom the
+Committee delegates authority under the Plan, shall be indemnified by the Company, to the maximum extent permitted by law, against liabilities and expenses imposed upon or reasonably incurred by such person in connection with or resulting from any
+claims against such person by reason of the performance of the individual&#146;s duties under the Plan. This right to indemnification is conditioned upon such person providing the Company an opportunity, at the Company&#146;s expense, to handle and
+defend the claims before such person undertakes to handle and defend them on such person&#146;s own behalf. The Company will not be required to indemnify any person for any amount paid in settlement of a claim unless the Company has first consented
+in writing to the settlement. The foregoing right of indemnification shall not be exclusive of any other rights of indemnification to which such person or persons may be entitled under the Company&#146;s Certificate of Incorporation or Bylaws, as a
+matter of law, or otherwise. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>4. <U>Shares Available Under the Plan</U>. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(a) <U>Shares Available</U>. Subject to Section&nbsp;4(b) and to adjustment as provided in Section&nbsp;13(a), the number of Shares that may be
+the subject of Awards and issued under the Plan shall be 18,600,000. Shares to be issued under the Plan shall either be authorized and unissued Shares or treasury Shares. In determining the number of Shares to be counted against this share reserve
+in connection with any Award, the following rules shall apply: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(1) Shares that are subject to Awards of Options or Stock Appreciation
+Rights shall be counted against the share reserve as one Share for every one Share granted. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(2) Shares that are subject to Full Value
+Awards shall be counted against the share reserve as 2.17&nbsp;Shares for every one Share granted. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(3) Where the number of Shares subject
+to an Award is variable on the Grant Date, the number of Shares to be counted against the share reserve prior to the settlement of the Award shall be the maximum number of Shares that could be received under that particular Award. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(4) Where two or more types of Awards are granted to a Participant in tandem with each other, such that the exercise of one type of Award with
+respect to a number of Shares cancels at least an equal number of Shares of the other, the number of Shares to be counted against the share reserve shall be the largest number of Shares that would be counted against the share reserve under either of
+the Awards. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(5) Substitute Awards shall not be counted against the share reserve, nor shall they reduce the Shares authorized for grant to
+a Participant in any calendar year. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(b) <U>Effect of Forfeitures and Other Actions</U>. Any Shares subject to an Award that is forfeited,
+expires, is settled for cash or otherwise does not result in the issuance of all or a portion of the Shares subject to such Award shall, to the extent of such forfeiture, expiration, cash settlement or
+<FONT STYLE="white-space:nowrap">non-issuance,</FONT> again become available for Awards under this Plan and correspondingly increase the number of Shares available for grant and issuance under Section&nbsp;4(a) as provided in Section&nbsp;4(c). The
+following Shares shall not, however, again become available for Awards or increase the number of Shares available for grant under Section&nbsp;4(a): (i)&nbsp;Shares tendered by the Participant or withheld by the Company in payment of the purchase
+price of a stock option issued under this Plan, (ii)&nbsp;Shares tendered by the Participant or withheld by the Company to satisfy any tax withholding obligation with respect to an Award, (iii)&nbsp;Shares repurchased by the Company with proceeds
+received from the exercise of an option issued under this Plan, and (iv)&nbsp;Shares subject to a Stock Appreciation Right issued under this Plan that are not issued in connection with the stock settlement of that Stock Appreciation Right upon its
+exercise. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(c) <U>Counting Shares Again Available</U>. Each Share that again becomes available for Awards as provided in Section&nbsp;4(b)
+shall increase the number of Shares available for grant under Section&nbsp;4(a) by (i)&nbsp;one Share if such Share was subject to an Option or Stock Appreciation Right under the Plan, and (ii)&nbsp;2.17 Shares if such Share was subject to a Full
+Value Award under the Plan. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(d) <U>Effect of Plans Operated by Acquired Companies</U>. If a company acquired by the Company or any
+Subsidiary or with which the Company or any Subsidiary combines has shares available under a <FONT STYLE="white-space:nowrap">pre-existing</FONT> plan approved by shareholders and not adopted in contemplation of such acquisition or combination, the
+shares available for grant pursuant to the terms of such <FONT STYLE="white-space:nowrap">pre-existing</FONT> plan (as adjusted, to the extent appropriate, using the exchange ratio or other adjustment or valuation ratio or formula used in such
+acquisition or combination to determine the consideration payable to the holders of common stock of the entities party to such acquisition or combination) may be used for Awards under the Plan and shall not reduce the number of Shares authorized for
+grant under the Plan. Awards using such available shares shall not be made after the date awards or grants could have been made under the terms of the <FONT STYLE="white-space:nowrap">pre-existing</FONT> plan, absent the acquisition or combination,
+and shall only be made to individuals who were not Employees or <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Directors prior to such acquisition or combination. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(e) <U>No Fractional Shares</U>. Unless otherwise determined by the Committee, the number of Shares subject to an Award shall always be a whole
+number. No fractional Shares may be issued under the Plan, and in connection with any calculation under the Plan that would otherwise result in the issuance or withholding of a fractional Share, the number of Shares shall be rounded down to the
+nearest whole Share. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(f) <U>Individual Option and SAR Limit</U>. The aggregate number of Shares subject to Options and/or Stock
+Appreciation Rights granted during any calendar year to any one Participant shall not exceed 1,000,000 Shares. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(g) Limit on Awards to <FONT
+STYLE="white-space:nowrap">Non-Employee</FONT> Directors. The aggregate grant date fair value (as determined in accordance with generally accepted accounting principles applicable in the United States) of all Option, SAR and Full Value Awards
+granted during any calendar year to any <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Director (excluding any such Awards granted at the election of a <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Director in lieu of all or any portion
+of retainers or fees otherwise payable to <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Directors in cash) shall not exceed $800,000. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>5. </B><B><U>Eligibility</U></B><B>.</B> Participation in the Plan is limited to Service Providers.
+Incentive Stock Options may only be granted to Employees. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>6. <U>General Terms of Awards</U>. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(a) <U>Award Agreement</U>. Except for any Award that involves only the immediate issuance of unrestricted Shares, each Award shall be
+evidenced by an Agreement setting forth the terms and conditions applicable to the Award (and not inconsistent with the Plan) as determined by the Committee. An Award to a Participant may be made individually or in combination with any form of
+Award. Two types of Awards may be made in tandem with each other such that the exercise of one type of Award with respect to a number of Shares reduces the number of Shares subject to the related Award by at least an equal amount. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(b) <U>Vesting and Term</U>. Each Agreement shall set forth the period until the applicable Award is scheduled to expire (which shall not be
+more than ten years from the Grant Date) and, consistent with the requirements of this Section&nbsp;6(b), the applicable vesting conditions and any applicable performance period. Awards that vest based solely on the satisfaction by the Participant
+of service-based vesting conditions shall be subject to a vesting period of not less than one year from the applicable Grant Date, and Awards whose grant or vesting is subject to the satisfaction of performance goals over a performance period shall
+be subject to a performance period of not less than one year. The foregoing minimum vesting and performance periods will not, however, apply in connection with: (i)&nbsp;a Change in Control, (ii)&nbsp;a termination of Service due to death or
+Disability, (iii)&nbsp;a Substitute Award that does not reduce the vesting period of the award being replaced, (iv)&nbsp;Awards made to <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Directors who elect to receive such Awards in exchange for
+cash compensation to which they would otherwise be or become entitled, and (v)&nbsp;Awards involving an aggregate number of Shares not in excess of 5% of the Plan&#146;s share reserve specified in Section&nbsp;4(a). For purposes of Awards to <FONT
+STYLE="white-space:nowrap">Non-Employee</FONT> Directors, a vesting period will be deemed to be one year if it runs from the date of one annual meeting of the Company&#146;s stockholders to the next annual meeting of the Company&#146;s stockholders.
+</P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(c) <U>Transferability</U>. Except as provided in this Section&nbsp;6(c), (i)&nbsp;during the lifetime of a Participant, only the
+Participant or the Participant&#146;s guardian or legal representative may exercise an Option or SAR, or receive payment with respect to any other Award; and (ii)&nbsp;no Award may be sold, assigned, transferred, exchanged or encumbered other than
+by will or the laws of descent and distribution. Any attempted transfer in violation of this Section&nbsp;6(c) shall be of no effect. The Committee may, however, provide in an Agreement or otherwise that an Award (other than an Incentive Stock
+Option) may be transferred pursuant to a qualified domestic relations order or may be transferable by gift to any &#147;family member&#148; (as defined in General Instruction A.1(a)(5) to Form <FONT STYLE="white-space:nowrap">S-8</FONT> under the
+Securities Act of 1933) of the Participant. Any Award held by a transferee shall continue to be subject to the same terms and conditions that were applicable to that Award immediately before the transfer thereof. For purposes of any provision of the
+Plan relating to notice to a Participant or to acceleration or termination of an Award upon the termination of Service of a Participant, the references to &#147;Participant&#148; shall mean the original grantee of an Award and not any transferee.
+</P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(d) <U>Designation of Beneficiary</U>. Each Participant may designate a beneficiary or beneficiaries to exercise any Award or receive a
+payment under any Award payable on or after the Participant&#146;s death. Any such designation shall be on a written or electronic form approved by the Company and shall be effective upon its receipt by the Company or an agent selected by the
+Company. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(e) <U>Termination of Service</U>. Unless otherwise provided in an Agreement, and subject to Section&nbsp;13 of this Plan, if a
+Participant&#146;s Service with the Company and all of its Affiliates terminates, the following provisions shall apply (in all cases subject to the originally scheduled expiration of an Option or Stock Appreciation Right, as applicable): </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(1) Upon termination of Service for any reason other than death or Disability, all unvested and unexercisable portions of any outstanding
+Awards shall be immediately forfeited without consideration, and the currently vested and exercisable portions of Options and SARs may be exercised for a period of 90 days after the date of such termination or, in the case of a Participant who is 65
+or more years old or who is 55 or more years old with ten or more years of continuous Service, for a period of one year after the date of such termination. If the Participant breaches any noncompetition, nonsolicitation, confidentiality or other
+agreement with the Company or any Affiliate during such <FONT STYLE="white-space:nowrap">90-day</FONT> or <FONT STYLE="white-space:nowrap">one-year</FONT> period, however, all unexercised portions of any outstanding Awards may be immediately
+forfeited without consideration at the Committee&#146;s discretion. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">6 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(2) Upon termination of Service due to death or Disability, all outstanding Options and SARs
+shall become fully exercisable and shall remain exercisable for a period of one year after the date of such termination, and all outstanding Full Value Awards and Cash Incentive Awards shall fully vest immediately. All performance measures
+applicable to any performance-based Awards will be deemed to have been satisfied at targeted performance. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(f) <U>Rights as
+Shareholder</U>. No Participant shall have any rights as a shareholder with respect to any Shares covered by an Award unless and until the date the Participant becomes the holder of record of the Shares, if any, to which the Award relates. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(g) <U>Performance-Based Awards</U>. Any Award may be granted as a performance-based Award if the Committee establishes one or more measures of
+corporate, Subsidiary, business unit or individual performance which must be attained, and the performance period over which the specified performance is to be attained, as a condition to the vesting, exercisability, lapse of restrictions and/or
+settlement of such Award. In connection with any such Award, the Committee shall determine the extent to which performance measures have been attained and other applicable terms and conditions have been satisfied, and the degree to which vesting,
+exercisability, lapse of restrictions and/or settlement in cash or Shares of such Award has been earned. Any performance-based Award that is intended by the Committee to qualify as Performance-Based Compensation shall additionally be subject to the
+requirements of Section&nbsp;12 of this Plan. Except as provided in Section&nbsp;12 with respect to Performance-Based Compensation, the Committee shall also have the authority to provide, in an Agreement or otherwise, for the modification of a
+performance period and/or an adjustment or waiver of the achievement of performance goals upon the occurrence of certain events, which may include but are not limited to a Change of Control, a recapitalization, a change in the accounting practices
+of the Company, or the Participant&#146;s death or Disability. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(h) <U>Dividends and Dividend Equivalents</U>. No dividends, dividend
+equivalents or distributions will be paid with respect to Shares subject to an Option or SAR. Any dividends or distributions paid with respect to Shares that are subject to the unvested portion of a Restricted Stock Award will be subject to the same
+restrictions as the Shares to which such dividends or distributions relate, except for regular cash dividends on Shares subject to the unvested portion of a Restricted Stock Award that is subject only to service-based vesting conditions. In its
+discretion, the Committee may provide in an Award Agreement for a Stock Unit Award or an Other Stock-Based Award that the Participant will be entitled to receive dividend equivalents on the units or other Share equivalents subject to the Award based
+on dividends actually declared on outstanding Shares. The terms of any dividend equivalents will be as set forth in the applicable Agreement, including the time and form of payment and whether such dividend equivalents will be credited with interest
+or deemed to be reinvested in additional units or Share equivalents. Dividend equivalents paid with respect to units or Share equivalents that are subject to the unvested portion of a Stock Unit Award or an Other Stock-Based Award whose vesting is
+subject to the satisfaction of specified performance objectives will be subject to the same restrictions as the units or Share equivalents to which such dividend equivalents relate. The Committee may, in its discretion, provide in an Agreement for
+restrictions on dividends and dividend equivalents in addition to those specified in this Section&nbsp;6(h). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>7. <U>Stock Option Awards</U>. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(a) <U>Type and Exercise Price</U>. The Agreement pursuant to which an Option is granted shall specify whether the Option is an Incentive Stock
+Option or a <FONT STYLE="white-space:nowrap">Non-Statutory</FONT> Stock Option. The exercise price at which each Share subject to an Option may be purchased shall be determined by the Committee and set forth in the Agreement, and shall not be less
+than the Fair Market Value of a Share on the Grant Date, except in the case of Substitute Awards (to the extent consistent with Code Section&nbsp;409A). </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(b) <U>Payment of Exercise Price</U>. The purchase price of the Shares with respect to which an Option is exercised shall be payable in full at
+the time of exercise. The purchase price may be paid in cash or in such other manner as the Committee may permit, including payment under a broker-assisted sale and remittance program acceptable to the Company or by withholding Shares otherwise
+issuable to the Participant upon exercise of the Option or by delivery to the Company of Shares (by actual delivery or attestation) already owned by the Participant (in each case, such Shares having a Fair Market Value as of the date the Option is
+exercised equal to the purchase price of the Shares being purchased). </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(c) <U>Exercisability and Expiration</U>. Each Option shall be
+exercisable in whole or in part on the terms provided in the Agreement. No Option shall be exercisable at any time after its scheduled expiration. When an Option is no longer exercisable, it shall be deemed to have terminated. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">7 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(d) <U>Incentive Stock Options</U>. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(1) An Option will constitute an Incentive Stock Option only if the Participant receiving the Option is an Employee, and only to the extent
+that (i)&nbsp;it is so designated in the applicable Agreement and (ii)&nbsp;the aggregate Fair Market Value (determined as of the Option&#146;s Grant Date) of the Shares with respect to which Incentive Stock Options held by the Participant first
+become exercisable in any calendar year (under the Plan and all other plans of the Company and its Affiliates) does not exceed $100,000. To the extent an Option granted to a Participant exceeds this limit, the Option shall be treated as a <FONT
+STYLE="white-space:nowrap">Non-Statutory</FONT> Stock Option. The maximum number of Shares that may be issued upon the exercise of Incentive Stock Options shall equal the maximum number of Shares that may be the subject of Awards and issued under
+the Plan as provided in the first sentence of Section&nbsp;4(a). </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(2) No Participant may receive an Incentive Stock Option under the Plan
+if, immediately after the grant of such Award, the Participant would own (after application of the rules contained in Code Section&nbsp;424(d)) Shares possessing more than 10% of the total combined voting power of all classes of stock of the Company
+or an Affiliate, unless (i)&nbsp;the option price for that Incentive Stock Option is at least 110% of the Fair Market Value of the Shares subject to that Incentive Stock Option on the Grant Date and (ii)&nbsp;that Option will expire no later than
+five years after its Grant Date. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(3) For purposes of continued Service by a Participant who has been granted an Incentive Stock Option, no
+approved leave of absence may exceed three months unless reemployment upon expiration of such leave is provided by statute or contract. If reemployment is not so provided, then on the date six months following the first day of such leave, any
+Incentive Stock Option held by the Participant shall cease to be treated as an Incentive Stock Option and shall be treated for tax purposes as a <FONT STYLE="white-space:nowrap">Non-Statutory</FONT> Stock Option. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(4) If an Incentive Stock Option is exercised after the expiration of the exercise periods that apply for purposes of Code Section&nbsp;422,
+such Option shall thereafter be treated as a <FONT STYLE="white-space:nowrap">Non-Statutory</FONT> Stock Option. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(5) The Agreement
+covering an Incentive Stock Option shall contain such other terms and provisions that the Committee determines necessary to qualify the Option as an Incentive Stock Option. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>8. <U>Stock Appreciation Rights</U>. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(a)
+<U>Nature of Award</U>. An Award of Stock Appreciation Rights shall be subject to such terms and conditions as are determined by the Committee, and shall provide a Participant the right to receive upon exercise of the SAR all or a portion of the
+excess of (i)&nbsp;the Fair Market Value as of the date of exercise of the SAR of the number of Shares as to which the SAR is being exercised, over (ii)&nbsp;the aggregate exercise price for such number of Shares. The per Share exercise price for
+any SAR Award shall be determined by the Committee and set forth in the applicable Agreement, and shall not be less than the Fair Market Value of a Share on the Grant Date, except in the case of Substitute Awards (to the extent consistent with Code
+Section&nbsp;409A). </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(b) <U>Exercisability and Expiration</U>. Each SAR may be exercisable in whole or in part at the times, on the terms
+and in the manner provided in the Agreement. No SAR shall be exercisable at any time after its scheduled expiration. When a SAR is no longer exercisable, it shall be deemed to have terminated. Upon exercise of a SAR, payment to the Participant shall
+be made at such time or times as shall be provided in the Agreement in the form of cash, Shares or a combination of cash and Shares as determined by the Committee. The Agreement may provide for a limitation upon the amount or percentage of the total
+appreciation on which payment (whether in cash and/or Shares) may be made in the event of the exercise of a SAR. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>9. <U>Restricted Stock Awards</U>.
+</B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(a) <U>Vesting and Consideration</U>. Shares subject to a Restricted Stock Award shall be subject to vesting conditions, and the
+corresponding lapse of forfeiture conditions and other restrictions, based on such factors and occurring over such period of time as the Committee may determine in its discretion. The Committee may provide whether any consideration other than
+Services must be received by the Company or any Affiliate as a condition precedent to the grant of a Restricted Stock Award, and may correspondingly provide for Company reacquisition or repurchase rights if such additional consideration has been
+required and some or all of a Restricted Stock Award does not vest. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(b) <U>Shares Subject to Restricted Stock Awards</U>. Unvested Shares
+subject to a Restricted Stock Award shall be evidenced by a book-entry in the name of the Participant with the Company&#146;s transfer agent or by one or more stock certificates issued in the name of the Participant. Any such stock certificate shall
+be deposited with the Company or its designee, together with an assignment separate from the certificate, in blank, signed by the Participant, and bear an appropriate legend referring to the restricted nature of the Restricted Stock evidenced
+thereby. Any book-entry shall be subject to transfer restrictions and accompanied by a similar legend. Upon the vesting of Shares of Restricted Stock and the corresponding lapse of the restrictions and forfeiture conditions, the corresponding
+transfer restrictions and </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">8 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+restrictive legend will be removed from the book-entry evidencing such Shares or the certificate evidencing such Shares, and any such certificate shall be delivered to the Participant. Such
+vested Shares may, however, remain subject to additional restrictions as provided in Section&nbsp;18(c). Except as otherwise provided in the Plan or an applicable Agreement, a Participant with a Restricted Stock Award shall have all the rights of a
+shareholder, including the right to vote the Shares of Restricted Stock. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>10. <U>Stock Unit Awards</U>. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(a) <U>Vesting and Consideration</U>. A Stock Unit Award shall be subject to vesting conditions, and the corresponding lapse of forfeiture
+conditions and other restrictions, based on such factors and occurring over such period of time as the Committee may determine in its discretion. The Committee may provide whether any consideration other than Services must be received by the Company
+or any Affiliate as a condition precedent to the settlement of a Stock Unit Award. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(b) <U>Payment of Award</U>. Following the vesting of a
+Stock Unit Award, settlement of the Award and payment to the Participant shall be made at such time or times in the form of cash, Shares (which may themselves be considered Restricted Stock under the Plan subject to restrictions on transfer and
+forfeiture conditions) or a combination of cash and Shares as determined by the Committee. If the Stock Unit Award is not by its terms exempt from the requirements of Code Section&nbsp;409A, then the applicable Agreement shall contain terms and
+conditions intended to avoid adverse tax consequences specified in Code Section&nbsp;409A. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>11. <U>Cash-Based and Other Stock-Based Awards</U>.
+</B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(a) <U>Cash Incentive Awards</U>. A Cash Incentive Award shall be considered a performance-based Award for purposes of, and subject
+to, Section&nbsp;6(g), the payment of which shall be contingent upon the degree to which one or more specified performance goals have been achieved over the specified performance period. Cash Incentive Awards may be granted to any Participant in
+such amounts and upon such terms and at such times as shall be determined by the Committee, and may be denominated in units that have a dollar value established by the Committee as of the Grant Date. Following the completion of the applicable
+performance period and the vesting of a Cash Incentive Award, payment of the settlement amount of the Award to the Participant shall be made at such time or times in the form of cash or other forms of Awards under the Plan (valued for these purposes
+at their grant date fair value) or a combination of cash and other forms of Awards as determined by the Committee and specified in the applicable Agreement. If a Cash Incentive Award is not by its terms exempt from the requirements of Code
+Section&nbsp;409A, then the applicable Agreement shall contain terms and conditions intended to avoid adverse tax consequences specified in Code Section&nbsp;409A. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(b) <U>Other Stock-Based Awards</U>. The Committee may from time to time grant Stock and other Awards that are valued by reference to and/or
+payable in whole or in part in Shares under the Plan. The Committee, in its sole discretion, shall determine the terms and conditions of such Awards, which shall be consistent with the terms and purposes of the Plan. The Committee may, in its sole
+discretion, direct the Company to issue Shares subject to restrictive legends and/or stop transfer instructions that are consistent with the terms and conditions of the Award to which the Shares relate. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>12. <U>Performance-Based Compensation</U>. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(a) <U>Designation of Awards</U>. If the Committee determines at the time a Full Value Award or a Cash Incentive Award is granted to a
+Participant that such Participant is, or is likely to be, a &#147;covered employee&#148; for purposes of Code Section&nbsp;162(m) as of the end of the tax year in which the Company would ordinarily claim a tax deduction in connection with such
+Award, then the Committee may provide that this Section&nbsp;12 will be applicable to such Award, which shall be considered Performance-Based Compensation. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(b) <U>Compliance with Code Section</U><U></U><U>&nbsp;162(m)</U>. If an Award is subject to this Section&nbsp;12, then the lapsing of
+restrictions thereon and the distribution of cash, Shares or other property pursuant thereto, as applicable, shall be subject to the achievement over the applicable performance period of one or more performance goals based on one or more of the
+performance measures specified in Section&nbsp;12(d). The Committee will select the applicable performance measure(s) and specify the performance goal(s) based on those performance measures for any performance period, specify in terms of an
+objective formula or standard the method for calculating the amount payable to a Participant if the performance goal(s) are satisfied, and certify the degree to which applicable performance goals have been satisfied and any amount payable in
+connection with an Award subject to this Section&nbsp;12, all within the time periods prescribed by and consistent with the other requirements of Code Section&nbsp;162(m). In specifying the performance goals applicable to any performance period, the
+Committee may provide that one or more objectively determinable adjustments shall </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">9 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+be made to the performance measures on which the performance goals are based, which may include adjustments that would cause such measures to be considered
+<FONT STYLE="white-space:nowrap">&#147;non-GAAP</FONT> financial measures&#148; within the meaning of Rule 101 under Regulation G promulgated by the Securities and Exchange Commission. The Committee may also adjust performance measures for a
+performance period to the extent permitted by Code Section&nbsp;162(m) in connection with an event described in Section&nbsp;13(a) to prevent the dilution or enlargement of a Participant&#146;s rights with respect to Performance-Based Compensation.
+The Committee may adjust downward, but not upward, any amount determined to be otherwise payable in connection with such an Award. The Committee may also provide, in an Agreement or otherwise, that the achievement of specified performance goals in
+connection with an Award subject to this Section&nbsp;12 may be waived upon the death or Disability of the Participant or under any other circumstance with respect to which the existence of such possible waiver will not cause the Award to fail to
+qualify as &#147;performance-based compensation&#148; under Code Section&nbsp;162(m). </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(c) <U>Limitations</U>. With respect to Awards of
+Performance-Based Compensation, the maximum number of Shares that may be the subject of any Full Value Awards that are denominated in Shares or Share equivalents and that are granted to any one Participant during any calendar year shall not exceed
+1,000,000 Shares (subject to adjustment as provided in Section&nbsp;13(a)). The maximum amount payable with respect to any Cash Incentive Awards and Full Value Awards that are denominated other than in Shares or Share equivalents and that are
+granted to any one Participant during any calendar year shall not exceed $6,000,000 multiplied by the number of full or partial years in the applicable performance period. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(d) <U>Performance Measures</U>. For purposes of any Full Value Award or Cash Incentive Award considered Performance-Based Compensation subject
+to this Section&nbsp;12, the performance measures to be utilized shall be limited to one or a combination of two or more of the following: revenue or net sales; gross profit; operating profit; net income; earnings before income taxes; earnings
+before one or more of interest, taxes, depreciation, amortization and other adjustments; profitability as measured by return ratios (including, but not limited to, return on assets, return on equity, return on investment and return on revenues or
+gross profit) or by the degree to which any of the foregoing earnings measures exceed a percentage of revenues or gross profit; cash flow; market share; margins (including one or more of gross, operating and net earnings margins); stock price; total
+stockholder return; asset quality; <FONT STYLE="white-space:nowrap">non-performing</FONT> assets; operating assets; operating expenses; balance of cash, cash equivalents and marketable securities; improvement in or attainment of expense levels or
+cost savings; operating asset turnover; accounts receivable levels (including measured in terms of days sales outstanding); economic value added; improvement in or attainment of working capital levels; employee retention; customer satisfaction;
+implementation or completion of critical projects; and growth in customer base. Any performance goal based on one or more of the foregoing performance measures may, in the Committee&#146;s discretion, be expressed in absolute amounts, on a per share
+basis (basic or diluted), relative to one or more other performance measures, as a growth rate or change from preceding periods, or as a comparison to the performance of specified companies or a published or special index (including stock market
+indices) or other external measures, and may relate to one or any combination of Company, Affiliate or business unit performance. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>13. <U>Changes in
+Capitalization, Change in Control</U>. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(a) <U>Adjustments for Changes in Capitalization</U>. In the event of any equity restructuring
+(within the meaning of FASB ASC Topic 718 &#151;<I> Stock Compensation</I>) that causes the per share value of Shares to change, such as a stock dividend, stock split, spinoff, rights offering or recapitalization through an extraordinary dividend,
+the Committee shall make appropriate adjustments to (i)&nbsp;the aggregate number and kind of Shares or other securities issued or reserved for issuance under the Plan, (ii)&nbsp;the number and kind of Shares or other securities subject to
+outstanding Awards, (iii)&nbsp;the exercise price of outstanding Options and SARs, and (iv)&nbsp;any maximum limitations prescribed by the Plan with respect to certain types of Awards or the grants to individuals of certain types of Awards. In the
+event of any other change in corporate capitalization, including a merger, consolidation, reorganization, or partial or complete liquidation of the Company, such equitable adjustments described in the foregoing sentence may be made as determined to
+be appropriate and equitable by the Committee to prevent dilution or enlargement of rights of Participants. In either case, any such adjustment shall be conclusive and binding for all purposes of the Plan. No adjustment shall be made pursuant to
+this Section&nbsp;13(a) in connection with the conversion of any convertible securities of the Company, or in a manner that would cause Incentive Stock Options to violate Section&nbsp;422(b) of the Code or cause an Award to be subject to adverse tax
+consequences under Section&nbsp;409A of the Code. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(b) <U>Change in Control Involving Certain Mergers or Acquisitions</U>. Unless otherwise
+provided in an applicable Agreement, the following provisions shall apply to outstanding Awards in the event of a Change in Control as a result of which the Company does not survive as an operating company or survives only as a subsidiary of another
+entity. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">10 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(1) <I><U>Continuation, Assumption or Replacement of Awards</U></I>. In the event of such a
+Change in Control, then the surviving or successor entity (or its Parent) may continue, assume or replace Awards outstanding as of the date of the Change in Control (with such adjustments as may be required or permitted by Sections 13(a) and 6(g)),
+and such Awards or replacements therefor shall remain outstanding and be governed by their respective terms, subject to Section&nbsp;13(b)(3) below. A surviving or successor entity may elect to continue, assume or replace only some Awards or
+portions of Awards. For purposes of this Section&nbsp;13(b)(1), an Award shall be considered assumed or replaced if, in connection with the Change in Control and in a manner consistent with Code Sections 409A and 424, either (i)&nbsp;the contractual
+obligations represented by the Award are expressly assumed by the surviving or successor entity (or its Parent) with appropriate adjustments to the number and type of securities subject to the Award and the exercise price thereof that preserves the
+intrinsic value of the Award existing at the time of the Change in Control, or (ii)&nbsp;the Participant has received a comparable equity-based award that preserves the intrinsic value of the Award existing at the time of the Change in Control and
+provides for a vesting or exercisability schedule that is the same as or more favorable to the Participant. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(2) <I><U>Payment for
+Awards</U></I>. If and to the extent that outstanding Awards under the Plan are not continued, assumed or replaced in connection with such a Change in Control, then such outstanding Awards shall be canceled at or immediately prior to the effective
+time of the Change in Control in exchange for payments in cash to the holders as provided in this Section&nbsp;13(b)(2). The payment for any canceled Award that was denominated in Shares shall be in an amount equal to the difference, if any, between
+(i)&nbsp;the fair market value (as determined in good faith by the Committee) of the consideration that would otherwise be received in the Change in Control for the number of Shares remaining subject to the Award (regardless of whether such Shares
+are vested or exercisable at the time of the Change of Control), and (ii)&nbsp;the aggregate exercise price (if any) for such Shares. If the amount determined pursuant to clause (i)&nbsp;of the preceding sentence is less than or equal to the amount
+determined pursuant to clause (ii)&nbsp;of the preceding sentence with respect to any Award, such Award may be canceled pursuant to this Section&nbsp;13(b)(2) without payment of any kind to the affected Participant. In the case of performance-based
+Awards, the number of Shares remaining subject to an Award or the settlement amount of a Cash Incentive Award shall be calculated by deeming all performance measures to have been satisfied at targeted performance. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(3) <I><U>Termination After Continuation, Assumption or Replacement</U></I>. The Committee may provide in its discretion (in the applicable
+Agreement or otherwise) that if and to the extent that Awards are continued, assumed or replaced under the circumstances described in Section&nbsp;13(b)(1), and if a Participant experiences an involuntary termination of Service for reasons other
+than Cause within a specified amount of time following the Change in Control, then (i)&nbsp;outstanding Options and SARs issued to the Participant that are not yet fully exercisable shall immediately become exercisable in full and shall remain
+exercisable for a period of time to be determined by the Committee (but in no event greater than one year) following the Participant&#146;s termination of Service, and (ii)&nbsp;any Full Value Awards and Cash Incentive Awards that are not yet fully
+vested shall immediately vest in full. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(c) <U>Other Change in Control</U>. In connection with a Change in Control that does not fit the
+circumstances described in Section&nbsp;13(b), the Committee may provide in its discretion (in the applicable Agreement or otherwise) for one or more of the following: (i)&nbsp;that any Award shall become fully vested and exercisable upon the
+occurrence of the Change in Control or upon the involuntary termination of the Participant without Cause within a specified amount of time following the Change in Control, (ii)&nbsp;that any Option or SAR shall remain exercisable during all or some
+specified portion of its remaining term, or (iii)&nbsp;that Awards shall be canceled in exchange for payments in a manner similar to that provided in Section&nbsp;13(b)(2). The Committee will not be required to treat all Awards similarly in such
+circumstances. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(d) <U>Dissolution or Liquidation</U>. Unless otherwise provided in an applicable Agreement, in the event the shareholders
+of the Company approve the complete dissolution or liquidation of the Company, all outstanding Awards shall vest and become fully exercisable, and will terminate immediately prior to the consummation of any such proposed action. The Committee will
+notify each Participant as soon as practicable of such accelerated vesting and exercisability and pending termination. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>14. </B><B><U>Plan
+Participation and Service Provider Status</U></B><B>.</B> Status as a Service Provider shall not be construed as a commitment that any Award will be made under the Plan to that Service Provider or to eligible Service Providers generally. Nothing in
+the Plan or in any Agreement or related documents shall confer upon any Service Provider or Participant any right to continued Service with the Company or any Affiliate, nor shall it interfere with or limit in any way any right of the Company or any
+Affiliate to terminate the person&#146;s Service at any time with or without Cause or change such person&#146;s compensation, other benefits, job responsibilities or title. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">11 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>15. </B><B><U>Tax Withholding</U></B><B>.</B> The Company or any Affiliate, as applicable, shall have the
+right to (i)&nbsp;withhold from any cash payment under the Plan or any other compensation owed to a Participant an amount sufficient to cover any taxes or other amounts required to be withheld with respect to the grant, vesting, exercise or
+settlement of an Award, and (ii)&nbsp;require a Participant or other person receiving Shares under the Plan to pay a cash amount sufficient to cover any taxes or other amounts required to be withheld before actual receipt of those Shares. In lieu of
+all or any part of a cash payment from a person receiving Shares under the Plan, the Committee may permit the individual to cover all or any part of the required withholdings (up to the Participant&#146;s maximum required withholding rate in the
+applicable jurisdiction) through a reduction in the number of Shares delivered or a delivery or tender to the Company of Shares held by the Participant or other person, in each case valued in the same manner as used in computing the withholding
+taxes or amounts under applicable laws. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>16. <U>Effective Date, Duration, Amendment and Termination of the Plan</U>. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(a) <U>Effective Date</U>. The Plan shall become effective on the date it is approved by the Board, subject to approval by the Company&#146;s
+shareholders, and the date of such Board approval shall be considered the date of the Plan&#146;s adoption for purposes of Treasury Regulation <FONT STYLE="white-space:nowrap">&#167;1.422-2(b)(2)(i).</FONT> No Awards shall be made under the Plan
+prior to its effective date. If the Company&#146;s shareholders fail to approve the Plan within 12 months of its approval by the Board, the Plan and any Awards made thereunder shall be of no further force or effect. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(b) <U>Duration of the Plan</U>. The Plan shall remain in effect until all Shares subject to it shall be distributed, the Plan is terminated
+pursuant to Section&nbsp;16(c), or the tenth anniversary of the effective date of the Plan, whichever occurs first (the &#147;Termination Date&#148;). Awards made before the Termination Date shall continue to be outstanding in accordance with their
+terms unless limited in the applicable Agreements. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(c) <U>Amendment and Termination of the Plan</U>. The Board may at any time terminate,
+suspend or amend the Plan. The Company shall submit any amendment of the Plan to its shareholders for approval only to the extent required by applicable laws or regulations or the rules of any securities exchange on which the Shares may then be
+listed. No termination, suspension, or amendment of the Plan may materially impair the rights of any Participant under a previously granted Award without the Participant&#146;s consent, unless such action is necessary to comply with applicable law
+or stock exchange rules. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(d) <U>Amendment of Awards</U>. Subject to Section&nbsp;16(e), the Committee may unilaterally amend the terms of
+any Agreement previously granted, except that no such amendment may materially impair the rights of any Participant under the applicable Award without the Participant&#146;s consent, unless such amendment is necessary to comply with applicable law
+or stock exchange rules or any compensation recovery policy as provided in Section&nbsp;18(i)(2). </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(e) <U>No Option or SAR Repricing</U>.
+Except as provided in Section&nbsp;13(a), no Option or Stock Appreciation Right granted under the Plan may be amended to decrease the exercise price thereof, be cancelled in exchange for the grant of any new Option or Stock Appreciation Right with a
+lower exercise price or any new Full Value Award, be repurchased by the Company or any Affiliate, or otherwise be subject to any action that would be treated under accounting rules or otherwise as a &#147;repricing&#148; of such Option or Stock
+Appreciation Right, unless such action is first approved by the Company&#146;s shareholders. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"><B>17. </B><B><U>Substitute
+Awards</U></B><B>.</B> The Committee may also grant Awards under the Plan in substitution for, or in connection with the assumption of, existing awards granted or issued by another corporation and assumed or otherwise agreed to be provided for by
+the Company pursuant to or by reason of a transaction involving a merger, consolidation, acquisition of property or stock, separation, reorganization or liquidation to which the Company or an Affiliate is a party. The terms and conditions of the
+Substitute Awards may vary from the terms and conditions set forth in the Plan to the extent that the Committee at the time of the grant may deem appropriate to conform, in whole or in part, to the provisions of the awards in substitution for which
+they are granted. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>18. <U>Other Provisions</U>. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(a) <U>Unfunded Plan</U>. The Plan shall be unfunded and the Company shall not be required to segregate any assets that may at any time be
+represented by Awards under the Plan. None of the Company, its Affiliates, the Committee, nor the Board shall be deemed to be a trustee of any amounts to be paid under the Plan nor shall anything contained in the Plan or any action taken pursuant to
+its provisions create or be construed to create a fiduciary relationship between the Company and/or its Affiliates, and a Participant. To the extent any person has or acquires a right to receive a payment in connection with an Award under the Plan,
+this right shall be no greater than the right of an unsecured general creditor of the Company. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">12 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(b) <U>Limits of Liability</U>. Except as may be required by law, neither the Company nor
+any member of the Board or of the Committee, nor any other person participating (including participation pursuant to a delegation of authority under Section&nbsp;3(d) of the Plan) in any determination of any question under the Plan, or in the
+interpretation, administration or application of the Plan, shall have any liability to any party for any action taken, or not taken, in good faith under the Plan. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(c) <U>Compliance with Applicable Legal Requirements</U>. No Shares distributable pursuant to the Plan shall be issued and delivered unless the
+issuance of the Shares complies with all applicable legal requirements, including compliance with the provisions of applicable securities laws, and the requirements of any securities exchanges on which the Company&#146;s Shares may, at the time, be
+listed. During any period in which the offering and issuance of Shares under the Plan are not registered under federal or state securities laws, Participants shall acknowledge that they are acquiring Shares under the Plan for investment purposes and
+not for resale, and that Shares may not be transferred except pursuant to an effective registration statement under, or an exemption from the registration requirements of, such securities laws. Any book-entry or stock certificate evidencing Shares
+issued under the Plan that are subject to such securities law restrictions shall be accompanied by or bear an appropriate restrictive legend. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(d) <U>Other Benefit and Compensation Programs</U>. Payments and other benefits received by a Participant under an Award made pursuant to the
+Plan shall not be deemed a part of a Participant&#146;s regular, recurring compensation for purposes of the termination, indemnity or severance pay laws of any country or state and shall not be included in, nor have any effect on, the determination
+of benefits under any other employee benefit plan, contract or similar arrangement provided by the Company or an Affiliate unless expressly so provided by such other plan, contract or arrangement, or unless the Committee expressly determines that an
+Award or portion of an Award should be included to accurately reflect competitive compensation practices or to recognize that an Award has been made in lieu of a portion of competitive cash compensation. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(e) <U>Governing Law</U>. To the extent that federal laws do not otherwise control, the Plan and all determinations made and actions taken
+pursuant to the Plan shall be governed by the laws of the State of Minnesota without regard to its <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">conflicts-of-law</FONT></FONT> principles and shall be construed accordingly. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(f) <U>Severability</U>. If any provision of the Plan shall be held illegal or invalid for any reason, the illegality or invalidity shall not
+affect the remaining parts of the Plan, and the Plan shall be construed and enforced as if the illegal or invalid provision had not been included. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(g) <U>Code Section</U><U></U><U>&nbsp;409A</U>. It is intended that (i)&nbsp;all Awards of Options, SARs and Restricted Stock under the Plan
+will not provide for the deferral of compensation within the meaning of Code Section&nbsp;409A and thereby be exempt from Code Section&nbsp;409A, and (ii)&nbsp;all other Awards under the Plan will either not provide for the deferral of compensation
+within the meaning of Code Section&nbsp;409A, or will comply with the requirements of Code Section&nbsp;409A, and the Committee shall endeavor to structure Awards and administer and interpret the Plan in accordance with this intent. The Plan and any
+Agreement may be unilaterally amended by the Company in any manner deemed necessary or advisable by the Committee or Board in order to maintain such exemption from or compliance with Code Section&nbsp;409A, and any such amendment shall conclusively
+be presumed to be necessary to comply with applicable law. Notwithstanding anything to the contrary in the Plan or any Agreement, with respect to any Award that constitutes a deferral of compensation subject to Code Section&nbsp;409A: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(1) If any amount is payable under such Award upon a termination of Service, a termination of Service will be deemed to have occurred only at
+such time as the Participant has experienced a &#147;separation from service&#148; as such term is defined for purposes of Code Section&nbsp;409A; and </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(2) If any amount shall be payable with respect to any such Award as a result of a Participant&#146;s &#147;separation from service&#148; at
+such time as the Participant is a &#147;specified employee&#148; within the meaning of Code Section&nbsp;409A, then no payment shall be made, except as permitted under Code Section&nbsp;409A, prior to the first business day after the earlier of
+(i)&nbsp;the date that is six months after the Participant&#146;s separation from Service or (ii)&nbsp;the Participant&#146;s death. Unless the Committee has adopted a specified employee identification policy as contemplated by Code
+Section&nbsp;409A, specified employees will be identified in accordance with the default provisions specified under Code Section&nbsp;409A. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">None of the
+Company, the Committee nor any other person involved with the administration of this Plan shall in any way be responsible for ensuring the exemption of any Award from, or compliance by any Award with, the requirements of Code Section&nbsp;409A. By
+accepting an Award under this Plan, each Participant acknowledges that the Company has no duty or obligation to design or administer the Plan or Awards granted thereunder in a manner that minimizes a Participant&#146;s tax liabilities, including the
+avoidance of any additional tax liabilities under Code Section&nbsp;409A. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">13 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(h) <U>Rule <FONT STYLE="white-space:nowrap">16b-3</FONT></U>. It is intended that the Plan
+and all Awards granted pursuant to it shall be administered by the Committee so as to permit the Plan and Awards to comply with Exchange Act Rule <FONT STYLE="white-space:nowrap">16b-3.</FONT> If any provision of the Plan or of any Award would
+otherwise frustrate or conflict with the intent expressed in this Section&nbsp;18(h), that provision to the extent possible shall be interpreted and deemed amended in the manner determined by the Committee so as to avoid the conflict. To the extent
+of any remaining irreconcilable conflict with this intent, the provision shall be deemed void as applied to Participants subject to Section&nbsp;16 of the Exchange Act to the extent permitted by law and in the manner deemed advisable by the
+Committee. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(i) <U>Forfeiture and Compensation Recovery</U>. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(1) The Committee may specify in an Agreement that the Participant&#146;s rights, payments, and benefits with respect to an Award will be
+subject to reduction, cancellation, forfeiture or recovery by the Company upon the occurrence of certain specified events, in addition to any otherwise applicable vesting or performance conditions of an Award. Such events may include termination of
+Service for Cause, violation of any material Company or Affiliate policy, breach of noncompetition, <FONT STYLE="white-space:nowrap">non-solicitation</FONT> or confidentiality provisions that apply to the Participant, a determination that the
+payment of the Award was based on an incorrect determination that financial or other criteria were met or other conduct by the Participant that is detrimental to the business or reputation of the Company or its Affiliates. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">(2) Awards and any compensation associated therewith may be made subject to forfeiture, recovery by the Company or other action pursuant to any
+compensation recovery policy adopted by the Board or the Committee at any time, including in response to the requirements of Section&nbsp;10D of the Exchange Act and any implementing rules and regulations thereunder, or as otherwise required by law.
+Any Agreement may be unilaterally amended by the Committee to comply with any such compensation recovery policy. </P> <P STYLE="font-size:18pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">14 </P>
+
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-5
+<SEQUENCE>3
+<FILENAME>d887426dex5.htm
+<DESCRIPTION>EX-5
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-5</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>EXHIBIT 5 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g887426g0305083514985.jpg" ALT="LOGO">
+ </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="34%"></TD>
+
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Faegre Drinker Biddle&nbsp;&amp; Reath</B> LLP</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">2200 Wells Fargo Center <BR>90 South Seventh Street <BR>Minneapolis, Minnesota 55402</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">+1 612 766 7000 main</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">+1 612 766 1600 fax</P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">March&nbsp;6, 2020 </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Board of
+Directors </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Fair Isaac Corporation </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">181 Metro Drive, Suite 700
+</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">San Jose, California 95110 </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Ladies and Gentlemen: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We have acted as counsel to Fair Isaac Corporation, a Delaware corporation (the &#147;Company&#148;), in connection with the preparation and
+filing with the Securities and Exchange Commission (the &#147;Commission&#148;) of the Company&#146;s Registration Statement on Form <FONT STYLE="white-space:nowrap">S-8</FONT> (the &#147;Registration Statement&#148;) under the Securities Act of
+1933, as amended (the &#147;Act&#148;), relating to an aggregate offering of up to 1,250,000 additional shares of the Company&#146;s Common Stock, par value $.01 per share (the &#147;Shares&#148;), to be issued by the Company pursuant to the Fair
+Isaac Corporation 2012 Long-Term Incentive Plan, as amended as of March&nbsp;4, 2020 (the &#147;Plan&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">For purposes of this opinion
+letter, we have examined the Plan, the Registration Statement, the Composite Restated Certificate of Incorporation of the Company, as currently in effect, the Bylaws of the Company, as currently in effect, and the resolutions of the Company&#146;s
+board of directors authorizing the issuance of the Shares. We have also examined a certificate of the Assistant Secretary of the Company dated the date hereof (the &#147;Certificate&#148;) and originals, or copies certified or otherwise
+authenticated to our satisfaction, of such corporate records and other records, agreements, instruments, certificates of public officials and documents as we have deemed necessary as a basis for the opinions hereinafter expressed and have reviewed
+such matters of law as we have deemed relevant hereto. As to facts material to this opinion letter, we have relied upon certificates, statements or representations of public officials, of officers and representatives of the Company (including the
+Certificate) and of others, without any independent verification thereof. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">In our examination, we have assumed: (i)&nbsp;the legal
+capacity of all natural persons; (ii)&nbsp;the genuineness of all signatures; (iii)&nbsp;the authenticity of all documents submitted to us as originals; (iv)&nbsp;the conformity to original documents of all documents submitted to us as certified,
+conformed, photostatic or facsimile copies; (v)&nbsp;the authenticity of the originals of such latter documents; (vi)&nbsp;the truth, accuracy and completeness of the information, representations and warranties contained in the records, documents,
+instruments, certificates and records we have reviewed; and (vii)&nbsp;the absence of any undisclosed modifications to the agreements and instruments reviewed by us. We have also assumed that the Company&#146;s board of directors, or a duly
+authorized committee thereof, will have approved the issuance of each award under the Plan prior to the issuance thereof. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Based upon such
+examination and review, and subject to the foregoing and the other qualifications, assumptions and limitations set forth herein, it is our opinion that all necessary corporate action on the part of the Company has been taken to authorize the
+issuance and sale of the Shares to be issued in accordance with the Plan and that, when issued and sold as contemplated in the Registration Statement and in accordance with the Plan and any applicable award agreement and, where applicable, the
+consideration for the Shares specified in the Plan and any applicable award agreement has been received by the Company, the Shares will be legally and validly issued, fully paid and nonassessable. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We are admitted to the practice of law in the State of Minnesota and the foregoing opinions
+are limited to the laws of that state and the Delaware General Corporation Law. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">This opinion speaks only as of the date the Registration
+Statement becomes effective under the Act, and we assume no obligation to revise or supplement this opinion thereafter. This opinion is limited to the specific issues addressed herein, and no opinion may be inferred or implied beyond that expressly
+stated herein. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We hereby consent to the filing of this opinion as an exhibit to the Registration Statement. In giving such consent, we do
+not thereby admit that we are within the category of persons whose consent is required under Section&nbsp;7 of the Act or the rules and regulations of the Commission thereunder. </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="7%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Very truly yours,</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="3"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">FAEGRE DRINKER BIDDLE&nbsp;&amp; REATH LLP</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ W. Morgan Burns</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">W. Morgan Burns</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Partner</TD></TR>
+</TABLE></DIV>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.2
+<SEQUENCE>4
+<FILENAME>d887426dex232.htm
+<DESCRIPTION>EX-23.2
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-23.2</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>EXHIBIT 23.2 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We consent to the incorporation by reference in this Registration Statement on Form S-8 of our report dated November&nbsp;8, 2019, relating to the financial
+statements of Fair Isaac Corporation and the effectiveness of Fair Isaac Corporation&#146;s internal control over financial reporting, appearing in the Annual Report on Form 10-K of Fair Isaac Corporation for the year ended September&nbsp;30, 2019.
+</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">/s/ DELOITTE&nbsp;&amp; TOUCHE LLP</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">San Diego, CA</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">March&nbsp;6, 2020</P></TD></TR>
+</TABLE>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>5
+<FILENAME>d887426dex24.htm
+<DESCRIPTION>EX-24
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-24</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>EXHIBIT 24 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">FAIR ISAAC CORPORATION </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Power of
+Attorney of Director </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">KNOW ALL MEN BY THESE PRESENTS, that the undersigned director of Fair Isaac Corporation, a Delaware corporation,
+does hereby constitute and appoint Mark R. Scadina and Carrie H. Darling, and each or either one of them, the undersigned&#146;s true and lawful <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">attorneys-in-fact,</FONT></FONT> with
+power of substitution, for the undersigned and in the undersigned&#146;s name, place and stead, to sign and affix the undersigned&#146;s name as such director of said Company to a Registration Statement or Registration Statements, on <FONT
+STYLE="white-space:nowrap">Form&nbsp;S-8</FONT> or other applicable form, and all amendments thereto, to be filed by said Company with the Securities and Exchange Commission, Washington, D.C., in connection with the registration under the Securities
+Act of 1933, as amended, of common stock of said Company to be issued pursuant to the Fair Isaac Corporation 2012 Long-Term Incentive Plan and to file the same, with all exhibits thereto and other supporting documents, with said Commission, granting
+unto said <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">attorneys-in-fact,</FONT></FONT> and each of them, full power and authority to do and perform any and all acts necessary or incidental to the performance and execution of
+the powers herein expressly granted. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">IN WITNESS WHEREOF, the undersigned has hereunto set the undersigned&#146;s hand this 4<SUP
+STYLE="font-size:85%; vertical-align:top">th</SUP> day of March, 2020. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Braden R. Kelly</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Braden R. Kelly</TD></TR>
+</TABLE></DIV>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">FAIR ISAAC CORPORATION </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Power of Attorney of Director </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">KNOW ALL MEN BY THESE PRESENTS, that the undersigned director of Fair Isaac Corporation, a Delaware corporation, does hereby constitute and
+appoint Mark R. Scadina and Carrie H. Darling, and each or either one of them, the undersigned&#146;s true and lawful <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">attorneys-in-fact,</FONT></FONT> with power of substitution, for
+the undersigned and in the undersigned&#146;s name, place and stead, to sign and affix the undersigned&#146;s name as such director of said Company to a Registration Statement or Registration Statements, on
+<FONT STYLE="white-space:nowrap">Form&nbsp;S-8</FONT> or other applicable form, and all amendments thereto, to be filed by said Company with the Securities and Exchange Commission, Washington, D.C., in connection with the registration under the
+Securities Act of 1933, as amended, of common stock of said Company to be issued pursuant to the Fair Isaac Corporation 2012 Long-Term Incentive Plan and to file the same, with all exhibits thereto and other supporting documents, with said
+Commission, granting unto said <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">attorneys-in-fact,</FONT></FONT> and each of them, full power and authority to do and perform any and all acts necessary or incidental to the
+performance and execution of the powers herein expressly granted. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">IN WITNESS WHEREOF, the undersigned has hereunto set the
+undersigned&#146;s hand this 4<SUP STYLE="font-size:85%; vertical-align:top">th</SUP> day of March, 2020. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Fabiola R. Arredondo</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Fabiola R. Arredondo</TD></TR>
+</TABLE></DIV>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">FAIR ISAAC CORPORATION </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Power of Attorney of Director </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">KNOW ALL MEN BY THESE PRESENTS, that the undersigned director of Fair Isaac Corporation, a Delaware corporation, does hereby constitute and
+appoint Mark R. Scadina and Carrie H. Darling, and each or either one of them, the undersigned&#146;s true and lawful <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">attorneys-in-fact,</FONT></FONT> with power of substitution, for
+the undersigned and in the undersigned&#146;s name, place and stead, to sign and affix the undersigned&#146;s name as such director of said Company to a Registration Statement or Registration Statements, on
+<FONT STYLE="white-space:nowrap">Form&nbsp;S-8</FONT> or other applicable form, and all amendments thereto, to be filed by said Company with the Securities and Exchange Commission, Washington, D.C., in connection with the registration under the
+Securities Act of 1933, as amended, of common stock of said Company to be issued pursuant to the Fair Isaac Corporation 2012 Long-Term Incentive Plan and to file the same, with all exhibits thereto and other supporting documents, with said
+Commission, granting unto said <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">attorneys-in-fact,</FONT></FONT> and each of them, full power and authority to do and perform any and all acts necessary or incidental to the
+performance and execution of the powers herein expressly granted. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">IN WITNESS WHEREOF, the undersigned has hereunto set the
+undersigned&#146;s hand this 4<SUP STYLE="font-size:85%; vertical-align:top">th</SUP> day of March, 2020. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ A. George Battle</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">A. George Battle</TD></TR>
+</TABLE></DIV>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">FAIR ISAAC CORPORATION </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Power of Attorney of Director </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">KNOW ALL MEN BY THESE PRESENTS, that the undersigned director of Fair Isaac Corporation, a Delaware corporation, does hereby constitute and
+appoint Mark R. Scadina and Carrie H. Darling, and each or either one of them, the undersigned&#146;s true and lawful <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">attorneys-in-fact,</FONT></FONT> with power of substitution, for
+the undersigned and in the undersigned&#146;s name, place and stead, to sign and affix the undersigned&#146;s name as such director of said Company to a Registration Statement or Registration Statements, on
+<FONT STYLE="white-space:nowrap">Form&nbsp;S-8</FONT> or other applicable form, and all amendments thereto, to be filed by said Company with the Securities and Exchange Commission, Washington, D.C., in connection with the registration under the
+Securities Act of 1933, as amended, of common stock of said Company to be issued pursuant to the Fair Isaac Corporation 2012 Long-Term Incentive Plan and to file the same, with all exhibits thereto and other supporting documents, with said
+Commission, granting unto said <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">attorneys-in-fact,</FONT></FONT> and each of them, full power and authority to do and perform any and all acts necessary or incidental to the
+performance and execution of the powers herein expressly granted. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">IN WITNESS WHEREOF, the undersigned has hereunto set the
+undersigned&#146;s hand this 4<SUP STYLE="font-size:85%; vertical-align:top">th</SUP> day of March, 2020. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ James D. Kirsner</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">James D. Kirsner</TD></TR>
+</TABLE></DIV>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">FAIR ISAAC CORPORATION </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Power of Attorney of Director </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">KNOW ALL MEN BY THESE PRESENTS, that the undersigned director of Fair Isaac Corporation, a Delaware corporation, does hereby constitute and
+appoint Mark R. Scadina and Carrie H. Darling, and each or either one of them, the undersigned&#146;s true and lawful <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">attorneys-in-fact,</FONT></FONT> with power of substitution, for
+the undersigned and in the undersigned&#146;s name, place and stead, to sign and affix the undersigned&#146;s name as such director of said Company to a Registration Statement or Registration Statements, on
+<FONT STYLE="white-space:nowrap">Form&nbsp;S-8</FONT> or other applicable form, and all amendments thereto, to be filed by said Company with the Securities and Exchange Commission, Washington, D.C., in connection with the registration under the
+Securities Act of 1933, as amended, of common stock of said Company to be issued pursuant to the Fair Isaac Corporation 2012 Long-Term Incentive Plan and to file the same, with all exhibits thereto and other supporting documents, with said
+Commission, granting unto said <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">attorneys-in-fact,</FONT></FONT> and each of them, full power and authority to do and perform any and all acts necessary or incidental to the
+performance and execution of the powers herein expressly granted. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">IN WITNESS WHEREOF, the undersigned has hereunto set the
+undersigned&#146;s hand this 4<SUP STYLE="font-size:85%; vertical-align:top">th</SUP> day of March, 2020. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="50%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="49%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Eva Manolis</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Eva Manolis</P></TD></TR>
+</TABLE></DIV>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">FAIR ISAAC CORPORATION </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Power of Attorney of Director </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">KNOW ALL MEN BY THESE PRESENTS, that the undersigned director of Fair Isaac Corporation, a Delaware corporation, does hereby constitute and
+appoint Mark R. Scadina and Carrie H. Darling, and each or either one of them, the undersigned&#146;s true and lawful <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">attorneys-in-fact,</FONT></FONT> with power of substitution, for
+the undersigned and in the undersigned&#146;s name, place and stead, to sign and affix the undersigned&#146;s name as such director of said Company to a Registration Statement or Registration Statements, on
+<FONT STYLE="white-space:nowrap">Form&nbsp;S-8</FONT> or other applicable form, and all amendments thereto, to be filed by said Company with the Securities and Exchange Commission, Washington, D.C., in connection with the registration under the
+Securities Act of 1933, as amended, of common stock of said Company to be issued pursuant to the Fair Isaac Corporation 2012 Long-Term Incentive Plan and to file the same, with all exhibits thereto and other supporting documents, with said
+Commission, granting unto said <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">attorneys-in-fact,</FONT></FONT> and each of them, full power and authority to do and perform any and all acts necessary or incidental to the
+performance and execution of the powers herein expressly granted. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">IN WITNESS WHEREOF, the undersigned has hereunto set the
+undersigned&#146;s hand this 4<SUP STYLE="font-size:85%; vertical-align:top">th</SUP> day of March, 2020. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="50%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="49%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Marc F. McMorris</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Marc F. McMorris</P></TD></TR>
+</TABLE></DIV>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">FAIR ISAAC CORPORATION </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Power of Attorney of Director </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">KNOW ALL MEN BY THESE PRESENTS, that the undersigned director of Fair Isaac Corporation, a Delaware corporation, does hereby constitute and
+appoint Mark R. Scadina and Carrie H. Darling, and each or either one of them, the undersigned&#146;s true and lawful <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">attorneys-in-fact,</FONT></FONT> with power of substitution, for
+the undersigned and in the undersigned&#146;s name, place and stead, to sign and affix the undersigned&#146;s name as such director of said Company to a Registration Statement or Registration Statements, on
+<FONT STYLE="white-space:nowrap">Form&nbsp;S-8</FONT> or other applicable form, and all amendments thereto, to be filed by said Company with the Securities and Exchange Commission, Washington, D.C., in connection with the registration under the
+Securities Act of 1933, as amended, of common stock of said Company to be issued pursuant to the Fair Isaac Corporation 2012 Long-Term Incentive Plan and to file the same, with all exhibits thereto and other supporting documents, with said
+Commission, granting unto said <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">attorneys-in-fact,</FONT></FONT> and each of them, full power and authority to do and perform any and all acts necessary or incidental to the
+performance and execution of the powers herein expressly granted. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">IN WITNESS WHEREOF, the undersigned has hereunto set the
+undersigned&#146;s hand this 4<SUP STYLE="font-size:85%; vertical-align:top">th</SUP> day of March, 2020. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="50%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="49%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Joanna Rees</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Joanna Rees</P></TD></TR>
+</TABLE></DIV>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">FAIR ISAAC CORPORATION </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Power of Attorney of Director </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">KNOW ALL MEN BY THESE PRESENTS, that the undersigned director of Fair Isaac Corporation, a Delaware corporation, does hereby constitute and
+appoint Mark R. Scadina and Carrie H. Darling, and each or either one of them, the undersigned&#146;s true and lawful <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">attorneys-in-fact,</FONT></FONT> with power of substitution, for
+the undersigned and in the undersigned&#146;s name, place and stead, to sign and affix the undersigned&#146;s name as such director of said Company to a Registration Statement or Registration Statements, on
+<FONT STYLE="white-space:nowrap">Form&nbsp;S-8</FONT> or other applicable form, and all amendments thereto, to be filed by said Company with the Securities and Exchange Commission, Washington, D.C., in connection with the registration under the
+Securities Act of 1933, as amended, of common stock of said Company to be issued pursuant to the Fair Isaac Corporation 2012 Long-Term Incentive Plan and to file the same, with all exhibits thereto and other supporting documents, with said
+Commission, granting unto said <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">attorneys-in-fact,</FONT></FONT> and each of them, full power and authority to do and perform any and all acts necessary or incidental to the
+performance and execution of the powers herein expressly granted. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">IN WITNESS WHEREOF, the undersigned has hereunto set the
+undersigned&#146;s hand this 4<SUP STYLE="font-size:85%; vertical-align:top">th</SUP> day of March, 2020. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="50%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="49%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ David A. Rey</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">David A. Rey</P></TD></TR>
+</TABLE></DIV>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>g887426g0305083514985.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g887426g0305083514985.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1" !M I@# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#W^BBB@ HH
+MHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB
+M@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH ****
+M"BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH *
+M*** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HH
+MHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB
+M@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH ****
+M"BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH *
+M*** "BBB@ HHHH **** "BBB@ HHI"0.IQ0 M%%% !1110 4444 %%%% !11
+M10 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%%
+M !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444
+M%%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4
+M444 %%%% !1110!7O;ZTTZU:ZO;F*VMTQNEE<*HR<#)->+V\GAKQCXV\177B
+MC78_L=K*L6GQF^\J,ISEEP1GH.GK7L]]I]GJ=H]I?VL-S;OC=%,@93@Y&0?>
+MO+/ GAC0;WQ;XS@NM&L9H;:^5($D@4B)?GX4$<#@4 >@S>(?#N@6EK;W.L6=
+MO&(5$(EN!N9,<'DY(QWK1L-2L=5MA<Z?>074!./,AD#C/U%>36=WX.TCQ-K,
+MB:;J'B6Z>;#O!IPFCM5' C7M@#CCL!6;IVM65KXP\42^&5DLK-]#EN&MC$8O
+M*G0?W#]TCVXYH&>MWOB_PYIMV;6]URP@N%.&C>=0R_49X_&M6*YMY[9;F&>.
+M2!EW+*C@J1ZYZ8KQ+P=J'A>S\*V\=[X+U;4;J=2UQ='2_/$I)/1R>GTK(N9[
+M[3O WBFUM;74=.TF>_A%I%=Q-&PC<MO49[< 'F@#VZ#QAX;N;W['!KNG27!.
+MT1K<*23Z#GDU<77-)=(G34K1EEF,$9$RX>0?P#GD^U8$G@'PN?#'V'^Q;0((
+M.)1$!+G;][?US[YKQI+=;GX9^&[>1FVR:ZR,0<'!&.M 'T!:^(]%O;]["TU6
+MSGNXP2\,4RLP Z\ U5/C3PP+O[*=?TT39V[?M*]?3K7&?$?1-)\+?#Z[ET33
+M;:RF;9 9H8P)"C, PW=3D<=:RX+SP:/#R::? &M.IA"F7^R<NS8^]OSG/O0(
+M]C5@RAE(*D9!'>EKA_A,-0C\#10:C#=1/!.\<27*%7$?!'![<FNXH **** "
+MBBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **
+M** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHH
+MH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@
+M I,C.,C/I6)J_C'P[H-R+;4]7MK><C/E,V6 ]P,D?C7$P:K9W_QQAO;2]BGL
+MCHI82QR!DX9L]* /4JXSP?X>U'2?$GBR\O85C@U&[66V8.&++\W.!TZCK6E<
+M^.O"]G;V\\^N6:QW W1$29+#.,X'.,]ZS-!DTK1;_P 3ZG)XD2ZA>Y62=')"
+MV>2V%ZGKGVZ4 8&@Z?XS\ _;-+L/#]OK6GRW+30SI=K"XW8^]N^@[?C3K'PE
+MXCU/QKJ&K^(;6TM;;4=+>T9;:4-Y6[ "G/+-@9STKKKWQ[X4T^Y%O=:[9I*0
+M#M#[L9Z9QG'XUS/Q;NX;OP-8W-G<)+#)?0E)8GRK#GH10,CT4^/_  AI<>AQ
+M^';76(+?*6UY'>+%\N<C<K<]_;^M0:GX=O)/ VK-XXUY;>XU"X62'+L\-FP.
+M45?8]#CM7I5]J-GI5B]Y?W,5M;Q@;I)6P!7/>*-6\(:AX:\C7-2MET^_0-&2
+M^&8=0R#KP><XH$82K\2WT@Z=-_8D,8B*'4U=F8IC[P7^]CV KCO#'AS4]>^'
+MF@#3H5E^RZRT\I9PN$'!//6NBTCPU%XAT][#3?B5?7FEHNQ[:,+YBQ],%NN,
+M<=,5U6GZ_P"#/"WAZVMK;5K."PA+11YDRS,#\W'4G)Y..] R]XR\.#Q5X8NM
+M*$HADDPT4A&0KJ01GVR*YB+5?B3;Z:FF?\(O9R721B,:@+Y?+.!C<4ZY[UZ!
+M;74%Y:17=O*LD$J!TD'1E(R#6!<^+5GOSIVB6QU"Z!P[AML4?N6I-V,JM:%)
+M>^]RUX2TK4=&\/06NK:C+J%\27FFD<MR>P)YP*VZS;.UU0_O+_4$W'_EE;1!
+M47\6R3^E>/>-OB+XIL_B#+H>@WRB)7CA6/R(W)<@9Y()[TRHR<E>UCW.BHK=
+M95M8EG??,$ =@,;FQR?SJ6@H**** "BBB@ HHHH **** "BBB@ HHHH ****
+M "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH
+M**** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ H
+MHHH **** "BBB@ HHHH **** /,/A9I5AJEMKFL7]I#=7\^J3(TTZ!R%&" ,
+M]!R?\BLZ72+'1_C3?1:?;1V\4VBR3-'&N%#'(.!VZ5JV6B>,O!6I:E%X?L[+
+M5=(O;EKF..:;RI(&;J.>HZ>O3M3;#PGXKG\;S>(M9-D3<:?);^5;N=L!/"IS
+MR?4GU)H&1?![PUHTO@6#4)]-MI[NYDD\R6:,.<*Q4 9Z# [5SMV -&^*@ P!
+M=Q@?]]M7I7PZT&^\->"[32]15%N8GD+!&W#ER1S]#7,W'@?6Y-.\=PK'#OUF
+MX62T_>CD!B3GTX- &_X-\+:$G@;2XSI-G)]HM(Y)FDA5C(S*"221SUKR.]=;
+M+P#K5D&86=EXDVPH3G8HW<#\J][\/64VG>&],L;@*)[>UCBD"G(W*H!P:\PO
+M?AUK]QH.LV8AMVDN];^VQJ9A@Q?-U]^1Q0!'INL6OQ.\>);ZLTEMI5HGGZ?I
+MLJE?MG7]XW8],X]/QJ&"^AC^*/B6ZN_#5]KLENT<-N+>!95MUV],$X&>WXUW
+M7C;P8==TZUN-(9++6=-(>QF3Y0,?P''\/'X?G6#;:'XVT769O$6FV5A-<:E&
+MHU#3Y)\ 2+QO1^F#UP>F2.: ,SR[J]^(NB:MI'A'5=&C4M'?226PC21".,[>
+M/7D^WI4_PC\/:1>6>L:C=Z?;W-T=0DB#S1A]JC!P >G4UO:=I/C'6O$UMJWB
+M"2+3+.S1A%I]I<%O-8]W(X(Z?E5OX=^'-2\-:/J-OJ"1K+/?23QA'W J0,?R
+MH$9?CGQ \4L?AS20(\@)+Y0Q@'H@QTKKO#>A0Z!I,=LB@S, TTG=F_P%<AIO
+M@S61XLCU74%@:/SS,P$F3G.1^M=;?S^(90T6F6-G"QZ3WDQ('OL0<_F*F.]V
+M>7@J=2I5G7K*SV5^B*_C/Q99>$-!EOKEU,[ K;PY^:5^P'MZFO./A3X(O;W5
+MG\9Z_&PEE=I;:-Q@LS')D([#T_.NTL?AW:RZLNL^)+V37-27E/.4+#%[+&.,
+M?7-=J  , 8 JCU HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BB
+MB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH ****
+M "BBB@ HHHH **** "BBB@ I&941G=@JJ,DD\ 4M5M1@:YTRZ@5=S20N@&<9
+M)!% $L,T=Q"LT+!XW&58=Q4E<?<:7K7G!+.-H-B;$D$N1M\O'=LYSVQ[YJ"6
+M.XT^:.2_6X%BY8?9S*$^<*,-G<1Z\%NO(% ';TR26.%-\CJB@@98X')P*XVV
+MTS59+*&X87#AO*W1M,69D$>",%A_%R>1FI/[(U1HA'<P3W+EX6A<S@"%592R
+MMSR>#ZY]: .OWKOV;ANQG;GG'K2>=&9C"'7S0H8IGD ]#^AKE8=#U+-NLK2[
+M"$,Y^T'+$.Q/.>F"/Y4AT;68]0,L+8ME4QA/,^8CS'*'=GHH*G:>OX8(!UU%
+M<E9:1JC- +GSU56C-P/-P)" V6X8D\X],^G%6+JSU*XN+ET@N$N).;:?[0%6
+M ;,8(!/\6>,'.<YH Z6BN5CTF\FNK<>1<6]D"GGQ/<Y+L%?)X8Y&2OU].*MZ
+M'IM]8SQF=I"K6P64O-OS(&//)],<T ;]%%% !1110 4444 %%%% !1110 45
+MR4GC8I*Z?V?G:Q7/G>A_W:;_ ,)P?^@=_P"1O_L:7,CE^NT/YOP9U]%<A_PG
+M!_Z!W_D;_P"QH_X3@_\ 0._\C?\ V-',A?7J'\WX,Z^BN0_X3@_] [_R-_\
+M8T?\)P?^@=_Y&_\ L:.9!]>H?S?@SKZ*Y#_A.#_T#O\ R-_]C1_PG!_Z!W_D
+M;_[&CF0?7J'\WX,Z^BN0_P"$X/\ T#O_ "-_]C1_PG!_Z!W_ )&_^QHYD'UZ
+MA_-^#.OHKD/^$X/_ $#O_(W_ -C1_P )P?\ H'?^1O\ [&CF0?7J'\WX,Z^B
+MN0_X3@_] [_R-_\ 8T?\)P?^@=_Y&_\ L:.9!]>H?S?@SKZ*Y#_A.#_T#O\
+MR-_]C1_PG!_Z!W_D;_[&CF0?7J'\WX,Z^BN0_P"$X/\ T#O_ "-_]C1_PG!_
+MZ!W_ )&_^QHYD'UZA_-^#.OHKD/^$X/_ $#O_(W_ -C1_P )P?\ H'?^1O\
+M[&CF0?7J'\WX,Z^BN0_X3@_] [_R-_\ 8T?\)P?^@=_Y&_\ L:.9!]>H?S?@
+MSKZ*Y#_A.#_T#O\ R-_]C1_PG!_Z!W_D;_[&CF0?7J'\WX,Z^BN0_P"$X/\
+MT#O_ "-_]C1_PG!_Z!W_ )&_^QHYD'UZA_-^#.OHKD/^$X/_ $#O_(W_ -C1
+M_P )P?\ H'?^1O\ [&CF0?7J'\WX,Z^BN0_X3@_] [_R-_\ 8T?\)P?^@=_Y
+M&_\ L:.9!]>H?S?@SKZ*Y#_A.#_T#O\ R-_]C1_PG!_Z!W_D;_[&CF0?7J'\
+MWX,Z^BN0_P"$X/\ T#O_ "-_]C1_PG!_Z!W_ )&_^QHYD'UZA_-^#.OHKD/^
+M$X/_ $#O_(W_ -C1_P )P?\ H'?^1O\ [&CF0?7J'\WX,Z^BN0_X3@_] [_R
+M-_\ 8T?\)P?^@=_Y&_\ L:.9!]>H?S?@SKZ*Y#_A.#_T#O\ R-_]C1_PG!_Z
+M!W_D;_[&CF0?7J'\WX,Z^BN0_P"$X/\ T#O_ "-_]C1_PG!_Z!W_ )&_^QHY
+MD'UZA_-^#.OHKD/^$X/_ $#O_(W_ -C1_P )P?\ H'?^1O\ [&CF0?7J'\WX
+M,Z^BN0_X3@_] [_R-_\ 8T?\)P?^@=_Y&_\ L:.9!]>H?S?@SKZ*Y#_A.#_T
+M#O\ R-_]C1_PG!_Z!W_D;_[&CF0?7J'\WX,Z^BN0_P"$X/\ T#O_ "-_]C1_
+MPG!_Z!W_ )&_^QHYD'UZA_-^#.OHKD/^$X/_ $#O_(W_ -C1_P )P?\ H'?^
+M1O\ [&CF0?7J'\WX,Z^BN0_X3@_] [_R-_\ 8T?\)P?^@=_Y&_\ L:.9!]>H
+M?S?@SKZ*Y#_A.#_T#O\ R-_]C1_PG!_Z!W_D;_[&CF0?7J'\WX,Z^BN0_P"$
+MX/\ T#O_ "-_]C1_PG!_Z!W_ )&_^QHYD'UZA_-^#.OHKD/^$X/_ $#O_(W_
+M -C1_P )P?\ H'?^1O\ [&CF0?7J'\WX,Z^BN0_X3@_] [_R-_\ 8T?\)P?^
+M@=_Y&_\ L:.9!]>H?S?@SKZ*Y#_A.#_T#O\ R-_]C1_PG!_Z!W_D;_[&CF0?
+M7J'\WX,Z^BN0_P"$X/\ T#O_ "-_]C1_PG!_Z!W_ )&_^QHYD'UZA_-^#.OH
+MKD/^$X/_ $#O_(W_ -C1_P )P?\ H'?^1O\ [&CF0?7J'\WX,Z^BN0_X3@_]
+M [_R-_\ 8T?\)P?^@=_Y&_\ L:.9!]>H?S?@SKZ*Y#_A.#_T#O\ R-_]C1_P
+MG!_Z!W_D;_[&CF0?7J'\WX,Z^BN0_P"$X/\ T#O_ "-_]C1_PG!_Z!W_ )&_
+M^QHYD'UZA_-^#.OHKD/^$X/_ $#O_(W_ -C1_P )P?\ H'?^1O\ [&CF0?7J
+M'\WX,Z^BN0_X3@_] [_R-_\ 8T?\)P?^@=_Y&_\ L:.9!]>H?S?@SKZ*Y#_A
+M.#_T#O\ R-_]C1_PG!_Z!W_D;_[&CF0?7J'\WX,Z^BN0_P"$X/\ T#O_ "-_
+M]C1_PG!_Z!W_ )&_^QHYD'UZA_-^#.OHKD/^$X/_ $#O_(W_ -C11S(/KU#^
+%;\&?_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

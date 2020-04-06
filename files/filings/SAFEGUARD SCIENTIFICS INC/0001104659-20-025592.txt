@@ -1,0 +1,1488 @@
+<SEC-DOCUMENT>0001104659-20-025592.txt : 20200227
+<SEC-HEADER>0001104659-20-025592.hdr.sgml : 20200227
+<ACCEPTANCE-DATETIME>20200227060211
+ACCESSION NUMBER:		0001104659-20-025592
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20200227
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20200227
+DATE AS OF CHANGE:		20200227
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SAFEGUARD SCIENTIFICS INC
+		CENTRAL INDEX KEY:			0000086115
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTORS, NEC [6799]
+		IRS NUMBER:				231609753
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05620
+		FILM NUMBER:		20658289
+
+	BUSINESS ADDRESS:	
+		STREET 1:		170 NORTH RADNOR-CHESTER ROAD
+		STREET 2:		SUITE 200
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			19087
+		BUSINESS PHONE:		6102930600
+
+	MAIL ADDRESS:	
+		STREET 1:		170 NORTH RADNOR-CHESTER ROAD
+		STREET 2:		SUITE 200
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			19087
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SAFEGUARD INDUSTRIES INC
+		DATE OF NAME CHANGE:	19810525
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SAFEGUARD CORP
+		DATE OF NAME CHANGE:	19690521
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>tm2011039d1_8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 12pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>UNITED STATES SECURITIES
+AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>Washington, DC 20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>FORM 8-K</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>CURRENT REPORT</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>&nbsp;Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">Date of Report (Date of earliest event reported):
+<B>February 27, 2020</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>Safeguard Scientifics, Inc.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">(Exact Name of registrant as Specified in
+Charter)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 33%; text-align: center"><FONT STYLE="font-size: 10pt"><B>Pennsylvania</B></FONT></TD>
+    <TD STYLE="width: 34%; text-align: center"><FONT STYLE="font-size: 10pt"><B>1-5620</B></FONT></TD>
+    <TD STYLE="width: 33%; text-align: center"><FONT STYLE="font-size: 10pt"><B>23-1609753</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">(State or other Jurisdiction of&nbsp;Incorporation)</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">(Commission File Number)</FONT></TD>
+    <TD STYLE="padding-left: 12.25pt; text-align: center"><FONT STYLE="font-size: 10pt">(IRS Employer ID No.)</FONT></TD></TR>
+</TABLE>
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center; width: 50%">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;<B>One Radnor Corp. Ctr., Suite 110</B></P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>100 Matsonford Rd.</B></P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>Radnor, PA</B></P></TD>
+    <TD STYLE="text-align: center; width: 50%; vertical-align: bottom">
+        <P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><B>&nbsp;</B></P>
+        <P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><B>19087</B></P></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 10pt; text-align: center"><FONT STYLE="font-size: 10pt">(Address of Principal Executive Offices)</FONT></TD>
+    <TD STYLE="font-size: 10pt; text-align: center"><FONT STYLE="font-size: 10pt">(Zip Code)</FONT></TD></TR>
+</TABLE>
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">Registrant&rsquo;s telephone number, including
+area code: <B>610-293-0600</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Not applicable</B></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Former Name or Former Address if Changed
+Since Last Report)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<I>see</I> General Instruction
+A.2. below):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Wingdings">&#168;</FONT></TD><TD STYLE="text-align: justify">Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)</TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Wingdings">&#168;</FONT></TD><TD STYLE="text-align: justify">Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)</TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Wingdings">&#168;</FONT></TD><TD STYLE="text-align: justify">Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))</TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Wingdings">&#168;</FONT></TD><TD STYLE="text-align: justify">Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))</TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities registered pursuant to Section 12(b) of the Act:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 1pt; width: 40%; border: Black 1pt solid"><FONT STYLE="font-size: 10pt">Title of each class</FONT></TD>
+    <TD STYLE="padding: 1pt; width: 20%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">Trading Symbol(s)</FONT></TD>
+    <TD STYLE="padding: 1pt; width: 40%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">Name of each exchange on which registered</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 1pt; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid">Common Stock ($.10 par value)</TD>
+    <TD STYLE="padding: 1pt; border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">SFE</FONT></TD>
+    <TD STYLE="padding: 1pt; border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">New York Stock Exchange</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark whether the registrant is an emerging
+growth company as defined in as defined in Rule 405 of the Securities Act of 1933 (&sect;230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (&sect;240.12b-2 of this chapter).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Emerging growth company
+<FONT STYLE="font-family: Wingdings">&#168;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. <FONT STYLE="font-family: Wingdings">&#168;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 12pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><B>Item 2.02.</B></TD><TD><B>Results of Operations and Financial Condition.</B></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">On February 27, 2020, Safeguard Scientifics, Inc. (the &ldquo;Company&rdquo;)
+issued a press release setting forth the Company&rsquo;s financial information for the three months and year ended December 31,
+2019. A copy of the Company&rsquo;s press release is attached hereto as Exhibit 99.1 and is hereby incorporated by reference.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">This information shall not be deemed &ldquo;filed&rdquo; for
+purposes of Section 18 of the Securities Exchange Act of 1934, as amended (&ldquo;Exchange Act&rdquo;), or incorporated by reference
+in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific
+reference in such a filing.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 0in"></TD>
+    <TD STYLE="width: 1in"><FONT STYLE="font-size: 10pt"><B>ITEM 9.01.</B></FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt"><B>Financial Statements and Exhibits.</B></FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 0in"></TD>
+    <TD STYLE="width: 0.5in; font-size: 10pt"><FONT STYLE="font-size: 10pt">(d)</FONT></TD>
+    <TD STYLE="font-size: 10pt; text-align: justify"><FONT STYLE="font-size: 10pt"><U>Exhibits</U>.</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1.5in; text-indent: -0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 0in"></TD>
+    <TD STYLE="width: 0.5in; font-size: 10pt"><A HREF="tm2011039d1_ex99-1.htm" STYLE="-sec-extract: exhibit"><FONT STYLE="font-size: 10pt">99.1</FONT></A></TD>
+    <TD STYLE="font-size: 10pt; text-align: justify"><A HREF="tm2011039d1_ex99-1.htm" STYLE="-sec-extract: exhibit"><FONT STYLE="font-size: 10pt">Press Release of Safeguard Scientifics, Inc. dated February 27, 2020.</FONT></A></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SIGNATURES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt"><B>Safeguard Scientifics, Inc.</B></FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 3%">&nbsp;</TD>
+    <TD STYLE="width: 37%">&nbsp;</TD>
+    <TD STYLE="width: 10%">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">Date:&nbsp;&nbsp;February 27, 2020</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">By: </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; white-space: nowrap">/s/ Brian J. Sisko</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt">Name:&nbsp;&nbsp;Brian J. Sisko</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 33.6pt; text-indent: -33.9pt">Title: &#9;President
+and Chief Executive Officer</P></TD>
+    <TD>&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 15pt; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 15pt; text-align: center"><B>&nbsp;</B></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B></B></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>tm2011039d1_ex99-1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="text-align: right; margin: 0"><B>Exhibit 99.1</B></P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0; text-align: left"><IMG SRC="image_001.jpg" ALT=""></P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0; text-align: center"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="text-transform: uppercase"><B>Safeguard
+Scientifics Announces fourth Quarter and</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="text-transform: uppercase"><B>full-year
+2019 Financial Results</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B><I>Conference call and webcast today
+at 9:00 a.m. ET</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-size: 10pt"><B>Radnor, PA, February 27, 2020</B></FONT>
+ &mdash; Safeguard Scientifics, Inc. (NYSE:SFE) (&ldquo;Safeguard&rdquo; or the &ldquo;Company&rdquo;) today announced financial
+results for the three months and 12 months ended December 31, 2019.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="text-transform: uppercase"><B>Highlights</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="text-transform: uppercase"><B>&nbsp;&nbsp;</B></FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="text-align: left; width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Symbol; font-size: 10pt">&middot;</FONT></TD><TD STYLE="text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif">Safeguard
+has returned over $187 million to our balance sheet since we began our new strategic direction in 2018 (including over $104 million
+in 2019) and we continue the pursuit of additional exits from our various company interests in an aggressive, but patient and
+rational manner.</FONT></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="text-align: left; width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Symbol; font-size: 10pt">&middot;</FONT></TD><TD STYLE="text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif">During
+2019 the Company fully repaid its outstanding debt and paid a $1.00 per share return of capital dividend.</FONT></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="text-align: left; width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Symbol; font-size: 10pt">&middot;</FONT></TD><TD STYLE="text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif">At
+December 31, 2019, the Company&rsquo;s balance of cash, cash equivalents and restricted cash totaled $25.0 million.</FONT></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="text-align: left; width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Symbol; font-size: 10pt">&middot;</FONT></TD><TD STYLE="text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif">We
+committed to return value to our shareholders whenever we have in excess of a prudent minimum of liquidity. Presently, our Board
+has determined that minimum to be $25 million. When we exceed that level we intend to return value to shareholders in the form
+of either share repurchases and/or dividends.</FONT></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="text-align: left; width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Symbol; font-size: 10pt">&middot;</FONT></TD><TD STYLE="text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif">Safeguard
+continues to prudently manage follow-on deployments to its ownership interests. Follow-on fundings totaled $2.2 million and $16.7
+million for the three months and year ended December 31, 2019, respectively, in line with the expectations we established at the
+beginning of the year.</FONT></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="text-align: left; width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Symbol; font-size: 10pt">&middot;</FONT></TD><TD STYLE="text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif">General
+and administrative expenses continued to decrease, totaling $2.1 million for the three months ended December 31, 2019 as compared
+to $2.6 million for the comparable prior year quarter, and totaling $10.0 million for the year ended December 31, 2019 as compared
+to $16.9 million for 2018.</FONT></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="text-align: left; width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Symbol; font-size: 10pt">&middot;</FONT></TD><TD STYLE="text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif">Corporate
+expenses totaled $1.4 million and $7.1 million for the three months and year ended December 31, 2019, respectively, a substantial
+decline from $1.9 million and $9.9 million for the comparable prior year periods and well below the less than $8 million expectation
+established at the beginning of the year. Corporate expenses are general and administrative expenses excluding depreciation, severance,
+stock based compensation and other non-recurring items.</FONT></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="text-align: left; width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Symbol; font-size: 10pt">&middot;</FONT></TD><TD STYLE="text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif">Our
+Board of Directors is now compensated solely with Safeguard equity and the size of the Board will be reduced to four from six
+directors at the Company&rsquo;s upcoming annual meeting.</FONT></TD>
+</TR></TABLE>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="text-transform: uppercase"><B></B></FONT>&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt">&ldquo;We are pleased with what we accomplished in 2019. The
+most significant milestone we accomplished in 2019 was the $1.00 per share return of capital dividend we paid in December,&rdquo;
+said Brian J. Sisko, Safeguard's President and CEO. &ldquo;Most importantly, we continue to hold a valuable portfolio of ownership
+interests representing $230 million of deployed capital in 15 tech-enabled companies and all other ownership interests. The companies
+continue to mature and we are well-positioned to capitalize on exit opportunities that will create value for our shareholders.
+We remain on course with the timetable we outlined at the outset of our current strategy.&rdquo;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt">For the year ended
+December 31, 2019, the Company&rsquo;s net income was $54.6 million, or $2.64 per share, compared with a net loss of $15.6 million,
+or $0.76 per share, in 2018. For the three months ended December 31, 2019, Safeguard&rsquo;s net loss was $0.7 million, or $0.03
+per share, compared with a net loss of $16.6 million, or $0.81 per share, for the same period in 2018.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; font: 10pt Times New Roman, Times, Serif; width: 100%">
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD STYLE="border-top: rgb(163,163,163) 0.5pt solid; padding-top: 3pt; white-space: nowrap; width: 25%"><P STYLE="margin: 0pt 0; font-size: 8pt"><FONT STYLE="font-size: 9pt"><B>www.safeguard.com</B></FONT></P>
+
+
+
+</TD>
+    <TD STYLE="border-top: rgb(163,163,163) 0.5pt solid; padding-top: 3pt; white-space: nowrap; text-align: center; font-size: 8pt; width: 50%"><FONT STYLE="font-size: 9pt">&copy; 2020 Safeguard
+    Scientifics, Inc. All rights reserved.</FONT></TD>
+    <TD STYLE="border-top: rgb(163,163,163) 0.5pt solid; padding-top: 3pt; white-space: nowrap; font-size: 8pt; text-align: right; width: 25%"><FONT STYLE="font-size: 9pt"><B>1 of 4</B></FONT></TD></TR>
+</TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt"><IMG SRC="image_001.jpg" ALT=""></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>OUTLOOK</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-size: 10pt">&ldquo;Now that all of our debt
+has been repaid, and given our current liquidity position, virtually all proceeds from monetization events will be available for
+return of value to our shareholders&rdquo; said Mark A. Herndon, Safeguard&rsquo;s Senior Vice President and Chief Financial Officer.
+</FONT>&ldquo;We will judiciously make deployments to protect our existing ownership interests as and where appropriate.&rdquo;
+Corporate expenses for the year ended December 31, 2020 are forecasted to continue to decline and are expected to range from $6.4
+to $6.8 million as compared to $7.1 million for the year ended December 31, 2019. Follow-on funding requirements for the full year
+of 2020 are forecasted to be between $5 and $10 million.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>AGGREGATE COMPANY REVENUE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Aggregate annual revenue for 2019 for Safeguard&rsquo;s 15 remaining
+ownership interests, which were formerly referred to as partner companies, was $357 million. Aggregate revenue for the same companies
+was&nbsp;$330 million for 2018, representing revenue growth of 8% for the entire portfolio. Excluding our digital media companies,
+the aggregate year-over-year revenue of Safeguard&rsquo;s remaining portfolio of ownership interests grew at 41%. Note that revenue
+from &ldquo;Other Ownership Interests&rdquo; in the table below are excluded from this total.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>OWNERSHIP INTERESTS AT DECEMBER 31, 2019</B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; border-bottom: Black 1pt solid">Companies</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; border-bottom: Black 1pt solid">Category</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Acquisition Year</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Primary Ownership%</TD><TD STYLE="padding-bottom: 1pt; font: bold 10pt Times New Roman, Times, Serif">&nbsp;</TD><TD STYLE="font: italic 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: italic 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Carrying Value</B></P> <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>(in millions)</I></P></TD><TD STYLE="padding-bottom: 1pt; font: italic 10pt Times New Roman, Times, Serif">&nbsp;</TD><TD STYLE="font: italic 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: italic 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Cost</B></P> <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>(in millions)</I></P></TD><TD STYLE="padding-bottom: 1pt; font: italic 10pt Times New Roman, Times, Serif">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD COLSPAN="3" STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: left">Initial Revenue Stage:&nbsp;&nbsp;Up to $1 million in revenue</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: center">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">None</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: center">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD COLSPAN="3" STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: left">Expansion Stage:&nbsp;&nbsp;$1 million to $5 million in revenue</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: center">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="width: 26%; font: 10pt Times New Roman, Times, Serif; text-align: left; padding-left: 0.125in">Moxe Health Corporation *</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 23%; font: 10pt Times New Roman, Times, Serif">Healthcare</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 10%; font: 10pt Times New Roman, Times, Serif; text-align: center">2016</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="width: 10%; font: 10pt Times New Roman, Times, Serif; text-align: right">29.9</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">%</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="width: 10%; font: 10pt Times New Roman, Times, Serif; text-align: right">5.4</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="width: 10%; font: 10pt Times New Roman, Times, Serif; text-align: right">7.5</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD COLSPAN="3" STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: left">Traction Stage:&nbsp;&nbsp;$5 million to $10 million in revenue</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: center">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-left: 0.125in">InfoBionic, Inc. *</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">Healthcare</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">2014</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">25.2</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">%</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">-</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">22.0</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-left: 0.125in">meQuilibrium *</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">Healthcare</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">2015</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">32.7</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">%</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">3.8</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">13.0</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-left: 0.125in">Trice Medical, Inc.+ *</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">Healthcare</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">2014</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">16.6</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">%</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">2.0</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">10.2</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-left: 0.125in">Zipnosis, Inc.+ *</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">Healthcare</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">2015</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">37.7</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">%</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">3.1</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">10.0</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-left: 0.125in">Sonobi, Inc.</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Digital Media</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">2015</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">21.6</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">%</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">8.0</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">13.4</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-left: 0.125in">QuanticMind, Inc.</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Digital Media</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">2015</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">24.2</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">%</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">5.1</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">13.5</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-left: 0.125in">WebLinc, Inc.</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Digital Media</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">2014</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">38.5</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">%</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">5.9</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">16.1</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-left: 0.125in">Lumesis, Inc.</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Financial Services</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">2012</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">43.5</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">%</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">0.6</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">6.3</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD COLSPAN="3" STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: left">High Traction Stage:&nbsp;&nbsp;$10 million to $15 million in revenue</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: center">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-left: 0.125in">Clutch Holdings, Inc.</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Digital Media</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">2013</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">41.2</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">%</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">5.5</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">16.6</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-left: 0.125in">Prognos Health, Inc.</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">Healthcare</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">2011</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">28.7</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">%</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">4.8</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">12.6</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD COLSPAN="3" STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: left">Greater than $15 million in revenue</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: center">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-left: 0.125in">Aktana, Inc.+ *</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">Healthcare</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">2016</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">17.8</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">%</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">3.5</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">11.7</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-left: 0.125in">Syapse, Inc.*</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">Healthcare</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">2014</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">20.0</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">%</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">1.6</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">20.6</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-left: 0.125in">Flashtalking</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Digital Media</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">2018</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">10.1</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">%</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">11.0</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">19.2</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-left: 0.125in">MediaMath, Inc.</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Digital Media</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">2009</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">13.3</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">%</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">-</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">15.5</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD COLSPAN="3" STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: left">Other Ownership Interests</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: center">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-left: 0.125in">T-REX Group</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Financial Services</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">2016</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">6.0</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">6.0</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-left: 0.125in">Velano Vascular</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">Healthcare</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">2013</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">3.1</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">1.7</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 1pt; padding-left: 0.125in">All others</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">Various</TD><TD STYLE="font-size: 10pt; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: center; padding-bottom: 1pt">&nbsp;</TD><TD STYLE="font-size: 10pt; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1pt; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">7.7</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">14.3</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font-size: 10pt; text-align: right; padding-bottom: 2.5pt">&nbsp;</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: right; padding-bottom: 2.5pt">&nbsp;</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: center; padding-bottom: 2.5pt">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 2.5pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 2.5pt; font: 10pt Times New Roman, Times, Serif; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">TOTAL:</FONT></TD><TD STYLE="padding-bottom: 2.5pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font: 10pt Times New Roman, Times, Serif; text-align: right">77.1</TD><TD STYLE="padding-bottom: 2.5pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font: 10pt Times New Roman, Times, Serif; text-align: right">230.2</TD><TD STYLE="padding-bottom: 2.5pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+</TABLE>
+
+
+
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><SUP>+</SUP> Company progressed into higher revenue stage this
+quarter.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">* Company progressed into higher revenue stage this year.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; font: 10pt Times New Roman, Times, Serif; width: 100%">
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD STYLE="border-top: rgb(163,163,163) 0.5pt solid; padding-top: 3pt; white-space: nowrap; width: 25%"><P STYLE="margin: 0pt 0; font-size: 8pt"><FONT STYLE="font-size: 9pt"><B>www.safeguard.com</B></FONT></P>
+
+
+
+</TD>
+    <TD STYLE="border-top: rgb(163,163,163) 0.5pt solid; padding-top: 3pt; white-space: nowrap; text-align: center; font-size: 8pt; width: 50%"><FONT STYLE="font-size: 9pt">&copy; 2020 Safeguard
+    Scientifics, Inc. All rights reserved.</FONT></TD>
+    <TD STYLE="border-top: rgb(163,163,163) 0.5pt solid; padding-top: 3pt; white-space: nowrap; font-size: 8pt; text-align: right; width: 25%"><FONT STYLE="font-size: 9pt"><B>2 of 4</B></FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B><IMG SRC="image_001.jpg" ALT=""></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt"><B>CONFERENCE CALL AND WEBCAST DETAILS</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt"><I>Please call 10-15 minutes prior to the call to register.</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-left: 0.5in; text-align: left; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-size: 10pt"><B>Date:</B></FONT>
+Thursday, February 27, 2020</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-left: 0.5in; text-align: left; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-left: 0.5in; text-align: left; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-size: 10pt"><B>Time:</B></FONT>
+9:00 am ET</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-left: 0.5in; text-align: left; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-left: 0.5in; text-align: left; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-size: 10pt"><B>Webcast:
+</B></FONT><FONT STYLE="color: Blue"><U>www.safeguard.com/events</U></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-left: 0.5in; text-align: left; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-left: 0.5in; text-align: left; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-size: 10pt"><B>Live Number:</B></FONT>
+833-236-5756 //&nbsp;(International) 647-689-4184</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-left: 0.5in; text-align: left; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-left: 0.5in; text-align: left; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-size: 10pt"><B>Replay Number: </B></FONT>800-585-8367
+// (International) 416-621-4642</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-left: 0.5in; text-align: left; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-left: 0.5in; text-align: left; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-size: 10pt"><B>Access Code:</B></FONT>
+1495918</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-left: 0.5in; text-align: left; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-left: 0.5in; text-align: left; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-size: 10pt"><B>Speakers:</B></FONT>
+President and Chief Executive Officer,&nbsp;Brian J. Sisko; and Senior Vice President and Chief Financial Officer,&nbsp;Mark A.
+Herndon</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-left: 0.5in; text-align: left; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-left: 0.5in; text-align: left; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-size: 10pt"><B>Format:</B></FONT>
+Discussion of fourth quarter and full-year 2019 financial results followed by Q&amp;A</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-size: 10pt">Replay
+will be available through March 27, 2020 at 11:59 pm ET. For more information please contact </FONT><FONT STYLE="color: Blue"><U>IR@safeguard.com</U></FONT>.&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>About Safeguard Scientifics </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-size: 10pt">Historically, Safeguard Scientifics
+(NYSE:SFE) has provided capital and relevant expertise to fuel the growth of technology-driven businesses. Safeguard has a distinguished
+track record of fostering innovation and building market leaders that spans more than six decades. For more information, please
+visit </FONT><FONT STYLE="color: blue"><U>www.safeguard.com</U>.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Forward-looking Statements</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><I>Except for the historical information and discussions contained
+herein, statements contained in this release may constitute &ldquo;forward-looking statements&rdquo; within the meaning of the
+Private Securities Litigation Reform Act of 1995. Our forward-looking statements are subject to risks and uncertainties. Forward-looking
+statements include, but are not limited to, statements regarding Safeguard&rsquo;s initiatives taken or contemplated to enhance
+and unlock value for all of its shareholders, Safeguard&rsquo;s efforts to execute on and implement its strategy to streamline
+its organizational structure, reduce its operating costs, pursue monetization opportunities for ownership interests and maximize
+the return of value to its shareholders, Safeguard&rsquo;s ability to create, unlock, enhance and maximize shareholder value, the
+effect of Safeguard&rsquo;s management succession plan on driving increased organizational effectiveness and efficiencies, the
+ability of the management team to execute Safeguard&rsquo;s strategy, the availability of, the timing of, and the proceeds that
+may ultimately be derived from the monetization of ownership interests, Safeguard&rsquo;s projections regarding the reduction in
+its ongoing operating expenses, Safeguard&rsquo;s projections regarding annualized operating expenses and expected severance expenses,
+monetization opportunities for ownership interests, and the amount of net proceeds from the monetization of ownership interests
+that will enable the return of value to Safeguard shareholders after satisfying working capital needs and the timing of such return
+of value. Such forward-looking statements are not guarantees of future operational or financial performance and are based on current
+expectations that involve a number of uncertainties, risks and assumptions that are difficult to predict. Therefore, actual outcomes
+and/or results may differ materially from those expressed or implied by such forward-looking statements. The risks and uncertainties
+that could cause actual results to differ materially include, among others, our ability to make good decisions about the monetization
+of our ownership interests for maximum value or at all and the return of value to our shareholders, our ability to successfully
+execute on our strategy to streamline our organizational structure and align our cost structure to increase shareholder value,
+whether our strategy will better position us to focus our resources on the highest-return opportunities and deliver enhanced shareholder
+value, the ongoing support of our existing ownership interests, the fact that our ownership interests may vary from period to period,
+challenges to achieving liquidity from our ownership interests, fluctuations in the market prices of any publicly traded holdings,
+if any, competition, our inability to obtain maximum value for our ownership interests, our ability to attract and retain qualified
+employees, market valuations in sectors in which our ownership interests operate, our inability to control our ownership interests,
+our need to manage our assets to avoid registration under the Investment Company Act of 1940, risks, disruption, costs and uncertainty
+caused by or related to the actions of activist shareholders, including that if individuals are elected to our Board with a specific
+agenda, it may adversely affect our ability to effectively implement our business strategy and create value for our shareholders
+and perceived uncertainties as to our future direction as a result of potential changes to the composition of our Board may lead
+to the perception of a change in the direction of our business, instability or a lack of continuity that may adversely affect our
+business, and risks associated with our ownership interests, including the fact that most of our ownership interests have a limited
+operating history and a history of operating losses, face intense competition and may never be profitable, the effect of economic
+conditions in the business sectors in which Safeguard&rsquo;s ownership interests operate, and other uncertainties described in
+our filings with the Securities and Exchange Commission. Many of these factors are beyond the Company&rsquo;s ability to predict
+or control. As a result of these and other factors, the Company&rsquo;s past operational and financial performance should not be
+relied on as an indication of future performance. The Company does not assume any obligation to update any forward-looking statements
+or other information contained in this press release.</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">###</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; font: 10pt Times New Roman, Times, Serif; width: 100%">
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD STYLE="border-top: rgb(163,163,163) 0.5pt solid; padding-top: 3pt; white-space: nowrap; width: 25%"><P STYLE="margin: 0pt 0; font-size: 8pt"><FONT STYLE="font-size: 9pt"><B>www.safeguard.com</B></FONT></P>
+
+
+
+</TD>
+    <TD STYLE="border-top: rgb(163,163,163) 0.5pt solid; padding-top: 3pt; white-space: nowrap; text-align: center; font-size: 8pt; width: 50%"><FONT STYLE="font-size: 9pt">&copy; 2020 Safeguard
+    Scientifics, Inc. All rights reserved.</FONT></TD>
+    <TD STYLE="border-top: rgb(163,163,163) 0.5pt solid; padding-top: 3pt; white-space: nowrap; font-size: 8pt; text-align: right; width: 25%"><FONT STYLE="font-size: 9pt"><B>3 of 4</B></FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B></B></P>
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B><IMG SRC="image_001.jpg" ALT=""></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>SAFEGUARD CONTACT: </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">John E. Shave III, IRC</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Safeguard Investor Relations</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(610) 975-4952</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">jshave@safeguard.com</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; font: 10pt Times New Roman, Times, Serif; width: 100%">
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD STYLE="border-top: rgb(163,163,163) 0.5pt solid; padding-top: 3pt; white-space: nowrap; width: 25%"><P STYLE="margin: 0pt 0; font-size: 8pt"><FONT STYLE="font-size: 9pt"><B>www.safeguard.com</B></FONT></P>
+
+
+
+</TD>
+    <TD STYLE="border-top: rgb(163,163,163) 0.5pt solid; padding-top: 3pt; white-space: nowrap; text-align: center; font-size: 8pt; width: 50%"><FONT STYLE="font-size: 9pt">&copy; 2020 Safeguard
+    Scientifics, Inc. All rights reserved.</FONT></TD>
+    <TD STYLE="border-top: rgb(163,163,163) 0.5pt solid; padding-top: 3pt; white-space: nowrap; font-size: 8pt; text-align: right; width: 25%"><FONT STYLE="font-size: 9pt"><B>4 of 4</B></FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Safeguard Scientifics, Inc.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Condensed Consolidated Balance Sheets</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>(in thousands)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: center; font-size: 10pt">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1pt solid; text-align: center; font: 10pt Times New Roman, Times, Serif">December 31, 2019</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; padding-bottom: 1pt">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1pt solid; text-align: center; font: 10pt Times New Roman, Times, Serif">December 31, 2018</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; padding-bottom: 1pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif">Assets</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="width: 74%; font: 10pt Times New Roman, Times, Serif; text-align: left">Cash, cash equivalents, restricted cash and marketable securities</TD><TD STYLE="width: 1%; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="width: 1%; font-size: 10pt; text-align: left">$</TD><TD STYLE="width: 10%; font-size: 10pt; text-align: right">25,053</TD><TD STYLE="width: 1%; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="width: 1%; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="width: 1%; font-size: 10pt; text-align: left">$</TD><TD STYLE="width: 10%; font-size: 10pt; text-align: right">46,158</TD><TD STYLE="width: 1%; font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 1pt">Other current assets</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">1,297</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">577</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-left: 0.125in">Total current assets</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">26,350</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">46,735</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Ownership interests in and advances</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">77,129</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">95,585</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 1pt">Other assets</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">4,098</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">3,417</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 2.5pt">Total Assets</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">107,577</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">145,737</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: left">Liabilities and Equity</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Other current liabilities</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">$</TD><TD STYLE="font-size: 10pt; text-align: right">2,429</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">5,780</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Credit facility - current</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">&mdash;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">22,100</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 1pt">Credit facility repayment feature</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">&mdash;</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">5,060</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-left: 0.125in">Total current liabilities</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">2,429</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">32,940</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Credit facility - non-current</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">&mdash;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">43,014</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Lease liability - non-current</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">2,380</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">&mdash;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Other long-term liabilities</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">1,027</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">2,804</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 1pt">Total equity</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">101,741</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">66,979</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 2.5pt">Total Liabilities and Equity</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">107,577</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">145,737</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+</TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 5 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>Safeguard Scientifics,
+Inc.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>Condensed Consolidated
+Statements of Operations</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>(in thousands,
+except per share amounts)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>&nbsp;</B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: center; font-size: 10pt">&nbsp;</TD><TD STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="6" STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: center">Three Months Ended<BR> &nbsp;December 31,</TD><TD STYLE="text-align: center; padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD><TD STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="6" STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: center">Twelve Months Ended<BR> &nbsp;December 31,</TD><TD STYLE="text-align: center; padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: center; font-size: 10pt">&nbsp;</TD><TD STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: center">2019</TD><TD STYLE="text-align: center; padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD><TD STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: center">2018</TD><TD STYLE="text-align: center; padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD><TD STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: center">2019</TD><TD STYLE="text-align: center; padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD><TD STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: center">2018</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="width: 48%; font: 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 1pt">Operating expenses</TD><TD STYLE="width: 1%; font-size: 10pt; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 1%; border-bottom: Black 1pt solid; font-size: 10pt; text-align: left">$</TD><TD STYLE="width: 10%; border-bottom: Black 1pt solid; font-size: 10pt; text-align: right">2,060</TD><TD STYLE="width: 1%; padding-bottom: 1pt; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="width: 1%; font-size: 10pt; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 1%; border-bottom: Black 1pt solid; font-size: 10pt; text-align: left">$</TD><TD STYLE="width: 10%; border-bottom: Black 1pt solid; font-size: 10pt; text-align: right">2,618</TD><TD STYLE="width: 1%; padding-bottom: 1pt; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="width: 1%; font-size: 10pt; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 1%; border-bottom: Black 1pt solid; font-size: 10pt; text-align: left">$</TD><TD STYLE="width: 10%; border-bottom: Black 1pt solid; font-size: 10pt; text-align: right">9,982</TD><TD STYLE="width: 1%; padding-bottom: 1pt; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="width: 1%; font-size: 10pt; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 1%; border-bottom: Black 1pt solid; font-size: 10pt; text-align: left">$</TD><TD STYLE="width: 10%; border-bottom: Black 1pt solid; font-size: 10pt; text-align: right">16,871</TD><TD STYLE="width: 1%; padding-bottom: 1pt; font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Operating loss</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">(2,060</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">)</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">(2,618</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">)</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">(9,982</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">)</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">(16,871</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">)</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Other income (loss), net</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">2,245</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">(193</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">)</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">12,255</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">(5,158</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">)</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Interest, net</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">174</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">(6,021</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">)</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">(11,979</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">)</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">(13,261</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">)</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 1pt">Equity income (loss), net</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">(1,057</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">)</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">(7,791</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">)</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">64,267</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">19,661</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Net income (loss) before income taxes</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">(698</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">)</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">(16,623</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">)</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">54,561</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">(15,629</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">)</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 1pt">Income tax benefit (expense)</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">&mdash;</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">&mdash;</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">&mdash;</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">&mdash;</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 2.5pt">Net income (loss)</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">(698</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">)</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">(16,623</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">)</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">54,561</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">(15,629</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">)</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">Net income (loss) per share:</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 2.5pt">Basic</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">(0.03</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">)</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">(0.81</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">)</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">2.64</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">(0.76</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">)</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 2.5pt">Diluted</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">(0.03</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">)</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">(0.81</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">)</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">2.64</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">(0.76</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">)</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">Weighted average shares used in computing income (loss) per share:</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">Basic</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">20,674</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">20,568</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">20,636</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">20,544</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">Diluted</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">20,674</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">20,568</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">20,636</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">20,544</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+</TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 6 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>Safeguard Scientifics,
+Inc.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>Partner Company
+Financial Data</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>(in thousands)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt"><B><U>Additional Financial Information</U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B><U>Non-GAAP Measures</U></B>&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt">In discussing financial results and guidance, the Company refers
+to the measure &quot;corporate costs&quot; which is not in accordance with Generally Accepted Accounting Principles (GAAP). We
+use this non-GAAP financial measure internally to make operating and strategic decisions, including evaluating our overall performance
+and as a factor in determining compensation for certain employees.&nbsp; We have defined corporate expenses as general and administrative
+costs excluding Depreciation, Stock based compensation, severance and retirement costs, and non-recurring items and other. Non-recurring
+items and other in 2019 includes accruals related to the Company's LTIP plan that will not be paid until reaching a specified threshold
+within that plan and dividend payments treated as compensation related to unvested restricted shares pursuant to the terms of those
+arrangements. Non-recurring items and other in 2018 include certain professional fees related to shareholder activist matters.
+We believe presenting this non-GAAP financial measure provides additional information to facilitate comparison of our historical
+operating costs and their trends, and provides additional transparency on how we evaluate our cost structure.&nbsp;We also believe
+presenting this measure allows investors to view our performance using the same measure that we use in evaluating our performance
+and trends.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Corporate expenses reconciliation:</B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="6" STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Three Months Ended<BR> &nbsp;December 31,</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="6" STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Twelve Months Ended<BR> &nbsp;December 31,</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">2019</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">2018</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">2019</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">2018</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="width: 48%; font: 10pt Times New Roman, Times, Serif; text-align: left">Corporate expenses</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="width: 10%; font: 10pt Times New Roman, Times, Serif; text-align: right">1,404</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="width: 1%; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="width: 1%; font-size: 10pt; text-align: left">$</TD><TD STYLE="width: 10%; font-size: 10pt; text-align: right">1,894</TD><TD STYLE="width: 1%; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="width: 10%; font: 10pt Times New Roman, Times, Serif; text-align: right">7,118</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="width: 1%; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="width: 1%; font-size: 10pt; text-align: left">$</TD><TD STYLE="width: 10%; font-size: 10pt; text-align: right">9,854</TD><TD STYLE="width: 1%; font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">Depreciation</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">&mdash;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">485</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">808</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">692</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Stock based compensation</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">303</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">113</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">1,237</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">966</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Severance and retirement costs</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">32</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">126</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">248</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">3,942</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 1pt">Non-recurring items and other</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">321</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">&mdash;</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">571</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">1,417</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 2.5pt">General and administrative costs</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">2,060</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">2,618</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font: 10pt Times New Roman, Times, Serif; text-align: right">9,982</TD><TD STYLE="padding-bottom: 2.5pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">16,871</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+</TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 7; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>image_001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 image_001.jpg
+M_]C_X  02D9)1@ ! 0$ ^@#Z  #_VP!#  $! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0'_
+MVP!# 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0'_P  1"  P /H# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+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
+MY'* $<DG& K.3A6<@!2#DJIVYX9L)U85_.?\4/\ @O?H?P[_ ."K6A?L'KX
+M\)7_ ,#X_B%X0^"?C7XWMXAODU_1?BQXMLK:V,=KIF4T%?"OA[QGK&D>$/$=
+MU?74=]I\]AXCU$)-;642D _HTHJ&>0Q0O)E5*KG+!F4'H"P4[MN2,[<MC. 3
+MQ7\_G_!07_@KI^T]^S#^W1\/OV(?V;OV3?"W[1WCCXD_#/3/'/A:PN?&FM^'
+MO$NK:A/'XXU36-(L[2#2YM'$>C>&_ VJZU-/<:G$\EM;7$BJ-GEJ ?T$T5_,
+M-J7_  7F_:J_9@\2>$!_P4>_X)F_$G]GCX7^,=8M=&@^*O@KQ!J7B_2M)N)L
+M373&RO?#MOIFN7&F:<ESJE]HEOXHTSQ#)8V=V^D:5K$T203_ *Y?MS_MP0_L
+MQ?L$_$+]MOX3:7X5^,FD:!X2^'OCCP/:RZW<Z?X5\:^&?B%XH\):7I6KPZ]I
+MD-_<+I\^A^)QJ]E<VEI<_:VAB1(\2E% /T'HK^5WX;?\%F_^"NOQ7\#>%_BM
+M\._^"/U[X_\ ACXNTU->\.^*?"7CCQ%=VOB+0I+B:V2\T??H[73N[VETZ1?V
+M?,S(T"A2YQ)]D_L6_P#!=WX'?M(?&"#]E_X^_"GXC_L5_M137R:+9?#?XU6D
+MEEH?B'Q)+);0V7@_2=?UBS\*:YI'CC6'>YET3PKXS\(>&Y-<MH8V\-ZGK]P[
+M6R@'[LT5^=W[0G[3G[6_PT\:^,O#_P '_P!CO6OCAH>B6WA>30->TG6[C0;7
+M5F\0^#/%%U>RW%WKEEIUO)-X9\?6OA/3M=TOP_%KPM_!>J:CK<>K2^*H8O!:
+M?H*;F7)VP97/RDNJ$KV)1B&4D<E6 93P0""* /\ /:_X.!_V:_VR]<_X*,>)
+MOB3XH^&/B?Q+\-OC#J/PQ^%7[,'B/PP?^$E\,7T1\.:/H.C_  W6XMTE'@_Q
+MEJ'CFZU_5'T'78M*_MO4_%<L]C?:EH=];W%?U*?\$D?^"27PN_X)U?"_2O$N
+MOZ3HWC#]K'QOHT<WQ/\ B?-;VUZWA--6M+*>^^%?PXG<N-.\$>';NWBM[R^L
+M#;ZCXQU"WN-9U:5;:33=*TWSG_@M'X*_;%^$?PR_X;?_ & ?B5XY\"_%;X3Z
+M:ME\<O 7AG0=$\<^'_BK\(;7[6=/\5:G\./%^@^+?#6K^,?A%JEV^K6FOQ^'
+MKC7['P;J/B"9[QK?0M/%M_&]\3O^"WW_  5)^,FAW>A^(_VP/%NDZ%J4;":#
+MX9^%?AI\+[BXMKBW$14>(?AYX/T3Q%+;WEJR2;5\1WB!9@([KY!'%#2C[RO?
+MS\_N _H!_P""E7[<?[27A[Q[X_T7]M7XYO\ L5_L_>%O$7B+3OA?^Q[^R/\
+M$'3/$_[:'[8&AZ+JDMKHVO>,_BGH%Q)#^SW\*_&\40U ^)-=D\(75SX<EN]&
+MTCP1XCU6WM[_ %3^>+XN?\$]OBI\4_C#X=\2?L+?!_XL_'[X#_M'^%8_C/\
+M!36-%TC4?%.I>%M'U'5IO#OCOX7?$_QA=K#IND^-?@M\1K+7_AUX@OO%.IV,
+MVN:?I&E^,UF_LO7H;?3_ (.\"?#OXL_'_P"(;>&_AIX/\>_&CXI>+-0FO+O2
+M/"ND:QX_\8>(KR7#SZCJ<]F;K5+_ 'BW#WU_>I]E"6\SR7ZN)4D_OU_X(9_L
+M,?M/?\$X/V?/B[J'[7?Q1\'^#_!7C>:R^(L?P6GUG2;[3?@IJ&C:7-:>,/&_
+MC#XF?VG_ ,(K:W.N^'K'P^OB+1]*ENO#6FPZ';:E=Z]<ZE-=*R2Y]7ITT^\#
+M\7_^">7['G[>/_!(6V_;*_;J_:(^%^E?!GPKX0_8@\<Z-X*DUCQ_\*O&2^)?
+MB_J7Q1^#&L_#'P5K>B>!O&OB76=/MM2N=&U71KM[FWM(;?\ X2/[-'>PWK1(
+M_P#8S^QG^U3\,_VU/V<_AQ^T=\)[UI/#'CW2-U]H=S<+/K'@GQ9I4TFF^+O
+MWB(>1:RIK?A77H+S29IY+:&/5K*WL-=L?M&F:K97=Q_#=_P72_X*^:=^W%XK
+MMOV<OV>=1F;]EGX7^*#KNI>*HTEMI?CG\2-%EDT_3?$MK&QMIXOA]H%N]S#X
+M1TZ[=)_%%SJ%SXON; P6GAE]*_>G_@UY^$WC3P'^P#XP\>>)1>VGASXS_'7Q
+M5XI^'>G7/FBWD\+>%]%T#X?77B'3UD8C[+K_ (E\,:X5F10+O^SQ=[YDG25R
+M,G=1Z;?=_P ,!-_P<3?LD?M!?&KX=?LT?M)_L[^#;_XG^)/V//B1KWCKQ'\-
+M=*M7UC5]5\-ZQ)X1UD>)]*\.1;KOQ+'X?U;X?Z7IOB;P_IMGJ.J7OASQ#-?V
+MME<P:'<F/T7]BK_@X;_84_:9&B>#?C%XBN/V6/C5=2V^B:IX4^+(GA^'][XK
+M,LEIJ=CX<^*+PG0-.A.I-<VUMI/C]_!FMB,P646GRRVUQ%%^J'Q7_;._9G^"
+M7QU^$O[.GQ2^+OA+P;\7_CE!J5[\-O!^LWWV2YUBVTV1+6&2^U!XQIFA2>(-
+M42?0_!R:Y<Z>?%6K6&I:3H-Q>ZA:36T7PS_P5M_8'_8E^//[+O[0'Q@^./@+
+MP5X'^(W@+X5^-_%N@_M :?'8>#_&FC:_X<T'4+_0+?7M>LWT^W\<:7K.I1VW
+MAUO"7BN/7H-:358[?2+2'7!IFHV6@'Z_Z7:Z/IFF6-AHEG8:=I-I9Q6VEV>E
+MVD-IIEK81!$M(;**SB2T@LUC>,VZ6ZK#Y67A'EHQ7^6CXBPVO_!3C_@O[X7^
+M%][9Q^)/V:_^"9'@FZ\0^+=/N(?M?AO6OC,NJVK7=G?6MR7LI+V?X@7GAG0_
+M[.F5FN[/X1Z\RK/;M>!+G_!)7]MKQA^SK_P03\=?M)?&N\NM2T?]G;4?BOX9
+M^"4FN&1Y/$&F6^H:1HGPU\%P3S*+NZTZU^*OBBZ\ Z/$7D&DZ5:QZ#;".ST"
+M.&W_ #X_X)7_ +)?_!;C2?@EJ_[3W[('Q%_9U^'^D_M>ZQ<?$CQ/JOQDTG2=
+M:^)?BZ;2=;\2:=::_J+ZS\._%%UI>EZGK%SKWB+1;4:K?Q:E!JZ:VXMFOEBD
+M /NW_@C;K5_^P=_P4F_;I_X)2>,KV>V\%>(?%VL_'C]FF'49O,@NM+CMK;5;
+M>STM8E,"7OB'X)ZCX2N=00N U[\*/$LT2J_G1G](O^#@P9_X)$_M9CC!_P"%
+M%J0<8PW[2/P?7G/&W)RQ/RJH+,0H)'\U_P#P40^'G_!6C]C;X[_LO?\ !4#]
+MLO7_ (%?$'Q-\(?B%X*^'&E>)/@O!9:///HME=^)?%D/@_QOIVG^"O"MHUEX
+MKT>]\>^'K/65CO)T@N8]&>2-KVRB/]#?_!<7X@>%_BM_P1-^/GQ.\$:E'K'@
+MSXA>%/V;_&?A?4XM@74/#OBCX\_!G4]/D9HY':"6>POT$JPR)/;2>9%YJ2QD
+MT >$_P#!-[_@L1_P36^"G["/[*WPG^*/[5OA#PI\1/ 'P<\*^&_&7AJ\\,?$
+MJ\O-$UZQMG%[IUU<Z;X+OK"::!G :2UN[B"0$/%-(C*Q_8?P7^T_\ _VMOV9
+MOB3\7/V=?B+IGQ-^'<OAWXD^&!XIT;3M=TJ Z_H/AJ[;5]-%OXBTK1=22ZL!
+M>0>8[68BW2%8Y69) GYT_P#!,#]@+]B/XE?\$]OV0?'?Q _9._9\\9>-?%/P
+M0\(ZOXE\4^(_A7X2UC7==U:[MY9+K4=4U34-.N+V]N[AR6DFN9Y9",)OV*JK
+M^H\?P7^$WP#^ OQ'\$_!+X;>"_A;X.B\*>/M<3PEX$\/Z=X8\.MK&H>'+O[=
+MJ#:5I4%O8_;+XVT N[DP&2;RHS(6*B@#^+'_ ((3_P#!8?\ 8V_X)Y?LK^.O
+MA1^T3J7Q&MO&'BSXMW/CO2X_!/@1_$VE'0;OP3X/T>-Y=0.MV#I>?VCI5^DM
+MN\"D*B3J7BN(VK^F_P#8=_X+*_L5_P#!0OXQ:]\#OV<]0^)E_P".O#OPYUOX
+MKZM#XR\#+X7T=/".A^)/"?A7594U'^U]1WWR:QX\T"./3S;">[@GN+F.1XK"
+MXDB_++_@U=\!^"/%'["/Q7O?$O@[PSXEF@_:%O[6SO\ Q#X:TO6KJ.UC^&GP
+M\D^S17FHZ?+,8%GEFN!$@2*)[ERB 2 M_3WH_@/P;X4O;C5?"_@KPKH.IO:R
+MV(N]$\-:+HUW+83R0S-IYO\ 3M-M;A+.>ZLK2:XADFNHT>UM;N>'9#&% /Y,
+M?"7AC2?^"BW_  <B_&>V^,=O;^+_ (3?L)^$[^S\!_#_ %N-=1T*;5_APGA#
+M1K1;G29(XXI;8?%SQOKGQ#N49GCU+4?#^C6%ZEUIT(M9?ZN?BU\9/A7\!_A_
+MJWQ,^-/Q \,?#+P%H;Z;;:WXS\9ZK;:+H6EW.L7T.F:6E[J5QY=O UYJ=U!9
+MVAX1[J5(8CN(%?R;_&7QK%_P2._X+\ZU^TC\6+6[T3]E/]NKPEJ,%]\0ULIY
+M='\,W/B*V\*+XLO+[RHKBX>?P1\5O#>C>)?&-I"!>V'@#QN?$-O:7CV::;+_
+M %/>/_AM\"OVL?A"W@_X@>&O!'QP^"GCZ#0M;;3)KBR\6^!?$UMINH6FM>']
+M4L[_ $R]FT_58(M4L;74;.^TR[DA\V&.:>62,*S 'Q8?V\?^"1WQ%^,/PZ^(
+M+_M,_LA>+?CEX;%Q\/OAAXPD\6>#M4\>Z1%\1-1TRRN?"WA?57W:A:'Q/JMK
+M8VZV,$K,9YI(H#&+V=9?S#_X.MV8_L%_!]SE6/[2&DY^\",_#;XA$@;L,%W
+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
+C]4** &1[M@WC#98'H,X8@, ,@!QAP#\RA@&^8&GT44 ?_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

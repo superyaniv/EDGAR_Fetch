@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0000086115-20-000007.txt : 20200123
+<SEC-HEADER>0000086115-20-000007.hdr.sgml : 20200123
+<ACCEPTANCE-DATETIME>20200123142842
+ACCESSION NUMBER:		0000086115-20-000007
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200122
+FILED AS OF DATE:		20200123
+DATE AS OF CHANGE:		20200123
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Glass Russell D
+		CENTRAL INDEX KEY:			0001328013
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05620
+		FILM NUMBER:		20541547
+
+	MAIL ADDRESS:	
+		STREET 1:		170 N. RADNOR-CHESTER ROAD, SUITE 200
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			19087
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SAFEGUARD SCIENTIFICS INC
+		CENTRAL INDEX KEY:			0000086115
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTORS, NEC [6799]
+		IRS NUMBER:				231609753
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		170 NORTH RADNOR-CHESTER ROAD
+		STREET 2:		SUITE 200
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			19087
+		BUSINESS PHONE:		6102930600
+
+	MAIL ADDRESS:	
+		STREET 1:		170 NORTH RADNOR-CHESTER ROAD
+		STREET 2:		SUITE 200
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			19087
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SAFEGUARD INDUSTRIES INC
+		DATE OF NAME CHANGE:	19810525
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SAFEGUARD CORP
+		DATE OF NAME CHANGE:	19690521
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_157980770476240.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-01-22</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000086115</issuerCik>
+        <issuerName>SAFEGUARD SCIENTIFICS INC</issuerName>
+        <issuerTradingSymbol>SFE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001328013</rptOwnerCik>
+            <rptOwnerName>Glass Russell D</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1 RADNOR CORPORATE CTR., SUITE 110</rptOwnerStreet1>
+            <rptOwnerStreet2>100 MATSONFORD ROAD</rptOwnerStreet2>
+            <rptOwnerCity>RADNOR</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19087</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-01-22</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1148</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.91</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>14709</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The securities reported in Table I were awarded to the reporting person in lieu of quarterly fees for service on the Issuer's Board of Directors, which fees are paid in arrears following the end of the quarter.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>By: G. Matthew Barnard, Agent For: Russell D. Glass</signatureName>
+        <signatureDate>2020-01-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

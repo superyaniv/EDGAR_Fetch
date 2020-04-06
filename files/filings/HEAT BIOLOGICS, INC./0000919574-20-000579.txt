@@ -1,0 +1,1610 @@
+<SEC-DOCUMENT>0000919574-20-000579.txt : 20200127
+<SEC-HEADER>0000919574-20-000579.hdr.sgml : 20200127
+<ACCEPTANCE-DATETIME>20200127170902
+ACCESSION NUMBER:		0000919574-20-000579
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20200127
+DATE AS OF CHANGE:		20200127
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HEAT BIOLOGICS, INC.
+		CENTRAL INDEX KEY:			0001476963
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				262844103
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-87552
+		FILM NUMBER:		20550540
+
+	BUSINESS ADDRESS:	
+		STREET 1:		801 CAPITOLA DRIVE
+		CITY:			DURHAM
+		STATE:			NC
+		ZIP:			27713
+		BUSINESS PHONE:		919-240-7133
+
+	MAIL ADDRESS:	
+		STREET 1:		801 CAPITOLA DRIVE
+		CITY:			DURHAM
+		STATE:			NC
+		ZIP:			27713
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ARMISTICE CAPITAL, LLC
+		CENTRAL INDEX KEY:			0001601086
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		510 MADISON AVENUE, 7TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(212) 231-4932
+
+	MAIL ADDRESS:	
+		STREET 1:		510 MADISON AVENUE, 7TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>d8453975.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<P STYLE="font: bold 11pt Times New Roman, Times, Serif; margin: 0.25in 0 0; text-transform: uppercase; text-align: center">UNITED
+STATES</P>
+
+<P STYLE="font: bold 11pt Times New Roman, Times, Serif; margin: 0; text-transform: uppercase; text-align: center">SECURITIES AND
+EXCHANGE COMMISSION</P>
+
+<P STYLE="font: bold 11pt Times New Roman, Times, Serif; margin: 0; text-transform: uppercase; text-align: center">WASHINGTON,
+DC 20549</P>
+
+<P STYLE="font: 11pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: bold 11pt Times New Roman, Times, Serif; margin: 0; text-transform: uppercase; text-align: center">SCHEDULE 13G</P>
+
+<P STYLE="font: 11pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center">Under the Securities Exchange Act of 1934</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center">(Amendment No. )*</P>
+
+<P STYLE="font: 11pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 100%; border-bottom: Black 1pt solid; font: 10pt Courier New, Courier, Monospace; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 11pt">Heat Biologics, Inc.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font: 12pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt">(Name of Issuer)</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 11pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 100%; border-bottom: Black 1pt solid; font: 12pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt">Common Stock, $0.0002 par value</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font: 12pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt">(Title of Class of Securities)</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 11pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 100%; border-bottom: Black 1pt solid; font: 12pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt">42237K300</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font: 12pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt">(CUSIP Number)</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 11pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 100%; border-bottom: Black 1pt solid; font: 12pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt">January 16, 2020</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font: 12pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt">(Date of Event Which Requires Filing of this Statement)</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 11pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in">Check the appropriate box to designate
+the rule pursuant to which this Schedule is filed:</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 1in">[_] Rule 13d-1(b)</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 1in">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 1in">[X] Rule 13d-1(c)</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 1in">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 1in">[_] Rule 13d-1(d)</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 1in">&nbsp;</P>
+
+<P STYLE="font: 11pt Courier New, Courier, Monospace; margin: 0">__________</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify">* The remainder of this cover page shall
+be filled out for a reporting person's initial filing on this form with respect to the subject class of securities, and for any
+subsequent amendment containing information which would alter the disclosures provided in a prior cover page.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify; text-indent: 0in">The information required
+in the remainder of this cover page shall not be deemed to be &quot;filed&quot; for the purpose of Section 18 of the Securities
+Exchange Act of 1934 (&quot;Act&quot;) or otherwise subject to the liabilities of that section of the Act but shall be subject
+to all other provisions of the Act (however, see the Notes).</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0in">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 12pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 11pt"><BR STYLE="clear: both">
+</FONT><FONT STYLE="font-size: 11pt">CUSIP No</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">42237K300</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">1. </FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">NAME OF REPORTING PERSONS</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Armistice Capital, LLC</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">2.</FONT></TD>
+    <TD COLSPAN="4" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (SEE INSTRUCTIONS)</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(a)&nbsp;&nbsp;[_]</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(b)&nbsp;&nbsp;[_]</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">3.</FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">SEC USE ONLY</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">4.</FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">CITIZENSHIP OR PLACE OF ORGANIZATION</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Delaware</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="5" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">5.</FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">SOLE VOTING POWER</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">0</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">6.</FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">SHARED VOTING POWER</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">2,901,635</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">7.</FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">SOLE DISPOSITIVE POWER</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">0</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">8.</FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">SHARED DISPOSITIVE POWER</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">2,901,635</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">9.</FONT></TD>
+    <TD COLSPAN="4" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">2,901,635</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">10. </FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES (SEE INSTRUCTIONS)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">[_]</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">11.</FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">4.99%</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">12.</FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">IA, OO</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="width: 8%">&nbsp;</TD>
+    <TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="width: 26%">&nbsp;</TD>
+    <TD STYLE="width: 51%">&nbsp;</TD>
+    <TD STYLE="width: 10%">&nbsp;</TD></TR>
+</TABLE>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 12pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR>
+    <TD COLSPAN="2" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 11pt"><BR STYLE="clear: both">
+</FONT><FONT STYLE="font-size: 11pt">CUSIP No</FONT></TD>
+    <TD STYLE="vertical-align: top; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">42237K300</FONT></TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">1. </FONT></TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">NAME OF REPORTING PERSONS</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Armistice Capital Master Fund Ltd.</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">2.</FONT></TD>
+    <TD COLSPAN="4" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (SEE INSTRUCTIONS)</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(a)&nbsp;&nbsp;[_]</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(b)&nbsp;&nbsp;[_]</FONT></TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">3.</FONT></TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">SEC USE ONLY</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">4.</FONT></TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">CITIZENSHIP OR PLACE OF ORGANIZATION</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Cayman Islands</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="5" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH</FONT></TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">5.</FONT></TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">SOLE VOTING POWER</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">0</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">6.</FONT></TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">SHARED VOTING POWER</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">2,901,635</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">7.</FONT></TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">SOLE DISPOSITIVE POWER</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">0</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">8.</FONT></TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">SHARED DISPOSITIVE POWER</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">2,901,635</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">9.</FONT></TD>
+    <TD COLSPAN="4" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON</FONT></TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">2,901,635</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">10. </FONT></TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES (SEE INSTRUCTIONS)</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_]</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">11.</FONT></TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">4.99%</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">12.</FONT></TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">CO</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="width: 8%">&nbsp;</TD>
+    <TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="width: 26%">&nbsp;</TD>
+    <TD STYLE="width: 51%">&nbsp;</TD>
+    <TD STYLE="width: 10%">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 11pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 12pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">CUSIP No</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">42237K300</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">1. </FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">NAME OF REPORTING PERSONS</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Steven Boyd</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">2.</FONT></TD>
+    <TD COLSPAN="4" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (SEE INSTRUCTIONS)</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(a)&nbsp;&nbsp;[_]</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(b)&nbsp;&nbsp;[_]</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">3.</FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">SEC USE ONLY</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">4.</FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">CITIZENSHIP OR PLACE OF ORGANIZATION</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">United States of America</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="5" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">5.</FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">SOLE VOTING POWER</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">0</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">6.</FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">SHARED VOTING POWER</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">2,901,635</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">7.</FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">SOLE DISPOSITIVE POWER</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">0</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">8.</FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">SHARED DISPOSITIVE POWER</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">2,901,635</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">9.</FONT></TD>
+    <TD COLSPAN="4" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">2,901,635</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">10. </FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES (SEE INSTRUCTIONS)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">[_]</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">11.</FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">4.99%</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">12.</FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">IN, HC</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="width: 8%">&nbsp;</TD>
+    <TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="width: 26%">&nbsp;</TD>
+    <TD STYLE="width: 51%">&nbsp;</TD>
+    <TD STYLE="width: 10%">&nbsp;</TD></TR>
+</TABLE>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 12pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 15%; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 11pt"><BR STYLE="clear: both">
+</FONT><FONT STYLE="font-size: 11pt">CUSIP No</FONT></TD>
+    <TD STYLE="width: 24%; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">42237K300</FONT></TD>
+    <TD STYLE="width: 51%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 10%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 12pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 10%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 7%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 73%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 10%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Item 1.</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(a).</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Name of Issuer:</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Heat Biologics, Inc.</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 11pt">(b).</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Address of Issuer's Principal Executive Offices:</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">801 Capitola Drive</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Durham, North Carolina 27713</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">United States of America</P></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Item 2.</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(a).</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Name of Person Filing:</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Armistice Capital, LLC</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Armistice Capital Master Fund Ltd.</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Steven Boyd</P></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(b).</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Address of Principal Business Office, or if None, Residence:</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Armistice Capital, LLC</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">510 Madison Avenue, 7th Floor</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">New York, New York 10022</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">United States of America</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Armistice Capital Master Fund Ltd.</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">c/o dms Corporate Services Ltd.</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">20 Genesis Close</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">P.O. Box 314</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Grand Cayman KY1-1104</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Cayman Islands</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Steven Boyd</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">c/o Armistice Capital, LLC</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">510 Madison Avenue, 7th Floor</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">New York, New York 10022</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">United States of America</P></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(c)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Citizenship:</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Armistice Capital, LLC &ndash; Delaware</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Armistice Capital Master Fund Ltd. &ndash; Cayman Islands</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Steven Boyd &ndash; United States of America</P></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(d).&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Title of Class of Securities:</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Common Stock, $0.0002 par value</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(e).</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">CUSIP Number:</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">42237K300</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+</TABLE>
+
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 5 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 15%; padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 11pt"><BR STYLE="clear: both">
+</FONT><FONT STYLE="font-size: 11pt">Item 3.</FONT></TD>
+    <TD STYLE="width: 85%; padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif; text-align: justify"><FONT STYLE="font-size: 11pt">If This Statement is filed pursuant to ss.240.13d-1(b) or 240.13d-2(b), or (c), check whether the person filing is a</FONT></TD></TR>
+</TABLE>
+
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 12pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 8%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 6%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 5%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 81%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(a)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">[_]</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 11pt">Broker or dealer registered under Section 15 of the Exchange Act (15 U.S.C. 78c).</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(b)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">[_]</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 11pt">Bank as defined in Section 3(a)(6) of the Exchange Act (15 U.S.C. 78c).</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(c)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">[_]</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 11pt">Insurance company as defined in Section 3(a)(19) of the Exchange Act (15 U.S.C. 78c).</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(d)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">[_]</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 11pt">Investment company registered under Section 8 of the Investment Company Act of 1940 (15 U.S.C. 80a-8).</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(e)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">[_]</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 11pt">An investment adviser in accordance with <FONT STYLE="font-family: (default font),serif">&sect;</FONT> 240.13d-1(b)(1)(ii)(E);</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(f)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">[_]</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 11pt">An employee benefit plan or endowment fund in accordance with <FONT STYLE="font-family: (default font),serif">&sect;</FONT> 240.13d-1(b)(1)(ii)(F);</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(g)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">[_]</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 11pt">A parent holding company or control person in accordance with Rule 13d-1(b)(1)(ii)(G);</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(h)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">[_]</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 11pt">A savings association as defined in Section 3(b) of the Federal Deposit Insurance Act (12 U.S.C.1813);</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(i)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">[_]</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 11pt">A church plan that is excluded from the definition of an investment company under Section 3(c)(14) of the Investment Company Act of 1940 (15 U.S.C. 80a-3);</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(j)&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">[_]</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 11pt">Group, in accordance with s.240.13d-1(b)(1)(ii)(J).</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 12pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="6" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Item 4.</FONT></TD>
+    <TD COLSPAN="5" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Ownership.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="6" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-indent: 0in">&nbsp;</TD>
+    <TD COLSPAN="5" STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify; text-indent: 0in"><FONT STYLE="font-size: 11pt">Provide the following information regarding the aggregate number and percentage of the class of securities of the issuer identified in Item 1.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-indent: 0in">&nbsp;</TD>
+    <TD COLSPAN="5" STYLE="padding-left: 5.4pt; text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(a)&nbsp;&nbsp;</FONT></TD>
+    <TD COLSPAN="4" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Amount beneficially owned:</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="4" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="4" STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Armistice Capital, LLC &#8211; 2,901,635</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Armistice Capital Master Fund Ltd. &#8211; 2,901,635</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Steven Boyd &#8211; 2,901,635</P></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="4" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(b)&nbsp;&nbsp;</FONT></TD>
+    <TD COLSPAN="4" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Percent of class:</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="4" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="4" STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Armistice Capital, LLC &#8211; 4.99%</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Armistice Capital Master Fund Ltd. &#8211; 4.99%</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Steven Boyd &#8211; 4.99%</P></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="4" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(c)&nbsp;&nbsp;</FONT></TD>
+    <TD COLSPAN="4" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Number of shares as to which the person has:</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="4" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 9%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 5%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 5%; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(i)</FONT></TD>
+    <TD STYLE="width: 59%; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Sole power to vote or to direct the vote</FONT></TD>
+    <TD STYLE="width: 2%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">&nbsp;</TD>
+    <TD STYLE="width: 20%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+</TABLE>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 12pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Armistice Capital, LLC &#8211; 0</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Armistice Capital Master Fund Ltd. &#8211; 0</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Steven Boyd &#8211; 0</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P></TD>
+    <TD COLSPAN="2" STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 9%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 5%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 5%; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(ii)&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="width: 59%; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Shared power to vote or to direct the vote</FONT></TD>
+    <TD STYLE="width: 19%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">&nbsp;</TD>
+    <TD STYLE="width: 3%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Armistice Capital, LLC &#8211; 2,901,635</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Armistice Capital Master Fund Ltd. &#8211; 2,901,635</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Steven Boyd &#8211; 2,901,635</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P></TD>
+    <TD COLSPAN="2" STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(iii) </FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Sole power to dispose or to direct the disposition of</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Armistice Capital, LLC &#8211; 0</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Armistice Capital Master Fund Ltd. &#8211; 0</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Steven Boyd &#8211; 0</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P></TD>
+    <TD COLSPAN="2" STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">(iv)&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Shared power to dispose or to direct the disposition of</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Armistice Capital, LLC &#8211; 2,901,635</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Armistice Capital Master Fund Ltd. &#8211; 2,901,635</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Steven Boyd &#8211; 2,901,635</P></TD>
+    <TD COLSPAN="2" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 6 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 12pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 9%; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Item 5.</FONT></TD>
+    <TD STYLE="width: 91%; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Ownership of Five Percent or Less of a Class.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 11pt">If this statement is being filed to report the fact that as of the date hereof the reporting person has ceased to be the beneficial owner of more than five percent of the class of securities, check the following [X].</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-top: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 12pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 9%; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Item 6.</FONT></TD>
+    <TD STYLE="width: 91%; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Ownership of More Than Five Percent on Behalf of Another Person.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 11pt">If any other person is known to have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, such securities, a statement to that effect should be included in response to this item and, if such interest relates to more than five percent of the class, such person should be identified.&nbsp;&nbsp;A listing of the shareholders of an investment company registered under the Investment Company Act of 1940 or the beneficiaries of employee benefit plan, pension fund or endowment fund is not required.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">N/A</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 40.5pt; text-indent: -40.5pt"><FONT STYLE="font-size: 11pt">Item 7.</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Identification and Classification of the Subsidiary Which Acquired the Security Being Reported on by the Parent Holding Company.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 40.5pt; text-indent: -40.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 40.5pt; text-indent: -40.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 11pt">If a parent holding company has filed this schedule, pursuant to Rule 13d-1(b)(1)(ii)(G), so indicate under Item 3(g) and attach an exhibit stating the identity and the Item 3 classification of the relevant subsidiary.&nbsp;&nbsp;If a parent holding company has filed this schedule pursuant to Rule 13d-1(c) or Rule 13d-1(d), attach an exhibit stating the identification of the relevant subsidiary.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 40.5pt; text-indent: -40.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 40.5pt; text-indent: -40.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">N/A</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<!-- Field: Page; Sequence: 7 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 12pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; width: 12%">Item 8.</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; width: 88%">Identification and Classification of Members of the Group.</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 40.3pt; text-indent: -40.3pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-indent: -0.45pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 40.3pt; text-indent: -40.3pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify; text-indent: -0.45pt"><FONT STYLE="font-size: 11pt">If a group has filed this schedule pursuant to <FONT STYLE="font-family: (default font),serif">&sect;</FONT>240.13d-1(b)(1)(ii)(J), so indicate under Item 3(j) and attach an exhibit stating the identity and Item 3 classification of each member of the group.&nbsp;&nbsp;If a group has filed this schedule pursuant to &sect;240.13d-1(c) or &sect;240.13d-1(d), attach an exhibit stating the identity of each member of the group.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 12pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 9%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 91%; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">N/A</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 40.3pt; text-indent: -40.3pt"><FONT STYLE="font-size: 11pt">Item 9.</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-indent: -0.45pt"><FONT STYLE="font-size: 11pt">Notice of Dissolution of Group.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 40.3pt; text-indent: -40.3pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-indent: -0.45pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 40.3pt; text-indent: -40.3pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify; text-indent: -0.45pt"><FONT STYLE="font-size: 11pt">Notice of dissolution of a group may be furnished as an exhibit stating the date of the dissolution and that all further filings with respect to transactions in the security reported on will be filed, if required, by members of the group, in their individual capacity.&nbsp;&nbsp;See Item 5.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 12pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">N/A</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Item 10.</FONT></TD>
+    <TD COLSPAN="2" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Certification.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 12%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 1%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 87%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 11pt">By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &sect; 240.14a-11.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 8 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center">SIGNATURE</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify; text-indent: 0.5in">After reasonable
+inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete
+and correct.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 12pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 50%; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt">January 27, 2020</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt">(Date)</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 12pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Armistice Capital, LLC*</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">By:&nbsp;&nbsp;<U>/s/ Steven Boyd</U></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Steven Boyd</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Managing Member</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Armistice Capital Master Fund Ltd.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">By:&nbsp;&nbsp;<U>/s/ Steven Boyd</U></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Steven Boyd</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Director</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt"><U>/s/ Steven Boyd*</U></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Steven Boyd</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify">* This Reporting Person disclaims beneficial
+ownership in the Common Stock, except to the extent of his or its pecuniary interest therein.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify">The original statement shall be signed
+by each person on whose behalf the statement is filed or his authorized representative. If the statement is signed on behalf of
+a person by his authorized representative other than an executive officer or general partner of the filing person, evidence of
+the representative's authority to sign on behalf of such person shall be filed with the statement, provided, however, that a power
+of attorney for this purpose which is already on file with the Commission may be incorporated by reference. The name and any title
+of each person who signs the statement shall be typed or printed beneath his signature.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify">Note. Schedules filed in paper format
+shall include a signed original and five copies of the schedule, including all exhibits. See s.240.13d-7 for other parties for
+whom copies are to be sent.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify">Attention. Intentional misstatements
+or omissions of fact constitute Federal criminal violations (see 18 U.S.C. 1001).</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 9 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 12pt">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: right"><U>Exhibit A</U></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center"><U>AGREEMENT</U></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify; text-indent: 0.5in">The undersigned
+agree that this Schedule 13G dated January 27, 2020 relating to the Common Stock, $0.0002 par value, of Heat Biologics, Inc. shall
+be filed on behalf of the undersigned.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 12pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Armistice Capital, LLC</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">By:&nbsp;&nbsp;<U>/s/ Steven Boyd</U></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Steven Boyd</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Managing Member</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+        <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Armistice Capital Master Fund Ltd.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">By:&nbsp;&nbsp;<U>/s/ Steven Boyd</U></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Steven Boyd</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Director</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt"><U>/s/ Steven Boyd</U></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">Steven Boyd</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt/10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt/10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt/10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt/10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt/10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

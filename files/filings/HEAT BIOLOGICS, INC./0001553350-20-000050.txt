@@ -1,0 +1,107 @@
+<SEC-DOCUMENT>0001553350-20-000050.txt : 20200214
+<SEC-HEADER>0001553350-20-000050.hdr.sgml : 20200214
+<ACCEPTANCE-DATETIME>20200114180503
+<PRIVATE-TO-PUBLIC>
+ACCESSION NUMBER:		0001553350-20-000050
+CONFORMED SUBMISSION TYPE:	CORRESP
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20200114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HEAT BIOLOGICS, INC.
+		CENTRAL INDEX KEY:			0001476963
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				262844103
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		CORRESP
+
+	BUSINESS ADDRESS:	
+		STREET 1:		627 DAVIS DRIVE
+		STREET 2:		SUITE 400
+		CITY:			MORRISVILLE
+		STATE:			NC
+		ZIP:			27560
+		BUSINESS PHONE:		919-240-7133
+
+	MAIL ADDRESS:	
+		STREET 1:		627 DAVIS DRIVE
+		STREET 2:		SUITE 400
+		CITY:			MORRISVILLE
+		STATE:			NC
+		ZIP:			27560
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>CORRESP
+<SEQUENCE>1
+<FILENAME>filename1.htm
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Acceleration Request</TITLE>
+<META NAME="author" CONTENT="Zachary Hirsch">
+<META NAME="date" CONTENT="01/10/2020">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; color:#000000">
+<P style="margin:0px; font-size:12pt">&nbsp;</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; font-size:12pt" align=center><B>A.G.P./Alliance Global Partners</B></P>
+<P style="margin:0px; font-size:12pt" align=center><B>590 Madison Avenue</B></P>
+<P style="margin:0px; font-size:12pt" align=center><B>New York, New York 10022</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px; font-size:12pt" align=right>January 14, 2020</P>
+<P style="margin:0px" align=right><BR></P>
+<P style="margin:0px; font-size:12pt"><B><U>VIA EDGAR</U></B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; font-size:12pt">U.S. Securities and Exchange Commission</P>
+<P style="margin:0px; font-size:12pt">Division of Corporation Finance<BR>
+100 F Street, N.E.<BR>
+Washington, D.C. 20549</P>
+<P style="margin:0px"><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:96px; width:144px; font-size:12pt; float:left"><B>RE:</B></P>
+<P style="margin:0px; text-indent:-2px; font-size:12pt"><B>Heat Biologics, Inc. (the &#147;Company&#148;)</B></P>
+<P style="margin:0px; text-indent:144px; font-size:12pt; clear:left"><B>File No. 333-234105</B></P>
+<P style="margin:0px; text-indent:144px; font-size:12pt"><B>Registration Statement on Form S-1</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; font-size:12pt">Ladies and Gentlemen:</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:12pt" align=justify>Pursuant to Rule 461 of the General Rules and Regulations of the U.S. Securities and Exchange Commission under the Securities Act of 1933, as amended, A.G.P./Alliance Global Partners, as representative of the underwriters, hereby joins the request of the Company that the effective date of the above-referenced Registration Statement be accelerated so that it will become effective at <B>5:00 p.m. Eastern Time on Wednesday, January 15, 2020</B>, or as soon thereafter as practicable.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:12pt" align=justify>Pursuant to Rule 460 under the Securities Act, please be advised that there will be distributed to each underwriter, who is reasonably anticipated to be invited to participate in the distribution of the securities, as many copies of the proposed form of preliminary prospectus as appears to be reasonable to secure adequate distribution of the preliminary prospectus.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px; font-size:12pt" align=justify>The undersigned confirms that it has complied with and will continue to comply with, and it has been informed or will be informed by participating dealers that they have complied with or will comply with, Rule 15c2-8 promulgated under the Securities Exchange Act of 1934, as amended, in connection with the above-referenced issue.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=312 /><TD width=56.067 /><TD width=255.933 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=312><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=312 colspan=2><P style="margin:0px; font-size:12pt">Very truly yours,</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=312><P style="margin:0px; padding:0px; font-size:12pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=56.067><P style="margin:0px; padding:0px; font-size:12pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=255.933><P style="margin:0px; padding:0px; font-size:12pt">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=312><P style="margin:0px; padding:0px; font-size:12pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=312 colspan=2><P style="margin:0px; font-size:12pt">A.G.P./Alliance Global Partners</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=312><P style="margin:0px; padding:0px; font-size:12pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=56.067><P style="margin:0px; padding:0px; font-size:12pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=255.933><P style="margin:0px; padding:0px; font-size:12pt">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=312><P style="margin:0px; padding:0px; font-size:12pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=56.067><P style="margin:0px; padding:0px; font-size:12pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=255.933><P style="margin:0px; padding:0px; font-size:12pt">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=312><P style="margin:0px; padding:0px; font-size:12pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=56.067><P style="margin:0px; font-size:12pt">By: </P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=255.933><P style="margin:0px; font-size:12pt">/s/ Thomas Higgins</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=312><P style="margin:0px; padding:0px; font-size:12pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=56.067><P style="margin:0px; padding:0px; font-size:12pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=255.933><P style="margin:0px; padding:0px; font-size:12pt">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=312><P style="margin:0px; padding:0px; font-size:12pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=56.067><P style="margin:0px; font-size:12pt">Name: </P>
+</TD><TD style="margin-top:0px" valign=top width=255.933><P style="margin:0px; font-size:12pt">Thomas Higgins</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=312><P style="margin:0px; padding:0px; font-size:12pt">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=56.067><P style="margin:0px; font-size:12pt">Title: </P>
+</TD><TD style="margin-top:0px" valign=top width=255.933><P style="margin:0px; font-size:12pt">Managing Director</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+</BODY>
+<!-- EDGAR Validation Code: 35272EA6 -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

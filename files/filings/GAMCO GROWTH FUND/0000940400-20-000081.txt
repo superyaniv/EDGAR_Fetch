@@ -1,0 +1,184 @@
+<SEC-DOCUMENT>0000940400-20-000081.txt : 20200305
+<SEC-HEADER>0000940400-20-000081.hdr.sgml : 20200305
+<ACCEPTANCE-DATETIME>20200305170137
+ACCESSION NUMBER:		0000940400-20-000081
+CONFORMED SUBMISSION TYPE:	24F-2NT
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200305
+DATE AS OF CHANGE:		20200305
+EFFECTIVENESS DATE:		20200305
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GAMCO GROWTH FUND
+		CENTRAL INDEX KEY:			0000806857
+		IRS NUMBER:				133391404
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		24F-2NT
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	033-10583
+		FILM NUMBER:		20691545
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE CORPORATE CENTER
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580-1434
+		BUSINESS PHONE:		2124903670
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE CORPORATE CENTER
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580-1434
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GABELLI GROWTH FUND
+		DATE OF NAME CHANGE:	19920703
+<SERIES-AND-CLASSES-CONTRACTS-DATA>
+<EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+<SERIES>
+<OWNER-CIK>0000806857
+<SERIES-ID>S000001072
+<SERIES-NAME>The Gabelli Growth Fund
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000002892
+<CLASS-CONTRACT-NAME>CLASS A
+<CLASS-CONTRACT-TICKER-SYMBOL>GGCAX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000002893
+<CLASS-CONTRACT-NAME>CLASS AAA
+<CLASS-CONTRACT-TICKER-SYMBOL>GABGX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000002895
+<CLASS-CONTRACT-NAME>CLASS C
+<CLASS-CONTRACT-TICKER-SYMBOL>GGCCX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000034313
+<CLASS-CONTRACT-NAME>CLASS I
+<CLASS-CONTRACT-TICKER-SYMBOL>GGCIX
+</CLASS-CONTRACT>
+</SERIES>
+</EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+</SERIES-AND-CLASSES-CONTRACTS-DATA>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>24F-2NT
+<SEQUENCE>1
+<FILENAME>ggrow.txt
+<TEXT>
+                  U.S. SECURITIES AND EXCHANGE COMMISSION
+                        Washington, D.C.  20549
+
+                               FORM 24F-2
+                     Annual Notice of Securities Sold
+                          Pursuant to Rule 24f-2
+
+1. Name and address of issuer:  The Gabelli Growth Fund
+                                One Corporate Center
+                                Rye, New York 10580-1422
+
+2.  Name of each series or class of securities for which this Form is
+filed (If the Form is being filed for all series and classes of
+securities of the issuer, check the box but do not list series or
+classes):        [ X ]
+
+3.  Investment Company Act File Number:	811-04873
+
+    Securities Act File Number:    033-10583
+
+4.  (a)  Last day of fiscal year for which this Form is filed: 12/31/2019
+
+    (b)  Check box if this Form is being filed late (i.e., more than 90
+    calendar days after the end of the Issuer's fiscal year).   []
+
+    (c)  Check box if this is the last time the issuer will be filing
+    this form.   []
+
+5.  Calculation of registration fee:
+
+    (i) Aggregate sale price of securities sold during
+    the fiscal year pursuant to section 24(f):            $96,633,323
+
+    (ii) Aggregate price of securities
+    redeemed or repurchased during the
+    fiscal year:                             $65,201,450
+
+    (iii) Aggregate price of securities
+    redeemed or repurchased during any
+    prior fiscal year ending no earlier
+    than October 11, 1995 that were not
+    previously used to reduce registration
+    fees payable to the Commission:          $2,370,824,724
+
+    (iv) Total available redemption credits [add
+    items 5(ii) and 5(iii)]:                             -$2,436,026,174
+
+    (v) Net sales - if item 5(i) is greater than
+    Item 5(iv) [subtract Item 5(iv) from Item(i)]:        $0
+
+    (vi) Redemption credits available for
+    use in future years - if Item 5(i) is
+    less than Item 5(iv) [subtract Item
+    5(iv) from Item 5(i)]:                  $(2,339,392,851)
+
+    (vii) Multiplier for determining registration fee:    x .0001298
+
+    (viii) Registration fee due [multiply Item 5(v) by
+    Item 5(vii)]:                                         =$0
+
+6.  Prepaid Shares
+
+    If the response to item 5(i) was determined by deducting an amount of
+    securities that were registered under the Securities Act of 1933
+    pursuant to rule 24e-2 as in effect before October 11, 1997, then
+    report the amount of securities (number of shares or other units)
+    deducted here: 0.         If there is a number of shares or other
+    units that were registered pursuant to rule 24e-2 remaining unsold
+    at the end of the fiscal year for which this form is filed that are
+    available for use by the issuer in future fiscal years, then state
+    that number here: 0.
+
+7.  Interest due - if this Form is being filed more than 90 days after
+the end of the issuer's fiscal year:
+
+                                                         +$0
+
+8.  Total of the amount of the registration fee due plus any interest due
+    [line 5(viii) plus line 7]:
+
+                                                         =$0
+
+9.  Date the registration fee and any interest payment was sent to the
+    Commission's lockbox depository:
+
+    CIK Number designated to receive payment:  0000806857
+
+    Method of Delivery:
+
+    [ ]   Wire Transfer
+    [ ]   Mail or other means
+
+
+SIGNATURES
+
+This report has been signed below by the following persons on behalf of
+the issuer and in the capacities and on the dates indicated.
+
+By:     /s/John C. Ball
+        John C. Ball
+Title:  Treasurer
+
+Date    3/5/2020
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
