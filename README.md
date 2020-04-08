@@ -29,13 +29,13 @@ storeIndexes(years,quarters)
 ```
 * /files/db will contain all the index files stored in a sqlite database.
 
-
+---
 ## EDGAR SERVER
 From EDGAR_Server.js is a simple node app that will display the contents of the index files:
 
 * Star the node js server with:
-    
-      Node EDGAR_Server.js
+
+        Node EDGAR_Server.js
 
 Server will run on [http:\\localhost:3000]
 /html/EDGAR_Index
