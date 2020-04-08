@@ -6,7 +6,7 @@
 
 ### Download Git and Requirements
 
-    `git clone https://github.com/superyaniv/EDGAR_fetch.git`
+    git clone https://github.com/superyaniv/EDGAR_fetch.git
 
 ### Fetching Data into Data Folders
 * Directory files will contain all the files downloaded and unzipped
@@ -35,7 +35,7 @@ From EDGAR_Server.js is a simple node app that will display the contents of the 
 
 * Star the node js server with:
     
-    `Node EDGAR_Server.js`
+        Node EDGAR_Server.js
 
 Server will run on [http:\\localhost:3000]
 /html/EDGAR_Index
