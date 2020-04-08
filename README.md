@@ -8,9 +8,27 @@
 
     git clone https://github.com/superyaniv/EDGAR_fetch.git
 
-### Input Data into Data Folders
+### Fetching Data into Data Folders
 * Directory files will contain all the files downloaded and unzipped
+
+From Edgarfetch.js:
+```javascript
+getIndexes(years,quarters)
+```
 * /files/zipped_files will contain the zipped files downloaded (master.gz) from the years obtained
+
+From Edgarfetch.js:
+```javascript
+unzipIndexes(years,quarters) 
+```
 * /files/unzipped_files will contain the unzipped files from /files/zipped_files
+
+From Edgarfetch.js:
+```javascript 
+storeIndexes(years,quarters) 
+```
 * /files/db will contain all the index files stored in a sqlite database.
 
+
+### EDGAR
+* /html/
