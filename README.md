@@ -1,6 +1,6 @@
-# 
 # EDGAR Fetch
-## Node JS Process to download indexed history from SEC.gov filings, unzip indexes, store in Database, and query for filings.
+## EDGAR Fetch is a Node JS Process to download indexed history from SEC.gov filings.
+### Retreive all zipped indexes, unzip indexes, store in sqlitedb, and query for filings.
 
 #### *Created by Yaniv Alfasy*
 
