@@ -35,7 +35,7 @@ From EDGAR_Server.js is a simple node app that will display the contents of the 
 
 * Star the node js server with:
 
-        Node EDGAR_Server.js
+    `Node EDGAR_Server.js
 
-Server will run on [http:\\localhost:3000]
+Server will run on [ http:\\localhost:3000 ]
 /html/EDGAR_Index
