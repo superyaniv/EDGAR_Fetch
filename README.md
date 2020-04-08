@@ -41,4 +41,7 @@ From EDGAR_Server.js is a simple node app that will display the contents of the 
 
 Server will run on [http://localhost:3000](http://localhost:3000)
 
-/html/EDGAR_Index.html
+Todo:
+[ ] Download header information. 
+[ ] Effiecient way to get and store XBRL
+[ ] Query XBRL
