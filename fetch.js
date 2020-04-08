@@ -14,7 +14,7 @@ function fetch_file(url, filepath) {
 			//IF FILE ALREADY EXISTS, EXIT
 			if (fs.existsSync(filepath)) {
 					//console.log(chalk`{yellow ${''.padEnd(' ',5)} Skipping: File Already Exists}: {dim ${filepath}}`)
-					
+
 					//RETURN PROMISE RESOLVE
 						resolve('Skipping: File Exists');
 			}else{	
@@ -26,16 +26,17 @@ function fetch_file(url, filepath) {
 					}
 				
 				//GET FILE FROM URL
-								
+							
 					const file = fs.createWriteStream(filepath);
 					const request = http.get(url, function(response) {
 					  response.pipe(file);
+					  resolve('Success: File Stored');
 					})
 					
 					//console.log(chalk`{green.bold File Created Successfully: }{white.bold ${filepath}}`)
 					
 				//RETURN PROMISE RESOLVE
-					resolve('Success: File Stored');
+					
 			}
 		}catch(e){
 			console.error(e);
