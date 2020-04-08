@@ -15,14 +15,12 @@ let EDGAR_query = require('./query.js')
 	var Form_Type = '10-K'
 
 //GET FILINGS AND CIK (CENTRAL INDEX KEY) FOR AUTOCOMPOLETE
-	app.get('/EDGAR/Company_NamesandCIK', async (req,res)=> {
-		var start_date = '2019-01-01'
-		var end_date = '2020-12-31'
-		var limit = 10000
+	app.get('/EDGAR/queryAutoComplete', async (req,res)=> {
 
-		EDGAR_query.queryNamesCIK(start_date,end_date,Form_Type,limit,async function(data){
-			
-			//MAP JUST THE COMPANY AND CIK FOR USE IN AUTO COMPLETE
+		//QUERY TOP FILERS OVER THE LAST 2 YEARS
+			EDGAR_query.query_TopRecentFilers(async function(data){
+		
+			//RETURN JSON
 				res.json(data)
 		})	
 	})
@@ -34,7 +32,8 @@ let EDGAR_query = require('./query.js')
 		end_date = req.params.enddate;
 		limit = 1000
 		
-		EDGAR_query.queryCIK(start_date,end_date,CIK,limit,async function(data){
+		//QUERY ALL FILINGS IN INDEX (LIMIT 1000)
+			EDGAR_query.query_CIK_Filings(CIK,start_date,end_date,limit,async function(data){
 			
 			//RETURN THE COMPANIES AND FILING DATA
 				res.json(data)
@@ -42,7 +41,7 @@ let EDGAR_query = require('./query.js')
 		
 	})
 
-//TEST SERVER
+//TEST SERVER, RETURN TEST PAGE FOR REMAINDER OF REQUESTS
 	app.get('/*', async (req,res)=> {
 				res.sendFile(__dirname +'/html/EDGAR_Index.html')
 		})	

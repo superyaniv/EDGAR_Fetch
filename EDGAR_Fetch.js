@@ -1,4 +1,4 @@
-// EDGAR_fetch.js
+// EDGAR_Fetch.js
 // ========
 // Fetch the SEC filing indexes and store them for search later.
 
@@ -127,13 +127,10 @@
 		  console.log(chalk`{inverse.bold Done!} {green ${idxfile.count} items processed.}`)
 	}
 
+//FUNCTION TO RETREIVE AND DOWNLOAD ALL FULL TEXT FILINGS DATE YYYY-MM-DD (2020-01-01 AND 2020-12-31)
+	function retreive_CompanyFilings(start_date='2020-01-01',end_date='2020-12-31',CIK,limit=1000){
 
-// getCompanyFilings(start_date,end_date,CIK)
-
-//FUNCTION TO GET FILINGS - DATE YYYY-MM-DD (2020-01-01 AND 2020-12-31)
-	function getCompanyFilings(start_date='2020-01-01',end_date='2020-12-31',CIK,limit=1000){
-
-		EDGAR_query.queryCIK(start_date,end_date,CIK,limit,async function(data){
+		EDGAR_query.query_CIK_Filings(CIK,start_date,end_date,limit,async function(data){
 
 			//MAP JUST THE COMPANY AND FILENAME
 			var filing_items = Object.values(data).map(({Filename,Company_Name,Form_Type,Date_Filed})=>[Filename,Company_Name,Form_Type,Date_Filed])
@@ -162,14 +159,13 @@
 								console.log(chalk`{inverse.bold ${String(pcomplete).padEnd(3,' ')}%} Company: {yellow ${Company_Name.padEnd(20,' ')} }Form: {cyan ${Form_Type.padEnd(10,' ')}}Date: {cyan ${Date_Filed.padEnd(11,' ')}}Status: {dim.italic ${String(results).padEnd(' ',20)}} Path: {dim.italic  ${EDGAR_Path}}`)
 
 					//WAIT IN CASE
-					await delay()
+						await delay()
 					
 
 				}
 			//EDGAR_fetch.fetch_file(pathremote,'./files/filings');
 		})
 	}
-
 
 //DELAY IF NEEDED...
 	function delay() {
