@@ -122,17 +122,21 @@
 						url: url_to_fetch,             
 						dataType: 'json',                   
 						success: function(data){
-							console.table(data);
-							EDGARtable.clear()
-							data.forEach(function(item){
-								EDGARtable.row.add([item.Company_Name,item.CIK,item.Form_Type,item.Date_Filed,`<a href=https://www.sec.gov/Archives/${item.Filename}>${item.Filename.split('/')[3]}</a>`,
-									`<a href=https://www.sec.gov/Archives/${item.Filename.split('.')[0]}-index.htm>[html index]</a>`,
-									`<a href=https://www.sec.gov/Archives/${item.Filename.split('.')[0].replace(/-/gi,'')}/${item.Filename.split('/')[3].split('.')[0]}-index-headers.html>[header]</a>`]);
-							})
-							EDGARtable.columns.adjust().draw();
-							},
-						error: function(){
-							console.log('error in nested ajax.');
+							if(data[0].Error){
+								alert(data[0].Error)
+							}else{
+								console.table(data);
+								EDGARtable.clear()
+								data.forEach(function(item){
+									EDGARtable.row.add([item.Company_Name,item.CIK,item.Form_Type,item.Date_Filed,`<a href=https://www.sec.gov/Archives/${item.Filename}>${item.Filename.split('/')[3]}</a>`,
+										`<a href=https://www.sec.gov/Archives/${item.Filename.split('.')[0]}-index.htm>[html index]</a>`,
+										`<a href=https://www.sec.gov/Archives/${item.Filename.split('.')[0].replace(/-/gi,'')}/${item.Filename.split('/')[3].split('.')[0]}-index-headers.html>[header]</a>`]);
+								})
+								EDGARtable.columns.adjust().draw();
+							}
+						},
+						error: function(e){
+							console.log(e);
 						}
 						});
 				
@@ -152,8 +156,8 @@
 								})
 							autocomplete(document.getElementById('whattoget'),company_names,company_ciks);
 							},
-						error: function(){
-						console.log('error in nested ajax.');
+						error: function(e){
+						console.log(e);
 						}
 						});
 				

@@ -41,34 +41,44 @@
 	});
 
 // QUERY THE DATABASE AND AND RETURN ALL INFO
-	function query_CIK_Filings(CIK_Num,start_date,end_date,limit,callback){
-			
-			let sql = `
-				SELECT * FROM master_indexes 
-				WHERE CIK = '${CIK_Num}' 
-				AND Date_Filed BETWEEN date('${start_date}') AND date('${end_date}') 
-				ORDER BY date(Date_Filed) DESC
-				LIMIT ${limit}
-				`;
-				
-			console.table(sql)
-			
-			db.all(sql,[], (err, rows)=>{
-				
-				if (err) {
-					throw err;
+	function query_CIK_Filings(options,callback){
+				//ENSURE CIK IS DEFINED
+			  	if(options.CIK == undefined){
+					return callback([{'Error': 'CIK Not Defined'}])
+					
 				}
-			
-				console.table(rows)
-				return callback(rows)
-			})
+				
+				var CIK = options.CIK || ''
+				var start_date = options.start_date || (new Date().setFullYear(new Date().getFullYear() - 1))
+				var end_date = options.end_date || Date.now()
+				var limit = options.limit || 1000
+
+				let sql = `
+					SELECT * FROM master_indexes 
+					WHERE CIK = '${CIK}' 
+					AND Date_Filed BETWEEN date('${start_date}') AND date('${end_date}') 
+					ORDER BY date(Date_Filed) DESC
+					LIMIT ${limit}
+					`;
+					
+				console.table(sql)
+				
+				db.all(sql,[], (err, rows)=>{
+					
+					if (err) {
+						throw err;
+					}
+				
+					console.table(rows)
+					return callback(rows)
+				})
 
 	}
+// var Form_Type = `WHERE Form_Type=${options.Form_Type} ` || ``
+
 
 // QUERY THE DATABASE AND AND RETURN ALL INFO
 	function query_TopRecentFilers(callback){
-		
-			results = []
 
 		//Find all filers with 10Ks in the last 18 months as top filers
 			let sql_RecentFilers2Yrs = 
@@ -90,7 +100,7 @@
 		//Query all names for autocomplete
 			let sql_QueryView = 
 				`SELECT * 
-				FROM autoCompleteNames 
+				FROM autoCompleteNames
 				ORDER BY Company_Name ASC`
 			
 			
@@ -100,7 +110,8 @@
 							if (err) {
 								throw err;
 							}	
-							console.table(rows)
+							// console.log(sql_QueryView)
+							// console.table(rows)
 							return callback(rows)
 					})
 				}else{
@@ -108,7 +119,7 @@
 									if (err) {
 										throw err;
 									}	
-							console.table('Created View')
+							console.log('Created View')
 					})
 				}
 			})	

@@ -26,19 +26,24 @@ let EDGAR_query = require('./query.js')
 	})
 
 //GET FILINGS AND FILING INFORMATION FROM INDEX DATABASE
-	app.get('/EDGAR/Company_Filings/:CIK/:startdate/:enddate', async (req,res)=> {
-		CIK = req.params.CIK
-		start_date = req.params.startdate;
-		end_date = req.params.enddate;
+	app.get('/EDGAR/Company_Filings/:CIK/:startdate/:enddate', (req,res,next)=> {
+ 		//LIMIT AMOUNT RETURNED 
+ 		options={'CIK': req.params.CIK,
+					'start_date': req.params.startdate,
+					'end_date': req.params.enddate,
+					'limit': limit}
 		limit = 1000
-		
-		//QUERY ALL FILINGS IN INDEX (LIMIT 1000)
-			EDGAR_query.query_CIK_Filings(CIK,start_date,end_date,limit,async function(data){
-			
-			//RETURN THE COMPANIES AND FILING DATA
-				res.json(data)
-		})
-		
+		setTimeout(function(){
+			try{
+				//QUERY ALL FILINGS IN INDEX (LIMIT 1000)
+				EDGAR_query.query_CIK_Filings(options, async function(data){
+					//RETURN THE COMPANIES AND FILING DATA
+					res.json(data)
+				})
+			}catch(err){
+				 next(err)
+			}
+		},1000)
 	})
 
 //TEST SERVER, RETURN TEST PAGE FOR REMAINDER OF REQUESTS
