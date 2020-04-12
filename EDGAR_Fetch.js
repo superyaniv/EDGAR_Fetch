@@ -158,22 +158,22 @@
 						var headerURL=URL_Head+URL_Adder+URL_Tail
 					
 					//DECLARE REMOTE AND LOCAL PATH TO STORE FILES
-					var remotepath= headerURL
-					var localpath=filings_path+'10KHeaders/'+(URL_Adder+URL_Tail).replace(/\//gi,'')
+						var remotepath= headerURL
+						var localpath=filings_path+'10KHeaders/'+(URL_Adder+URL_Tail).replace(/\//gi,'')
 					//LOG PROGRESS
-		  			var results = await EDGAR_fetch.fetch_file(remotepath,localpath);
-		  			await Delay(Math.floor(Math.random() * (1000)*1) + 1000)
+		  				var results = await EDGAR_fetch.fetch_file(remotepath,localpath);
+		  				await Delay(Math.floor(Math.random() * (1000)*1) + 1000)
 		  			console.log(chalk`
-	{inverse.bold ${String(pcomplete)}%} {dim ${i} of ${filing_items.length}} 
-	Company: {yellow ${Company_Name}} Form: {cyan ${Form_Type}} Date: {cyan ${Date_Filed}} 
-	Status: {dim.italic ${results}} 
-	Remotepath: {dim.italic  ${remotepath}}
-	Localpath: {dim.italic  ${localpath}}`)
+					{inverse.bold ${String(pcomplete)}%} {dim ${i} of ${filing_items.length}} 
+					Company: {yellow ${Company_Name}} Form: {cyan ${Form_Type}} Date: {cyan ${Date_Filed}} 
+					Status: {dim.italic ${results}} 
+					Remotepath: {dim.italic  ${remotepath}}
+					Localpath: {dim.italic  ${localpath}}`)
 				//WAIT IN CASE
 
 			}
 		})
-}
+	}
 
 
 //FUNCTION TO RETREIVE AND DOWNLOAD ALL FULL TEXT FILINGS DATE YYYY-MM-DD (2020-01-01 AND 2020-12-31)
@@ -217,4 +217,4 @@
 	}
 
 //DELAY IF NEEDED...
-const Delay = (ms) => new Promise(r => setTimeout(r, ms));
+	const Delay = (ms) => new Promise(r => setTimeout(r, ms));

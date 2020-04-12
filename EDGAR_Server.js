@@ -2,10 +2,11 @@
 // ========
 // Start a server to return the results of the index database
 
-const express = require('express')
-const app = express()
-const port = 3000
-let EDGAR_query = require('./query.js')
+//DECLARE RESOURCES
+	const express = require('express')
+	const app = express()
+	const port = 3000
+	let EDGAR_query = require('./query.js')
 
 //VARIABLE DEFAULTS
 	var start_date = '2020-01-01'
@@ -49,7 +50,7 @@ let EDGAR_query = require('./query.js')
 //TEST SERVER, RETURN TEST PAGE FOR REMAINDER OF REQUESTS
 	app.get('/*', async (req,res)=> {
 				res.sendFile(__dirname +'/html/EDGAR_Index.html')
-		})	
+	})	
 
 //LISTEN TO PORT WAIT FOR HTTP REQUEST
 	app.listen(port, () => console.log(`Example app listening at http://localhost:${port}`))

@@ -22,8 +22,6 @@ function fetch_file(url, filepath) {
 				//CREATE DIRECTORY IF IT DOESNT ALREADY EXIST
 					if (!fs.existsSync(path.dirname(filepath))){
 				    	fs.mkdirSync(path.dirname(filepath))
-				    	const file = fs.createWriteStream(path.dirname(filepath)+'/.gitignore.exclude')
-				    	.pipe('!.gitignore')
 				    	//console.log(chalk`{green Made new Directory: }{bold ${path.dirname(filepath)}}`)
 					}
 				
