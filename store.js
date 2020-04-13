@@ -1,4 +1,6 @@
 // Store.js
+// ========
+// Global storing functions - used by other files..
 
 //DECLARE REQUIREMENTS
 	const sqlite3 = require('sqlite3').verbose();
@@ -62,6 +64,3 @@
 					})
 			})	
 	}
-
-module.exports = {store_idx_file};
-

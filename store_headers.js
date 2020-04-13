@@ -4,7 +4,7 @@
 //REQUIREMENTS
 	const fs = require('fs')
 	const cheerio = require('cheerio')
-	var path = require('path');
+	const path = require('path');
 	const chalk = require('chalk')
 
 //STORE THE HEADERS USING THE PROCEEDING FUNCTIONS
@@ -12,7 +12,7 @@
 	var filedir_to = './files/filings/10KHeaders_json/'
 
 //ITERATE THROUGH DIRECTORY OF HEADERS TO PARSE AND STORE (SYNCRONOUSLY)
-store_headers(filedir_from,filedir_to)
+	//Example Usage: store_headers(filedir_from,filedir_to)
 
 async function store_headers(filedir_from,filedir_to){
 	try{
@@ -35,13 +35,13 @@ async function store_headers(filedir_from,filedir_to){
 
 					//GET RESULTS FROM PARSER
 					results = {}	
-					results = await storeJSON(filepath_from,filepath_to,i,files)
+					results = await store_JSON(filepath_from,filepath_to,i,files)
 
 					//LOG RESULTS					
-					console.log(chalk`{yellow.bold.underline STATUS}{cyan.bold - ${pcomplete}% ${i} of ${files.length}}`)
-					console.log(chalk`Progress: {bold ${String('[').padEnd(pcomplete,'▉')}${String(']').padStart(100-pcomplete,' ')}}`)
+					console.log(chalk`{yellow.bold STATUS}{cyan.italic -  ${i} of ${files.length}}`)
+					console.log(chalk`Progress:{yellow ${String('[').padEnd(pcomplete,'░')} ${pcomplete}%${String(']').padStart(100-pcomplete,' ')}}`)
 					console.log(results)
-						await Delay(50)
+						await Delay(5)
 			}
 		
 	}catch(err){
@@ -155,7 +155,7 @@ function parse_header(filepath_from,parsed_data){
 }
 
 //CALL THE PARSER AND STORE THE JSON DOCUMENT
-function storeJSON(filepath_from,filepath_to,i,files){
+function store_JSON(filepath_from,filepath_to,i,files){
 	//DECLARE STATUS VARIABLES
 		let results = {}
 			results.percent_complete=Math.round(i/files.length*100)
