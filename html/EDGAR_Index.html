@@ -47,77 +47,95 @@
 		</style>
 	</head>
 	<body>
-		<div class='jumbotron p-2 m-2' >
-				<h2 class='display-4'> EDGAR SEARCH</h2>
-		 	    <div class='container-fluid' style='position:relative'>
-						<input id='whattoget' class='form-control w-100' name='Company Name' placeholder='Company Name (autocomplete)' type='text'autocomplete='off' spellcheck='false'>
+<!-- HEADER AND SEARCH -->
+		<div class='jumbotron p-2 m-2'>
+			<h2 class='display-4'> EDGAR SEARCH</h2>
+			<hr class='my-1'>
+			<a href='/'>[General Search]</a>
+			<a href='/headers/'>[Recent Filing Search]</a>
+			<hr class='my-1'>
+	 	    <div class='container-fluid mt-2' style='position:relative'>
+					<input id='whattoget' class='form-control w-100' name='Company Name' placeholder='Company Name (autocomplete)' type='text'autocomplete='off' spellcheck='false'>
+			</div>
+			<div class='container-fluid mt-2'>	
+		 	    <div class='row'>
+			 	    <div class='col-md-3'>
+							<input id='whattogetCIK' class='form-control w-100' type='text' placeholder='CIK (type company name)'>
 					</div>
-					
-		 	    <table class='w-100 mt-2 p-2 container-fluid' >
-					<tr>
-					</tr>
-		 	    <tr>
-				<td class='col-3'>
-						<input id='whattogetCIK' class='form-control w-100' type='text' placeholder='CIK (type company name)' >
-				</td>
-				<td  class='col-3'>
-						<input id='startdate' class='form-control w-100' type='date' name='start-date' value='2019-01-01' min='1993-01-01' max='2020-12-31'>
-				</td>	
-				<td class='col-3'>
-					<input id='enddate' class='form-control w-100' type='date' name='end-date' value='2020-12-31' min='1993-01-01' max='2020-12-31'>
-				</td>
-				<td class='col-3'>
-					<button id='getEDGARjson' class='btn btn-primary w-100'>
-						GET
-					</button>
-				</td>
-				</tr>
-
-				</table>
+					<div class='col-md-3'>
+							<input id='startdate' class='form-control w-100' type='date' name='start-date' value='2019-01-01' min='1993-01-01' max='2020-12-31'>
+					</div>	
+					<div class='col-md-3'>
+						<input id='enddate' class='form-control w-100' type='date' name='end-date' value='2020-12-31' min='1993-01-01' max='2020-12-31'>
+					</div>
+					<div class='col-md-3'>
+						<button id='getEDGARjson' class='btn btn-primary w-100'>
+							GET
+						</button>
+					</div>
+				</div>
+			</div>
 		</div>
+<!-- HEADER INFO ON COMPANY -->
+		<div id='header_info_defs' class='contanier-fluid' style='padding:20px'></div>
+<!-- SEC FILING INFORMATION -->
+			<div class='jumbotron p-2 m-2' id='datatable_header'>
+				<h2 class='display-4'>DOCUMENT DATA</h2>
+				<hr class='m-1'>
+				
+			</div>
 			<div style='padding:20px'>
 			<table id='EDGAR_Table' class='table table-striped table-bordered' style='width: 100%' >
 				<thead>
 					<tr>
-						<th>Company_Name</th>
+						<th>NAME</th>
 						<th>CIK</th>
-						<th>Form_Type</th>
-						<th>Date_Filed</th>
-						<th>Full File</th>
-						<th>Html Index</th>
-						<th>Headerfile</th>
+						<th>TYPE</th>
+						<th>FILED</th>
+						<th>FULL FILE</th>
+						<th>INDEX</th>
+						<th>HEADER</th>
 					</tr>
 				</thead>
 				<tbody>
 				</tbody>
 				<tfoot>
 					<tr>
-						<th>Company Name</th>
+						<th>NAME</th>
 						<th>CIK</th>
-						<th>Form_Type</th>
-						<th>Date_Filed</th>
-						<th>Full File</th>
-						<th>Html Index</th>
-						<th>Headerfile</th>
+						<th>TYPE</th>
+						<th>FILED</th>
+						<th>FULL FILE</th>
+						<th>INDEX</th>
+						<th>HEADER</th>
 					</tr>
 				</tfoot>
 			</table>
-		</div>
+			</div>
+
 	</body>
+
+<!-- SCRIPT -->
 	<script>
+
+	//----------------------FILING DETAILS-------------------//
 			$(document).ready(function() {
 				var EDGARtable = $('#EDGAR_Table').DataTable({
 						"processing": true
 					});
-				console.log('EDGAR/Company_Filings')
+				var Headertable = $('#Header_Table').DataTable({
+						"processing": true
+					});
 				
-				$('#getEDGARjson').click(function() {
+				//BTTTON EVENT CLICK
+				$('#getEDGARjson').click(function (){
 
 					CIKval = document.getElementById('whattogetCIK').value
 					startdate = document.getElementById('startdate').value
 					enddate = document.getElementById('enddate').value
 					url_to_fetch = `../EDGAR/Company_Filings/${CIKval}/${startdate}/${enddate}`
-					console.log(url_to_fetch);
+					
+					//FETCH FILINGS
 					$.ajax({
 						url: url_to_fetch,             
 						dataType: 'json',                   
@@ -125,7 +143,6 @@
 							if(data[0].Error){
 								alert(data[0].Error)
 							}else{
-								console.table(data);
 								EDGARtable.clear()
 								data.forEach(function(item){
 									EDGARtable.row.add([item.Company_Name,item.CIK,item.Form_Type,item.Date_Filed,`<a href=https://www.sec.gov/Archives/${item.Filename}>${item.Filename.split('/')[3]}</a>`,
@@ -139,13 +156,142 @@
 							console.log(e);
 						}
 						});
-				
+					
+
+	//----------------------HEADER DETAIL-------------------//
+					//HEADER INFORMATION
+					$.ajax({
+						url: `../EDGAR/queryHeaders/${CIKval}`,             
+						dataType: 'json',                   
+						success: function(data){
+							//CLEAR CARD BODY TABLE ELEMENTS
+							$('#header_info_defs > *').remove()
+							$('#datatable_header > span').remove()
+							
+							//CHOSE HEADERS TO SHOW
+							const sec_headers_shown = ['business_address','company_data']
+							let x = show_header_details({'data':data,'sec_headers_shown':sec_headers_shown})
+
+							//ADD MORE INFO ON COMPANY BUTTON
+							$('<div>')
+								.addClass('alert alert-light')
+								.attr('role','alert')
+								.html(`Click for more information on recent filings for: <a href='/headers/${CIKval}'>${data.company_data.conformed_name}</a>`)
+								.addClass('alert-link')
+								.appendTo('#header_info_defs');
+							
+							//ADD INFO TO DOCUMENTS HEADER
+							$('<span>')
+								.html(`<strong>${data.company_data.conformed_name}</strong> filings from <strong>${$('#startdate').val()}</strong> to <strong>${$('#enddate').val()}</strong>`)
+								.addClass('text-muted')
+								.appendTo('#datatable_header')
+						},
+						error: function(e){
+							console.log(e);
+						}
+					});
+					
 				})
+				
+//--------SHOW HEADER DETAILS (list form)-----//
+	function show_header_details_listgroup(options){
+		data = options.data
+		sec_headers_shown = options.sec_headers_shown
+		$('#header_info_defs').append($(`<div class='row m-0 p-0'>`))
+		$('#header_info_defs').attr('role','tabpanel')
+		//LIST-GROUP NAV
+		$('<div>')
+		.addClass('col-sm-4 p-1')
+		.append(
+			$(`<div class='list-group' id='list-tab' role='tablist'>`)
+		)
+		.appendTo($('#header_info_defs .row'))
+		$('<div>')
+		.addClass('col-8')
+		.append(
+			$(`<div class='tab-content' id='nav-tabContent'>`)
+		)
+		.appendTo($('#header_info_defs .row'))
+		let show=true
+		for(var prop1 in data){
+			let obj = data[prop1]
+			if(sec_headers_shown.includes(prop1)){
+				if (data.hasOwnProperty(prop1)) {
+					$(`<a class = 'list-group-item list-group-item-action ${(show)?'show active':''}'' id='list-${prop1}-list' data-toggle='list' role='tab aria-controls='${prop1}' href='#list-${prop1}' style='text-transform: capitalize'>${prop1.replace('_',' ')}</a>`)
+						.appendTo($('#list-tab'))
+					$(`<div class='tab-pane fade ${(show)?'show active':''}' id='list-${prop1}' role='tabpanel' aria-labelledby='list-${prop1}-list'>`).appendTo($('#nav-tabContent'))
+						show=false
+					for(var prop in obj){
+						if (obj.hasOwnProperty(prop)) {
+							$(`<p class='m-auto'>`)
+							.html(`<strong>${prop.replace('_',' ')}</strong> : ${obj[prop]}`)
+							.attr('style','text-transform: capitalize')
+							.appendTo($(`#list-${prop1}`))
+						}
+					}	
+				}
+			}
+		}
+	}
+
+
+//--------SHOW HEADER DETAILS (card form)-----//
+	function show_header_details(options){
+		data = options.data
+		sec_headers_shown = options.sec_headers_shown
+		$('#header_info_defs').append($(`<div class='row'></div>`))
+		for(var prop1 in data){
+			let obj = data[prop1]
+			if(sec_headers_shown.includes(prop1)){
+				if (data.hasOwnProperty(prop1)) {
+					$('<div>')
+					.addClass('d-none d-md-block mb-1 col-md-'+12/sec_headers_shown.length)
+					.append(
+						$('<div>')
+						.addClass('card')
+						.append(
+								$('<h5>')
+								.addClass('card-header')
+								.html(prop1.replace('_',' '))
+								.attr('style','text-transform: capitalize')
+						)
+						.append(
+							$(`<div id='${prop1}_div'>`)
+							.addClass('card-body p-2')
+							.append(
+								$('<ul>')
+								.addClass('list-group list-group-flush')
+							)
+						)
+					)
+					.appendTo($('#header_info_defs .row'))
+					for(var prop in obj){
+						if (obj.hasOwnProperty(prop)) {
+							$('<li>')
+							.addClass('list-group-item list-group-item-light p-0')
+							.append(
+								$('<span>')
+								.html(`<strong>${prop.replace('_',' ')}</strong>`)
+								.attr('style','text-transform: capitalize'))
+							.append(
+								$('<span>')
+								.html(` : ${obj[prop]}`)
+								)
+							.appendTo($(`#${prop1}_div ul`))
+						}
+					}
+				}
+			}
+		}
+	}
+				
+//----------------------AUTOCOMPLETE-------------------//
+
+				//AUTOCOMPLETE
 				$.ajax({
 						url: '../EDGAR/queryAutoComplete',             
 						dataType: 'json',                   
 						success: function(data){
-							console.table(data);
 							company_names=[];
 							company_ciks=[];
 							data.forEach(function(item){
@@ -157,10 +303,11 @@
 							autocomplete(document.getElementById('whattoget'),company_names,company_ciks);
 							},
 						error: function(e){
-						console.log(e);
+							console.log(e);
 						}
 						});
-				
+
+				//AUTOCOMPLETE FUNCTION
 				function autocomplete(inp, arr,arrCIK) {
 					/*the autocomplete function takes two arguments,
 					the text field element and an array of possible autocompleted values:*/

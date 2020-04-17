@@ -14,6 +14,8 @@
 //ITERATE THROUGH DIRECTORY OF HEADERS TO PARSE AND STORE (SYNCRONOUSLY)
 	//Example Usage: store_headers(filedir_from,filedir_to)
 
+store_headers(filedir_from,filedir_to)
+
 async function store_headers(filedir_from,filedir_to){
 	try{
 		//ENSURE STARTING FROM DIRECTORY
@@ -56,9 +58,9 @@ function parse_header(filepath_from,parsed_data){
 	//STORE FILEPATH INFORMATION
 		const filepath_start = path.dirname(filepath_from)
 		const filepath_tail = path.basename(filepath_from)
-		const filepath_url_tail_CIK=filepath_tail.replace('edgardata','').substring(0,7)+'/'
-		const filepath_url_tail_folder=filepath_tail.replace('edgardata','').substring(7,25)+'/'
-		const filepath_url_folder = 'https://www.sec.gov/Archives/edgar/data/'+filepath_url_tail_CIK+filepath_url_tail_folder
+		const filepath_url_tail_CIK=filepath_tail.split(filepath_tail.substring(filepath_tail.indexOf('-')-10,filepath_tail.indexOf('-')))[0].replace('edgardata','')
+		const filepath_url_tail_folder=filepath_tail.substring(0,filepath_tail.indexOf('-')-10).replace('edgardata','').replace(filepath_url_tail_CIK,'')
+		const filepath_url = 'https://www.sec.gov/Archives/edgar/data/'+filepath_url_tail_CIK+'/'+filepath_url_tail_folder+'/'
 		const filepath = filepath_start+'/'+filepath_tail
 		var data = fs.readFileSync(filepath, 'utf8')
 		data=data.replace(/&lt;/gi,'<')
@@ -115,16 +117,24 @@ function parse_header(filepath_from,parsed_data){
 
 		$('DOCUMENT').each(function(i,el){
 			document_facts={}
+			document_links={}
 			//ATTACH FILING DATE AND TAIL FOR LOOKUP
 			document_facts['filing_date'] = filer_header['sec_header'].period
-			document_facts['filing_url_tail'] = filepath_url_folder
+			document_facts['filing_url_tail'] = filepath_url
+			$(this).find('a').each((i,e)=>{
+				document_links[i]=(
+					{'name': $(e).text(),
+					'href': $(e).attr('href')})
+			})
+			document_facts['links'] = (document_links)
 			$(this).children().each(function(x,el){
 	  			if(el.children.length>1){
 					document_facts={}
 				}else{
-					if($(this).text()){
+					if($(this).text() && el.name!='a'){
 						document_facts[el.name] = ($(this).text())
 						document_data[i+1] = (document_facts)
+
 					}
 				}		
 						
@@ -179,9 +189,9 @@ function store_JSON(filepath_from,filepath_to,i,files){
 				results.company_name = parsed_results.company_name
 				results.parsed_items_filer = parsed_results.items_filer
 				results.parsed_items_document = parsed_results.items_document
-			
+				
 			//WRITE THE FILE
-			fs.writeFileSync(filepath_to, jsondata)
+			fs.writeFileSync(filepath_to, parsed_results.jsondata)
 			
 			//REASSURE THE FILE EXISTS
 			if(fs.existsSync(filepath_to)) {

@@ -6,8 +6,9 @@
 	const express = require('express')
 	const app = express()
 	const port = 3000
-	const EDGAR_query = require('./query.js')
-	const json_server = require('./json_server.js')
+	const EDGAR_query = require('./query/query.js')
+	const json_server_autocomplete = require('./server/json_server_autocomplete.js')
+	const json_server_headers = require('./server/json_server_headers.js')
 	const axios = require('axios');
 
 //VARIABLE DEFAULTS
@@ -20,30 +21,47 @@
 //GET FILINGS AND CIK (CENTRAL INDEX KEY) FOR AUTOCOMPOLETE
 	app.get('/EDGAR/queryAutoComplete', async (req,res)=> {
 		//QUERY TOP FILERS OVER THE LAST 2 YEARS
+		let starttime = Date.now()
+		console.log('Querying Autocomplete... ')
+		timetocomplete = Date.now()-starttime
+			try{
+
+				//JSON-SERVER METHOD
+				//const cv = await EDGAR_query.create_View()
+				const query = await axios.get('http://localhost:3001/data');
+				res.json(query.data)
+				
+				timetocomplete = Date.now()-starttime
+				console.log('Autocomplete Done... took:'+timetocomplete+'ms')
+			}catch(e){
+				console.log('could not fetch page '+req.path);
+				res.send('error');
+			}
+	})
+
+//GET HEADER FILES
+	app.get('/EDGAR/queryHeaders/:CIK', async (req,res)=> {
+		CIK=req.params.CIK
+		header_item=req.params.header_item
+		//QUERY TOP FILERS OVER THE LAST 2 YEARS
 			let starttime = Date.now()
-			console.log('Querying Autocomplete... ')
+			console.log('Querying Headers... ')
 			timetocomplete = Date.now()-starttime
 				try{
 
 					//JSON-SERVER METHOD
-					const query = await axios.get('http://localhost:3001/data');
+					console.log(`http://localhost:3002/${CIK}`)
+					const query = await axios.get(`http://localhost:3002/${CIK}`);
 					res.json(query.data);
-					
-					//SQLITE METHOD
-					// EDGAR_query.query_Autocomplete_Names(async function(data){
-					// 	await res.json(data)
-					// })	
+				
 					timetocomplete = Date.now()-starttime
-					console.log('Autocomplete Done... took:'+timetocomplete+'ms')
+					console.log('Query Done... took:'+timetocomplete+'ms')
 				}catch(e){
-					try{
-
-					}catch(e){
-						console.log('could not fetch page'+req.path);
-						res.send('error');
-					}		
+					console.log('could not fetch page '+req.path);
+					res.send('error');
 				}
 	})
+
 
 //GET FILINGS AND FILING INFORMATION FROM INDEX DATABASE
 	app.get('/EDGAR/Company_Filings/:CIK/:startdate/:enddate', (req,res,next)=> {
@@ -66,9 +84,17 @@
 			}
 		},1000)
 	})
-
+//TEST HEADER PAGE
+	app.get('/headers', async (req,res)=> {
+		res.sendFile(__dirname +'/html/EDGAR_Headers.html')
+	})	
+//
+	app.get('/headers/:CIK', async (req,res)=> {
+		var CIK=req.params.CIK
+		res.sendFile(__dirname +'/html/EDGAR_Headers.html')
+	})	
 //TEST SERVER, RETURN TEST PAGE FOR REMAINDER OF REQUESTS
-	app.get('/*', async (req,res)=> {
+	app.get('/', async (req,res)=> {
 		res.sendFile(__dirname +'/html/EDGAR_Index.html')
 	})	
 

@@ -1,0 +1,423 @@
+<html>
+	<head>
+		<link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css'>
+		<link rel='stylesheet' href='https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css'>
+		<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js'></script>
+		<script src='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js'></script>
+		<script src='https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js'></script>
+		<style>
+			.autocomplete {
+				position: relative;
+				display: inline-block;
+			}
+			.autocomplete-items {
+			    position: absolute;
+			    border-top: none;
+			    z-index: 99;
+			    top: 100%;
+			    left: 0;
+			    right: 0;
+			}
+			.autocomplete-items {
+			    padding: 0px;
+			    margin-left: 10px;
+			    margin-right: 10px;
+			    padding: 5px;
+			    cursor: pointer;
+			    background-color: #fff; 
+			    overflow: hidden;
+			    border: 1px;
+			    border-radius: 20px;
+			    border-style: solid;
+			    box-shadow: 0 0 5px DodgerBlue;
+			}
+			  /*when hovering an item:*/
+			.autocomplete-items div:hover {
+			    background-color: #e9e9e9; 
+			    border: 0px;
+			    overflow: hidden;
+			}
+
+			  /*when navigating through the items using the arrow keys:*/
+			.autocomplete-active {
+			    background-color: DodgerBlue !important; 
+			    color: #ffffff;
+			}
+		</style>
+	</head>
+	<body>
+
+<!-- EDGAR SEARCH -->
+		<div class='jumbotron p-2 m-2' >
+				<h2 class='display-4'> EDGAR SEARCH</h2>
+				<hr class='my-1'>
+				<a href='/'>[General Search]</a>
+				<a href='/'>[Recent Filing Search]</a>
+				<hr class='my-1'>
+	 	    <div class='container-fluid  mt-2' style='position:relative'>
+					<input id='whattoget' class='form-control w-100' name='Company Name' placeholder='Company Name (autocomplete)' type='text'autocomplete='off' spellcheck='false'>
+			</div>
+<!-- EDGAR FORM -->
+			<div class='container-fluid mt-2'>	
+		 	    <div class='row'>
+			 	    <div class='col-9'>
+							<input id='whattogetCIK' class='form-control w-100' type='text' placeholder='CIK (type company name)'>
+					</div>
+					<div class='col-3'>
+						<button id='getEDGARjson' class='btn btn-primary w-100'>
+							GET
+						</button>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- COMPANY (FACTS) HEADER INFORMATION -->
+		<div class='container-fluid' id='header_info_defs'>
+			<div class='row'>
+				
+			</div>
+		</div>
+		
+<!-- DOCUMENT INFORMATION -->
+			<div class='jumbotron p-2 m-2' id='datatable_header'>
+				<h2 class='display-4'>DOCUMENT DATA</h2>
+				<hr class='m-1'>
+			</div>
+			<div style='padding:20px'>
+			<table id='documents_table' class='table table-striped table-bordered' style='width: 100%' >
+				<thead>
+					<tr>
+						<th>filing_date</th>
+						<th>type</th>
+						<th>link</th>
+						<th>description</th>
+					</tr>
+				</thead>
+				<tbody>
+				</tbody>
+				<tfoot>
+					<tr>
+						<th>filing_date</th>
+						<th>type</th>
+						<th>link</th>
+						<th>description</th>
+					</tr>
+				</tfoot>
+			</table>
+			</div>
+	</body>
+	<script>
+
+
+//--------DOCUMENT LOAD SCRIPT-------//
+$(document).ready(function() {
+	var documents_table = $('#documents_table').DataTable(
+	{
+		'processing': true,
+	    'pageLength': 50
+	});
+	if(window.location.pathname.split('/')[2] !== ''){
+		CIKValURL= window.location.pathname.split('/')[2]
+		document.getElementById('whattogetCIK').value = CIKValURL
+		getHeaders({'CIKVal':CIKValURL})
+	} 
+
+//------FUNCTION GET HEADERS------// 
+	function getHeaders(options){
+		CIKval = $('#whattogetCIK').val()
+		$('#header_info_defs .row div').remove()
+		$.ajax({
+			url: `../EDGAR/queryHeaders/${CIKval}`,             
+			dataType: 'json',                   
+			success: function(data){
+
+			//------COMPANY GENERAL INFO CARDS------//
+				//CREATE CARD BODY TABLE ELEMENTS
+				//CLEAR CARD BODY TABLE ELEMENTS
+				$('#whattoget').val(data.company_data.conformed_name)
+				$('#header_info_defs *').remove()
+				//CHOSE HEADERS TO SHOW
+				let sec_headers_shown = ['sec_header','business_address','filing_values','company_data']
+				let x = show_header_details({'data':data,'sec_headers_shown':sec_headers_shown})
+				//let x = show_header_details_listgroup({'data':data,'sec_headers_shown':sec_headers_shown})			
+			
+			//------DOCUMENTS------//
+
+				//ADD DOCUMENTS HEADER
+				//ADD INFO TO DOCUMENTS HEADER
+				$('<span>')
+					.html(`<strong>${data.company_data.conformed_name}</strong> filing <strong>${data.sec_header.type}</strong> filed on <strong>[ ${data.sec_header.filing_date.substr(4,2)}-${data.sec_header.filing_date.slice(-2)}-${data.sec_header.filing_date.substr(0,4)} ]</strong>`)
+					.addClass('text-muted')
+					.appendTo('#datatable_header')
+
+				 //TABLE OF DOCUMENTS IN RECENT FILING
+				documents_table.clear()
+				let docObjs = data.documents
+				for(var doc in docObjs){
+					if (docObjs.hasOwnProperty(doc)) {
+				 	let alink = ''
+					 	if(Object.keys(docObjs[doc]).includes('links')){
+						 		for(link in docObjs[doc].links){
+						 			alink += '<a href="'+docObjs[doc].filing_url_tail+docObjs[doc].links[link].href+'">'+docObjs[doc].links[link].name+'</a><br>'
+						 		}
+						 	}
+					 	
+					 	var filing_date = docObjs[doc].filing_date
+					 	var type = docObjs[doc].type
+					 	var alinks = alink
+					 	var description = docObjs[doc].description ? docObjs[doc].description  : ''
+					 	documents_table.row.add(
+					 		[filing_date,
+					 		type,
+					 		alinks,
+						    description
+						    ])
+				 	}
+				 }
+				documents_table.columns.adjust().draw();	
+				},
+				error: function(e){
+					console.log(e);
+				}
+				});
+				}
+
+//----BUTTON CLICK ----//				
+	$('#getEDGARjson').click(function(){
+		CIKVal = document.getElementById('whattogetCIK').value
+		document.location.href = '/headers/'+CIKVal
+		getHeaders()
+		})
+//--------SHOW HEADER DETAILS (list form)-----//
+	function show_header_details_listgroup(options){
+		data = options.data
+		sec_headers_shown = options.sec_headers_shown
+		$('#header_info_defs').append($(`<div class='row m-0 p-0'>`))
+		$('#header_info_defs').attr('role','tabpanel')
+		//LIST-GROUP NAV
+		$('<div>')
+		.addClass('col-sm-4 p-1')
+		.append(
+			$(`<div class='list-group' id='list-tab' role='tablist'>`)
+		)
+		.appendTo($('#header_info_defs .row'))
+		$('<div>')
+		.addClass('col-8')
+		.append(
+			$(`<div class='tab-content' id='nav-tabContent'>`)
+		)
+		.appendTo($('#header_info_defs .row'))
+		let show=true
+		for(var prop1 in data){
+			let obj = data[prop1]
+			if(sec_headers_shown.includes(prop1)){
+				if (data.hasOwnProperty(prop1)) {
+					$(`<a class = 'list-group-item list-group-item-action ${(show)?'show active':''}'' id='list-${prop1}-list' data-toggle='list' role='tab aria-controls='${prop1}' href='#list-${prop1}' style='text-transform: capitalize'>${prop1.replace('_',' ')}</a>`)
+						.appendTo($('#list-tab'))
+					$(`<div class='tab-pane fade ${(show)?'show active':''}' id='list-${prop1}' role='tabpanel' aria-labelledby='list-${prop1}-list'>`).appendTo($('#nav-tabContent'))
+						show=false
+					for(var prop in obj){
+						if (obj.hasOwnProperty(prop)) {
+							$(`<p class='m-auto'>`)
+							.html(`<strong>${prop.replace('_',' ')}</strong> : ${obj[prop]}`)
+							.attr('style','text-transform: capitalize')
+							.appendTo($(`#list-${prop1}`))
+						}
+					}	
+				}
+			}
+		}
+	}
+
+
+//--------SHOW HEADER DETAILS (card form)-----//
+	function show_header_details(options){
+		data = options.data
+		sec_headers_shown = options.sec_headers_shown
+		$('#header_info_defs').append($(`<div class='row'></div>`))
+		for(var prop1 in data){
+			let obj = data[prop1]
+			if(sec_headers_shown.includes(prop1)){
+				if (data.hasOwnProperty(prop1)) {
+					$('<div>')
+					.addClass('d-none d-md-block mb-1 col-md-'+12/sec_headers_shown.length)
+					.append(
+						$('<div>')
+						.addClass('card')
+						.append(
+								$('<h5>')
+								.addClass('card-header')
+								.html(prop1.replace('_',' '))
+								.attr('style','text-transform: capitalize')
+						)
+						.append(
+							$(`<div id='${prop1}_div'>`)
+							.addClass('card-body p-2')
+							.append(
+								$('<ul>')
+								.addClass('list-group list-group-flush')
+							)
+						)
+					)
+					.appendTo($('#header_info_defs .row'))
+					for(var prop in obj){
+						if (obj.hasOwnProperty(prop)) {
+							$('<li>')
+							.addClass('list-group-item list-group-item-light p-0')
+							.append(
+								$('<span>')
+								.html(`<strong>${prop.replace('_',' ')}</strong>`)
+								.attr('style','text-transform: capitalize'))
+							.append(
+								$('<span>')
+								.html(` : ${obj[prop]}`)
+								)
+							.appendTo($(`#${prop1}_div ul`))
+						}
+					}
+				}
+			}
+		}
+	}
+
+//--------AUTOCOMPLETE-------//				
+
+	$.ajax({
+			url: '../EDGAR/queryAutoComplete',             
+			dataType: 'json',                   
+			success: function(data){
+				company_names=[];
+				company_ciks=[];
+				data.forEach(function(item){
+					company_names.push(item.Company_Name);
+					company_ciks.push(item.CIK);
+					
+					//EDGARtable.row.add([item.Company_Name,item.CIK,item.Form_Type,item.Date_Filed,`<a href=https://www.sec.gov/Archives/${item.Filename}>${item.Filename.split('/')[3]}</a>`]);
+					})
+				autocomplete(document.getElementById('whattoget'),company_names,company_ciks);
+				},
+			error: function(e){
+				console.log(e);
+			}
+			});
+
+
+//--------AUTOCOMPLETE-------//
+	function autocomplete(inp, arr,arrCIK) {
+			/*the autocomplete function takes two arguments,
+			the text field element and an array of possible autocompleted values:*/
+			var currentFocus;
+			/*execute a function when someone writes in the text field:*/
+			inp.addEventListener('input', function(e) {
+				var a, b, i, val = this.value;
+				/*close any already open lists of autocompleted values*/
+				closeAllLists();
+				if (!val) { return false;}
+				currentFocus = -1;
+				/*create a DIV element that will contain the items (values):*/
+				a = document.createElement('DIV');
+				a.setAttribute('id', this.id + 'autocomplete-list');
+				a.setAttribute('class', 'autocomplete-items');
+				/*append the DIV element as a child of the autocomplete container:*/
+				this.parentNode.appendChild(a);
+				/*for each item in the array...*/
+
+				for (i = 0; i < arr.length; i++) {
+					/*check if the item starts with the same letters as the text field value:*/
+			    
+					if (arr[i].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
+						/*create a DIV element for each matching element:*/
+						b = document.createElement('DIV');
+						/*make the matching letters bold:*/
+						/*insert a input field that will hold the current array item's value:*/
+						b.innerHTML += `<input type='hidden' value='${arr[i]}'>`;
+						b.innerHTML += `<input id='CIK' type='hidden' value='${arrCIK[i]}'>`;
+						b_tr = document.createElement('TR');
+						company_name_td = document.createElement('TH');
+						company_name_td.classList.add('col-6');
+						CIK_td = document.createElement('TH');
+						CIK_td.classList.add('col-6');
+						company_name_td.innerHTML = `<strong>${arr[i].substr(0, val.length)}</strong>`;
+						company_name_td.innerHTML += arr[i].substr(val.length);
+						CIK_td.innerHTML = arrCIK[i];
+						b.appendChild(b_tr)
+						b_tr.appendChild(company_name_td)
+						b_tr.appendChild(CIK_td)
+
+						/*execute a function when someone clicks on the item value (DIV element):*/
+						b.addEventListener('click', function(e) {
+							/*insert the value for the autocomplete text field:*/
+							inp.value = this.getElementsByTagName('input')[0].value;
+							document.getElementById('whattogetCIK').value = this.getElementsByTagName('input')[1].value;
+							/*close the list of autocompleted values,
+							(or any other open lists of autocompleted values:*/
+							closeAllLists();
+						});
+						a.appendChild(b);
+			    	}	
+				}
+			});
+			
+				/*execute a function presses a key on the keyboard:*/
+			inp.addEventListener('keydown', function(e) {
+					
+				var x = document.getElementById(this.id + 'autocomplete-list');
+				
+				if (x) x = x.getElementsByTagName('div');
+					
+				if (e.keyCode == 40) {
+					/*If the arrow DOWN key is pressed,
+					increase the currentFocus variable:*/
+					currentFocus++;
+					/*and and make the current item more visible:*/
+					addActive(x);
+				} else if (e.keyCode == 38) { //up
+					/*If the arrow UP key is pressed,
+					decrease the currentFocus variable:*/
+					currentFocus--;
+					/*and and make the current item more visible:*/
+					addActive(x);
+				} else if (e.keyCode == 13) {
+					/*If the ENTER key is pressed, prevent the form from being submitted,*/
+					e.preventDefault();
+					if (currentFocus > -1) {
+						/*and simulate a click on the 'active' item:*/
+							if (x) x[currentFocus].click();
+					}
+				}
+			});
+			function addActive(x) {
+				/*a function to classify an item as 'active':*/
+				if (!x) return false;
+				/*start by removing the 'active' class on all items:*/
+				removeActive(x);
+				if (currentFocus >= x.length) currentFocus = 0;
+				if (currentFocus < 0) currentFocus = (x.length - 1);
+				/*add class 'autocomplete-active':*/
+				x[currentFocus].classList.add('autocomplete-active');
+			}
+			function removeActive(x) {
+				/*a function to remove the 'active' class from all autocomplete items:*/
+				for (var i = 0; i < x.length; i++) {
+					x[i].classList.remove('autocomplete-active');
+				}
+			}
+			function closeAllLists(elmnt) {
+				/*close all autocomplete lists in the document,
+				except the one passed as an argument:*/
+				var x = document.getElementsByClassName('autocomplete-items');
+				for (var i = 0; i < x.length; i++) {
+					if (elmnt != x[i] && elmnt != inp) {
+							x[i].parentNode.removeChild(x[i]);
+					}
+				}
+			}
+			/*execute a function when someone clicks in the document:*/
+			document.addEventListener('click', function (e) {
+				closeAllLists(e.target);
+			});
+		}
+	});
+	</script>
+</html>

@@ -8,7 +8,7 @@
 
 //QUERIES AND VIEWS DECLARATION
 	//FILERS OVER THE LAST YEAR COUNTING THE FILINGS
-	const createViewTopEarlyFilers = 
+	var createViewTopEarlyFilers = 
 		`CREATE VIEW IF NOT EXISTS top_recent_filers as SELECT * FROM
 		(SELECT 
 			COUNT(DISTINCT(Filename)) AS filecount,
@@ -20,7 +20,7 @@
 		//Find all filers with 10Ks in the last 18 months as top filers
 
 	//FILERS WITH 10-KS
-	const SQL_Recent_Filers_2_Yrs = 
+	var SQL_Recent_Filers_2_Yrs = 
 		`SELECT DISTINCT(Company_Name),* 
 			FROM master_indexes 
 			WHERE 
@@ -30,10 +30,24 @@
 			GROUP BY Company_Name`;		
 
 	//FILERS WITH 10-K AND QS
-	const TopFilersWith10K = 
+	var TopFilersWith10K = 
 		`SELECT * FROM top_recent_filers 
 		WHERE Form_Type='10-K' or Form_Type='10-Q' 
 		GROUP BY Company_Name ORDER by filecount DESC` 
+	//Create new view with top filers
+	var sql_CreateView = 
+		`CREATE VIEW IF NOT EXISTS autoCompleteNames AS ${SQL_Recent_Filers_2_Yrs};`
+	//Query all names for autocomplete
+	var sql_Autocomplete = 
+		`SELECT * 
+		FROM autoCompleteNames
+		ORDER BY Company_Name ASC`
+	//Check if View Exists	
+	var sql_CheckViewExists = 
+		`SELECT name 
+		FROM sqlite_master 
+		WHERE type='view' AND name='autoCompleteNames';`
+
 // OPEN DATABASE		
 	let db = new sqlite3.Database('./files/db/EDGAR_data.db', (err) => {
 	   if (err) {
@@ -71,7 +85,6 @@
 				throw err;
 			}
 		
-			console.table(rows)
 			return callback(rows)
 		})
 	}
@@ -81,19 +94,7 @@
 // QUERY THE DATABASE AND AND RETURN ALL INFO
 async function query_Autocomplete_Names(callback){
 	try{
-		//Check if View Exists	
-		const sql_CheckViewExists = 
-			`SELECT name 
-			FROM sqlite_master 
-			WHERE type='view' AND name='autoCompleteNames';`
-		//Create new view with top filers
-		const sql_CreateView = 
-			`CREATE VIEW IF NOT EXISTS autoCompleteNames AS ${SQL_Recent_Filers_2_Yrs};`
-		//Query all names for autocomplete
-		const sql_Autocomplete = 
-			`SELECT * 
-			FROM autoCompleteNames
-			ORDER BY Company_Name ASC`
+
 
 		await db.get(sql_CheckViewExists,[],async (err,row)=>{
 			if(row){
@@ -101,8 +102,7 @@ async function query_Autocomplete_Names(callback){
 						if (err) {
 							throw err;
 						}	
-						// console.log(sql_QueryView)
-						// console.table(rows)
+						
 						return callback(rows)
 				})
 			}else{
@@ -118,8 +118,9 @@ async function query_Autocomplete_Names(callback){
 		}		
 	}
 // CREATE JSON WITH TOP FILERS
-	async function create_View(options,results){
+	async function create_View(options={'sqlCreateView': sql_CreateView,'sqlStoreView': sql_Autocomplete, 'filepath_json': './files/db/json/autocomplete_names.json'},results){
 		results ={}
+
 		try{	
 			
 			await db.run(options.sqlCreateView,[],(err,rows) =>{
@@ -158,4 +159,4 @@ async function query_Autocomplete_Names(callback){
 	}
 
 
-module.exports = {query_CIK_Filings,query_Autocomplete_Names};
+module.exports = {query_CIK_Filings,query_Autocomplete_Names,create_View};

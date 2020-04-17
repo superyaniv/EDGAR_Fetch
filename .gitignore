@@ -13,5 +13,6 @@
 #ignore mac db_store files
 *.DS_Store
 
-#ignore all files in filing folder
-/filings/*
+#ignore all files in files folder
+!/files/
+files/*

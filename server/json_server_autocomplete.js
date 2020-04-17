@@ -5,7 +5,7 @@
 const jsonServer = require('json-server')
 const server = jsonServer.create()
 const path = require('path')
-const router = jsonServer.router(path.join(__dirname, '/files/db/json/autocomplete_names.json'))
+const router = jsonServer.router(path.join(__dirname, '../files/db/json/autocomplete_names.json'))
 const middlewares = jsonServer.defaults()
 const port = 3001
 
@@ -17,6 +17,8 @@ server.use(middlewares)
 server.get('/', (req, res) => {
   res.jsonp(req.query.data)
 })
+
+server.get('/10K/headers')
 
 // To handle POST, PUT and PATCH you need to use a body-parser
 // You can use the one used by JSON Server
