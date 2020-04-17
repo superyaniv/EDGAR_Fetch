@@ -137,7 +137,6 @@ function fetch_file(remotepath, localpath) {
 							if (fs.existsSync(localpath)){
 								results.messages.status=(`File successfully created: ${localpath}`)
 								results.messages.filesize =[parseInt(fs.statSync(localpath).size.toLocaleString()),filesizetypes[Math.round(Math.round(fs.statSync(localpath).size/results.messages.filesize).toString().length/3)+1]]
-								results.messages.filesizetype = 'KB'
 								resolve(results);		
 							}else{
 								results.messages.status = 'Could not find finished file'

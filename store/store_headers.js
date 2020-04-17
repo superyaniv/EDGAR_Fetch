@@ -1,4 +1,4 @@
-//header_store.js
+//store_headers.js
 //Store the 10K Headers into a Database
 
 //REQUIREMENTS
@@ -95,7 +95,6 @@ function parse_header(filepath_from,parsed_data){
 		});
 	 	
 	 	//FINAL OBJECT {filer_header}
-	 		//console.log(filer_header)
 
 	//CLEAN DOC DATA - semi xml~like data for cheerio to read
 		doc_data = data.match(/<DOCUMENT>(.|\n)*?<\/DOCUMENT>/gi).toString()
@@ -142,14 +141,12 @@ function parse_header(filepath_from,parsed_data){
 			document_data_set['documents']=(document_data)
 		})
 		//FINAL OBJECT {document_data_set}
-			//console.log(document_data_set)
-
+			
 	 //COMBINE BOTH DATA SETS
 	 	let filer_headers_10k = Object.assign(filer_header,document_data_set)
 	 	
 	 	//FINAL COMBINED OBJECT {filer_headers_10k}
-	 		//console.log(filer_headers_10k)
-
+	 		
 	//CREATE PASSABLE JSON STRING
 		let jsondata = JSON.stringify(filer_headers_10k);
 	
