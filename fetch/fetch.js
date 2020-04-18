@@ -20,7 +20,7 @@
 // --------EXAMPLE WITH OUTPUT RESULTS.------- //
 
 //EXAMPLE INDEXES (master.gz)
-	let options_masterindexes = {
+	let options_master = {
 		'filetype':'master',
 		'local_path_dir':'./files/indexes/',
 		'startyear':1993,
@@ -31,9 +31,15 @@
 		'local_path_dir':'./files/companies/',
 		'startyear':1993,
 		'endyear':2020}
+//EXAMPLE FORMS (form.gz)
+	let options_form = {
+		'filetype':'form',
+		'local_path_dir':'./files/forms/',
+		'startyear':1993,
+		'endyear':2020}
 
 //EXAMPLE RUN 
-	fetch_edgar_files(options_masterindexes,(results)=>{
+	fetch_edgar_files(options_form,(results)=>{
 			console.group('\x1b[32m MESSAGES \x1b[0m')
 			console.log(results.fetch.messages)
 			console.groupEnd()
