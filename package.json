@@ -1,0 +1,35 @@
+{
+  "name": "edgar_fetch",
+  "version": "1.0.0",
+  "description": "EDGAR fetch is a node js application to fetch, store, and query SEC.gov filings for public companies.",
+  "main": "EDGAR_Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superyaniv/EDGAR_fetch.git"
+  },
+  "keywords": [
+    "filing",
+    "finance",
+    "SEC",
+    "data",
+    "analysis",
+    "financial",
+    "10-K",
+    "GAAP",
+    "stock"
+  ],
+  "author": "Yaniv Joseph Alfasy (yaniv@yanivalfasy.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superyaniv/EDGAR_fetch/issues"
+  },
+  "homepage": "https://github.com/superyaniv/EDGAR_fetch#readme",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {}
+}

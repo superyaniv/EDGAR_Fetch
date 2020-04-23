@@ -1,3 +1,5 @@
+//json_server_headers.js
+//serve up queries for company filer headers (10Ks).
 
 	const fs = require('fs');
 	const path = require('path')

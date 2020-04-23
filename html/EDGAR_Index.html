@@ -126,31 +126,27 @@
 				var Headertable = $('#Header_Table').DataTable({
 						"processing": true
 					});
-				
-				//BTTTON EVENT CLICK
+				//----BUTTON CLICK----//
 				$('#getEDGARjson').click(function (){
 
 					CIKval = document.getElementById('whattogetCIK').value
 					startdate = document.getElementById('startdate').value
 					enddate = document.getElementById('enddate').value
-					url_to_fetch = `../EDGAR/Company_Filings/${CIKval}/${startdate}/${enddate}`
+					url_to_fetch = `/EDGAR/Company_Filings/${CIKval}/?Date_Filed_gte=${startdate}&Date_Filed_lte=${enddate}&_sort=Date_Filed&_order=desc`
 					
 					//FETCH FILINGS
 					$.ajax({
 						url: url_to_fetch,             
 						dataType: 'json',                   
 						success: function(data){
-							if(data[0].Error){
-								alert(data[0].Error)
-							}else{
-								EDGARtable.clear()
-								data.forEach(function(item){
-									EDGARtable.row.add([item.Company_Name,item.CIK,item.Form_Type,item.Date_Filed,`<a href=https://www.sec.gov/Archives/${item.Filename}>${item.Filename.split('/')[3]}</a>`,
-										`<a href=https://www.sec.gov/Archives/${item.Filename.split('.')[0]}-index.htm>[html index]</a>`,
-										`<a href=https://www.sec.gov/Archives/${item.Filename.split('.')[0].replace(/-/gi,'')}/${item.Filename.split('/')[3].split('.')[0]}-index-headers.html>[header]</a>`]);
-								})
-								EDGARtable.columns.adjust().draw();
-							}
+							EDGARtable.clear()
+							console.log(data)
+							Object.values(data).forEach(function(item){
+								EDGARtable.row.add([item.Company_Name,item.CIK,item.Form_Type,item.Date_Filed,`<a href=https://www.sec.gov/Archives/${item.Filename}>${item.Filename.split('/')[3]}</a>`,
+									`<a href=https://www.sec.gov/Archives/${item.Filename.split('.')[0]}-index.htm>[html index]</a>`,
+									`<a href=https://www.sec.gov/Archives/${item.Filename.split('.')[0].replace(/-/gi,'')}/${item.Filename.split('/')[3].split('.')[0]}-index-headers.html>[header]</a>`]);
+							})
+							EDGARtable.columns.adjust().draw();
 						},
 						error: function(e){
 							console.log(e);
@@ -388,6 +384,7 @@
 							if (currentFocus > -1) {
 								/*and simulate a click on the 'active' item:*/
 									if (x) x[currentFocus].click();
+								$('#getEDGARjson').trigger('click')
 							}
 						}
 					});

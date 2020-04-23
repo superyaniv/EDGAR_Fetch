@@ -16,3 +16,13 @@
 #ignore all files in files folder
 !/files/
 files/*
+
+#ignore node 
+node_modules
+build
+npm-debug.log
+.env
+
+#logs
+logs
+*.log

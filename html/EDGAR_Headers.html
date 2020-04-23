@@ -183,12 +183,15 @@ $(document).ready(function() {
 				});
 				}
 
+
+
 //----BUTTON CLICK ----//				
 	$('#getEDGARjson').click(function(){
 		CIKVal = document.getElementById('whattogetCIK').value
 		document.location.href = '/headers/'+CIKVal
 		getHeaders()
 		})
+
 //--------SHOW HEADER DETAILS (list form)-----//
 	function show_header_details_listgroup(options){
 		data = options.data
@@ -384,6 +387,8 @@ $(document).ready(function() {
 					if (currentFocus > -1) {
 						/*and simulate a click on the 'active' item:*/
 							if (x) x[currentFocus].click();
+							$('#getEDGARjson').trigger('click')
+
 					}
 				}
 			});

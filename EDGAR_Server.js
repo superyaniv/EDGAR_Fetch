@@ -5,27 +5,21 @@
 //DECLARE RESOURCES
 	const express = require('express')
 	const app = express()
-	const port = 3000
 	const EDGAR_query = require('./query/query.js')
 	const json_server_autocomplete = require('./server/json_server_autocomplete.js')
 	const json_server_headers = require('./server/json_server_headers.js')
+	const json_server_companies = require('./server/json_server_companies.js')
 	const axios = require('axios');
-
-//VARIABLE DEFAULTS
-	var start_date = '2020-01-01'
-	var end_date = '2020-12-31'
-	var CIK = '814585.0'
-	var limit = 1000
-	var Form_Type = '10-K'
+	app.set('json spaces', 2)
+	const port = 3000
 
 //GET FILINGS AND CIK (CENTRAL INDEX KEY) FOR AUTOCOMPOLETE
 	app.get('/EDGAR/queryAutoComplete', async (req,res)=> {
 		//QUERY TOP FILERS OVER THE LAST 2 YEARS
 		let starttime = Date.now()
 		console.log('Querying Autocomplete... ')
-		timetocomplete = Date.now()-starttime
+		
 			try{
-
 				//JSON-SERVER METHOD
 				//const cv = await EDGAR_query.create_View()
 				const query = await axios.get('http://localhost:3001/data');
@@ -41,14 +35,12 @@
 
 //GET HEADER FILES
 	app.get('/EDGAR/queryHeaders/:CIK', async (req,res)=> {
-		CIK=req.params.CIK
-		header_item=req.params.header_item
+		const CIK=req.params.CIK
+		const header_item=req.params.header_item
 		//QUERY TOP FILERS OVER THE LAST 2 YEARS
 			let starttime = Date.now()
 			console.log('Querying Headers... ')
-			timetocomplete = Date.now()-starttime
 				try{
-
 					//JSON-SERVER METHOD
 					console.log(`http://localhost:3002/${CIK}`)
 					const query = await axios.get(`http://localhost:3002/${CIK}`);
@@ -57,34 +49,40 @@
 					timetocomplete = Date.now()-starttime
 					console.log('Query Done... took:'+timetocomplete+'ms')
 				}catch(e){
-					console.log('could not fetch page '+req.path);
-					res.send('error');
+					console.log('could not fetch page '+req.path)
+					res.send('error')
 				}
 	})
-
-
-//GET FILINGS AND FILING INFORMATION FROM INDEX DATABASE
-	app.get('/EDGAR/Company_Filings/:CIK/:startdate/:enddate', (req,res,next)=> {
-
+//TEST GET FILINGS FROM JSON_SERVER
+	app.get('/EDGAR/Company_Filings/:CIK/', async (req,res,next)=> {
+	try{
  		//SET OPTIONS BUT LIMIT AMOUNT RETURNED 
- 		options={'CIK': req.params.CIK,
-					'start_date': req.params.startdate,
-					'end_date': req.params.enddate,
-					'limit': 1000}
+ 		q = []
+ 		let CIK=req.params.CIK
+		let querystring = Object.entries(req.query).map((k)=>{return k[0]+'='+k[1]}).join('&')
+ 		console.log(querystring)
+ 		//example http://localhost:3003/CIK/?_&Date_Filed_gte=${Date_Filed_gte}&Date_Filed_lte=${Date_Filed_lte}&Form_Type=${Form_Type}&_sort=${sort}&_order=${order}
 
-		setTimeout(function(){
-			try{
-				//QUERY ALL FILINGS IN INDEX (LIMIT 1000)
-				EDGAR_query.query_CIK_Filings(options, async function(data){
-					//RETURN THE COMPANIES AND FILING DATA
-					res.json(data)
-				})
-			}catch(err){
-				 next(err)
-			}
-		},1000)
+ 		//example http://localhost:3003/103379/?_&Date_Filed_gte=2018-01-01&Date_Filed_lte=2020-01-01&Form_Type=10-K&_sort=Date_Filed&_order=asc
+		//QUERY JSON CIK
+			let starttime = Date.now()
+			console.log('Querying filings... ')
+			timetocomplete = Date.now()-starttime
+
+					//JSON-SERVER METHOD
+					console.log(`http://localhost:3003/${CIK}/?${querystring}`)
+					const query = await axios.get(`http://localhost:3003/${CIK}/?${querystring}`);
+					res.json(query.data);
+					console.log(query)
+					timetocomplete = Date.now()-starttime
+					console.log('Query Done... took:'+timetocomplete+'ms')
+		}catch(e){
+			throw e
+					console.log('could not fetch page '+req.path);
+					res.send('error');
+		}
 	})
-//TEST HEADER PAGE
+//HEADER PAGE
 	app.get('/headers', async (req,res)=> {
 		res.sendFile(__dirname +'/html/EDGAR_Headers.html')
 	})	
