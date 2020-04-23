@@ -5,7 +5,6 @@
 //DECLARE RESOURCES
 	const express = require('express')
 	const app = express()
-	const EDGAR_query = require('./query/query.js')
 	const json_server_autocomplete = require('./server/json_server_autocomplete.js')
 	const json_server_headers = require('./server/json_server_headers.js')
 	const json_server_companies = require('./server/json_server_companies.js')
@@ -61,10 +60,7 @@
  		let CIK=req.params.CIK
 		let querystring = Object.entries(req.query).map((k)=>{return k[0]+'='+k[1]}).join('&')
  		console.log(querystring)
- 		//example http://localhost:3003/CIK/?_&Date_Filed_gte=${Date_Filed_gte}&Date_Filed_lte=${Date_Filed_lte}&Form_Type=${Form_Type}&_sort=${sort}&_order=${order}
-
- 		//example http://localhost:3003/103379/?_&Date_Filed_gte=2018-01-01&Date_Filed_lte=2020-01-01&Form_Type=10-K&_sort=Date_Filed&_order=asc
-		//QUERY JSON CIK
+ 		//QUERY JSON CIK
 			let starttime = Date.now()
 			console.log('Querying filings... ')
 			timetocomplete = Date.now()-starttime
