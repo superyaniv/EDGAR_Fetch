@@ -25,21 +25,21 @@
 
 From Edgarfetch.js:
 ```javascript
-getIndexes(years,quarters)
+node fetch/fetch
 ```
-* /files/zipped_files will contain the zipped files downloaded (master.gz) from the years obtained
+* /files/datasets/raw will contain the raw dera datasets (num,pre,etc.)
 
 From Edgarfetch.js:
 ```javascript
-unzipIndexes(years,quarters) 
+node store/store
 ```
-* /files/unzipped_files will contain the unzipped files from /files/zipped_files
+* /files/datasets/json will contain the json results for each CIK (num and pre having the main data, sub containing company_info)
 
 From Edgarfetch.js:
 ```javascript 
-storeIndexes(years,quarters) 
+node merge/merge
 ```
-* /files/db will contain all the index files stored in a sqlite database.
+* Merge the num and pre data to get a superset of both.
 
 ---
 ## EDGAR SERVER
@@ -47,7 +47,7 @@ From EDGAR_Server.js is a simple node app that will display the contents of the 
 
 * Star the node js server with:
     
-        Node EDGAR_Server.js
+        node EDGAR_Server
 
 Server will run on [http://localhost:3000](http://localhost:3000)
 
