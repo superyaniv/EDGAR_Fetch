@@ -58,7 +58,8 @@ Todo:
 - [x] Server to query data and return JSON using Node.
 - [x] Create test Site with Node to query Data stored.
 - [x] Find header information using stored indexes.
-- [ ] Download header information (efficiently)
+- [x] Download header information (efficiently)
+- [x] Faster query and indexing of company filings.
 - [ ] Download XBRL information (efficiently)
 - [ ] Store XBRL Data
 - [ ] Query XBRL
