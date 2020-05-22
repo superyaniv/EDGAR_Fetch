@@ -28,8 +28,14 @@
   },
   "homepage": "https://github.com/superyaniv/EDGAR_fetch#readme",
   "dependencies": {
+    "axios": "^0.19.2",
+    "csv": "^5.3.2",
+    "event-stream": "^4.0.1",
+    "express": "^4.17.1",
+    "graceful-fs": "^4.2.4",
     "http": "0.0.1-security",
-    "socket.io": "^2.3.0"
+    "json-server": "^0.16.1",
+    "unzipper": "^0.10.11"
   },
   "devDependencies": {}
 }

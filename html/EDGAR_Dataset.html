@@ -49,7 +49,7 @@
 	<body>
 <!-- HEADER AND SEARCH -->
 		<div class='jumbotron p-2 m-2'>
-			<h2 class='display-4'> EDGAR SEARCH <span class='h3 text-muted '>[INDEX]</span></h2>
+			<h2 class='display-4'> EDGAR SEARCH <span class='h3 text-muted '>[DATASET]</span></h2>
 			<hr class='my-1'>
 			<a href='/'>[General Search]</a>
 			<a href='/headers/'>[Header Search]</a>
@@ -89,26 +89,44 @@
 			<table id='EDGAR_Table' class='table table-striped table-bordered' style='width: 100%' >
 				<thead>
 					<tr>
-						<th>NAME</th>
-						<th>CIK</th>
-						<th>TYPE</th>
-						<th>FILED</th>
-						<th>FULL FILE</th>
-						<th>INDEX</th>
-						<th>HEADER</th>
+						<th>ADASH</th>
+						<th>DDATE</th>
+						<th>STMT</th>
+						<th>REPORT</th>
+						<th>QTRS</th>
+						<th>LINE</th>
+						<th>PLABEL</th>
+						<th>VALUE</th>
+						<th>UOM</th>
+						<th>TAG</th>
+						<th>VERSION</th>
+						<th>FOOTNOTE</th>
+						<th>RFILE</th>
+						<th>INPTH</th>
+						<th>COREG</th>
+						<th>NEGATING</th>
 					</tr>
 				</thead>
 				<tbody>
 				</tbody>
 				<tfoot>
 					<tr>
-						<th>NAME</th>
-						<th>CIK</th>
-						<th>TYPE</th>
-						<th>FILED</th>
-						<th>FULL FILE</th>
-						<th>INDEX</th>
-						<th>HEADER</th>
+						<th>ADASH</th>
+						<th>DDATE</th>
+						<th>STMT</th>
+						<th>REPORT</th>
+						<th>QTRS</th>
+						<th>LINE</th>
+						<th>PLABEL</th>
+						<th>VALUE</th>
+						<th>UOM</th>
+						<th>TAG</th>
+						<th>VERSION</th>
+						<th>FOOTNOTE</th>
+						<th>RFILE</th>
+						<th>INPTH</th>
+						<th>COREG</th>
+						<th>NEGATING</th>
 					</tr>
 				</tfoot>
 			</table>
@@ -118,78 +136,111 @@
 
 <!-- SCRIPT -->
 	<script>
-
+$(document).ready(function() {
 	//----------------------FILING DETAILS-------------------//
-			$(document).ready(function() {
-				var EDGARtable = $('#EDGAR_Table').DataTable({
-						"processing": true
-					});
-				var Headertable = $('#Header_Table').DataTable({
-						"processing": true
-					});
-				//----BUTTON CLICK----//
-				$('#getEDGARjson').click(function (){
 
-					CIKval = document.getElementById('whattogetCIK').value
-					startdate = document.getElementById('startdate').value
-					enddate = document.getElementById('enddate').value
-					url_to_fetch = `/EDGAR/Company_Filings/${CIKval}/?Date_Filed_gte=${startdate}&Date_Filed_lte=${enddate}&_sort=Date_Filed&_order=desc`
-					
-					//FETCH FILINGS
-					$.ajax({
-						url: url_to_fetch,             
-						dataType: 'json',                   
-						success: function(data){
-							EDGARtable.clear()
-							console.log(data)
-							Object.values(data).forEach(function(item){
-								EDGARtable.row.add([item.Company_Name,item.CIK,item.Form_Type,item.Date_Filed,`<a href=https://www.sec.gov/Archives/${item.Filename}>${item.Filename.split('/')[3]}</a>`,
-									`<a href=https://www.sec.gov/Archives/${item.Filename.split('.')[0]}-index.htm>[html index]</a>`,
-									`<a href=https://www.sec.gov/Archives/${item.Filename.split('.')[0].replace(/-/gi,'')}/${item.Filename.split('/')[3].split('.')[0]}-index-headers.html>[header]</a>`]);
-							})
-							EDGARtable.columns.adjust().draw();
-						},
-						error: function(e){
-							console.log(e);
-						}
-						});
-					
+	var EDGARtable = $('#EDGAR_Table').DataTable({
+			"processing": true,
+			"pageLength":200
+		});
+	var Headertable = $('#Header_Table').DataTable({
+			"processing": true
+		});
 
-	//----------------------HEADER DETAIL-------------------//
-					//HEADER INFORMATION
-					$.ajax({
-						url: `../EDGAR/queryHeaders/${CIKval}`,             
-						dataType: 'json',                   
-						success: function(data){
-							//CLEAR CARD BODY TABLE ELEMENTS
-							$('#header_info_defs > *').remove()
-							$('#datatable_header > span').remove()
-							
-							//CHOSE HEADERS TO SHOW
-							const sec_headers_shown = ['business_address','company_data']
-							let x = show_header_details({'data':data,'sec_headers_shown':sec_headers_shown})
-
-							//ADD MORE INFO ON COMPANY BUTTON
-							$('<div>')
-								.addClass('alert alert-light')
-								.attr('role','alert')
-								.html(`Click for more information on recent filings for: <a href='/headers/${CIKval}'>${data.company_data.conformed_name}</a>`)
-								.addClass('alert-link')
-								.appendTo('#header_info_defs');
-							
-							//ADD INFO TO DOCUMENTS HEADER
-							$('<span>')
-								.html(`<strong>${data.company_data.conformed_name}</strong> filings from <strong>${$('#startdate').val()}</strong> to <strong>${$('#enddate').val()}</strong>`)
-								.addClass('text-muted')
-								.appendTo('#datatable_header')
-						},
-						error: function(e){
-							console.log(e);
-						}
-					});
-					
-				})
+	var CIKVal = ''
+	if(window.location.pathname.split('/')[2] !== ''){
+		const pathstring = window.location.pathname
+		const urlstring = window.location.href
+		CIKVal= pathstring.split('/')[2]
+		$('#whattogetCIK').val(CIKVal)
+		console.log(window.location.href)
+		startdate = urlstring.substr(urlstring.indexOf('ddate_gte=')+10,10)
+		enddate = urlstring.substr(urlstring.indexOf('ddate_lte=')+10,10)
+		$('#enddate').val(enddate)
+		$('#startdate').val(startdate)
+		getData({'CIKVal':CIKVal,'startdate':startdate,'enddate':enddate})
+	} 
+	//----BUTTON CLICK----//
+	$('#getEDGARjson').click(function (){
+		CIKVal = $('#whattogetCIK').val()
+		startdate = $('#startdate').val()
+		enddate = $('#enddate').val()
+		document.location.href = `/dataset/${CIKVal}?ddate_gte=${startdate}&ddate_lte=${enddate}`//&stmt=IS&_sort=ddate,stmt,line`
+		getData({'CIKVal':CIKVal,'startdate':startdate,'enddate':enddate})
+		})
+	//----GETDATA FUNCTION----//
+	function getData(options){
+		console.log(options)
+		url_to_fetch = `/EDGAR/queryDatasets/${options.CIKVal}/?ddate_gte=${options.startdate}&ddate_lte=${options.enddate}`//&stmt=IS&_sort=ddate,stmt,line`
+		//FETCH FILINGS
+		$.ajax({
+			url: url_to_fetch,             
+			dataType: 'json',                   
+			success: function(data){
+				EDGARtable.clear()
 				
+				Object.values(data["data"]).forEach(function(item){
+					EDGARtable.row.add([
+						item.adsh,
+						item.ddate,
+						item.stmt,
+						item.report,
+						item.qtrs,
+						item.line,
+						item.plabel,
+						item.value,
+						item.uom,
+						item.tag,
+						item.version,
+						item.footnote,
+						item.rfile,
+						item.inpth,
+						item.coreg,
+						item.negating
+					])})
+				EDGARtable.columns.adjust().draw();
+			},
+			error: function(e){
+				console.log(e);
+			}
+			})
+
+
+//----------------------HEADER DETAIL-------------------//
+		//HEADER INFORMATION
+		$.ajax({
+			url: `../EDGAR/queryHeaders/${CIKVal}`,             
+			dataType: 'json',                   
+			success: function(data){
+				//CLEAR CARD BODY TABLE ELEMENTS
+				$('#header_info_defs > *').remove()
+				$('#datatable_header > span').remove()
+				
+				//CHOSE HEADERS TO SHOW
+				const sec_headers_shown = ['business_address','company_data']
+				let x = show_header_details({'data':data,'sec_headers_shown':sec_headers_shown})
+
+				//ADD MORE INFO ON COMPANY BUTTON
+				$('<div>')
+					.addClass('alert alert-light')
+					.attr('role','alert')
+					.html(`Click for more information on recent filings for: <a href='/headers/${CIKVal}'>${data.company_data.conformed_name}</a>`)
+					.addClass('alert-link')
+					.appendTo('#header_info_defs');
+				
+				//ADD INFO TO DOCUMENTS HEADER
+				$('<span>')
+					.html(`<strong>${data.company_data.conformed_name}</strong> filings from <strong>${$('#startdate').val()}</strong> to <strong>${$('#enddate').val()}</strong>`)
+					.addClass('text-muted')
+					.appendTo('#datatable_header')
+			},
+			error: function(e){
+				console.log(e);
+			}
+		});
+		
+	}
+
 //--------SHOW HEADER DETAILS (list form)-----//
 	function show_header_details_listgroup(options){
 		data = options.data
@@ -421,5 +472,14 @@
 					});
 				}
 			});
+
+	function getParameterByName(name,url){
+		if (!url) url = window.location.href;
+		name = name.replace(/[\[\]]/g, '\\$&');
+		var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+			results = regex.exec(url);
+		if (!results) return null;
+		if (!results[2]) return '';
+	}
 	</script>
 </html>
