@@ -2,9 +2,7 @@
 fetch.js
 ========
 - Fetches files by idnex from EDGAR servers to store and process locally. 
-- (Example) - simple - `node fetch/fetch`
-- (Example) - with memory heap limit higher - `node --max-old-space-size=8192 fetch/fetch`
-- (Example) - with inspect memorgy and garbage collection - `node --max-old-space-size=8192 --expose-gc --inspect fetch/fetch`
+- (Example) - simple - `node fetch/fetch` - (Example) - with memory heap limit higher - `node --max-old-space-size=8192 fetch/fetch`= - (Example) - with inspect memorgy and garbage collection - `node --max-old-space-size=8192 --expose-gc --inspect fetch/fetch`
  */
 
 /* ----- FILE REQUIREMENTS  ----- */
@@ -52,7 +50,7 @@ async function fetch_edgar_files(options, callback){
 				}
 			})
 		)
-		console.log('-'.repeat(process.stdout.columns),`\n${'-'.repeat(process.stdout.columns)}\n\nGetting Filings: EDGAR Search (Written by Yaniv Alfasy)\nStart Year: ${options.startyear}\nEnd Year: ${options.endyear}\n\n${'-'.repeat(process.stdout.columns)}\n\n`)
+		callback(['-'.repeat(process.stdout.columns),`\n${'-'.repeat(process.stdout.columns)}\n\nGetting Filings: EDGAR Search (Written by Yaniv Alfasy)\nStart Year: ${options.startyear}\nEnd Year: ${options.endyear}\n\n${'-'.repeat(process.stdout.columns)}\n\n`])
 		/* ----- ITERATE THROUGH YEARS AND QTR REQUEST AND RETREIVE FILES ----- */
 		for(i=0;i<urlstofetch.length;i++){
 			const url = urlstofetch[i]
@@ -60,19 +58,16 @@ async function fetch_edgar_files(options, callback){
 			localfiletmp = localfiletmp.substr(0,localfiletmp.lastIndexOf('.'))
 			const localfile = (options.filetypezip===undefined) ? localfiletmp+'.txt' : localfiletmp
 			
-			// FETCH MAIN RESULTS
+			// Fetch and Download Results
 			let results = {}
 			results.fetch = await fetch_file({'url':url,'localfile':localfile,'filetypezip':options.filetypezip},results=>console.log(results))
-			
-			// CALLBACK RESULTS / STATUS
-			results = {
-			STATUS: ['PROCESSING', i, 'of', urlstofetch.length],
-			PERCENT_COMPLETE: `${String('').padEnd(Math.round((i/urlstofetch.length*100)/100*(process.stdout.columns-20)),'░')} ${i/urlstofetch.length*100}%`,
-			MEMORY_HEAP: [Math.round(process.memoryUsage().heapTotal/1024/1024),'MB'],
-			FETCH: results.fetch
-			} // Show Mem use - in case async used 
-			
-			callback(results)
+			// Callback Results.
+			callback({
+				STATUS: ['PROCESSING', i, 'of', urlstofetch.length],
+				PERCENT_COMPLETE: `${String('').padEnd(Math.round((i/urlstofetch.length*100)/100*(process.stdout.columns-20)),'░')} ${i/urlstofetch.length*100}%`,
+				MEMORY_HEAP: [Math.round(process.memoryUsage().heapTotal/1024/1024),'MB'],
+				FETCH: results.fetch
+			})
 			await Delay(500) // Wait in case pinging SEC servers more than 10x in 1 sec. Shouldn't be an issue with a syncronouse fetch.
 		}
 	}catch(err){
