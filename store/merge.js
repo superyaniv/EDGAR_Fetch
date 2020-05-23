@@ -12,17 +12,16 @@ const _ = require('lodash')
 /* ----- OPTION SETS FOR CURRENT SEC EDGAR DATA ----- */
 // (Example Usage): Datasets_add
 
-const base_dir = '/Volumes/MacStore/EDGAR_Storage/datasets_add/json/'
-
 main(
-	{'destination_dir':`${base_dir}/numpre`,
-	'first_obj_dir':`${base_dir}/pre`,
-	'second_obj_dir':`${base_dir}/num`},
+	{'destination_dir':`/Volumes/MacStore/EDGAR_Storage/datasets_add/json/numpre`,
+	'first_obj_dir':`/Volumes/MacStore/EDGAR_Storage/datasets_add/json/pre`,
+	'second_obj_dir':`/Volumes/MacStore/EDGAR_Storage/datasets_add/json/num`},
 	(results)=>{
 		console.log(results)
 })
 function main(options,callback){
 	try{	
+		if(!fs.existsSync(`${options.destination_dir}`)){fs.mkdirSync(`${options.destination_dir}`)} // Create Destination Directory
 		const files = fs.readdirSync(options.first_obj_dir,{withFileTypes: true})
 				.filter(dirent => dirent.isFile())
 				.filter(dirent=>(dirent.name.split('.')[1] == 'json')) //.splice(0,3) -> to do a test case.

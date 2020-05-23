@@ -15,19 +15,19 @@ const unzipper = require('unzipper') // unzip (.zip)
 // Fetch DERA Data. 
 const options_dataset_add = {
 	'filetype':'.zip',
-	'filedir_from':'/Volumes/MacStore/EDGAR_Storage/datasets_add/raw/test1/',
+	'filedir_from':'/Volumes/MacStore/EDGAR_Storage/datasets_add/raw/',
 	'startyear':2009,
 	'endyear':2020,
 	'quarters':['q1','q2','q3','q4'],
 	'archive_url': 'https://www.sec.gov/files/dera/data/financial-statement-and-notes-data-sets',
-	'filetypezip':['num.tsv','pre.tsv','tag.tsv','sub.tsv','dim.tsv','cal.tsv','ren.tsv'],
-	'url_extender':'_notes'} //ignoring txt.tsv
+	'filetypezip':['num.tsv','pre.tsv','tag.tsv','sub.tsv','dim.tsv','cal.tsv','ren.tsv'], //ignoring txt.tsv
+	'url_extender':'_notes'} 
 
 /* -----MAIN DATASET CALL EXECUTION TO ITERATE THROUGH FOLDER AND OPTIONS----- */
 
 fetch_edgar_files(options_dataset_add,(results)=>{console.log(results)})
 
-/* -----CYCLE THROUGH SEC DATA FILES AND STORE/UNPACK THE ZIP / GZ FILE ----- */
+/* -----CYCLE THROUGH SEC DATA FILES AND STORE/UNPACK THE ZIP FILE ----- */
 async function fetch_edgar_files(options, callback){
 	try{
 		// Check Options for consistency.
