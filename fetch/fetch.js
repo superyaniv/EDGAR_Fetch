@@ -50,7 +50,7 @@ async function fetch_edgar_files(options, callback){
 				}
 			})
 		)
-		callback(['-'.repeat(process.stdout.columns),`\n${'-'.repeat(process.stdout.columns)}\n\nGetting Filings: EDGAR Search (Written by Yaniv Alfasy)\nStart Year: ${options.startyear}\nEnd Year: ${options.endyear}\n\n${'-'.repeat(process.stdout.columns)}\n\n`])
+		callback(`${'-'.repeat(process.stdout.columns)}`);callback(`Getting Filings: EDGAR Search (Written by Yaniv Alfasy)`);callback(`Start Year: ${options.startyear}`,`End Year: ${options.endyear}`);callback(`${'-'.repeat(process.stdout.columns)}`)	
 		/* ----- ITERATE THROUGH YEARS AND QTR REQUEST AND RETREIVE FILES ----- */
 		for(i=0;i<urlstofetch.length;i++){
 			const url = urlstofetch[i]
@@ -63,12 +63,12 @@ async function fetch_edgar_files(options, callback){
 			results.fetch = await fetch_file({'url':url,'localfile':localfile,'filetypezip':options.filetypezip},results=>console.log(results))
 			// Callback Results.
 			callback({
-				STATUS: ['PROCESSING', i, 'of', urlstofetch.length],
-				PERCENT_COMPLETE: `${String('').padEnd(Math.round((i/urlstofetch.length*100)/100*(process.stdout.columns-20)),'░')} ${i/urlstofetch.length*100}%`,
+				STATUS: ['PROCESSING', i+1, 'of', urlstofetch.length],
+				PERCENT_COMPLETE: `${String('').padEnd(Math.round(((i+1)/urlstofetch.length)*(process.stdout.columns*.75)),'░')} ${Math.round(((i+1)/urlstofetch.length)*100)}%`,
 				MEMORY_HEAP: [Math.round(process.memoryUsage().heapTotal/1024/1024),'MB'],
 				FETCH: results.fetch
 			})
-			await Delay(500) // Wait in case pinging SEC servers more than 10x in 1 sec. Shouldn't be an issue with a syncronouse fetch.
+			await Delay(50) // Wait in case pinging SEC servers more than 10x in 1 sec. Shouldn't be an issue with a syncronouse fetch.
 		}
 	}catch(err){
 		throw err // Log (or throw) any errors
@@ -80,33 +80,36 @@ function fetch_file(options, callback) {
 	// Ensure new Promise is returned.
 	return new Promise(async function(resolve,reject){
 		try{
-			// File already exists.
-			if (fs.existsSync(options.localfile)) {
-				callback(`Skipping: File Exists: ${options.localfile}`)
-				return resolve('File Already Exists')
-			}else{
-				// Create root directory.
-				if (!fs.existsSync(path.dirname(options.localfile))){fs.mkdirSync(path.dirname(options.localfile))}
-				// Request file form SEC Website.
-				http.get(options.url, function(response) {
+			// Check if file already exists.
+			const checkfile = `${path.dirname(options.localfile)}/${options.filetypezip[0].split('.')[0]}/${path.basename(options.localfile)}_${options.filetypezip[0]}`
+			if(fs.existsSync(checkfile)){return resolve(`Skipping: File Exists: ${checkfile} | ${Math.round(fs.statSync(checkfile).size/1024/1024)} MB`)}				
+			// Create Root Directory.
+			if (!fs.existsSync(path.dirname(options.localfile))){fs.mkdirSync(path.dirname(options.localfile))}
+			// Request File from SEC Website.
+			http
+				.get(options.url, function(response) {
 					tmpfile = path.dirname(options.localfile)+'/tmp'+path.basename(options.localfile)+options.url.substr(options.url.lastIndexOf('.'))
 					response.pipe(fs.createWriteStream(tmpfile))
 					.on('finish',()=>{ 
-						// Use unzip to read and pipe files from the zip container.
 						fs.createReadStream(tmpfile)
-						.pipe(unzipper.Parse())
+						.pipe(unzipper.Parse()) // Use unzip to read and pipe files from the zip container.
+						.on('error',function(error){ 
+							// console.log(error) - means no data within zip.
+							fs.unlinkSync(tmpfile)
+							return resolve(`Error No File to Unzip ${tmpfile}`)
+						})
 						.on('entry', function (entry) {
 							if(options.filetypezip.includes(entry.path)){
 								const localfile_unzipped = `${path.dirname(options.localfile)}/${entry.path.split('.')[0]}/${path.basename(options.localfile)}_${entry.path}`
 								if (!fs.existsSync(path.dirname(localfile_unzipped))){fs.mkdirSync(path.dirname(localfile_unzipped))}
-								entry.pipe(fs.createWriteStream(localfile_unzipped)) // Pipe Files
+									entry.pipe(fs.createWriteStream(localfile_unzipped)) // Pipe Files
 							} else {
 								entry.autodrain()
 							}
 						})
 						.on('finish',function(){
-							fs.unlinkSync(tmpfile) // Remove Temp File
-							// Callback results.
+							// Delete temp file and callback results.
+							fs.unlinkSync(tmpfile) 
 							options.filetypezip.forEach(filename=>{
 								localfile_unzipped = `${path.dirname(options.localfile)}/${filename.split('.')[0]}/${path.basename(options.localfile)}_${filename}`
 								if(fs.existsSync(localfile_unzipped)){
@@ -115,14 +118,12 @@ function fetch_file(options, callback) {
 									callback({Status:`Error Creating File`})
 								}
 							})
-							// Return Promise.
-							return resolve('STATUS OK')
+							return resolve('STATUS OK') // Return Promise.
 						})
-					})	
-				})
-			}
+					})
+			})
 		}catch(err){
-			throw err // Throw Error
+			console.log(`ERROR: ${error}`) // Throw Error
 		}
 	})
 }
