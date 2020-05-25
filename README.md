@@ -64,3 +64,18 @@ Todo:
 - [ ] Store XBRL Data
 - [ ] Query XBRL
 - [ ] Serve XBRL Data
+
+
+Tree:
+.
++-- _fetch
+|	+-- fetch.js
++-- _store
+|	+-- store.js
+|	+-- merge.js
++-- _serve
+|	+-- json_server_autocomplete.js
+|	+-- json_server_companies.js
+|	+-- json_server_headers.js
+|	+-- json_server_datasets.js
++-- _EDGAR_Server.js

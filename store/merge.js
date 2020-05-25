@@ -12,10 +12,9 @@ const _ = require('lodash')
 /* ----- OPTION SETS FOR CURRENT SEC EDGAR DATA ----- */
 // (Example Usage): Datasets_add
 
-main(
-	{'destination_dir':`/Volumes/MacStore/EDGAR_Storage/datasets_add/json/numpre`,
-	'first_obj_dir':`/Volumes/MacStore/EDGAR_Storage/datasets_add/json/pre`,
-	'second_obj_dir':`/Volumes/MacStore/EDGAR_Storage/datasets_add/json/num`},
+main({'first_obj_dir':`/Volumes/MacStore/EDGAR_Storage/datasets_add/json/pre`,
+	'second_obj_dir':`/Volumes/MacStore/EDGAR_Storage/datasets_add/json/num`,
+	'destination_dir':`/Volumes/MacStore/EDGAR_Storage/datasets_add/json/numpre`},
 	(results)=>{
 		console.log(results)
 })
@@ -36,10 +35,11 @@ function main(options,callback){
 				fs.writeFileSync(`${options.destination_dir}/${files[i]}`,JSON.stringify(merge_obj,null,2))
 			}
 			callback({
-				'Progress':`${i} of ${files.length}`,
-				'File':files[i],
-				'Object_Length':merge_obj.length,
-				'Memory_Heap':[Math.round(process.memoryUsage().heapTotal/1024/1024),'MB']
+				PROGRESS:[i,`of`,files.length],
+				FILE:files[i],
+				OBJECT_LENGTH:merge_obj.length,
+				PERCENT_COMPLETE: `${String('').padEnd(Math.round(((i+1)/files.length)*(process.stdout.columns*.75)),'░')} ${Math.round(((i+1)/files.length)*100)}%`,
+				MEMORY_HEAP:[Math.round(process.memoryUsage().heapTotal/1024/1024),'MB']
 				})
 		}
 		return callback('Done with Files')
