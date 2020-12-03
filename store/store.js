@@ -14,6 +14,7 @@ const _ = require('lodash')
 const raw_data = `/Volumes/MacStore/EDGAR_Storage/datasets_add/raw` // location of fetch tsv files
 const json_data = `/Volumes/MacStore/EDGAR_Storage/datasets_add/json` // location to store json files
 
+
 /* ----- CREATE ADSH LOOKUP (AND SUB MAPPING) - CIK TO SUB INFO AND ADSH /CIK MAPPING ----- */ // Example: console.log(adsh_lookup['0000038074-09-000029'][0].cik)
 const adsh_lookup = sub_info_map( 
 	{'sub_rawfiledir':`${raw_data}/sub`,
