@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/superyaniv/EDGAR_fetch#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "csv": "^5.3.2",
     "event-stream": "^4.0.1",
     "express": "^4.17.1",
